@@ -1,0 +1,404 @@
+/* Page setup */
+@page {
+    size: A4;
+    margin: 25mm 25mm;
+    /* Top/Bottom 25mm, Left/Right 20mm (reduced) */
+
+    @bottom-center {
+        content: counter(page);
+        font-family: "Times New Roman", serif;
+        font-size: 14pt;
+    }
+}
+
+/* Cover page setup */
+@page cover {
+    margin: 0;
+    /* Background image is handled by the HTML img tag now for flexibility */
+    /* background-image: url("Gemini_Generated_Image_u03a35u03a35u03a.png"); */
+    /* background-size: cover; */
+    /* background-repeat: no-repeat; */
+    /* background-position: center; */
+
+    /* No page number on cover */
+    @bottom-center {
+        content: none;
+    }
+}
+
+/* The element that triggers the cover page */
+div.cover {
+    page: cover;
+    page-break-after: always;
+    /* Ensure it has some size to trigger the page, though content usually does it */
+    width: 100%;
+    height: 100%;
+}
+
+/* Typography */
+body {
+    font-family: "Times New Roman", serif;
+    font-size: 15pt;
+    /* Increased by ~30% from 12pt */
+    line-height: 1.25;
+    /* Adjusted line height */
+    text-align: justify;
+    hyphens: auto;
+    widows: 2;
+    orphans: 2;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: 22pt;
+    margin-top: 2em;
+    margin-bottom: 1.5em;
+    page-break-before: always;
+    page-break-after: avoid;
+    break-after: avoid;
+    text-align: center;
+    /* Center chapter titles */
+}
+
+h2 {
+    font-size: 18pt;
+    /* Reduced (approx 40% smaller than h1 or significantly smaller than before) */
+    margin-top: 1.5em;
+    margin-bottom: 0.8em;
+    page-break-after: avoid;
+    break-after: avoid;
+}
+
+h3 {
+    font-size: 16pt;
+    /* Reduced */
+    margin-top: 1.2em;
+    margin-bottom: 0.5em;
+    font-weight: bold;
+}
+
+/* Paragraph Formatting: Indentation + Spacing */
+p {
+    margin-top: 0.4em;
+    /* "Mezza interlinea" spacing */
+    margin-bottom: 0;
+    text-indent: 1.5em;
+    /* Indent first line */
+}
+
+/* First paragraph after a heading should not be indented, but keep spacing? 
+   Usually first paragraph has no indent. Let's keep spacing consistent. */
+h1+p,
+h2+p,
+h3+p {
+    text-indent: 0;
+    margin-top: 0.7em;
+}
+
+/* Table of Contents */
+nav#TOC {
+    page-break-after: always;
+    page-break-before: always;
+}
+
+nav#TOC h1 {
+    margin-top: 0;
+    margin-bottom: 1em;
+    text-align: center;
+    font-size: 24pt;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+nav#TOC ul {
+    list-style-type: none;
+    padding-left: 0;
+    margin: 0;
+}
+
+nav#TOC ul ul {
+    padding-left: 1.5em;
+    /* Indent subsections */
+    margin-top: 0.2em;
+    margin-bottom: 0.2em;
+}
+
+nav#TOC li {
+    margin-bottom: 0.5em;
+}
+
+nav#TOC a {
+    text-decoration: none;
+    color: #000;
+    display: block;
+    border-bottom: 1px dotted #ccc;
+    /* Simple leader-like effect */
+    padding-bottom: 2px;
+}
+
+nav#TOC a::after {
+    content: target-counter(attr(href), page);
+    float: right;
+    font-weight: bold;
+}
+
+/* Hide page numbers for top level chapters if desired, or keep them. 
+   Let's keep them for now. */
+
+
+/* --- GAMIFICATION STYLES --- */
+
+/* Scan Result (HUD / Terminal Style) */
+.scan-result {
+    background-color: #1a1a1a;
+    /* Dark background */
+    color: #00ff41;
+    /* Matrix Green text */
+    border: 2px solid #00ff41;
+    border-radius: 5px;
+    padding: 15px;
+    margin: 25px 0;
+    font-family: "Courier New", monospace;
+    font-size: 12pt;
+    page-break-inside: avoid;
+    box-shadow: 5px 5px 0px rgba(0, 0, 0, 0.2);
+    position: relative;
+}
+
+/* Title of the Scan Result */
+.scan-result h4 {
+    margin-top: 0;
+    border-bottom: 1px dashed #00ff41;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+    font-size: 14pt;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #fff;
+    font-weight: bold;
+}
+
+/* List styling inside Scan Result */
+.scan-result ul {
+    list-style-type: none;
+    /* Remove default bullets */
+    padding-left: 0;
+    margin: 0;
+}
+
+.scan-result li {
+    margin-bottom: 8px;
+    padding-left: 15px;
+    position: relative;
+}
+
+.scan-result li::before {
+    content: ">";
+    /* Terminal prompt style bullet */
+    position: absolute;
+    left: 0;
+    color: #00ff41;
+}
+
+.scan-result strong {
+    color: #fff;
+    /* White labels for contrast */
+}
+
+/* Target Profile (RPG Card Style - Improved) */
+.target-profile {
+    border: 3px solid #333;
+    border-radius: 15px;
+    padding: 20px;
+    margin: 25px 0;
+    background-color: #f9f9f9;
+    background-image: linear-gradient(135deg, #ffffff 25%, #f0f0f0 25%, #f0f0f0 50%, #ffffff 50%, #ffffff 75%, #f0f0f0 75%, #f0f0f0 100%);
+    background-size: 20px 20px;
+    page-break-inside: avoid;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.1);
+}
+
+.target-profile h3 {
+    margin-top: 0;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: #333;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    font-size: 14pt;
+}
+
+.target-profile ul {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 15px;
+}
+
+.target-profile li {
+    margin-bottom: 8px;
+    font-family: "Verdana", sans-serif;
+    font-size: 12pt;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 2px;
+}
+
+.target-profile strong {
+    color: #c0392b;
+    /* RPG Red for stats */
+}
+
+/* Reality Check (Memo / Recap Style) */
+.reality-check {
+    background-color: #fff3cd;
+    /* Light yellow for "note" feel */
+    border: 2px solid #ffeeba;
+    border-left: 5px solid #ffc107;
+    /* Warning/Note Yellow */
+    border-radius: 5px;
+    padding: 15px;
+    margin: 25px 0;
+    font-family: "Verdana", sans-serif;
+    font-size: 12pt;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.05);
+    page-break-inside: avoid;
+    break-inside: avoid;
+}
+
+.reality-check::before {
+    content: "💡";
+    /* Lightbulb icon only */
+    font-size: 20pt;
+    float: left;
+    margin-right: 10px;
+    line-height: 1;
+}
+
+.reality-check h4 {
+    margin-top: 0;
+    color: #856404;
+    font-size: 14pt;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #ffeeba;
+    padding-bottom: 5px;
+    font-weight: bold;
+}
+
+.reality-check ul {
+    margin: 0;
+    padding-left: 40px;
+    /* Space for the icon */
+    list-style-type: disc;
+}
+
+.reality-check li {
+    margin-bottom: 5px;
+    color: #333;
+}
+
+/* Checkpoint (Visual Divider) */
+.checkpoint {
+    text-align: center;
+    margin: 40px 0;
+    color: #555;
+    font-family: monospace;
+    font-weight: bold;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    padding: 5px 0;
+}
+
+.checkpoint::after {
+    content: "💾 SAVING GAME DATA...";
+    letter-spacing: 3px;
+    font-size: 10pt;
+}
+
+/* Memo Box (Glossary Style) */
+.memo-box {
+    background-color: #e8f4f8;
+    /* Light blue */
+    border: 2px solid #d1eaf0;
+    border-left: 5px solid #17a2b8;
+    /* Info Blue */
+    border-radius: 5px;
+    padding: 15px;
+    margin: 25px 0;
+    font-family: "Verdana", sans-serif;
+    font-size: 11pt;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.05);
+    page-break-inside: avoid;
+}
+
+.memo-box::before {
+    content: "📘";
+    /* Blue book icon */
+    font-size: 20pt;
+    float: left;
+    margin-right: 10px;
+    line-height: 1;
+}
+
+.memo-box h4 {
+    margin-top: 0;
+    color: #0c5460;
+    font-size: 14pt;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #d1eaf0;
+    padding-bottom: 5px;
+    font-weight: bold;
+}
+
+.memo-box ul {
+    margin: 0;
+    padding-left: 40px;
+    list-style-type: none;
+}
+
+.memo-box li {
+    margin-bottom: 8px;
+    color: #333;
+}
+
+.memo-box strong {
+    color: #17a2b8;
+}
+
+/* Archivist Notes Style */
+.archivista-notes {
+    background-color: #f4f4f4;
+    border-left: 5px solid #2c3e50;
+    padding: 15px;
+    margin: 30px 0;
+    font-style: italic;
+    font-family: "Verdana", sans-serif;
+    font-size: 12pt;
+    page-break-inside: avoid;
+}
+
+.archivista-notes p {
+    text-indent: 0;
+    margin-top: 0;
+}
+
+.archivista-notes strong {
+    color: #2c3e50;
+    text-transform: uppercase;
+    display: block;
+    margin-bottom: 10px;
+}
+
+/* Dialogue Styles */
+p.dialogue,
+.dialogue {
+    text-indent: 0;
+    padding-left: 1.5em;
+    /* Space for the dash/quote */
+    margin-top: 0.2em;
+    margin-bottom: 0.2em;
+}

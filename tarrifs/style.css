@@ -1,0 +1,101 @@
+/* Page setup */
+@page {
+    size: A4;
+    margin: 25mm 20mm;
+    /* Top/Bottom 25mm, Left/Right 20mm (reduced) */
+
+    @bottom-center {
+        content: counter(page);
+        font-family: "Times New Roman", serif;
+        font-size: 14pt;
+    }
+}
+
+/* Cover page setup */
+@page cover {
+    margin: 0;
+    background-image: url("fortress_america_cover.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    /* No page number on cover */
+    @bottom-center {
+        content: none;
+    }
+}
+
+/* The element that triggers the cover page */
+div.cover {
+    page: cover;
+    width: 100%;
+    height: 100%;
+    page-break-after: always;
+}
+
+/* Typography */
+body {
+    font-family: "Times New Roman", serif;
+    font-size: 16pt;
+    /* Increased by ~30% from 12pt */
+    line-height: 1.4;
+    /* Adjusted line height */
+    text-align: justify;
+    hyphens: auto;
+    widows: 2;
+    orphans: 2;
+}
+
+h1 {
+    font-size: 22pt;
+    margin-top: 2em;
+    margin-bottom: 1.5em;
+    page-break-before: always;
+    text-align: center;
+    /* Center chapter titles */
+}
+
+h2 {
+    font-size: 18pt;
+    /* Reduced (approx 40% smaller than h1 or significantly smaller than before) */
+    margin-top: 1.5em;
+    margin-bottom: 0.8em;
+}
+
+h3 {
+    font-size: 16pt;
+    /* Reduced */
+    margin-top: 1.2em;
+    margin-bottom: 0.5em;
+    font-weight: bold;
+}
+
+/* Paragraph Formatting: Indentation + Spacing */
+p {
+    margin-top: 0.4em;
+    /* "Mezza interlinea" spacing */
+    margin-bottom: 0;
+    text-indent: 1.2em;
+    /* Indent first line */
+}
+
+/* First paragraph after a heading should not be indented, but keep spacing? 
+   Usually first paragraph has no indent. Let's keep spacing consistent. */
+h1+p,
+h2+p,
+h3+p {
+    text-indent: 0;
+    margin-top: 0.7em;
+}
+
+/* Table of Contents */
+nav#TOC {
+    page-break-after: always;
+    page-break-before: always;
+    /* Ensure TOC starts on new page after cover */
+}
+
+nav#TOC h1 {
+    margin-top: 0;
+    text-align: center;
+}

@@ -1,0 +1,127 @@
+/* Typography - Modern & Clean */
+body {
+    font-family: sans-serif;
+    line-height: 1.5;
+    color: #333;
+    margin: 0;
+    padding: 5px;
+}
+
+h1 {
+    font-family: sans-serif;
+    font-weight: 900;
+    font-size: 2em;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+    text-align: center;
+    color: #2c3e50;
+    text-transform: uppercase;
+    border-bottom: 3px solid #2c3e50;
+    padding-bottom: 10px;
+}
+
+h2 {
+    font-family: sans-serif;
+    font-weight: 800;
+    font-size: 1.5em;
+    margin-top: 1.2em;
+    margin-bottom: 0.5em;
+    color: #e67e22;
+    /* Orange */
+    text-transform: uppercase;
+}
+
+h3 {
+    font-size: 1.2em;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+    font-weight: bold;
+    color: #2980b9;
+    /* Blue */
+}
+
+p {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    text-indent: 0;
+}
+
+/* --- GAMIFICATION CLASSES --- */
+
+/* 1. BRAIN HACK (Science - Blue/Cyan) */
+.brain-hack {
+    background-color: #e8f6f3;
+    border: 2px solid #1abc9c;
+    border-radius: 8px;
+    padding: 10px;
+    margin: 15px 0;
+}
+
+.brain-hack h3 {
+    margin-top: 0;
+    color: #16a085;
+    border-bottom: 2px dashed #1abc9c;
+    padding-bottom: 5px;
+    font-family: monospace;
+}
+
+/* 2. MISSION START (Quest - Gold/Yellow) */
+.mission-start {
+    background-color: #fcf3cf;
+    border: 2px solid #f1c40f;
+    border-radius: 8px;
+    padding: 10px;
+    margin: 15px 0;
+}
+
+.mission-start h3 {
+    margin-top: 0;
+    color: #d35400;
+    border-bottom: 2px solid #f1c40f;
+    padding-bottom: 5px;
+    text-transform: uppercase;
+}
+
+/* 3. BOSS ALERT (Danger - Red/Dark) */
+.boss-alert {
+    background-color: #fadbd8;
+    border: 2px solid #e74c3c;
+    border-radius: 8px;
+    padding: 10px;
+    margin: 15px 0;
+}
+
+.boss-alert h3 {
+    margin-top: 0;
+    color: #c0392b;
+    border-bottom: 2px solid #e74c3c;
+    padding-bottom: 5px;
+}
+
+/* 4. SAVE POINT (Success - Green) */
+.save-point {
+    background-color: #d5f5e3;
+    border: 2px solid #2ecc71;
+    border-radius: 8px;
+    padding: 10px;
+    margin: 15px 0;
+    text-align: center;
+}
+
+.save-point h3 {
+    margin-top: 0;
+    color: #27ae60;
+    border-bottom: none;
+    font-family: monospace;
+}
+
+/* Table of Contents */
+nav#TOC h1 {
+    color: #2c3e50;
+    border-bottom: none;
+}
+
+nav#TOC a {
+    text-decoration: none;
+    color: #333;
+}

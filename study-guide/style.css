@@ -1,0 +1,193 @@
+/* Page setup */
+/* Hide default Pandoc title block */
+#title-block-header {
+    display: none;
+}
+
+@page {
+    size: A4;
+    margin: 25mm 25mm;
+
+    @bottom-center {
+        content: counter(page);
+        font-family: "Helvetica", "Arial", sans-serif;
+        font-size: 12pt;
+        color: #555;
+    }
+}
+
+@page cover {
+    margin: 0;
+
+    @bottom-center {
+        content: none;
+    }
+}
+
+.cover-image {
+    page: cover;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+/* Typography - Modern & Clean */
+body {
+    font-family: "Helvetica", "Arial", sans-serif;
+    /* Modern look */
+    font-size: 12pt;
+    line-height: 1.5;
+    color: #333;
+    text-align: justify;
+    hyphens: auto;
+    widows: 2;
+    orphans: 2;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-family: "Impact", "Arial Black", sans-serif;
+    /* Bold, "Game Title" feel */
+    font-size: 24pt;
+    margin-top: 2em;
+    margin-bottom: 1em;
+    page-break-before: always;
+    text-align: center;
+    color: #2c3e50;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    border-bottom: 3px solid #2c3e50;
+    padding-bottom: 10px;
+}
+
+h2 {
+    font-family: "Arial Black", "Helvetica", sans-serif;
+    font-size: 15pt;
+    margin-top: 1.5em;
+    margin-bottom: 0.8em;
+    color: #e67e22;
+    /* Orange for sub-levels */
+    text-transform: uppercase;
+}
+
+h3 {
+    font-size: 14pt;
+    margin-top: 1.2em;
+    margin-bottom: 0.5em;
+    font-weight: bold;
+    color: #2980b9;
+    /* Blue for sections */
+}
+
+p {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    text-indent: 0;
+    /* No indent for modern look */
+}
+
+/* --- GAMIFICATION CLASSES --- */
+
+/* 1. BRAIN HACK (Science - Blue/Cyan) */
+.brain-hack {
+    background-color: #e8f6f3;
+    border: 2px solid #1abc9c;
+    border-radius: 8px;
+    padding: 15px;
+    margin: 25px 0;
+    page-break-inside: avoid;
+    box-shadow: 4px 4px 0px #1abc9c;
+    /* Retro shadow */
+}
+
+.brain-hack h3 {
+    margin-top: 0;
+    color: #16a085;
+    border-bottom: 2px dashed #1abc9c;
+    padding-bottom: 5px;
+    font-family: "Courier New", monospace;
+}
+
+/* 2. MISSION START (Quest - Gold/Yellow) */
+.mission-start {
+    background-color: #fcf3cf;
+    border: 2px solid #f1c40f;
+    border-radius: 8px;
+    padding: 15px;
+    margin: 25px 0;
+    page-break-inside: avoid;
+    box-shadow: 4px 4px 0px #f1c40f;
+}
+
+.mission-start h3 {
+    margin-top: 0;
+    color: #d35400;
+    border-bottom: 2px solid #f1c40f;
+    padding-bottom: 5px;
+    text-transform: uppercase;
+}
+
+.mission-start ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+/* 3. BOSS ALERT (Danger - Red/Dark) */
+.boss-alert {
+    background-color: #fadbd8;
+    border: 2px solid #e74c3c;
+    border-radius: 8px;
+    padding: 15px;
+    margin: 25px 0;
+    page-break-inside: avoid;
+    box-shadow: 4px 4px 0px #c0392b;
+}
+
+.boss-alert h3 {
+    margin-top: 0;
+    color: #c0392b;
+    border-bottom: 2px solid #e74c3c;
+    padding-bottom: 5px;
+    font-family: "Impact", sans-serif;
+    letter-spacing: 1px;
+}
+
+/* 4. SAVE POINT (Success - Green) */
+.save-point {
+    background-color: #d5f5e3;
+    border: 2px solid #2ecc71;
+    border-radius: 8px;
+    padding: 15px;
+    margin: 25px 0;
+    page-break-inside: avoid;
+    box-shadow: 4px 4px 0px #27ae60;
+    text-align: center;
+}
+
+.save-point h3 {
+    margin-top: 0;
+    color: #27ae60;
+    border-bottom: none;
+    font-family: "Courier New", monospace;
+}
+
+.save-point::before {
+    content: "💾";
+    font-size: 30pt;
+    display: block;
+    margin-bottom: 10px;
+}
+
+/* Table of Contents */
+nav#TOC h1 {
+    color: #2c3e50;
+    border-bottom: none;
+}
+
+nav#TOC a {
+    text-decoration: none;
+    color: #333;
+    border-bottom: 1px dotted #999;
+}
