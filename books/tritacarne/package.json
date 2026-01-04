@@ -1,0 +1,15 @@
+{
+    "name": "@books/tritacarne",
+    "version": "1.0.0",
+    "book": {
+        "pdf": "TRITACARNE.pdf",
+        "epub": "TRITACARNE.epub"
+    },
+    "scripts": {
+        "build": "python3 scripts/export_book.py",
+        "release": "npm run build && book-release"
+    },
+    "devDependencies": {
+        "@books/book-tools": "*"
+    }
+}
