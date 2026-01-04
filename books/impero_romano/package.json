@@ -1,0 +1,15 @@
+{
+    "name": "@books/impero-romano",
+    "version": "1.0.0",
+    "book": {
+        "pdf": "Ultimo_Orizzonte.pdf",
+        "epub": "Ultimo_Orizzonte.epub"
+    },
+    "scripts": {
+        "build": "python3 scripts/export_book.py",
+        "release": "npm run build && book-release"
+    },
+    "devDependencies": {
+        "@books/book-tools": "*"
+    }
+}

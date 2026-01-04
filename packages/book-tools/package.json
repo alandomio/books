@@ -1,0 +1,15 @@
+{
+    "name": "@books/book-tools",
+    "version": "0.1.0",
+    "description": "Shared tools for building and publishing books",
+    "bin": {
+        "book-release": "./bin/release.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "chalk": "^5.0.0"
+    },
+    "type": "module"
+}

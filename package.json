@@ -1,0 +1,1 @@
+{"name": "books-monorepo", "private": true, "workspaces": ["books/*", "packages/*"], "scripts": {"changeset": "changeset", "version": "changeset version"}, "devDependencies": {"@changesets/cli": "^2.27.1"}}
