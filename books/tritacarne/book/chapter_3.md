@@ -38,37 +38,29 @@ Tuttavia, nella *Realpolitik*, ogni investimento ha un punto di uscita. A fine 2
 
 Washington guarda i numeri e capisce: è ora di chiudere la posizione. Non perché "è giusto", ma perché non conviene più. Il cliente ucraino è esausto, l'europeo al verde. È il momento della liquidazione. O come la chiamano i diplomatici: il Piano di Pace.
 
-## Closing the Deal
+## Closing the Deal (L'Ultimatum di Kellogg)
 
 Se la guerra è un investimento, la pace è la liquidazione. Nel *private equity* geopolitico, non c'è peccato più grande che innamorarsi di un asset in perdita. Bisogna vendere, incassare e passare oltre.
 
-Novembre 2025. Mentre a Bruxelles si parla ancora di "vittoria totale", a Washington la musica è cambiata. Il team di transizione, guidato dall'ombra di Trump, ha aperto i libri contabili: l'Ucraina è un *distressed asset*. Rendimento crollato, costi insostenibili. È il momento del *closing*.
+Gennaio 2026. La nebbia di guerra si è diradata, rivelando non una vittoria, ma un *Term Sheet*. A Washington, il team di transizione ha chiuso i libri contabili: l'Ucraina è un *distressed asset*. Rendimento crollato, costi insostenibili. È il momento del *closing*.
 
-Non servono diplomatici. Servono squali immobiliari. L'uomo chiave è Steve Witkoff. Tycoon del real estate, compagno di golf del Presidente. Per Witkoff, il Donbas non è terra sacra; è un lotto conteso con un inquilino moroso (Zelensky) e un vicino aggressivo (Putin) che vanta un'ipoteca.
+La figura chiave non è più un diplomatico felpato, ma il Generale Keith Kellogg, l'inviato speciale che non parla di valori, ma di leve. Il piano che porta nella sua valigetta blindata a Kiev non è una proposta. È una pistola carica posata sul tavolo.
 
-Il piano nella sua valigetta non è un trattato wilsoniano. È un *term sheet* di liquidazione. Ventotto punti, elaborati dall'America First Policy Institute.
+"L'America Prima, Russia e Ucraina". Il titolo del documento è un'epitaffio per l'internazionalismo liberale. Il meccanismo centrale è di una brutalità squisita: *Aiuti Condizionati*.
+Il messaggio consegnato a Zelensky, convocato a Mar-a-Lago come un CEO di una sussidiaria in bancarotta, è semplice: "Siediti al tavolo e negozia. Se rifiuti, le armi si fermano domani mattina. Se Putin rifiuta, ti armeremo fino a scatenare l'inferno."
 
-Il cuore è un ultimatum a doppia canna. A Kiev: "Negoziate o le armi finiscono". A Mosca: "Negoziate o armeremo l'Ucraina fino ai denti".
+È la diplomazia della mafia applicata alla geopolitica. Un'offerta che non si può rifiutare.
 
-Il diavolo è nei dettagli. Congelamento sulle linee attuali. Niente riconquista della Crimea o Mariupol. "Perdite operative" da cancellare. Una Zona Demilitarizzata (DMZ) monitorata da europei. L'America fornisce la garanzia, l'Europa la manodopera.
+A Kiev la chiamano "La Pace del 90%". I media di stato cercano di vendere l'idea che l'accordo sia "pronto", ma la realtà è un panico freddo. Il piano Kellogg prevede il congelamento del conflitto sulle linee attuali. Nessun riconoscimento formale delle annessioni russe, ma nessun tentativo di riprenderle. Un "limbo" giuridico. Il Donbas diventa una Cipro del nord, ma grande come la Svizzera e piena di mine.
 
-E la NATO? Clausola di rinuncia. Adesione rinviata a tempo indeterminato. Abbastanza per dare a Putin la vittoria politica interna.
+In cambio, l'Ucraina ottiene la sopravvivenza, ma perde l'anima della sua resistenza. La NATO? Un miraggio rinviato di dieci anni, forse venti. Sostituita da "garanzie di sicurezza bilaterali" che, tradotte, significano: vi daremo armi per difendervi, ma non moriremo per voi.
 
-La scena madre non è in un palazzo reale, ma in una suite a Miami. Da una parte Witkoff. Dall'altra Kirill Dmitriev.
+Mentre a Kiev si digerisce il veleno, a Mosca si gioca al rialzo. Il massimalismo russo è tattico. Putin sa che il tempo lavora per lui. Chiede il riconoscimento costituzionale delle quattro regioni, anche le parti che non controlla. Ma Kellogg e il suo team, inclusi gli squali immobiliari come Steve Witkoff che lavorano nell'ombra sui canali back-channel, sanno che anche Mosca ha bisogno di uscire dal casinò prima che le fiches finiscano.
 
-Dmitriev, CEO del Fondo Russo per gli Investimenti Diretti (RDIF), è sanzionato ma a Miami le sanzioni sono sospese per "sicurezza nazionale". È il "Trump Whisperer" di Mosca.
+Il "Summit di Washington" fissato per fine Gennaio non sarà una conferenza di pace. Sarà una procedura fallimentare. L'Ucraina cede territorio in cambio di esistenza. La Russia cede l'ambizione imperiale totale in cambio di province devastate. L'Europa paga il conto della ricostruzione. E l'America? L'America chiude la posizione, pulisce il bilancio e si gira verso il Pacifico.
 
-Non parlano di crimini di guerra. Parlano di *deal*. Di sbloccare capitali russi per la ricostruzione (gestita da aziende USA). Di joint venture nell'Artico.
-
-Per loro, l'Ucraina è un problema di *cash flow*. Zelensky un CEO fallimentare da rimuovere. L'Europa l'azionista di minoranza che pagherà il conto.
-
-A Varsavia e Tallinn, panico. Si parla di "nuova Yalta". A Bruxelles, si cerca di inserire clausole per un esercito ucraino di 800.000 uomini.
-
-Ma a Washington il calcolo è fatto. L'America ha ottenuto ciò che voleva: Russia indebolita, Europa dipendente, NATO allargata. L'Ucraina ha svolto la sua funzione di "ariete sacrificale". Ora è un peso morto.
-
-"Voglio un accordo entro il Ringraziamento", tuona Trump. Vuole chiudere il dossier e concentrarsi sulla Cina. La gratitudine che chiede a Zelensky è l'insulto finale. Il cliente deve ringraziare il fornitore per avergli permesso di combattere fino all'esaurimento.
-
-La firma non sancirà la fine della guerra. Sancirà la fine dell'illusione che le democrazie combattano per i valori. Combatterono per gli interessi. E quando gli interessi cambiano, gli alleati diventano *asset* da liquidare.
+"Non stiamo cercando la giustizia", sussurra un insider del Dipartimento di Stato al bar del Willard Hotel. "Stiamo cercando l'uscita."
+La firma che arriverà non sancirà la fine dell'odio. Sancirà la fine dell'illusione. L'Ucraina del 2026 sarà salva, armata, ma sola. Un porcospino di metallo ai confini dell'impero, vivo ma mutilato. Il ROI è stato incassato. La liquidazione è completa.
 
 ## Il Drago e il suo Vassallo
 
