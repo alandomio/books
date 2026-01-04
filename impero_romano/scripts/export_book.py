@@ -37,10 +37,38 @@ def get_chapter_files():
     Looks for chapter_01.md, chapter_02.md, etc.
     """
     files = []
-    for i in range(1, 11):
-        chapter_file = os.path.join(BOOK_DIR, f"chapter_{i:02d}.md")
-        if os.path.exists(chapter_file):
-            files.append(chapter_file)
+    
+    # 0. Prologue
+    if os.path.exists(os.path.join(BOOK_DIR, "prologue.md")):
+        files.append(os.path.join(BOOK_DIR, "prologue.md"))
+        
+    # Part I (Ch 1-3)
+    for i in range(1, 4):
+        f = os.path.join(BOOK_DIR, f"chapter_{i:02d}.md")
+        if os.path.exists(f): files.append(f)
+        
+    # Intermezzo 1
+    if os.path.exists(os.path.join(BOOK_DIR, "intermezzo_01.md")):
+        files.append(os.path.join(BOOK_DIR, "intermezzo_01.md"))
+        
+    # Part II (Ch 4-6)
+    for i in range(4, 7):
+        f = os.path.join(BOOK_DIR, f"chapter_{i:02d}.md")
+        if os.path.exists(f): files.append(f)
+
+    # Intermezzo 2
+    if os.path.exists(os.path.join(BOOK_DIR, "intermezzo_02.md")):
+        files.append(os.path.join(BOOK_DIR, "intermezzo_02.md"))
+        
+    # Part III (Ch 7-10)
+    for i in range(7, 11):
+        f = os.path.join(BOOK_DIR, f"chapter_{i:02d}.md")
+        if os.path.exists(f): files.append(f)
+
+    # Epilogue
+    if os.path.exists(os.path.join(BOOK_DIR, "epilogue.md")):
+        files.append(os.path.join(BOOK_DIR, "epilogue.md"))
+        
     return files
 
 def export_pdf(output_file):
