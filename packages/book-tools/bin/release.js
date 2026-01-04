@@ -68,6 +68,15 @@ async function main() {
     // If we use changesets, we should follow changesets tagging pattern or allow customization.
     // Standard changeset tag: pkg-name@version
 
+    // Check for gh CLI
+    try {
+        execSync('gh --version', { stdio: 'ignore' });
+    } catch (e) {
+        console.error('Error: GitHub CLI (gh) is not installed or not in PATH.');
+        console.error('Please install it: https://cli.github.com/');
+        process.exit(1);
+    }
+
     const releaseTag = `${pkg.name}@${version}`;
 
     console.log(`Creating GitHub release: ${releaseTag}`);
