@@ -2,3 +2,5 @@
 # Generated Book Artifacts
 *.pdf
 *.epub
+
+node_modules

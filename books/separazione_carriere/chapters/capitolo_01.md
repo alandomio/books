@@ -1,4 +1,4 @@
-# Capitolo 1: Il Grande Bivio - Il Dibattito sulla Separazione delle Carriere
+# Il Grande Bivio - Il Dibattito sulla Separazione delle Carriere
 
 **Moderatore:** Buonasera a tutti i nostri ascoltatori. Benvenuti a questa sessione speciale di approfondimento. Io sono Marco Valli, e oggi ci addentreremo in una delle questioni più spinose e discusse della storia recente della nostra Repubblica: la riforma costituzionale sulla separazione delle carriere della magistratura.
 

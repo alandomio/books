@@ -13,6 +13,16 @@ Il progetto è organizzato in workspace gestiti da NPM:
 - **`packages/`**: Strumenti e utility condivisi.
     - **`@books/book-tools`**: Tool CLI per rilasciare i libri su GitHub.
 
+## 🤖 Framework di Scrittura AI
+Abbiamo standardizzato il nostro approccio alla scrittura con agenti nel file:
+👉 **[AI Writing Guru Guide](./ai_writing_guru_guide.md)**
+
+Questa guida copre:
+*   **The Agent Team**: Definizione dei ruoli (Architect, Researcher, Writer).
+*   **The Writer Zoo**: Archetipi di scrittura (Gonzo, Bard, Analyst, ecc.).
+*   **Deep Search**: Protocolli per il fact-checking frattalico.
+*   **Workflow**: Come passare dall'idea alla bozza finale.
+
 ## 🛠 Strumenti e Flussi di Lavoro
 
 ### Prerequisiti
