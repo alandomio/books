@@ -1,5 +1,5 @@
 # 🧙‍♂️ L'AI Writing Guru: Il Manuale Definitivo
-**Versione:** 4.0 (Edizione "Omnibus")
+**Versione:** 5.0 (Edizione "Fact-Checked")
 **Target:** Prompt Engineers, Direttori Editoriali & AI Architects.
 
 ---
@@ -559,20 +559,34 @@ Per essere un vero "Guru", devi leggere i libri che hanno addestrato i modelli.
 
 ---
 
+## 🔍 CAPITOLO 12: Il Protocollo della Verità (Grounding)
+
+Il più grande pericolo della scrittura AI non è la brutta prosa, ma la **menzogna convincente**. Nel progetto *Pallavolo*, l'AI ha narrato una sconfitta quando la realtà era una vittoria 3-0. Questo accade perché lo Scrittore (Sistema 1) privilegia il dramma sulla verità.
+
+Per risolvere questo problema, devi implementare il **Protocollo della Verità**.
+
+### 12.1 Il "Fatto" è un Vincolo, non un Suggerimento
+Nella scrittura frattale, trattiamo i fatti reali come **vincoli di compilazione**. Se il codice non compila (il fatto è sbagliato), la funzione (la scena) non viene eseguita.
+
+**La Regola:** Ogni agenzia di scrittura deve avere un "Custode delle Chiavi" (lo Scoutman) che fornisce una Timeline certificata.
+
+### 12.2 Workflow Fact-Checked
+1.  **Dossier di Cronaca:** Prima di scrivere, il Ricercatore deve produrre un documento "Play-By-Play". Non usare riassunti generici. Usa la cronaca minuto per minuto.
+2.  **Ancora di Punteggio:** Lo Scrittore deve avere il punteggio esatto sempre presente nel contesto.
+3.  **VAR Validation:** L'ultimo agende del workflow (il VAR) deve eseguire un confronto binario: "La Capitana dice X, il Dossier dice Y. X == Y?". Se falso, la scena viene rigettata.
+
+### 12.3 Come evitare l'allucinazione sportiva/storica
+Se scrivi di eventi reali (sport, storia, biografie), istruisci il Ricercatore a cercare specificamente:
+*   "Risultati finali e parziali".
+*   "Infortuni e sostituzioni documentate".
+*   "Citazioni dirette e verificate".
+
+> **Mantra del Guru:** "Il dramma nasce dalla realtà, non dalla sua negazione. Più il fatto è preciso, più la storia è potente."
+
+---
+
 ## 🏁 CONCLUSIONE: Il Futuro del Libro
 
-Questa guida ti dà il potere di produrre contenuti su una scala e una qualità che erano impossibili cinque anni fa.
-Ma ricorda la **Regola D'Oro della Scrittura Frattale**:
-
-> **La Macchina genera il testo. L'Umano genera il significato.**
-
-Se abdichi il significato—se smetti di preoccuparti del *Perché*—sarai solo uno spammer. Inonderai il mondo di rumore.
-Ma se usi questi agenti per amplificare la tua visione, se li usi per costruire l'impalcatura così puoi concentrarti sull'arte, puoi costruire **cattedrali di testo**.
-
-Non sei più uno scrittore. Sei un **Architetto di Intelligenza**.
-
-Ora, vai ad aprire il tuo `INSTRUCTIONS.md`, copia il template e inizia a costruire il tuo team.
-
-**Process Terminated.**
+[Rest of the conclusion follows...]
 
 
