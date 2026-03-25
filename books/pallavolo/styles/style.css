@@ -1,0 +1,184 @@
+/* Page setup */
+/* Hide default Pandoc title block */
+#title-block-header {
+    display: none;
+}
+
+@page {
+    size: A5; /* Standard book size */
+    margin: 20mm 15mm;
+
+    @bottom-center {
+        content: counter(page);
+        font-family: "Helvetica", "Arial", sans-serif;
+        font-size: 10pt;
+        color: #555;
+    }
+}
+
+@page cover {
+    margin: 0;
+    @bottom-center { content: none; }
+}
+
+/* Typography */
+body {
+    font-family: "Georgia", "Times New Roman", serif; /* More narrative feel */
+    font-size: 11pt;
+    line-height: 1.4;
+    color: #222;
+    text-align: justify;
+    hyphens: auto;
+    widows: 2;
+    orphans: 2;
+}
+
+h1 {
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    font-weight: bold;
+    font-size: 24pt;
+    margin-top: 2em;
+    margin-bottom: 1em;
+    page-break-before: always;
+    text-align: center;
+    color: #003399; /* Azzurro Italia */
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border-bottom: 3px solid #003399;
+    padding-bottom: 10px;
+}
+
+h2 {
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    font-size: 14pt;
+    margin-top: 1.5em;
+    margin-bottom: 0.8em;
+    color: #0c045a; /* Orange/Gold contrast */
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+h3 {
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    font-size: 12pt;
+    margin-top: 1.2em;
+    margin-bottom: 0.5em;
+    font-weight: bold;
+    color: #444;
+}
+
+p {
+    margin-top: 0em;
+    margin-bottom: 0.8em;
+    text-indent: 1.5em;
+}
+
+/* Eliminate indent for first paragraph after headers */
+h1 + p, h2 + p, h3 + p {
+    text-indent: 0;
+}
+
+/* --- GAMIFICATION CLASSES (FENCED DIVS) --- */
+
+/* 1. TIME-OUT (Tactical/Technical - Blue) */
+/* Equivalent to brain-hack */
+.time-out {
+    background-color: #eaf2f8;
+    border: 2px solid #2980b9;
+    border-radius: 5px;
+    padding: 15px;
+    margin: 25px 0;
+    page-break-inside: avoid;
+    box-shadow: 3px 3px 0px #2980b9;
+}
+
+.time-out h3 {
+    margin-top: 0;
+    color: #2980b9;
+    border-bottom: 1px solid #2980b9;
+    padding-bottom: 5px;
+    font-family: "Courier New", monospace;
+    text-transform: uppercase;
+}
+
+/* 2. LOCKER-ROOM (Secrets/Gossip - Grey/Secretive) */
+.locker-room {
+    background-color: #f4f6f7;
+    border-left: 5px solid #7f8c8d;
+    padding: 15px;
+    margin: 25px 0;
+    font-style: italic;
+    page-break-inside: avoid;
+}
+
+.locker-room h3 {
+    margin-top: 0;
+    color: #2c3e50;
+    border-bottom: none;
+    font-family: sans-serif;
+}
+
+/* 3. POWER-UP (Mental Lessons - Gold/Yellow) */
+/* Equivalent to mission-start */
+.power-up {
+    background-color: #fef9e7;
+    border: 2px solid #f1c40f;
+    border-radius: 8px;
+    padding: 15px;
+    margin: 25px 0;
+    page-break-inside: avoid;
+    box-shadow: 3px 3px 0px #f1c40f;
+}
+
+.power-up h3 {
+    margin-top: 0;
+    color: #050e5f;
+    border-bottom: 2px solid #f1c40f;
+    padding-bottom: 5px;
+}
+
+/* 4. INSTA-MOMENT (Visual/Social - Purple/Gradient feel) */
+.insta-moment {
+    background-color: #fce4ec; /* Light pinkish */
+    border: 2px solid #e91e63;
+    border-radius: 12px;
+    padding: 15px;
+    margin: 25px 0;
+    page-break-inside: avoid;
+    text-align: center;
+}
+
+.insta-moment h3 {
+    margin-top: 0;
+    color: #c2185b;
+    font-family: sans-serif;
+}
+
+.insta-moment strong {
+    color: #880e4f;
+}
+
+/* 5. QUOTE (Centered/Big) */
+.quote {
+    margin: 30px 40px;
+    font-style: italic;
+    font-size: 1.2em;
+    text-align: center;
+    color: #555;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 20px 0;
+}
+
+/* Table of Contents */
+nav#TOC h1 {
+    color: #222;
+    border-bottom: none;
+    font-size: 18pt;
+}
+
+nav#TOC a {
+    text-decoration: none;
+    color: #222;
+    border-bottom: 1px dotted #999;
+}
