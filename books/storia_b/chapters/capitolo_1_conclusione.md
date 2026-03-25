@@ -28,3 +28,10 @@ Preparati a scegliere da che parte stare.
 
 *Passo e chiudo.*
 **REGISTA**
+
+::: pause-box
+### FERMATI UN ATTIMO
+*   **Una cosa che ti ha sorpreso:** Forse non sapevi che i barbari parlavano latino? O che Roma era già mezza vuota?
+*   **Una cosa che ti ha dato fastidio:** Valerio che parla della "fine delle promesse"? O l'odore della città?
+*   **Una cosa che non hai capito:** Perché nessuno ha provato a fermare Odoacre?
+:::

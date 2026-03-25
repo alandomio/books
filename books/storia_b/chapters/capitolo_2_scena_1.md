@@ -15,8 +15,8 @@ L'odore mi colpisce subito dopo: un misto di sudore, cuoio bagnato, fumo di torc
 
 **Alex:** "M.E.M.O., quanti sono?"
 
-La voce dell'IA mi risponde direttamente nell'orecchio.
-*"Stima approssimativa: tra le centomila e le centocinquantamila persone. Non è un'invasione militare standard, Alex. È una migrazione di massa. Si stanno spostando tutti: famiglie, schiavi, animali."*
+La voce dell'IA mi risponde direttamente nell'orecchio, ma stavolta sembra quasi esitare.
+*"Dati contraddittori, Alex. Le fonti dell'epoca sono confuse. Forse centomila, forse il doppio. Quello che vedi è un intero popolo che si sposta: famiglie, schiavi, animali. Non cercare un numero preciso; guarda l'impatto."*
 
 Mi avvicino con cautela, cercando di confondermi tra le rocce. Indosso una tunica di lana grezza e un mantello pesante, abiti che ho "preso in prestito" dall'archivio olografico per non dare nell'occhio.
 Passano così vicini che potrei toccarli.
@@ -84,12 +84,17 @@ Alboino ha conquistato l'Italia, ma si è portato dietro la sua stessa morte.
 Mentre mi allontano, vedo i Longobardi riprendere la marcia.
 Entrano in Cividale del Friuli (Forum Iulii) senza incontrare resistenza. Le porte sono aperte. La guarnigione bizantina è fuggita o si è arresa.
 Non è una guerra. È un cambio di inquilini.
+
+**Alex:** "In fondo non è così male, no? È solo un cambio di inquilini. Meglio la forza bruta di questi giganti che la burocrazia corrotta di Ravenna."
+
+**M.E.M.O.:** "Stai applicando categorie del XXI secolo a un mondo che non le conosce, Alex. Quella che tu chiami 'forza bruta' significa lo sradicamento di intere comunità romane. Non confondere la stanchezza di un impero con la bontà di chi lo sta mangiando. Correzione consigliata."
+
 I Romani guardano dalle finestre, terrorizzati, mentre questi giganti barbuti prendono possesso delle loro case, delle loro terre, delle loro vite.
 L'Italia è appena stata tagliata in due. E la ferita non guarirà per secoli.
 
 ::: reality-check
 ### REALITY CHECK
-L'arrivo dei Longobardi segna la vera frattura dell'unità italiana. Fino a questo momento, anche sotto Odoacre o Teodorico, l'amministrazione romana era rimasta in piedi. I Longobardi invece smantellano tutto. Cancellano il senato, le leggi romane, l'organizzazione statale. Dividono l'Italia in Ducati (piccoli stati semi-indipendenti) e creano una società basata sulla tribù, non sullo Stato. È l'inizio del vero Medioevo italiano.
+L'arrivo dei Longobardi segna la vera frattura dell'unità italiana. Fino a questo momento l'amministrazione romana era rimasta in piedi; ora, i Ducati prendono il posto delle Province. Secondo te, per un contadino dell'epoca, era più spaventoso un esercito romano che chiedeva tasse o un guerriero longobardo che chiedeva cibo e terra? Chi garantiva davvero la sicurezza?
 :::
 
 ::: memo-box

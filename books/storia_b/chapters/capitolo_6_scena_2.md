@@ -40,7 +40,7 @@ Questa schizofrenia morale è il cuore delle Crociate.
 
 **Alex:** "Come possono pregare dopo quello che hanno fatto?"
 
-*"Per loro non c'è contraddizione, Alex. Hanno ucciso i 'nemici di Dio'. Per la mentalità dell'epoca, non è un peccato. È un atto di pulizia. Hanno 'purificato' la città santa. È orribile per noi, ma per loro era logico."*
+*"Interpretazione non univoca, Alex. I dati mostrano che non sentono il peso del peccato, ma anzi, un senso di sollievo spirituale. Hanno 'purificato' la città santa. È possibile che la nostra idea di 'orrore' semplicemente non esistesse per loro? O forse è un meccanismo di difesa? Il database non ha una risposta certa."*
 
 Goffredo di Buglione viene eletto re.
 Ma rifiuta il titolo di Re.
@@ -62,7 +62,7 @@ Una lezione di civiltà che i crociati non dimenticheranno.
 
 ::: reality-check
 ### REALITY CHECK
-La conquista di Gerusalemme fu un trauma per il mondo islamico, ma non immediato. All'inizio, gli arabi pensarono che fosse solo un'altra scorreria bizantina. Ci misero decenni a capire che i "Franchi" erano venuti per restare. E ci misero ancora più tempo a unirsi per cacciarli via (Jihad).
+La conquista di Gerusalemme fu un trauma per il mondo islamico, ma all'inizio molti pensarono che fosse solo una scorreria passeggera. Ci misero decenni a reagire in modo unito. Secondo te, perché i cristiani non riuscirono a mantenere la pace dopo la conquista? Era possibile una convivenza o la guerra era l'unico esito prevedibile tra due civiltà che si consideravano entrambe le uniche "vere"?
 :::
 
 ::: memo-box

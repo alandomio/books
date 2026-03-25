@@ -26,6 +26,11 @@ def get_files_for_language(language_code):
     
     # Note: Disclaimer is now handled separately in export_pdf to place it before TOC.
     
+    # 0. General Introduction
+    intro_general = os.path.join(BOOK_DIR, f"01_introduzione{suffix}.md")
+    if os.path.exists(intro_general):
+        files.append(intro_general)
+
     # Loop through 12 chapters
     for i in range(1, 13):
         # Introduction

@@ -22,6 +22,13 @@ Ma questa è un'altra storia. È la storia dell'Età Moderna.
 Per ora, riposatevi. Avete fatto un ottimo lavoro. Avete dato voce a chi non c'è più. Avete trasformato la polvere in memoria.
 E ricordate: la storia non è finita. La storia siamo noi, ogni giorno.
 
+E l'alba del Rinascimento? Forse è solo un'altra tappa. Ogni epoca pensa di essere l'alba di qualcosa di nuovo. Anche noi, oggi. Ma la storia non è una linea retta che sale verso la perfezione: è una strada che gira, torna su se stessa, scarta di lato. Non date mai nulla per scontato.
+
 Passo e chiudo.
 
----
+::: pause-box
+### FERMATI UN ATTIMO
+*   **Una cosa che ti ha sorpreso:** Quale invenzione medievale ti sembra più "moderna"?
+*   **Una cosa che ti ha dato fastidio:** Il modo in cui abbiamo trattato chi è "diverso" da noi?
+*   **Una cosa che non hai capito:** Perché il Medioevo ha avuto bisogno di mille anni per finire?
+:::

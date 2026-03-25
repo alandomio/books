@@ -24,3 +24,10 @@ Preparati per la **Rinascita dell'Anno Mille**.
 
 Missione compiuta.
 Chiudo.
+
+::: pause-box
+### FERMATI UN ATTIMO
+*   **Una cosa che ti ha sorpreso:** Il fatto che i Templari fossero anche banchieri? O la povertà di Francesco?
+*   **Una cosa che ti ha dato fastidio:** Il massacro di Gerusalemme? O la paura dell'Inquisizione?
+*   **Una cosa che non hai capito:** Come si fa a pregare e uccidere nello stesso momento?
+:::
