@@ -1,0 +1,13 @@
+# CAPITOLO 20: Il "neutralismo" dell'Est
+
+Il "neutralismo" dell'Est è una necessità biologica di due potenze necrofaghe. Mentre i missili occidentali sventravano Teheran nel marzo 2026, Mosca e Pechino trattavano la Repubblica Islamica come una carcassa da cui estrarre valore. L'Oriente ha offerto solo il riflesso asettico del silicio e del petrolio scontato.
+
+La Russia agisce come una forza conservatrice per il terrore della balcanizzazione. Putin mira alla prevenzione della "sirianizzazione" iraniana per impedire che il caos risalga verso il Mar Caspio e il Caucaso. La ritirata russa sancisce l'incapacità di proiettare potenza oltre il proprio cortile di casa nel 2026. Il Cremlino osserva i droni spegnere le luci di Teheran gestendo solo il rischio nucleare e balistico. Mosca mantiene i contatti con l'Artesh per sorvegliare i depositi di uranio di Fordow, agendo come commissario fallimentare dell'alleato strategico.
+
+Pechino applica il pragmatismo del barile con cinismo machiavellico. Durante l'infarto di Hormuz, la Cina ha attivato il mercato ombra basato sull'e-CNY (Yuan digitale), bypassando il collasso bancario iraniano e lo Swift. Pechino acquista petrolio estratto dalle milizie locali pagando in tecnologia civile, scontando il prezzo del rischio cinetico. L'evacuazione di tremila cittadini cinesi nel marzo 2026 certifica il disimpegno: la Cina evita le guerre altrui per ereditare i mercati che ne derivano.
+
+I BRICS+ e la SCO (Shanghai Cooperation Organization) sono gusci vuoti. La solidarietà orientale è morta nel silenzio radio tra Pechino e Teheran. Queste organizzazioni sono circoli per autocrati che si chiudono a doppia mandata al primo ronzio di drone nemico sopra il palazzo del vicino. L'eclissi del Levante svela la natura puramente transazionale di queste alleanze, distruggendo la pretesa di un modello di sicurezza alternativo all'Occidente.
+
+La Cina cabla il futuro disordine tramite accordi "Sovereignty-for-Data". Infrastrutture digitali e sorveglianza satellitare garantiscono a Pechino il controllo dei giacimenti in cambio della sopravvivenza biologica dei nuovi padroni frammentati dell'Iran. Mentre l'America distrugge il passato teocratico, la Cina trasforma il Levante in una provincia della propria rete neurale geoeconomica.
+
+L'Oriente ha lasciato bruciare l'Iran per logorare l'Occidente e distruggere la globalizzazione marittima. L'oscurità del Levante è il palcoscenico per chi banchetta sul cadavere di un secolo. Siamo nell'era del Mercantilismo del Vuoto, dove la diplomazia è un servizio di onoranze funebri per nazioni fallite. I monitor cinesi catalogano i resti del nostro mondo per rivenderli a prezzi di usura. L'eclissi è totale.
