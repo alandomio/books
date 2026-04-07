@@ -1,43 +1,53 @@
 # Framework per Pamphlet Politico/Economico-Storico
 
-Questo documento descrive il framework generale per la generazione iterativa di pamphlet saggistici, politici o storici (come i progetti "Brexit" e "Trump"), basati su un'alta densità informativa, prosa d'autore e totale esclusione di pattern narrativi tipici dell'AI.
+Questo documento definisce il framework per la generazione iterativa di pamphlet politici, economici o storici. Il criterio guida non è la retorica, ma la densità di prova.
 
-## 1. Il Sistema Multi-Agente ("The Brain")
-La creazione del pamphlet non avviene tramite un singolo passaggio generativo, ma attraverso un loop di 5 agenti distinti. L'ordine cronologico (Sistema 2 / Logica -> Sistema 1 / Prosa) è tassativo.
+## 1. Il Sistema Multi-Agente
+La scrittura avviene in un loop ordinato. La sequenza è tassativa: struttura, ricerca, casi, voce, controllo.
 
-1. **L'Architetto:** Pianifica la struttura del capitolo. Fissa i punti chiave dell'esposizione basandosi sull'Outline generale del progetto e traccia il percorso logico dell'argomentazione.
-2. **Il Ricercatore:** Responsabile dei "Dati Duri" macroeconomici, legislativi e storici. Cerca documenti concreti (IMF, Fed, report reali, leggi) ed estrae numeri e proiezioni esatte. Compila un Dossier.
-3. **Il Segugio (degli Aneddoti):** Cerca storie di cronaca, casi studio e aneddoti specifici. Le storie umane servono ESCLUSIVAMENTE a supportare e "mettere a terra" le tesi macroscopiche trovate dal Ricercatore.
-4. **Lo Scrittore (La Voce):** L'Agente Creativo. Fonde il dossier numerico e gli aneddoti in un flusso narrativo unico usando un prompt di iniezione di personalità (es. "Analista Conservatore", "Intellettuale Britannico").
-5. **L'Editor:** Il Guardiano. Esegue check spietati anti-AI e verifica la completezza. Se mancano densità o tono, ordina una revisione o richiama le fasi di ricerca.
+1. **L'Architetto:** definisce la tesi del capitolo, i sotto-punti e l'ordine delle scene.
+2. **Il Ricercatore:** raccoglie dati duri, norme, report, bilanci, sentenze e statistiche. Produce un dossier verificabile.
+3. **Il Segugio:** trova casi concreti, cronache, contratti, cause e aneddoti utili a rendere visibile il meccanismo.
+4. **Lo Scrittore:** trasforma il dossier in prosa. Non inventa prove, non allunga il testo per riempire.
+5. **L'Editor:** controlla struttura, aderenza al dossier, ritmo e anti-pattern AI.
 
-## 2. Lo Stile e la Variazione Tono
-Lo stile generale del pamphlet è un'estetica "Show, Don't Tell", in formato saggio breve o inchiesta compatta. Il tono cambia a seconda della *tecnicità* dell'argomento trattato:
+## 2. Priorità Editoriale
+Il testo deve sempre partire dalla prova e arrivare alla tesi.
 
-- **Argomenti ad alta viscerabilità politica/populismo (es. Brexit):**
-  Stile Gonzo-Accademico, molto ironico. Taglio elegante ma chirurgico e spietato verso la cialtroneria. Ampio uso di aneddoti di strada (il pescatore, il barista) per illuminare le dinamiche globali. Tono "Piero Angela arrabbiato".
-- **Argomenti ad alta tecnicità istituzionale/finanziaria (es. Trump/Dazi, Corte Suprema):**
-  Stile Analitico, Accademico, Spaccacapelli. Tono severo, zero sentimentalismi, divieto assoluto di narrazioni romanzate (es. introspezioni, tramonti). Concentrazione totale su teoria macroeconomica (es. Adam Smith), sentenze costituzionali e PIL.
+- Per argomenti politici o di potere diffuso, la voce può essere più tagliente, ma il dato resta il centro.
+- Per argomenti istituzionali o finanziari, la voce deve restringersi: meno ornamento, più meccanismo.
+- Le storie umane servono a spiegare il sistema, non a sostituirlo.
 
-### Regole Universali di Formattazione e Stile
-- **Nessun Bullet Point nella narrativa:** Il testo finale deve fluire come prosa saggistica organica.
-- **Divieto di Auto-presentazione:** Vietate espressioni come "Come analista vedo...", "Il ricercatore in me...". L'autorità deriva dalla ferocia dei fatti, non dai titoli auto-attibuiti.
-- **Aperture Conrete:** Iniziare i capitoli con un fatto netto (una firma, una dichiarazione clamorosa, un crollo di mercato). Mai con astrazioni metafisiche ("Da tempo immemore l'uomo sceglie...").
-- **Finali Chirurgici:** Il capitolo termina con un colpo logico spietato, una domanda o un dato, evitando riassunti didascalici prolissi.
-- **Densità vs Allungamento:** Se un capitolo è "troppo corto", lo Scrittore **NON** deve inserire aggettivi o filler (fluff), ma l'intero sistema deve cercare *più dati* o *nuovi aneddoti* per renderlo più denso.
+## 3. Regole Universali di Stile
+- Nessun bullet point nella narrativa finale.
+- Niente auto-presentazione dell'autore o dell'agente.
+- Ogni capitolo deve aprirsi con un fatto concreto.
+- Ogni capitolo deve chiudersi con un elemento che stringe la tesi, non con una morale generica.
+- Se manca densità, si cerca un dato o un caso migliore, non più aggettivi.
 
-## 3. Le Check-list Anti-AI (L'ossessione dell'Editor)
-Per garantire genuinità autoriale, l'Editor fa rispettare questi vincoli:
-1. **Dati Riciclati:** Mai utilizzare lo stesso dato chiave (es. i "$350M sul bus della Brexit") con la stessa funzione narrativa in più di un capitolo. Ogni capitolo deve portare nuovi fatti.
-2. **Finali Clonati:** Vietate strutture retoriche identiche a chiusura dei vari capitoli (es. terminare sempre con la metafora della tempesta in arrivo).
-3. **Analogie e Metafore:** Massimo 1 o 2 similitudini ("è come...") per capitolo. Devono essere appropriate all'argomento (es. metafore fisiche/amministrative per argomenti tecnici; divieto assoluto di metafore mediche e anatomiche).
-4. **Regola dei Tre Esempi:** Rottura costante dello schema standard in cui l'AI inserisce tre item in serie (A, B e C). Alternare con singoli casi ultra-specifici.
-5. **Intensificatori e Negazioni Vane:** Repressione di cliché come "inevitabilmente", "semplicemente", "fondamentalmente", così come le inutili circonlocuzioni "Non si tratta di X, ma di Y" (usare forma diretta).
+## 4. Check-list Anti-AI
+L'Editor deve verificare questi punti:
+1. Nessun dato riciclato con la stessa funzione narrativa.
+2. Nessun finale clonato.
+3. Metafore e analogie limitate e pertinenti.
+4. Niente sequenze stereotipate di tre esempi quando basta un caso preciso.
+5. Niente intensificatori vuoti, negazioni vane o formule burocratiche.
+6. Niente sintesi moraleggianti che chiudono tutto troppo presto.
 
-## 4. Architettura Documentale (Il Loop)
-Ogni progetto richiede questo scaffolding su disco:
-- `INSTRUCTIONS.md`: Sancisce Audience, Vibe, Target e il Prompt di Identità dello Scrittore.
-- `PROMPT.md`: La manualistica comportamentale esatta per ciascun Agente.
-- `OUTLINE.md`: Scheletro generale dell'opera.
-- `PLAN.md`: La Kanban board in cui si spuntano le task riga per riga per ogni capitolo `[ARCHITECT, RESEARCHER, SEGUGIO, WRITER, EDITOR]`.
-- I vari `dossier_capitolo_X.md`, che fungono da repository dati per separare il lavoro algido di ricerca dalla stesura creativa finale.
+## 5. Architettura Documentale
+Ogni progetto di saggistica dovrebbe avere:
+- `INSTRUCTIONS.md`: definizione del progetto, del team, del contratto delle prove e del workflow.
+- `PROMPT.md`: istruzioni operative del writer o dell'agent.
+- `OUTLINE.md`: struttura di capitoli e scene.
+- `PLAN.md`: roadmap con task piccoli e verificabili.
+- `activity.md`: log della sessione.
+- `progress.md`: colli di bottiglia, ripetizioni, revisione delle regole.
+- `dossier_capitolo_X.md`: dossier per capitolo con `Data Snapshot`, `Fatti salienti`, `Casi studio`, `Fonti analitiche`.
+
+## 6. Persona
+La persona va scelta in base al problema del testo, non per abbellimento:
+- `Analista`: quando servono precisione e controllo.
+- `Gonzo analitico`: quando serve una voce più aggressiva, ma non slegata dai dati.
+- `Bardo` o `Narratore`: quando il capitolo richiede immersione storica o scena.
+
+La persona è un mezzo, non il contenuto del libro.

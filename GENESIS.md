@@ -29,75 +29,64 @@ Logica Frattalica: Se il libro è un romanzo, verifica l'arco di trasformazione 
 Task: Non scrive prosa. Crea i "Ticket di Lavoro" per gli altri agenti.
 
 🔭 IL RICERCATORE / WORLD-BUILDER (Context Agent)
-Per Non-Fiction: È un data-miner. Cerca fatti, statistiche, giurisprudenza.
+Architettura di Ricerca (Deep Search Loop): Segue il protocollo "Pivot Frattale" in 4 step obbligatori per estrarre *Shadow Data* (dati ombra che ancorano la realtà):
+1. **Macro (La Cornice):** Date, nomi esatti, architettura dell'evento (es. Wikipedia).
+2. **Pivot (Dettaglio Cinetico):** Oggetti fisici, luoghi specifici, nomi in codice (es. modelli di armi, brand).
+3. **Sensoriale (Il Vibe):** Micro-dati contestuali (meteo, odori, prezzi dell'epoca, citazioni testuali).
+4. **Triangolazione:** Incrocio di fonti multiple per controversie storiche.
 
-Per Fiction: È il custode della Lore. Verifica se "Mario" ha gli occhi azzurri nel cap. 1 e verdi nel cap. 10. Genera dettagli sensoriali sull'ambientazione.
+Output: Non scrive il capitolo. Produce il `PACK_CONTESTO.md` (o `Dossier.json`) necessario per scriverlo. Senza l'estrazione degli Shadow Data, l'Artigiano tenderà inevitabilmente ad allucinare.
 
-Output: Non scrive il capitolo. Produce il PACK_CONTESTO.md necessario per scriverlo.
+✍️ L'ARTIGIANO (Drafting Agent - Dual-Stage Refinement DSR)
+Responsabilità: Generazione del contenuto tramite "Decoupling" (decouplaggio tra creatività e struttura). Risolve il *Task Coupling Dilemma* (l'incapacità dell'IA di essere creativa e formattata nello stesso prompt).
 
-✍️ L'ARTIGIANO (Drafting Agent)
-Responsabilità: Scrittura pura (Ghostwriting).
+1. **Stage 1 (Prose Engine):** Genera una bozza densa in stile "Novel" (prosa narrativa). Si focalizza esclusivamente su: ritmo, azioni dei personaggi, dialoghi e logica di causa-effetto. Ignora vincoli di formattazione o limiti di parole rigidi.
+2. **Stage 2 (Refinement Engine):** Prende la prosa dello Stage 1 e la "compila" nel formato finale richiesto (es. Capitolo di saggio, Sceneggiatura, Post). Qui si applicano i filtri della `STYLE_BIBLE.md` e i vincoli strutturali.
 
-Input: Riceve un PACK_CONTESTO e le regole della STYLE_BIBLE.
+Modalità Ralph: Entrambi gli stage sono "Stateless". Il Refinement Engine vede solo l'output del Prose Engine e il pacchetto di contesto, garantendo una pulizia stilistica assoluta.
 
-Modalità Ralph: È "Stateless". Non sa cosa ha scritto due capitoli fa, si fida solo del pacchetto di contesto che riceve ora. Questo lo rende focalizzato e privo di allucinazioni di memoria.
+⚖️ IL CRITICO E IL REVISORE (Validation Agent)
+Il "Compilatore" del sistema che valida l'output finale dell'Artigiano:
 
-⚖️ IL CRITICO (Validation Agent / Linter)
-Responsabilità: Il "Compilatore". Blocca il processo se la qualità non è raggiunta.
+1. **Check Logico:** Valida la logica, l'aderenza strutturale e il rispetto dei fatti (Dossier Json).
+2. **Judge Estetico:** Valida lo stile penalizzando il burocratese (Vocabolario Astratto), la "Regola del 3" (Liste Nascoste) e imponendo la *Regola di Gary Provost* (Varianza Ritmica).
 
-Strumenti: Una lista di controllo (Checklist) rigida basata sulla STYLE_BIBLE.
-
-Potere: Ha diritto di veto (Exit Code 1). Se il testo non passa, l'Artigiano deve riscrivere.
-
-3. IL FLUSSO DI LAVORO UNIVERSALE (The Loop)
+Evoluzione Dinamica (Safe-Fail): Se il testo viene bocciato per 3 iterazioni consecutive senza progressi direzionali, il Critico deve segnalare il blocco in `ACTIVITY.log` e adattare la regola, prevenendo loop di budget infiniti.
 Questo è il processo ciclico da ripetere per ogni "Unità Minima" (Scena, Paragrafo o Sottocapitolo).
 
-FASE 1: INIZIALIZZAZIONE (Setup)
-L'utente definisce le variabili nel file CONFIG.md:
+FASE 1: INIZIALIZZAZIONE (Setup e Pianificazione Bidirezionale)
+L'utente non si limita a lanciare il progetto. L'Architetto DEVE fare domande esplorative per estrarre le "assunzioni implicite" (Bidirectional Planning) prima di forgiare il `CONFIG.md`:
 
 GENRE: [es. Thriller Cyberpunk / Manuale di Giardinaggio]
-
-TONE: [es. Noir e cinico / Empatico e pratico]
-
-LENGTH_CONSTRAINT: [es. 1500 parole per unità]
-
+TARGET AUDIENCE E NEMICO: [Contro chi combattiamo? Es. la noia, il complotto]
+TONE (Palette): [es. Keywords (Noir, Cinico) vs Anti-Keywords (Olistico, Accademico)]
+LENGTH_CONSTRAINT E VOLUMI: [es. Totale 60.000 parole, diviso in moduli].
 FORBIDDEN: [es. "Niente deus ex machina" / "Niente bullet points"]
 
 FASE 2: ESPANSIONE FRATTALICA (Zoom In)
-L'Architetto prende il Capitolo X e lo esplode in 4-6 "Beat" o "Sezioni".
+L'Architetto prende il Capitolo X e lo esplode rigorosamente.
+**Regola Anti-Compressione (Scene-Level Generation):** Poiché gli LLM soffrono del "limite di 600 parole" per output (effetto bignami), non si incarica MAI la stesura di un intero capitolo. Il capitolo DEVE essere frammentato in ~6 scene (~1000 parole ciascuna).
 
 Esempio Fiction: "L'eroe entra nella caverna" -> 1. L'odore di zolfo. 2. Il primo passo nel buio. 3. L'incontro con il mostro.
-
 Esempio Saggio: "Come potare le rose" -> 1. Gli strumenti necessari. 2. Il taglio a 45 gradi. 3. La cura post-taglio.
 
 FASE 3: IL CICLO DI PRODUZIONE (Ralph Loop)
 Per ogni "Beat" definito sopra:
 
-Context Fetching (Il Ricercatore):
+1. **Context Fetching (Il Ricercatore):**
+   - Carica i dati necessari (Shadow Data, schede personaggio, dati tecnici).
+   - Crea `context_current_beat.md`.
 
-Carica i dati necessari (scheda personaggio o dati botanici).
+2. **Drafting (L'Artigiano - DSR Loop):**
+   - **Stage 1 (Prose Engine):** Legge il contesto e scrive la scena in forma di prosa narrativa densa (Novel style). Salva in `draft_prose.md`.
+   - **Stage 2 (Refinement Engine):** Legge `draft_prose.md` + `STYLE_BIBLE.md` e raffina il testo nel formato e stile finale. Salva in `draft_final.md`.
 
-Crea context_current_beat.md.
+3. **Validation (System 2 Audit):**
+   - **Check Logico (Il Critico):** Il nome del protagonista è corretto? I dati sono 100% veri? Aderenza al BLUEPRINT?
+   - **Judge Estetico (Anti-AI Judge):** C'è varianza ritmica? Manca il burocratese AI? Rispetta i divieti della STYLE_BIBLE?
 
-Drafting (L'Artigiano):
-
-Legge context_current_beat.md + STYLE_BIBLE.
-
-Scrive draft_v1.md.
-
-Validation (Il Critico):
-
-Esegue i test:
-
-Test Coerenza: Il nome del protagonista è corretto? I dati botanici sono veri?
-
-Test Stile: Ci sono avverbi vietati? Il tono è giusto?
-
-Test Volume: Rispetta la lunghezza?
-
-FAIL: Restituisce l'errore specifico nel ACTIVITY.log. L'Artigiano riprova.
-
-PASS: Il testo viene appeso al MASTER_DRAFT.md.
+FAIL: Se score < 8.5/10, l'errore specifico (Feedback Loop) va annotato nel `ACTIVITY.log` e l'Artigiano riparte dallo Stage 2 (o Stage 1 se l'errore è logico). Se i fallimenti superano i 3 tentativi, applicare *Evoluzione Dinamica*.
+PASS: Il testo finale viene appeso al MASTER_DRAFT.md.
 
 4. ESEMPI DI ADATTAMENTO (Use Cases)
 Ecco come configurare il Critico (il Linter) per due progetti opposti.
@@ -128,27 +117,18 @@ Copia questo prompt per avviare G.E.N.E.S.I.S. su qualsiasi progetto:
 "Attiva protocollo G.E.N.E.S.I.S.
 
 1. DEFINIZIONE PROGETTO: Chiedimi di compilare i seguenti campi:
+   - TITOLO
+   - GENERE
+   - OBIETTIVO (Tone/Voice)
+   - STRUTTURA MACRO
+   - VINCOLI DI STILE (STYLE_BIBLE)
 
-TITOLO:
-
-GENERE:
-
-OBIETTIVO (Tone/Voice):
-
-STRUTTURA MACRO (Quanti capitoli/sezioni?):
-
-VINCOLI DI STILE (Cosa è vietato?):
-
-2. ISTANZIAZIONE AGENTI: Una volta ricevuti i dati, configura le Personas:
-
-L'ARCHITETTO per gestire la struttura frattalica.
-
-IL RICERCATORE (adatta il suo focus in base al genere: Ricerca Dati o Coerenza Narrativa).
-
-L'ARTIGIANO per la scrittura.
-
-IL CRITICO con le regole di validazione specifiche per il genere dichiarato.
+2. ISTANZIAZIONE AGENTI: Configura le Personas:
+   - L'ARCHITETTO (Strategy)
+   - IL RICERCATORE (Context/Shadow Data)
+   - L'ARTIGIANO (Drafting via DSR: Stage 1 Prose, Stage 2 Refinement)
+   - IL CRITICO (Validation: Logic & Aesthetics)
 
 3. START: Attendi il mio input 'START' per generare il BLUEPRINT.md iniziale.
 
-Modalità operativa: Ralph Wiggum (Stateless + Validation Loops). Nessuna allucinazione, solo ciò che è scritto nei file di contesto."
+Modalità operativa: Ralph Wiggum (Stateless + DSR Generation + Validation Loops). Nessuna allucinazione, solo ciò che è scritto nei file di contesto."
