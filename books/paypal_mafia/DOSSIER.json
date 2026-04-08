@@ -1,0 +1,408 @@
+{
+  "project": {
+    "title": "PayPal Mafia - La Menzogna della Democrazia Tecnocratica",
+    "last_updated": "2026-04-07",
+    "domain": "pamphlet d'inchiesta politico-tecnologico"
+  },
+  "editorial_policy": {
+    "source_of_truth": "Usare il dossier come base operativa; ogni nuova affermazione deve essere agganciata a un fatto, a una fonte o a un'ipotesi chiaramente marcata.",
+    "separation_layers": [
+      "verified_facts",
+      "working_hypotheses",
+      "open_questions",
+      "source_targets"
+    ],
+    "rules": [
+      "Non confondere la tesi del libro con i fatti di supporto.",
+      "Non riutilizzare lo stesso fatto con la stessa funzione narrativa in capitoli diversi.",
+      "Se un dato è instabile o recente, trattarlo come da verificare finché non entra nel dossier con una fonte esplicita.",
+      "Ogni capitolo deve avere un piccolo dossier operativo prima della scrittura."
+    ]
+  },
+  "project_brief": {
+    "audience": [
+      "lettori di geopolitica del capitale",
+      "lettori interessati alla cattura delle infrastrutture digitali",
+      "lettori che vogliono un'inchiesta documentata e non una biografia celebrativa"
+    ],
+    "enemy": "la concentrazione di potere che trasforma capitale, dati, contratti pubblici e piattaforme in leva politica",
+    "thesis": "non si raccontano celebrity tech; si racconta un blocco di potere che usa mercato, Stato e narrazione per consolidarsi",
+    "voice": [
+      "preciso",
+      "cinico",
+      "documentato",
+      "corrosivo",
+      "investigativo"
+    ]
+  },
+  "entities": {
+    "PayPal_Mafia": {
+      "verified_facts": [
+        {
+          "claim": "Il nucleo narrativo del progetto ruota attorno ai fondatori e agli ex dirigenti legati a PayPal, Confinity e X.com.",
+          "note": "Ancora narrativa del libro"
+        },
+        {
+          "claim": "Tra i nomi chiave del perimetro ci sono Elon Musk, Peter Thiel, Reid Hoffman, Max Levchin, David Sacks, Ken Howery e Luke Nosek.",
+          "note": "Roster di lavoro"
+        }
+      ],
+      "working_hypotheses": [
+        {
+          "claim": "Questo gruppo va letto come rete politica oltre che imprenditoriale.",
+          "note": "Tesi strutturale del libro"
+        },
+        {
+          "claim": "Il capitale uscito da PayPal viene reinvestito in infrastrutture di potere, non solo in nuove imprese.",
+          "note": "Tesi di connessione fra capitale e influenza"
+        },
+        {
+          "claim": "La retorica del monopolio e della competizione è funzionale alla legittimazione di posizioni dominanti.",
+          "note": "Interpretazione editoriale"
+        }
+      ],
+      "open_questions": [
+        {
+          "question": "Quali passaggi societari vanno documentati con fonti primarie per evitare di trattare come ovvio ciò che è solo ricostruito?",
+          "priority": "alta"
+        },
+        {
+          "question": "Quali ruoli politici o istituzionali vanno considerati centrali e quali solo periferici rispetto alla tesi del libro?",
+          "priority": "media"
+        }
+      ],
+      "source_targets": [
+        "cronologie societarie",
+        "archivi stampa e interviste",
+        "board history e documentazione aziendale",
+        "fonti su fondazioni, investimenti e donazioni"
+      ]
+    },
+    "Palantir": {
+      "verified_facts": [
+        {
+          "claim": "Palantir è co-fondata da Peter Thiel e Alex Karp.",
+          "note": "Ancoraggio societario"
+        },
+        {
+          "claim": "Il progetto include contratti governativi di grande scala e un forte radicamento nel settore difesa/sicurezza.",
+          "note": "Perimetro operativo"
+        }
+      ],
+      "working_hypotheses": [
+        {
+          "claim": "Palantir non vende solo software ma un modello di decisione politica e operativa.",
+          "note": "Tesi del capitolo 2"
+        },
+        {
+          "claim": "La privatizzazione dell'intelligence passa per outsourcing di analisi, classificazione e targeting.",
+          "note": "Interpretazione"
+        }
+      ],
+      "open_questions": [
+        {
+          "question": "Quali contratti sono più utili per mostrare il passaggio da tool a infrastruttura di Stato?",
+          "priority": "alta"
+        }
+      ],
+      "source_targets": [
+        "contract database pubblici",
+        "bilanci e investor relations",
+        "audizioni parlamentari",
+        "documenti procurement difesa"
+      ]
+    },
+    "SpaceX_Starlink": {
+      "verified_facts": [
+        {
+          "claim": "SpaceX e Starlink sono il fulcro del capitolo sull'infrastruttura orbitale privata.",
+          "note": "Focus editoriale"
+        },
+        {
+          "claim": "Il progetto include una forte dipendenza da contratti pubblici e militari.",
+          "note": "Ancoraggio narrativo"
+        }
+      ],
+      "working_hypotheses": [
+        {
+          "claim": "Il controllo di orbita e connettività critica produce un potere infrastrutturale paragonabile a una sovranità privata.",
+          "note": "Tesi del capitolo 3"
+        },
+        {
+          "claim": "La dipendenza da Starlink altera il rapporto di forza tra governi, eserciti e fornitore.",
+          "note": "Caso Ucraina / Taiwan"
+        }
+      ],
+      "open_questions": [
+        {
+          "question": "Quali esempi sono i più solidi per mostrare il ricatto infrastrutturale senza appesantire il capitolo?",
+          "priority": "media"
+        }
+      ],
+      "source_targets": [
+        "contratti Space Force / NASA",
+        "report su costellazioni LEO",
+        "documentazione su uso in guerra e connettività critica",
+        "fonti su regolazione spaziale"
+      ]
+    },
+    "X": {
+      "verified_facts": [
+        {
+          "claim": "Twitter/X è il laboratorio del capitolo su algoritmi, moderazione e guerra cognitiva.",
+          "note": "Perimetro del capitolo 4"
+        }
+      ],
+      "working_hypotheses": [
+        {
+          "claim": "Il controllo del ranking e della moderazione è un potere editoriale e politico, non solo tecnico.",
+          "note": "Tesi del capitolo"
+        },
+        {
+          "claim": "La monetizzazione dell'attenzione trasforma il conflitto in prodotto.",
+          "note": "Meccanismo di business"
+        }
+      ],
+      "open_questions": [
+        {
+          "question": "Quali cambi di policy e quali episodi di reintegrazione rendono la tesi più chiara senza disperdersi?",
+          "priority": "alta"
+        }
+      ],
+      "source_targets": [
+        "policy changelog",
+        "annunci ufficiali",
+        "studi su engagement e polarizzazione",
+        "cronologie di moderazione"
+      ]
+    },
+    "DOGE_Department_of_Government_Efficiency": {
+      "verified_facts": [
+        {
+          "claim": "DOGE è il perno del capitolo sul rapporto fra deregulation e cattura dello Stato.",
+          "note": "Scaffold narrativo"
+        }
+      ],
+      "working_hypotheses": [
+        {
+          "claim": "La retorica dell'efficienza viene usata per colpire i regolatori che ostacolano gli interessi delle stesse aziende coinvolte.",
+          "note": "Tesi del capitolo 5"
+        },
+        {
+          "claim": "Il paradosso non è tagliare lo Stato, ma ridurre gli ostacoli mentre si preservano o aumentano gli appalti utili.",
+          "note": "Meccanismo politico"
+        }
+      ],
+      "open_questions": [
+        {
+          "question": "Quali atti e quali documenti formali consentono di descrivere DOGE come struttura politica e non come semplice slogan?",
+          "priority": "alta"
+        }
+      ],
+      "source_targets": [
+        "atti amministrativi",
+        "speech e interviste",
+        "timeline istituzionale",
+        "documenti su conflitti di interesse"
+      ]
+    }
+  },
+  "chapter_dossiers": {
+    "prologo": {
+      "title": "Il Deserto del Reale",
+      "purpose": "Aprire il libro con il falso mito della neutralità della Silicon Valley e con la tesi che il potere infrastrutturale è già politico.",
+      "verified_facts": [
+        "La Valley è usata come immaginario di innovazione, ma il potere reale passa da infrastrutture, contratti e controllo delle interfacce."
+      ],
+      "working_hypotheses": [
+        "L'algoritmo è diventato una cornice di realtà, non solo uno strumento."
+      ],
+      "open_questions": [
+        "Quale esempio iniziale rende meglio il contrasto fra mito del garage e infrastruttura reale?"
+      ],
+      "source_targets": [
+        "documenti su infrastrutture e procurement",
+        "fonti su lobbying tech",
+        "materiale storico sulla narrazione della Silicon Valley"
+      ],
+      "scene_brief": [
+        {
+          "scene": 1,
+          "focus": "illusione ottica della Valley"
+        },
+        {
+          "scene": 2,
+          "focus": "falsa dicotomia pubblico/privato"
+        },
+        {
+          "scene": 3,
+          "focus": "punto di rottura e tesi del libro"
+        }
+      ]
+    },
+    "chapter_1": {
+      "title": "L'Antropologia del Mostro",
+      "purpose": "Raccontare la nascita della PayPal Mafia come blocco di potere e non come semplice storia di startup.",
+      "verified_facts": [
+        "Il perimetro include PayPal, Confinity e X.com.",
+        "Il racconto ruota attorno a Thiel, Musk, Levchin e al capitale successivo."
+      ],
+      "working_hypotheses": [
+        "La vendita di PayPal è la fase in cui il capitale si trasforma in rete di influenza.",
+        "L'anticompetizione è presentata come pragmatismo, ma funziona come dottrina di potere."
+      ],
+      "open_questions": [
+        "Quali passaggi societari e quali investimenti successive sono i più efficaci per mostrare la semina del potere?"
+      ],
+      "source_targets": [
+        "cronologia societaria",
+        "interviste dei protagonisti",
+        "documenti su investimenti e fondazioni"
+      ],
+      "scene_brief": [
+        { "scene": 1, "focus": "nascita di Confinity / X.com" },
+        { "scene": 2, "focus": "dottrina del monopolio" },
+        { "scene": 3, "focus": "vendita di PayPal e semina" },
+        { "scene": 4, "focus": "infiltrazione in altre aziende" },
+        { "scene": 5, "focus": "conflitto d'interessi originario" },
+        { "scene": 6, "focus": "ritratto dell'oligarchia" }
+      ]
+    },
+    "chapter_2": {
+      "title": "L'Occhio di Sauron",
+      "purpose": "Mostrare come Palantir renda il potere di classificare, selezionare e prevedere una funzione privata.",
+      "verified_facts": [
+        "Palantir è centrale nella relazione fra software, difesa e sicurezza.",
+        "Il capitolo usa Alex Karp e Peter Thiel come asse narrativo."
+      ],
+      "working_hypotheses": [
+        "Il software diventa una forma di sovranità delegata.",
+        "L'intelligence viene resa modulare e acquistabile."
+      ],
+      "open_questions": [
+        "Quali contratti e quali casi d'uso rendono chiaro il salto da tool a potere infrastrutturale?"
+      ],
+      "source_targets": [
+        "contratti pubblici",
+        "audizioni",
+        "bilanci",
+        "case study operativi"
+      ],
+      "scene_brief": [
+        { "scene": 1, "focus": "Karp e Thiel" },
+        { "scene": 2, "focus": "Gotham in azione" },
+        { "scene": 3, "focus": "sostituzione di funzioni intelligence" },
+        { "scene": 4, "focus": "frontiere e migrazione" },
+        { "scene": 5, "focus": "guerra in abbonamento" },
+        { "scene": 6, "focus": "fine dell'anonimato" }
+      ]
+    },
+    "chapter_3": {
+      "title": "Starlink e il Nuovo Feudalesimo",
+      "purpose": "Raccontare la privatizzazione dell'orbita e della connettività critica.",
+      "verified_facts": [
+        "SpaceX/Starlink sono al centro della dipendenza infrastrutturale del capitolo."
+      ],
+      "working_hypotheses": [
+        "Chi controlla la connettività critica può imporre condizioni politiche a Stati e alleati.",
+        "L'orbita LEO diventa una forma di proprietà privata strategica."
+      ],
+      "open_questions": [
+        "Quali episodi contrattuali e geopolitici sono più forti per mostrare il passaggio da fornitore a sovrano funzionale?"
+      ],
+      "source_targets": [
+        "NASA / ESA / Space Force",
+        "report su costellazioni",
+        "analisi regolatoria spaziale",
+        "casi Ucraina e Pacifico"
+      ],
+      "scene_brief": [
+        { "scene": 1, "focus": "orbita monopolizzata" },
+        { "scene": 2, "focus": "collasso del monopolio statale" },
+        { "scene": 3, "focus": "connettività armata" },
+        { "scene": 4, "focus": "ricatto infrastrutturale" },
+        { "scene": 5, "focus": "sussidi occulti" },
+        { "scene": 6, "focus": "verticalità del potere" }
+      ]
+    },
+    "chapter_4": {
+      "title": "Algoritmi e Verità",
+      "purpose": "Mostrare X come laboratorio di guerra cognitiva, non come piattaforma neutrale.",
+      "verified_facts": [
+        "Il capitolo prende Twitter/X come caso di studio su moderazione, ranking e politica."
+      ],
+      "working_hypotheses": [
+        "La raccomandazione algoritmica è una forma di editoriale invisibile.",
+        "La rabbia monetizzata diventa infrastruttura economica e politica."
+      ],
+      "open_questions": [
+        "Quali passaggi di policy e quali episodi simbolici sono i più utili per mantenere il capitolo leggibile?"
+      ],
+      "source_targets": [
+        "changelog di policy",
+        "studi su polarizzazione",
+        "cronologia dei licenziamenti e delle reintegrazioni",
+        "report su engagement"
+      ],
+      "scene_brief": [
+        { "scene": 1, "focus": "acquisizione e rebrand" },
+        { "scene": 2, "focus": "distruzione della town square" },
+        { "scene": 3, "focus": "editor invisibile" },
+        { "scene": 4, "focus": "monetizzazione della rabbia" },
+        { "scene": 5, "focus": "reintegrazioni storiche" },
+        { "scene": 6, "focus": "tecno-populismo" }
+      ]
+    },
+    "chapter_5": {
+      "title": "DOGE",
+      "purpose": "Chiudere il cerchio fra retorica dell'efficienza e cattura dello Stato.",
+      "verified_facts": [
+        "DOGE è il blocco narrativo che permette di parlare di deregolazione e cattura regolatoria."
+      ],
+      "working_hypotheses": [
+        "L'efficienza viene usata come linguaggio morale per colpire i regolatori.",
+        "Il risultato pratico è ridurre i vincoli mentre si proteggono i contratti utili."
+      ],
+      "open_questions": [
+        "Quali documenti rendono DOGE più di uno slogan e meno di un'etichetta giornalistica?"
+      ],
+      "source_targets": [
+        "atti amministrativi",
+        "speech e interviste",
+        "timeline istituzionale",
+        "documenti sui conflitti di interesse"
+      ],
+      "scene_brief": [
+        { "scene": 1, "focus": "nascita di DOGE" },
+        { "scene": 2, "focus": "tagliare i regolatori" },
+        { "scene": 3, "focus": "i regolati al potere" },
+        { "scene": 4, "focus": "paradosso degli appalti" },
+        { "scene": 5, "focus": "imprenditore salvatore" },
+        { "scene": 6, "focus": "techno-stato aziendale" }
+      ]
+    },
+    "epilogo": {
+      "title": "La Singolarità del Potere",
+      "purpose": "Chiudere il libro con una tesi forte e una domanda politica concreta.",
+      "verified_facts": [
+        "Il libro deve culminare nella diagnosi del passaggio dal capitalismo al tecno-feudalesimo."
+      ],
+      "working_hypotheses": [
+        "La resistenza possibile non è morale, ma istituzionale e infrastrutturale."
+      ],
+      "open_questions": [
+        "Quale chiusura evita il moralismo e lascia invece una domanda utile al lettore?"
+      ],
+      "source_targets": [
+        "studi su concentrazione del potere",
+        "analisi antitrust",
+        "esempi di resistenza civica o regolatoria"
+      ],
+      "scene_brief": [
+        { "scene": 1, "focus": "bilancio finale" },
+        { "scene": 2, "focus": "inesorabilità e rottura" },
+        { "scene": 3, "focus": "chiamata all'azione" }
+      ]
+    }
+  }
+}
