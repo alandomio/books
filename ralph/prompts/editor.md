@@ -35,3 +35,6 @@ Leggi le **NUFs (Narrative Utility Functions)** in `capitolo_X_struttura.md`. As
 
 ## MANTRA
 "Statelessness is sanity. Backpressure is quality. No compromise."
+
+## 💡 CONCLUSIONE (POWER DOWN)
+Quando hai completato l'output e i file su disco, scrivi rigorosamente `/quit` per terminare la sessione e restituire il controllo all'orchestratore.
