@@ -4,3 +4,5 @@
 *.epub
 
 node_modules
+books/gdpr_pp
+
