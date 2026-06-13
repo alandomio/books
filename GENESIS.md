@@ -1,134 +1,134 @@
 🌐 FRAMEWORK G.E.N.E.S.I.S. v1.0
 (Generative Engine for Narrative & Editorial Systems via Iterative Structure)
 
-1. IL FILE SYSTEM COGNITIVO (La Verità su Disco)
-In un sistema agentico robusto, la memoria della chat è volatile. L'unica verità risiede nei file. Questa struttura funziona per qualsiasi genere.
+1. THE COGNITIVE FILE SYSTEM (The Truth on Disk)
+In a robust agentic system, chat memory is volatile. The only truth lives in the files. This structure works for any genre.
 
-BLUEPRINT.md: Il piano maestro. Contiene la struttura frattalica (Libro -> Parti -> Capitoli -> Unità Minime).
+BLUEPRINT.md: The master plan. Contains the fractal structure (Book -> Parts -> Chapters -> Minimal Units).
 
-STYLE_BIBLE.md: Il DNA del libro. Contiene tono di voce, regole grammaticali, divieti (es. "niente avverbi" o "niente gergo tecnico").
+STYLE_BIBLE.md: The DNA of the book. Contains tone of voice, grammar rules, prohibitions (e.g. "no adverbs" or "no technical jargon").
 
-CONTEXT/: Cartella dinamica.
+CONTEXT/: Dynamic folder.
 
-world_bible.md (per Fiction: personaggi, lore, regole magiche).
+world_bible.md (for Fiction: characters, lore, magic rules).
 
-research_data.md (per Non-Fiction: fonti, dati, interviste).
+research_data.md (for Non-Fiction: sources, data, interviews).
 
-ACTIVITY.log: Il registro di "Build & Crash" (cosa ha funzionato, cosa è stato scartato).
+ACTIVITY.log: The "Build & Crash" register (what worked, what was discarded).
 
-DRAFTS/: Dove vivono le bozze prima dell'approvazione.
+DRAFTS/: Where drafts live before approval.
 
-2. CONFIGURAZIONE DEI RUOLI (Le Personas Astratte)
-Dimentica "Il Segugio" o "Il Chirurgo". Ecco i ruoli universali che puoi istanziare.
+2. ROLE CONFIGURATION (The Abstract Personas)
+Forget "The Bloodhound" or "The Surgeon". Here are the universal roles you can instantiate.
 
-🏛️ L'ARCHITETTO (Strategy Agent)
-Responsabilità: Mantiene la coerenza macroscopica. Gestisce il BLUEPRINT.md.
+🏛️ THE ARCHITECT (Strategy Agent)
+Responsibility: Maintains macro-level coherence. Manages BLUEPRINT.md.
 
-Logica Frattalica: Se il libro è un romanzo, verifica l'arco di trasformazione del protagonista. Se è un saggio, verifica la progressione logica dell'argomentazione.
+Fractal Logic: If the book is a novel, it verifies the protagonist's transformation arc. If it's an essay, it verifies the logical progression of the argument.
 
-Task: Non scrive prosa. Crea i "Ticket di Lavoro" per gli altri agenti.
+Task: Does not write prose. Creates the "Work Tickets" for the other agents.
 
-🔭 IL RICERCATORE / WORLD-BUILDER (Context Agent)
-Architettura di Ricerca (Deep Search Loop): Segue il protocollo "Pivot Frattale" in 4 step obbligatori per estrarre *Shadow Data* (dati ombra che ancorano la realtà):
-1. **Macro (La Cornice):** Date, nomi esatti, architettura dell'evento (es. Wikipedia).
-2. **Pivot (Dettaglio Cinetico):** Oggetti fisici, luoghi specifici, nomi in codice (es. modelli di armi, brand).
-3. **Sensoriale (Il Vibe):** Micro-dati contestuali (meteo, odori, prezzi dell'epoca, citazioni testuali).
-4. **Triangolazione:** Incrocio di fonti multiple per controversie storiche.
+🔭 THE RESEARCHER / WORLD-BUILDER (Context Agent)
+Research Architecture (Deep Search Loop): Follows the "Fractal Pivot" protocol in 4 mandatory steps to extract *Shadow Data* (background data that anchors reality):
+1. **Macro (The Frame):** Dates, exact names, the architecture of the event (e.g. Wikipedia).
+2. **Pivot (Kinetic Detail):** Physical objects, specific places, code names (e.g. weapon models, brands).
+3. **Sensory (The Vibe):** Contextual micro-data (weather, smells, period prices, verbatim quotes).
+4. **Triangulation:** Cross-referencing of multiple sources for historical controversies.
 
-Output: Non scrive il capitolo. Produce il `PACK_CONTESTO.md` (o `Dossier.json`) necessario per scriverlo. Senza l'estrazione degli Shadow Data, l'Artigiano tenderà inevitabilmente ad allucinare.
+Output: Does not write the chapter. Produces the `PACK_CONTESTO.md` (or `Dossier.json`) needed to write it. Without the extraction of Shadow Data, the Craftsman will inevitably tend to hallucinate.
 
-✍️ L'ARTIGIANO (Drafting Agent - Dual-Stage Refinement DSR)
-Responsabilità: Generazione del contenuto tramite "Decoupling" (decouplaggio tra creatività e struttura). Risolve il *Task Coupling Dilemma* (l'incapacità dell'IA di essere creativa e formattata nello stesso prompt).
+✍️ THE CRAFTSMAN (Drafting Agent - Dual-Stage Refinement DSR)
+Responsibility: Content generation via "Decoupling" (decoupling creativity from structure). Solves the *Task Coupling Dilemma* (the AI's inability to be creative and formatted in the same prompt).
 
-1. **Stage 1 (Prose Engine):** Genera una bozza densa in stile "Novel" (prosa narrativa). Si focalizza esclusivamente su: ritmo, azioni dei personaggi, dialoghi e logica di causa-effetto. Ignora vincoli di formattazione o limiti di parole rigidi.
-2. **Stage 2 (Refinement Engine):** Prende la prosa dello Stage 1 e la "compila" nel formato finale richiesto (es. Capitolo di saggio, Sceneggiatura, Post). Qui si applicano i filtri della `STYLE_BIBLE.md` e i vincoli strutturali.
+1. **Stage 1 (Prose Engine):** Generates a dense draft in "Novel" style (narrative prose). Focuses exclusively on: rhythm, character actions, dialogue, and cause-and-effect logic. Ignores formatting constraints or rigid word limits.
+2. **Stage 2 (Refinement Engine):** Takes the prose from Stage 1 and "compiles" it into the required final format (e.g. essay chapter, screenplay, post). Here the filters of `STYLE_BIBLE.md` and the structural constraints are applied.
 
-Modalità Ralph: Entrambi gli stage sono "Stateless". Il Refinement Engine vede solo l'output del Prose Engine e il pacchetto di contesto, garantendo una pulizia stilistica assoluta.
+Ralph Mode: Both stages are "Stateless". The Refinement Engine sees only the output of the Prose Engine and the context package, guaranteeing absolute stylistic cleanliness.
 
-⚖️ IL CRITICO E IL REVISORE (Validation Agent)
-Il "Compilatore" del sistema che valida l'output finale dell'Artigiano:
+⚖️ THE CRITIC AND THE REVIEWER (Validation Agent)
+The system's "Compiler" that validates the Craftsman's final output:
 
-1. **Check Logico:** Valida la logica, l'aderenza strutturale e il rispetto dei fatti (Dossier Json).
-2. **Judge Estetico:** Valida lo stile penalizzando il burocratese (Vocabolario Astratto), la "Regola del 3" (Liste Nascoste) e imponendo la *Regola di Gary Provost* (Varianza Ritmica).
+1. **Logical Check:** Validates the logic, structural adherence, and respect for the facts (Dossier Json).
+2. **Aesthetic Judge:** Validates the style by penalizing bureaucratese (Abstract Vocabulary), the "Rule of 3" (Hidden Lists), and enforcing *Gary Provost's Rule* (Rhythmic Variance).
 
-Evoluzione Dinamica (Safe-Fail): Se il testo viene bocciato per 3 iterazioni consecutive senza progressi direzionali, il Critico deve segnalare il blocco in `ACTIVITY.log` e adattare la regola, prevenendo loop di budget infiniti.
-Questo è il processo ciclico da ripetere per ogni "Unità Minima" (Scena, Paragrafo o Sottocapitolo).
+Dynamic Evolution (Safe-Fail): If the text is rejected for 3 consecutive iterations without directional progress, the Critic must flag the blockage in `ACTIVITY.log` and adapt the rule, preventing infinite budget loops.
+This is the cyclical process to repeat for every "Minimal Unit" (Scene, Paragraph, or Subchapter).
 
-FASE 1: INIZIALIZZAZIONE (Setup e Pianificazione Bidirezionale)
-L'utente non si limita a lanciare il progetto. L'Architetto DEVE fare domande esplorative per estrarre le "assunzioni implicite" (Bidirectional Planning) prima di forgiare il `CONFIG.md`:
+PHASE 1: INITIALIZATION (Setup and Bidirectional Planning)
+The user does not merely launch the project. The Architect MUST ask exploratory questions to extract the "implicit assumptions" (Bidirectional Planning) before forging `CONFIG.md`:
 
-GENRE: [es. Thriller Cyberpunk / Manuale di Giardinaggio]
-TARGET AUDIENCE E NEMICO: [Contro chi combattiamo? Es. la noia, il complotto]
-TONE (Palette): [es. Keywords (Noir, Cinico) vs Anti-Keywords (Olistico, Accademico)]
-LENGTH_CONSTRAINT E VOLUMI: [es. Totale 60.000 parole, diviso in moduli].
-FORBIDDEN: [es. "Niente deus ex machina" / "Niente bullet points"]
+GENRE: [e.g. Cyberpunk Thriller / Gardening Manual]
+TARGET AUDIENCE AND ENEMY: [Who are we fighting against? e.g. boredom, the conspiracy]
+TONE (Palette): [e.g. Keywords (Noir, Cynical) vs Anti-Keywords (Holistic, Academic)]
+LENGTH_CONSTRAINT AND VOLUMES: [e.g. Total 60,000 words, divided into modules].
+FORBIDDEN: [e.g. "No deus ex machina" / "No bullet points"]
 
-FASE 2: ESPANSIONE FRATTALICA (Zoom In)
-L'Architetto prende il Capitolo X e lo esplode rigorosamente.
-**Regola Anti-Compressione (Scene-Level Generation):** Poiché gli LLM soffrono del "limite di 600 parole" per output (effetto bignami), non si incarica MAI la stesura di un intero capitolo. Il capitolo DEVE essere frammentato in ~6 scene (~1000 parole ciascuna).
+PHASE 2: FRACTAL EXPANSION (Zoom In)
+The Architect takes Chapter X and rigorously explodes it.
+**Anti-Compression Rule (Scene-Level Generation):** Because LLMs suffer from the "600-word limit" per output (the cheat-sheet effect), you NEVER commission the drafting of an entire chapter. The chapter MUST be fragmented into ~6 scenes (~1000 words each).
 
-Esempio Fiction: "L'eroe entra nella caverna" -> 1. L'odore di zolfo. 2. Il primo passo nel buio. 3. L'incontro con il mostro.
-Esempio Saggio: "Come potare le rose" -> 1. Gli strumenti necessari. 2. Il taglio a 45 gradi. 3. La cura post-taglio.
+Fiction Example: "The hero enters the cave" -> 1. The smell of sulfur. 2. The first step into the dark. 3. The encounter with the monster.
+Essay Example: "How to prune roses" -> 1. The tools needed. 2. The 45-degree cut. 3. Post-cut care.
 
-FASE 3: IL CICLO DI PRODUZIONE (Ralph Loop)
-Per ogni "Beat" definito sopra:
+PHASE 3: THE PRODUCTION CYCLE (Ralph Loop)
+For every "Beat" defined above:
 
-1. **Context Fetching (Il Ricercatore):**
-   - Carica i dati necessari (Shadow Data, schede personaggio, dati tecnici).
-   - Crea `context_current_beat.md`.
+1. **Context Fetching (The Researcher):**
+   - Loads the needed data (Shadow Data, character sheets, technical data).
+   - Creates `context_current_beat.md`.
 
-2. **Drafting (L'Artigiano - DSR Loop):**
-   - **Stage 1 (Prose Engine):** Legge il contesto e scrive la scena in forma di prosa narrativa densa (Novel style). Salva in `draft_prose.md`.
-   - **Stage 2 (Refinement Engine):** Legge `draft_prose.md` + `STYLE_BIBLE.md` e raffina il testo nel formato e stile finale. Salva in `draft_final.md`.
+2. **Drafting (The Craftsman - DSR Loop):**
+   - **Stage 1 (Prose Engine):** Reads the context and writes the scene as dense narrative prose (Novel style). Saves to `draft_prose.md`.
+   - **Stage 2 (Refinement Engine):** Reads `draft_prose.md` + `STYLE_BIBLE.md` and refines the text into the final format and style. Saves to `draft_final.md`.
 
 3. **Validation (System 2 Audit):**
-   - **Check Logico (Il Critico):** Il nome del protagonista è corretto? I dati sono 100% veri? Aderenza al BLUEPRINT?
-   - **Judge Estetico (Anti-AI Judge):** C'è varianza ritmica? Manca il burocratese AI? Rispetta i divieti della STYLE_BIBLE?
+   - **Logical Check (The Critic):** Is the protagonist's name correct? Is the data 100% true? Adherence to the BLUEPRINT?
+   - **Aesthetic Judge (Anti-AI Judge):** Is there rhythmic variance? Is AI bureaucratese absent? Does it respect the STYLE_BIBLE's prohibitions?
 
-FAIL: Se score < 8.5/10, l'errore specifico (Feedback Loop) va annotato nel `ACTIVITY.log` e l'Artigiano riparte dallo Stage 2 (o Stage 1 se l'errore è logico). Se i fallimenti superano i 3 tentativi, applicare *Evoluzione Dinamica*.
-PASS: Il testo finale viene appeso al MASTER_DRAFT.md.
+FAIL: If score < 8.5/10, the specific error (Feedback Loop) is recorded in `ACTIVITY.log` and the Craftsman restarts from Stage 2 (or Stage 1 if the error is logical). If failures exceed 3 attempts, apply *Dynamic Evolution*.
+PASS: The final text is appended to MASTER_DRAFT.md.
 
-4. ESEMPI DI ADATTAMENTO (Use Cases)
-Ecco come configurare il Critico (il Linter) per due progetti opposti.
+4. ADAPTATION EXAMPLES (Use Cases)
+Here is how to configure the Critic (the Linter) for two opposite projects.
 
-CASO A: ROMANZO FANTASY ("Il Trono di Cristallo")
-Istruzioni per il Critico:
+CASE A: FANTASY NOVEL ("The Throne of Crystal")
+Instructions for the Critic:
 
-Check 1 (Show Don't Tell): Se trovi frasi come "Luigi era triste", blocca e richiedi descrizione fisica (lacrime, spalle curve).
+Check 1 (Show Don't Tell): If you find sentences like "Luigi was sad", block and require a physical description (tears, slumped shoulders).
 
-Check 2 (Lore Consistency): Controlla nel world_bible.md. Se la magia costa energia vitale, il protagonista è stanco dopo l'incantesimo? Se no -> REJECT.
+Check 2 (Lore Consistency): Check world_bible.md. If magic costs life energy, is the protagonist tired after the spell? If not -> REJECT.
 
-Check 3 (Dialogue): Il dialogo supera il 40% del testo? -> WARNING.
+Check 3 (Dialogue): Does dialogue exceed 40% of the text? -> WARNING.
 
-CASO B: MANUALE TECNICO ("Python per Principianti")
-Istruzioni per il Critico:
+CASE B: TECHNICAL MANUAL ("Python for Beginners")
+Instructions for the Critic:
 
-Check 1 (Clarity): Ci sono frasi lunghe più di 3 righe? -> REJECT (Semplificare).
+Check 1 (Clarity): Are there sentences longer than 3 lines? -> REJECT (Simplify).
 
-Check 2 (Formatting): Il codice è formattato nei blocchi corretti? -> REJECT.
+Check 2 (Formatting): Is the code formatted in the correct blocks? -> REJECT.
 
-Check 3 (Accuracy): (Richiede plugin code interpreter) Il codice d'esempio funziona? -> REJECT se errore.
+Check 3 (Accuracy): (Requires code interpreter plugin) Does the example code work? -> REJECT if error.
 
-Check 4 (Tone): Ci sono metafore inutili? -> REJECT (Mantenere secco e diretto).
+Check 4 (Tone): Are there useless metaphors? -> REJECT (Keep it dry and direct).
 
-5. SYSTEM PROMPT DI ATTIVAZIONE (Generico)
-Copia questo prompt per avviare G.E.N.E.S.I.S. su qualsiasi progetto:
+5. ACTIVATION SYSTEM PROMPT (Generic)
+Copy this prompt to start G.E.N.E.S.I.S. on any project:
 
-"Attiva protocollo G.E.N.E.S.I.S.
+"Activate the G.E.N.E.S.I.S. protocol.
 
-1. DEFINIZIONE PROGETTO: Chiedimi di compilare i seguenti campi:
-   - TITOLO
-   - GENERE
-   - OBIETTIVO (Tone/Voice)
-   - STRUTTURA MACRO
-   - VINCOLI DI STILE (STYLE_BIBLE)
+1. PROJECT DEFINITION: Ask me to fill in the following fields:
+   - TITLE
+   - GENRE
+   - OBJECTIVE (Tone/Voice)
+   - MACRO STRUCTURE
+   - STYLE CONSTRAINTS (STYLE_BIBLE)
 
-2. ISTANZIAZIONE AGENTI: Configura le Personas:
-   - L'ARCHITETTO (Strategy)
-   - IL RICERCATORE (Context/Shadow Data)
-   - L'ARTIGIANO (Drafting via DSR: Stage 1 Prose, Stage 2 Refinement)
-   - IL CRITICO (Validation: Logic & Aesthetics)
+2. AGENT INSTANTIATION: Configure the Personas:
+   - THE ARCHITECT (Strategy)
+   - THE RESEARCHER (Context/Shadow Data)
+   - THE CRAFTSMAN (Drafting via DSR: Stage 1 Prose, Stage 2 Refinement)
+   - THE CRITIC (Validation: Logic & Aesthetics)
 
-3. START: Attendi il mio input 'START' per generare il BLUEPRINT.md iniziale.
+3. START: Wait for my 'START' input to generate the initial BLUEPRINT.md.
 
-Modalità operativa: Ralph Wiggum (Stateless + DSR Generation + Validation Loops). Nessuna allucinazione, solo ciò che è scritto nei file di contesto."
+Operating mode: Ralph Wiggum (Stateless + DSR Generation + Validation Loops). No hallucination, only what is written in the context files."

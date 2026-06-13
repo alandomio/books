@@ -1,5 +1,8 @@
 # 🎭 CLASSE FRATTALE: LO ZOO DELLE PERSONAE (STILI NARRATIVI)
 
+> **Scope:** Solo voci narrative per il Writer agent (Personas 1–17).
+> I ruoli funzionali del pipeline (Architetto, Ricercatore, Scrittore, Editor) sono in `ralph-agent-roles.md`.
+
 Questa memoria funge da catalogo per la selezione dello **Stile (Tone/Voice)** durante la Fase 2 del Kickstart.
 
 ## 🚀 NUOVE TECNICHE (Migliorare l'Autenticità)
@@ -119,24 +122,5 @@ Quando imposti il `PROMPT.md`, definisci la Persona principale, l'influenza seco
 
 ---
 
-## 🤖 METODOLOGIA RALPH V5: SPECIALIST LOOPS
-
-A partire dalla Versione 5.0, Serena non genera più un unico `PROMPT.md` multi-ruolo, ma un **Kit di Personae Autonome** che comunicano tramite il File System.
-
-### 18. L'ARCHITETTO (The Structural Mind)
-*   **Sede:** `ralph/prompts/architect.md`
-*   **Missione:** Definire la causalità e i beat del capitolo. Niente prosa. Solo struttura.
-
-### 19. IL RICERCATORE MULTI-PROSPETTIVA (The Global Scout)
-*   **Sede:** `ralph/prompts/researcher.md`
-*   **Missione:** Web research avanzata. Deve estrarre dati da fonti ufficiali, siti neutrali e fonti con interessi divergenti per triangolare la verità.
-*   **Tecnica:** Triangolazione dei fatti su 3 assi (Ufficiale, Indipendente, Contrarian).
-
-### 20. IL SCRITTORE FRATTALE (The Prose Engine)
-*   **Sede:** `ralph/prompts/writer.md`
-*   **Missione:** Trasformare il dossier in prosa seguendo la Persona scelta. Ha visibilità solo sul dossier corrente e sulle Style Rules.
-
-### 21. IL VAR EDITORIALE (The Quality Judge)
-*   **Sede:** `ralph/prompts/editor.md`
-*   **Missione:** Validazione binaria (PASS/FAIL) basata su: Densità informativa, Assenza di pattern a tre, Aderenza al Word Count.
+> I ruoli pipeline (L'Architetto, Il Ricercatore, Lo Scrittore, Il VAR Editoriale) sono in `ralph-agent-roles.md`.
 
