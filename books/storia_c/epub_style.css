@@ -1,0 +1,218 @@
+/* CHRONOS: Ai Confini dell'Impero — EPUB stylesheet */
+/* Stesso linguaggio visivo di style.css (PDF), adattato per reflow EPUB:
+   niente @page/numerazione stampa, niente page-break forzati oltre l'inizio capitolo. */
+
+body {
+    font-family: "Georgia", "Times New Roman", serif;
+    font-size: 1em;
+    line-height: 1.5;
+    text-align: justify;
+    hyphens: auto;
+    margin: 0;
+    padding: 0;
+    color: #1a1a1a;
+}
+
+h1 {
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    font-size: 1.8em;
+    font-weight: 800;
+    margin-top: 0;
+    margin-bottom: 0.3em;
+    page-break-before: always;
+    text-align: left;
+    color: #0d2b45;
+    border-bottom: 4px solid #c8862b;
+    padding-bottom: 0.25em;
+}
+
+h2 {
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    font-size: 1.3em;
+    font-weight: 700;
+    margin-top: 1.8em;
+    margin-bottom: 0.15em;
+    color: #0d2b45;
+}
+
+h3 {
+    font-size: 1.1em;
+    margin-top: 1.2em;
+    margin-bottom: 0.5em;
+    font-weight: bold;
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    color: #333;
+}
+
+.byline {
+    display: block;
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    font-size: 0.75em;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: #c8862b;
+    margin-bottom: 1.4em;
+}
+.byline::before { content: "✎ "; }
+
+p {
+    margin-top: 0.6em;
+    margin-bottom: 0;
+    text-indent: 1.2em;
+}
+h1+p, h2+p, h3+p, .byline+p {
+    text-indent: 0;
+    margin-top: 0.6em;
+}
+
+blockquote {
+    font-family: "Courier New", monospace;
+    font-size: 0.9em;
+    background-color: #f4f1ea;
+    border-left: 4px solid #0d2b45;
+    padding: 1em 1.2em;
+    margin: 1.5em 0;
+    color: #222;
+}
+blockquote p { text-indent: 0; }
+
+p strong:first-child { color: #0d2b45; }
+
+nav#TOC ul { list-style-type: none; padding-left: 0; margin: 0; }
+nav#TOC ul ul { padding-left: 1.5em; margin-top: 0.2em; margin-bottom: 0.2em; }
+nav#TOC li { margin-bottom: 0.5em; }
+nav#TOC a { text-decoration: none; color: #0d2b45; }
+
+/* --- GAMIFICATION / HUD BOXES (identiche a style.css, unità relative) --- */
+
+.scan-result {
+    background-color: #142230;
+    color: #4fd67a;
+    border: 2px solid #4fd67a;
+    border-radius: 4px;
+    padding: 1em;
+    margin: 1.4em 0;
+    font-family: "Courier New", monospace;
+    font-size: 0.85em;
+}
+.scan-result h4, .scan-result h3 {
+    margin-top: 0;
+    border-bottom: 1px dashed #4fd67a;
+    padding-bottom: 0.3em;
+    margin-bottom: 0.6em;
+    font-size: 1.1em;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    color: #fff;
+    font-weight: bold;
+}
+.scan-result ul { list-style-type: none; padding-left: 0; margin: 0; }
+.scan-result li { margin-bottom: 0.4em; padding-left: 1em; position: relative; }
+.scan-result li::before { content: ">"; position: absolute; left: 0; color: #4fd67a; }
+.scan-result strong { color: #fff; }
+
+.target-profile {
+    border: 3px solid #0d2b45;
+    border-radius: 12px;
+    padding: 1.2em;
+    margin: 1.4em 0;
+    background-color: #faf7f0;
+}
+.target-profile h3, .target-profile h4 {
+    margin-top: 0;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: #0d2b45;
+    color: #fff;
+    padding: 0.4em 0.6em;
+    border-radius: 6px;
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+}
+.target-profile ul { list-style-type: none; padding: 0; margin-top: 0.8em; }
+.target-profile li {
+    margin-bottom: 0.4em;
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    font-size: 0.9em;
+    border-bottom: 1px solid #e0dccd;
+    padding-bottom: 0.2em;
+}
+.target-profile strong { color: #c8862b; }
+
+.reality-check {
+    background-color: #fdf3e2;
+    border: 2px solid #f0dba8;
+    border-left: 5px solid #c8862b;
+    border-radius: 4px;
+    padding: 1em 1em 1em 2.6em;
+    margin: 1.4em 0;
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    font-size: 0.9em;
+    position: relative;
+}
+.reality-check h4, .reality-check h3 {
+    margin-top: 0;
+    color: #8a5a10;
+    font-size: 1.1em;
+    text-transform: uppercase;
+    margin-bottom: 0.5em;
+    border-bottom: 1px solid #f0dba8;
+    padding-bottom: 0.3em;
+    font-weight: bold;
+}
+.reality-check ul { margin: 0; padding-left: 1.2em; list-style-type: disc; }
+.reality-check li { margin-bottom: 0.3em; color: #333; }
+
+.memo-box {
+    background-color: #e7f1f5;
+    border: 2px solid #c3dfe8;
+    border-left: 5px solid #2e7d94;
+    border-radius: 4px;
+    padding: 1em 1em 1em 2.6em;
+    margin: 1.4em 0;
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    font-size: 0.85em;
+}
+.memo-box h4, .memo-box h3 {
+    margin-top: 0;
+    color: #17505e;
+    font-size: 1.1em;
+    text-transform: uppercase;
+    margin-bottom: 0.5em;
+    border-bottom: 1px solid #c3dfe8;
+    padding-bottom: 0.3em;
+    font-weight: bold;
+}
+.memo-box ul { margin: 0; padding-left: 1.2em; list-style-type: none; }
+.memo-box li { margin-bottom: 0.4em; color: #333; }
+.memo-box strong { color: #2e7d94; }
+
+.checkpoint {
+    background-color: #fff9ed;
+    border: 2px dashed #c8862b;
+    border-radius: 4px;
+    padding: 1em 1.1em;
+    margin: 1.6em 0;
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    font-size: 0.95em;
+}
+.checkpoint h3, .checkpoint h4 {
+    margin-top: 0;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    font-size: 1.05em;
+    color: #c8862b;
+    border-bottom: 1px dashed #c8862b;
+    padding-bottom: 0.5em;
+    margin-bottom: 0.6em;
+}
+.checkpoint ul { list-style-type: none; padding-left: 0; margin: 0.6em 0; }
+.checkpoint li {
+    margin-bottom: 0.4em;
+    padding: 0.4em 0.6em;
+    background: #fff;
+    border: 1px solid #e6d3ac;
+    border-radius: 3px;
+}
+.checkpoint strong { color: #0d2b45; }

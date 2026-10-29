@@ -1,0 +1,387 @@
+# Capitolo 2 — La Frattura Religiosa
+
+## Briefing
+
+Alex, Maja: il salto comincia il 31 ottobre 1517, all'inizio del Cinquecento, e vi terrà sulle tracce fino al 1564. Nel capitolo precedente avete seguito merci, dazi e mappe. Adesso seguite qualcosa di più leggero e molto più pericoloso: parole religiose stampate su carta.
+
+Il manuale propone questa catena: nel 1517 Lutero attacca le indulgenze → la stampa moltiplica le sue idee → l'Europa si spacca fra riformati e cattolici → Roma risponde proibendo i libri. E nelle terre slovene la Riforma arriverebbe come un'idea tedesca semplicemente tradotta.
+
+Qualcosa non torna. Tra le novantacinque affermazioni di Wittenberg e i primi libri stampati in sloveno passano trentatré anni, diversi confini e un problema che nessuna freccia del manuale nomina: quelle pagine sono destinate a gente che non sa ancora decifrarle.
+
+La vostra missione è raccogliere cinque prove, pesarne l'affidabilità e ricostruire la vera catena degli eventi.
+
+## OBIETTIVI DEL SALTO (SCENE)
+
+### 1. Una Crepa, Due Riforme (Wittenberg, Norimberga e Ginevra, 1517-1541) — voce: Alex
+
+Un frate che spedisce una lettera, un tipografo che stampa senza permesso.
+**Prova da raccogliere:** che cosa mette in moto la protesta sulle indulgenze, e se il torchio produca una dottrina sola.
+
+### 2. La Stanza Delle Tre Lingue (Trieste, 1524-1542) — voce: Alex
+
+Un vescovo cattolico con Erasmo sul tavolo, un ragazzo di campagna nel coro.
+**Prova da raccogliere:** quali persone, letture e lingue formano il giovane Trubar.
+
+### 3. Un Libro Senza Casa (Rothenburg e Schwäbisch Hall, 1548-1550) — voce: Maja
+
+Un esilio, una casa sequestrata, un torchio a porte sbarrate.
+**Prova da raccogliere:** quali ostacoli separano un autore in fuga da un libro stampato in sloveno.
+
+### 4. Le Pagine Che Mancavano (Carniola e Schwäbisch Hall, 1550-1555) — voce: Maja
+
+Otto fogli, sedici facciate, una stanza di fumo dove nessuno sa leggere.
+**Prova da raccogliere:** a chi servono i due libri del 1550, e quali prove mostrano che arrivano in Carniola.
+
+### 5. Il Filtro E La Scuola (Trento e Roma, 1540-1564) — voce: Alex
+
+Una navata gelata e due commissari che aprono le casse senza avvisare.
+**Prova da raccogliere:** distinguere dottrina, scuole e controllo dei testi, senza darli per nati tutti insieme.
+
+Il rapporto lo firmano in due. Alex raccoglie le prove sulla frattura europea e sul crocevia dell'Alto Adriatico; Maja segue dall'interno l'esilio, la lingua e i lettori delle terre slovene.
+
+E attenzione: una porta ricordata trent'anni dopo, una lettera del 1517, un frontespizio senza città e un decreto papale non pesano allo stesso modo.
+
+---
+
+## Una Crepa, Due Riforme
+<span class="byline">Cronaca di Alex</span>
+
+Prima dell'odore arriva un suono: un raschio corto e ripetuto, come un'unghia su una lastra. Poi l'odore. È cera calda, con sotto un fondo di fuliggine.
+
+Un uomo con la tonsura piega un foglio, scioglie il bastoncino di cera sulla fiamma, preme.
+
+*MEMO, dove sono finito?*
+
+**MEMO:** *"Wittenberg, 31 ottobre 1517. Il soggetto è Martin Lutero, frate agostiniano e docente di teologia. Il documento sigillato è una lettera di protesta indirizzata all'arcivescovo di Magonza, Alberto di Brandeburgo."*
+
+Una lettera. E io ero venuto per il martello.
+
+Perché a scuola me l'hanno raccontata come una scena da film: le tesi inchiodate alla porta della chiesa, il legno che rimbomba, la folla. Qui non c'è nessuna folla. C'è un frate che spedisce posta, con le dita macchiate di cera.
+
+**Alex:** "Scusa — quelle novantacinque affermazioni. Le stai attaccando a una porta?"
+
+**Lutero:** "Le mando ai vescovi, perché sono loro che devono rispondere. E le propongo ai dottori di questa università, in latino, perché siano discusse una per una. È una disputa fra maestri, non un bando al popolo."
+
+**Alex:** "Discussa su cosa? Che problema hai con le indulgenze?"
+
+**Lutero:** "Che si tratta come merce ciò che nessun denaro può comprare. Qui vicino un predicatore promette la remissione delle pene ai vivi e ai defunti per moneta contante. Se nel cuore non c'è dolore vero, nessuna carta salva nessuno."
+
+Nessuna parola sull'abolire il papa. Un frate che chiede risposta a un arcivescovo, per iscritto.
+
+**MEMO:** *"Nota sulla prova. La lettera del 31 ottobre 1517 è documentata. L'affissione alla porta è raccontata per la prima volta da un collega di Lutero nel 1546, e quel collega arrivò a Wittenberg soltanto nel 1518."*
+
+Quindi: se quel foglio finì sulla porta, ci finì con la colla su una bacheca universitaria, non coi chiodi. Prima riga del rapporto, e già mi sento derubato di una scena.
+
+Pochi mesi dopo, a Norimberga, il rumore è di un altro pianeta. Un tonfo cadenzato, il cigolio di una vite di legno grossa come una gamba, un'aria che brucia il fondo della gola: olio di lino bollito con resina di pino e fuliggine di noce. Sopra la mia testa, fogli ad asciugare su corde di crine di cavallo; sul bancone, mazze di cuoio imbottite di lana e risme umide sotto tavole zavorrate di pietre.
+
+**Alex:** "Perché la carta è bagnata? Non si rovina?"
+
+**Il tipografo:** "Asciutta è dura e respinge l'inchiostro: l'impressione viene pallida, o il foglio si strappa. La sera prima la spruzzo d'acqua e la carico di peso fino al mattino. La fibra si ammorbidisce, e il piombo entra nella carta invece di scivolarci sopra."
+
+**Alex:** "E questo cosa stai stampando?"
+
+**Il tipografo:** "Le affermazioni del frate di Wittenberg. Me le ha portate un dottore, non lui. Vanno come il pane."
+
+**Alex:** "Aspetta. Le stampi senza che l'autore lo sappia?"
+
+**Il tipografo:** "L'autore ha scritto in latino per i dotti. Ma a Basilea e a Lipsia già le ristampano, e qualcuno le sta voltando in tedesco perché le capiscano i lavoranti. Da qui in poi non le comanda più lui."
+
+Ecco la crepa vera, e non è sulla porta di una chiesa. È nel momento in cui una pagina si moltiplica e il significato passa di mano. Le tirature dell'epoca si stimano fra cinquecento e millecinquecento copie per edizione, e nei primi mesi del 1518 una questione fra professori diventa europea. Ma senza principi che ti proteggono dall'imperatore, un foglio stampato resta un foglio.
+
+Poi un salto in avanti, a Ginevra, e mi crolla l'ultima certezza.
+
+**Alex:** "Quindi tu e il frate di Wittenberg dite la stessa cosa, no? Siete la stessa squadra."
+
+**Calvino:** "Non è una squadra. Al centro sta la sovranità di Dio, e Dio non deve conto a nessuno: da prima del tempo ha stabilito chi riceve la grazia e chi la giustizia. Le opere buone non comprano nulla — sono il segno che la grazia già lavora in un uomo."
+
+Due uomini, due dottrine. E la parola con cui a scuola li mettiamo nella stessa casella non esiste ancora nel 1517: nasce nel 1529, dalla protesta di alcuni principi contro l'imperatore in una dieta imperiale.
+
+::: memo-box
+### MEMO GLOSSARIO
+
+*   **Indulgenza:** la remissione della pena per i peccati già perdonati, concessa dalla Chiesa. Il problema del 1517 non è l'indulgenza, ma il pagamento a cui viene collegata.
+*   **Giustificazione per fede:** il centro di Lutero. La salvezza è un dono gratuito di Dio, ricevuto per la fede, non il frutto di opere o di somme versate.
+*   **Predestinazione:** il centro di Calvino. Dio ha stabilito dall'eternità, con un decreto che nessuno può giudicare, chi si salva e chi no.
+:::
+
+Un frate spedisce una lettera. Un tipografo la trasforma in merce. Un altro teologo, altrove, ne ricava una dottrina diversa. Tre gesti, e nessuno controlla più dove vada il foglio.
+
+---
+
+## La Stanza Delle Tre Lingue
+<span class="byline">Cronaca di Alex</span>
+
+La pietra mi entra nei piedi prima che negli occhi. È pietra d'Istria levigata dai passi, e tiene un freddo che il sole di fuori non scioglie. Con il freddo arriva l'odore di cera d'api delle candele, e dentro la cera, sottile, il sale del golfo.
+
+Le finestre non sono finestre: sono tondi di vetro spesso incastrati nel piombo, che deformano il mare in venti macchie. Dalla cattedrale, sotto, salgono voci di ragazzi che provano lo stesso passaggio per la quarta volta.
+
+*MEMO, coordinate.*
+
+**MEMO:** *"Trieste, 1524. Palazzo vescovile presso la cattedrale di San Giusto. Il vescovo è Pietro Bonomo, sessantasei anni, già diplomatico imperiale e gran cancelliere del duca Ferdinando d'Austria."*
+
+Sul tavolo di noce, tomi rilegati in pelle di scrofa con fermagli di bronzo, e un fruscio secco di pergamena ogni volta che l'uomo gira una carta. Io mi ero preparato a un vescovo che manda gente al rogo. Questo legge ad alta voce a due ragazzi in tonaca semplice le *Parafrasi* dei Vangeli di Erasmo da Rotterdam, e mezz'ora dopo passa a Virgilio.
+
+**Alex:** "Scusi... lei è un vescovo cattolico e legge questi libri ai suoi chierici?"
+
+**Bonomo:** "Leggo ciò che aiuta a capire il testo sacro. Qui arrivano scritti da Wittenberg, da Zurigo, da Ginevra, e li apro come una lettera indirizzata a me. Da questo a separarmi dalla mia sede c'è tutta la distanza del mondo."
+
+Uno dei due ragazzi mi guarda come si guarda un intruso. Ha sedici anni, mani spesse da lavoro contadino, e canta nel coro.
+
+**Alex:** "E tu chi sei? Come si finisce qui, in un palazzo, da..."
+
+**Primož Trubar:** "Da Rašica. Mio padre è mugnaio. Sono venuto a servire: canto le ore e le messe nel coro, servo a tavola, copio atti. In cambio ho la mensa dei servitori, un posto in camerata, la tonaca — e la biblioteca del vescovo e le lezioni dei precettori, senza pagare un soldo."
+
+**Alex:** "Quindi lavori per studiare."
+
+**Trubar:** "Un figlio di mugnaio non ha altra strada per arrivare ai libri. E in questa casa i libri parlano in quattro lingue."
+
+Quattro, non tre. Latino per gli atti, italiano per la città, tedesco per la corte asburgica, sloveno fra i chierici dell'entroterra. Non è una casa dove le lingue si escludono: è una casa dove si impara a farle passare una nell'altra. È l'attrezzo che gli servirà ventisei anni più tardi.
+
+Quello che Bonomo gli dà non è una dottrina pronta all'uso. È un patronato: appoggi concreti, uno dopo l'altro, per anni.
+
+**MEMO:** *"Cronologia documentata. 1527: Bonomo assegna a Trubar i benefici della parrocchia di Loka pri Zidanem Mostu, per finanziargli gli studi di teologia a Vienna. 1529: Trubar interrompe gli studi per l'assedio ottomano della città. 1530: Bonomo lo ordina sacerdote cattolico e lo nomina vicario a Laško."*
+
+Sacerdote cattolico. Ordinato dalle mani di questo vescovo, in questa cattedrale.
+
+Torno nel 1540, e l'aria è cambiata. Trubar è di nuovo qui, ma non per studiare: si è messo nei guai con le autorità provinciali a Lubiana, e Bonomo se lo tiene in casa come cappellano, a predicare — in sloveno. E in cattedrale ha invitato due religiosi italiani con idee molto discusse.
+
+**Alex:** "Ma allora lei da che parte sta?"
+
+**Bonomo:** "Dalla parte di una Chiesa che si corregga da dentro. Chi confonde questo con l'abbandonare la mia sede non ha capito né me né la mia età."
+
+Sulla sua fede la prova resta scomoda. In una lettera del 1561, quindici anni dopo i fatti, Trubar scriverà che Bonomo morendo prese la comunione sotto le due specie, come usavano i riformati. Ma di abiura non esiste documento: fino all'ultimo giorno resta, formalmente, vescovo cattolico di Trieste. Un uomo aperto, non un convertito.
+
+::: memo-box
+### MEMO GLOSSARIO
+
+*   **Volgare:** la lingua parlata di un luogo, contro il latino dei documenti e della liturgia. Predicare in volgare è parlare la lingua di chi ascolta.
+*   **Patronato:** la protezione stabile che un potente offre a un giovane — vitto, alloggio, studi, incarichi — in cambio di servizio. Nel Cinquecento è la via d'accesso all'istruzione per chi non ha ricchezza di famiglia.
+*   **Canonicato:** l'incarico e la rendita di canonico, membro del capitolo di una cattedrale. Bonomo si muove perché Trubar lo ottenga, e nel 1542 lo assume.
+:::
+
+Dalla casa di Bonomo, Trubar esce con un'ordinazione cattolica, una rendita, una biblioteca letta e il mestiere di far passare le parole da una lingua all'altra. Non con un libro in mano.
+
+---
+
+## Un Libro Senza Casa
+<span class="byline">Cronaca di Maja</span>
+
+C'è una casa a Lubiana che non è più di nessuno. L'hanno sequestrata due tribunali, quello ecclesiastico e quello provinciale, insieme alle rendite delle parrocchie, con sentenza contro un uomo che non si è presentato a difendersi. Nel marzo del 1548 quell'uomo è già oltre le montagne.
+
+Lo raggiungo due anni dopo, in una città tedesca, e la prima cosa che sento non è un odore. È un ritmo: un tonfo, una pausa, un tonfo. Sotto il ritmo, sego bruciato delle lucerne e piombo. Il piombo lo senti sui denti prima che nel naso.
+
+Le porte della bottega sono sbarrate dall'interno, in pieno orario di lavoro.
+
+**Maja:** "Perché tenete chiuso? Non è di notte."
+
+**Peter Frentz:** "Perché quello che sta sotto il torchio non può essere trovato qui. L'ordinanza imperiale è chiara: chi stampa scritti come questi perde licenza e officina. Ho tre lavoranti e una moglie, ragazza."
+
+Il compositore pesca caratteri dai cassettini inclinati del bancone. Lega di piombo, stagno e antimonio: i polpastrelli sono neri e ruvidi come carta vetrata. Prende una lettera, la posa, prende la successiva. Al rovescio.
+
+E adesso la cosa che nessuno mi ha mai raccontato — non a scuola, non a casa, in nessun libro che i miei compagni abbiano aperto.
+
+**Maja:** "In che lingua è il testo che stai componendo?"
+
+**Il compositore:** "Non lo so. Non capisco una parola di quello che monto. Nemmeno il correttore la capisce. Confrontiamo le forme: guardo la lettera scritta sul manoscritto, cerco la stessa nel cassetto, la metto. Se le due figure combaciano, la pagina è giusta."
+
+Il primo libro stampato nella mia lingua l'hanno montato, lettera per lettera, uomini che non sapevano cosa dicevano. E non è un incidente: è l'unica soluzione possibile, progettata dall'autore.
+
+Perché un esule che sorveglia un torchio proibito attira gli ispettori. Ha preparato il manoscritto in una calligrafia di leggibilità estrema, perché un tedesco che non sa lo sloveno possa confrontarla carattere su carattere senza sbagliare. Il correttore lavora sulla forma. Non sul senso.
+
+**Maja:** "E lui dov'è, adesso?"
+
+**Frentz:** "A Rothenburg fa il predicatore aggiunto. Viene, porta i fogli, controlla, riparte. Nel libro non c'è il suo nome."
+
+Non c'è il suo nome, non c'è la città, non c'è la data. Al posto dell'autore un nome latino inventato, *Philopatridus Illyricus*, "il patriota illirico"; al posto dello stampatore un altro nome falso. Un libro mascherato per non far chiudere la bottega che lo stampa.
+
+::: target-profile
+### SCHEDA PERSONAGGIO: Primož Trubar
+
+*   **Ruolo:** nato a Rašica intorno al 1508, figlio di un mugnaio; sacerdote cattolico dal 1530, poi predicatore riformato; dal 1548 esule e condannato in contumacia.
+*   **Forza:** 2 — niente eserciti, titoli o rendite: gli restano una rete di conoscenze e la capacità di ricominciare da zero.
+*   **Intelligenza:** 5 — legge latino, tedesco e italiano, e progetta una correzione che regge con un tipografo che non capisce il testo.
+*   **Carisma:** 4 — convince protettori tedeschi a pagare libri in una lingua che nessuno di loro sa leggere.
+*   **Abilità Speciale:** trasforma la lingua dei contadini della Carniola in una lingua che entra in tipografia — e ci entra sotto falso nome, in un anno in cui stamparla è reato.
+:::
+
+Prima di Rothenburg c'è stata Norimberga. Ma il progetto non nasce a Lubiana, dove aveva una casa e delle parrocchie: nasce quando gliele portano via.
+
+**Maja:** "Perché non ha scritto in tedesco? Lo parla, lo scrive, qui lo capirebbero tutti."
+
+**Frentz:** "Dice che i suoi non capiscono il tedesco, e che vuole che la fede la sentano nelle parole con cui parlano tra loro. Ha scelto una parlata sola, quella delle terre di mezzo della Carniola, anche per chi altrove dice le cose in altro modo."
+
+Una lingua che entra in tipografia deve scegliere. Nessuno ha votato: ha deciso un esule, con un torchio prestato e una fretta enorme.
+
+::: memo-box
+### MEMO GLOSSARIO
+
+*   **Esilio:** chi non può rientrare in patria senza essere arrestato. Trubar si nasconde dal settembre 1547, da quando il nuovo vescovo di Lubiana colpisce i simpatizzanti riformati, e fugge nel marzo 1548.
+*   **Censura preventiva:** il controllo *prima* della stampa. Non punisce un libro uscito: impedisce che esca. Nel 1548 un'ordinanza imperiale vieta le opere riformate, con la chiusura dell'officina come pena.
+*   **Catechismo:** un libro che insegna la fede per domande e risposte, da imparare a memoria. È il libro con cui si insegna: per questo è il primo formato scelto per lo sloveno.
+:::
+
+E il luogo? Per due secoli tutti hanno scritto Tubinga, perché Trubar stesso, molti anni dopo, ricordò le sue opere come stampate nel Württemberg. Nel 2013 due ricerche indipendenti hanno confrontato i caratteri gotici e una grande "L" intagliata nel legno: appartengono a un solo fondo tipografico, quello di Schwäbisch Hall. Il libro che nascondeva la propria città si è tradito da solo, dopo quattrocentosessantatré anni. Per la forma di una lettera.
+
+::: checkpoint
+### CHECKPOINT: il primo libro sloveno è un veicolo che la Riforma ha reso possibile, o la Riforma deve prima costruirsi una lingua di stampa e un pubblico capace di usarla?
+
+Finora hai raccolto: le novantacinque affermazioni circolano perché una rete di tipografi, traduttori e principi le moltiplica; e l'esilio lascia Trubar senza casa e senza accesso sicuro a un torchio.
+
+*   **A.** La stampa è il motore: quando la dottrina riformata trova un tipografo, lo sloveno è il modo più efficace di consegnare un messaggio già pronto a un pubblico nuovo.
+*   **B.** La stampa non basta: scegliere grafia, parole e strumenti per insegnare a leggere cambia sia il messaggio sia il pubblico — il libro religioso costruisce anche un'infrastruttura linguistica che prima non c'era.
+
+Tieni a mente la tua risposta: il Verdetto te la confermerà, la correggerà, o mostrerà che era tutto più complicato.
+:::
+
+---
+
+## Le Pagine Che Mancavano
+<span class="byline">Cronaca di Maja</span>
+
+Un carrettiere lega una balla di lana grezza sul carro, e dentro la lana c'è un pacco piatto avvolto in un telo cerato. Fogli piegati in ottavo, non rilegati: la legatura si fa a destinazione, perché un fascicolo sciolto pesa meno e si nasconde meglio. Altri viaggiano dentro botti da vino svuotate, o da aringhe, che nessuno apre volentieri. Le piste alpine verso la Carinzia non sono controllate ovunque, e i carrettieri non fanno domande.
+
+Seguo il carro fino in fondo. Arriva a gennaio, in una casa contadina.
+
+Il fumo, prima di tutto. Il focolare è aperto e il camino non c'è: il fumo cerca il tetto da solo, e intanto ti resta negli occhi. Odore di legna e di strutto. Infilata in una fessura del muro, una scheggia di legno resinoso brucia e fa più fumo che luce.
+
+Dieci persone sedute. Uno solo tiene qualcosa in mano.
+
+**Maja:** "Che cos'è quel libretto?"
+
+**L'uomo che legge:** "Otto fogli. Sedici facciate, non numerate. È un abecedario: prima le lettere, poi le sillabe, poi le preghiere e le sei strofe da cantare."
+
+**Maja:** "E perché nessuno degli altri lo tiene in mano?"
+
+**L'uomo:** "Perché nessuno degli altri sa che quei segni sono voci. Io leggo, loro ripetono. Poi cantiamo. Il canto lo tengono a memoria, e quando hanno la strofa in bocca cominciano a riconoscere le lettere."
+
+Ecco la contraddizione che non mi era mai venuta in mente: stampare per chi non sa leggere.
+
+E per anni ho pensato che la storia dei primi libri sloveni fosse la storia di un libro. Sono due, e il secondo nessuno lo cita: sedici facciate che servono a costruire i lettori del primo.
+
+Le stime sulla capacità di leggere nelle terre slovene a metà Cinquecento parlano del due-cinque per cento della popolazione; nelle campagne, meno dell'uno per cento. In quelle condizioni "leggere" significa stare in una stanza dove qualcun altro legge a voce alta.
+
+**Maja:** "Quante copie ne sono arrivate?"
+
+**L'uomo:** "Chi porta i pacchi non dice i numeri, e io non li chiedo."
+
+Non lo sa nessuno, ancora oggi. Le stime sulla tiratura complessiva dei due libri vanno da quattrocento a mille copie, e non si possono stringere: le prefazioni dicono a chi l'autore voleva arrivare, non a chi è arrivato. Dell'*Abecedarium* è sopravvissuto un unico esemplare originale, trovato nel 1935 a Vienna; l'unica copia completa del *Catechismus* è stata riconosciuta nel 1910 in Vaticano.
+
+Due copie superstiti, per un intero primato.
+
+::: scan-result
+### SCANNING: ABECEDARIUM, 1550
+
+*   **Tipo:** libretto per imparare a leggere, con un piccolo catechismo unito.
+*   **Materiale:** carta di stracci, ruvida, con margini irregolari e filoni visibili in controluce; caratteri gotici; in ottavo.
+*   **Consistenza:** 8 fogli, cioè 16 facciate non numerate.
+*   **Dettaglio Tecnico:** contiene la prima comparsa a stampa della parola con cui l'autore chiama i propri compatrioti, e fissa un modello di lingua scritta basato sulle parlate della Carniola centrale.
+*   **Attribuzione controversa:** luogo indicato per due secoli come Tubinga.
+:::
+
+Il fascicolo che l'uomo tiene in mano ha le barbe irregolari lungo il taglio, e la carta gratta le dita. Ha attraversato un valico in pieno inverno restando asciutto: merito del grasso di pecora spalmato sulla pelle che lo avvolgeva.
+
+::: memo-box
+### MEMO GLOSSARIO
+
+*   **Abecedario:** un libretto elementare che insegna lettere e sillabe. Non è un libro da leggere: è un libro per diventare capaci di leggere.
+*   **Alfabetizzazione:** quanta parte di una popolazione sa leggere e scrivere. A metà Cinquecento, nelle terre slovene, si stima fra il due e il cinque per cento.
+*   **Lingua letteraria:** una convenzione scritta valida oltre il singolo villaggio, così che chi parla in modi diversi legga le stesse pagine. Non significa lingua "più bella", né già standardizzata come la mia oggi.
+:::
+
+Una cosa va detta chiara, perché nel 1550 non nasce nessuna lingua. Lo sloveno si parla da secoli, e scritto esiste da prima: i Monumenti di Frisinga, di circa un millennio fa, e manoscritti del Quattrocento. Il primato del 1550 è a stampa, e soltanto a stampa.
+
+Cinque anni più tardi entrambi i libri vengono ristampati, questa volta a Tubinga per davvero, e cambia una cosa che sembra tecnica e non lo è: fuori i caratteri gotici, dentro le lettere latine. Su consiglio di un ex vescovo che conosceva l'area adriatica, perché quelle forme i lettori di qui — quei pochi — già le sanno riconoscere.
+
+Chi vuole essere letto adatta l'alfabeto ai lettori. Non il contrario.
+
+---
+
+## Il Filtro E La Scuola
+<span class="byline">Cronaca di Alex</span>
+
+Il freddo qui non è un'informazione, è un problema. Navata di chiesa a dicembre, umida, il fiato che resta sospeso, i padri conciliari seduti dentro cappe di lana foderate di pelliccia con solo la faccia fuori. Sotto le voci, un rumore che non smette: le penne d'oca dei notai. Raschiano tutte insieme.
+
+**MEMO:** *"Trento, 13 dicembre 1545. Apertura ufficiale del concilio. Si svolgerà in tre periodi distinti, con lunghe interruzioni, e si chiuderà il 4 dicembre 1563."*
+
+Diciotto anni. Io l'avevo in testa come un evento, di quelli che stanno in una riga di cronologia. Dura quasi il doppio della mia vita.
+
+Sul tavolo dei segretari, un anello episcopale premuto nella ceralacca rossa. Il decreto è chiuso.
+
+**Alex:** "Che cosa avete deciso, esattamente?"
+
+**Il segretario apostolico:** "Che la Scrittura e la tradizione degli apostoli valgono insieme, non l'una contro l'altra. Che l'uomo non è giustificato dalla sola fede senza le opere. Che i sacramenti sono sette. E le regole per noi: i vescovi risiedano nella loro diocesi, e ogni diocesi apra una scuola per formare i sacerdoti."
+
+**Alex:** "Una scuola? Pensavo che la risposta fossero i divieti."
+
+**Il segretario:** "I divieti fermano un libro. Una scuola forma chi predicherà per quarant'anni."
+
+Questa mi rovescia una convinzione. Ero arrivato con la caricatura in testa: Roma che brucia tutto e finisce lì. I roghi ci sono davvero — nelle piazze si bruciano libri confiscati. Ma la parte grossa della risposta cattolica non passa dal fuoco: passa dalle aule.
+
+**MEMO:** *"Precisazione cronologica. La Compagnia di Gesù è approvata dal papa il 27 settembre 1540, cinque anni prima dell'apertura del concilio. L'Inquisizione romana è istituita come tribunale centrale il 21 luglio 1542. Nessuna delle due è stata creata dal concilio."*
+
+Quindi il "pacchetto" che a scuola arriva tutto insieme non è mai esistito: sono pezzi montati in venticinque anni, da papi diversi, per problemi diversi. Nel 1548 la Compagnia apre a Messina il suo primo collegio per studenti laici; nel 1551 nasce quello di Roma. Gratuiti, con teologia e materie umanistiche insieme.
+
+E il rinnovamento non nasce come risposta a Lutero: la confraternita di carità fondata a Genova nel 1497 precede di vent'anni le novantacinque affermazioni, e negli anni Venti e Trenta arrivano tre nuovi ordini religiosi.
+
+Poi mi sposto a Roma, e vedo l'altra metà del sistema all'opera. In una bottega di libraio, senza preavviso, entrano due uomini.
+
+**Il libraio:** "Commissari. Faranno la visita."
+
+Aprono le casse a campione. Tirano fuori un volume, controllano il titolo sul frontespizio, poi ne cercano il retro. Uno tiene un registro rilegato: fogli protocollo scritti a mano, con i titoli in ordine alfabetico.
+
+**Alex:** "E quel registro cos'è? Il vostro?"
+
+**Il libraio:** "Il mio. Sono obbligato, sotto giuramento, a tenere il catalogo di tutto ciò che ho in magazzino. Loro confrontano il mio elenco con il loro."
+
+**Alex:** "E il retro del frontespizio? Perché guardano lì?"
+
+**Il libraio:** "Perché lì deve stare la licenza, firmata a mano dall'inquisitore e dal vicario della diocesi. Un libro senza quella firma non è un libro: è una prova contro di me."
+
+**MEMO:** *"Due indici distinti. Quello romano del 1559 proibiva in blocco la produzione di decine di stampatori e tutte le opere di alcuni autori — compreso l'umanista che Bonomo faceva leggere ai suoi chierici. L'Indice tridentino, del 24 marzo 1564, lo sostituisce con dieci regole generali e ammette la Bibbia in volgare solo con licenza scritta."*
+
+Nessuna banca dati, nessuno schedario, nessuna polizia in uniforme. Un elenco di carta contro un altro, e due paia di mani che aprono le casse. Funziona per accumulo di controlli, non per onnipotenza: lontano da Roma l'applicazione è molto più incerta di quanto il decreto lasci credere.
+
+::: memo-box
+### MEMO GLOSSARIO
+
+*   **Riforma cattolica / Controriforma:** due nomi per due facce della stessa vicenda. Il primo è il rinnovamento interno della Chiesa, già attivo prima del 1517; il secondo la reazione organizzata contro la diffusione riformata.
+*   **Inquisizione romana:** tribunale centrale istituito nel 1542 per i casi di eresia. Indaga, processa, esamina i testi: attività distinte, e non tutte finiscono con una condanna.
+*   **Indice dei libri proibiti:** l'elenco dei testi vietati, con le regole per applicarlo. Proibire un titolo non è distruggere le copie: per quello serve qualcuno che entri nelle botteghe.
+:::
+
+Un decreto conciliare prova che una norma è stata scritta. Non prova che in ogni villaggio qualcuno l'abbia applicata. Terza riga del rapporto, e forse la più scomoda da mandare a casa.
+
+---
+
+## Debriefing
+
+Cinque oggetti sullo stesso tavolo: una lettera sigillata, un tomo di Erasmo, un frontespizio con un nome di stampatore falso, otto fogli passati in una balla di lana, un catalogo di bottega confrontato con un elenco romano.
+
+Alex ha inseguito le persone: il frate che spedisce una lettera e non controlla più dove finisce, il vescovo che legge tutto e non firma nulla, il libraio che tiene l'inventario come un alibi. Maja ha inseguito le condizioni materiali: chi apre le porte del torchio, in quale lingua e con quale alfabeto, e chi in fondo alla catena sa aprire il messaggio.
+
+**Verdetto:** regge meglio la lettura B, ma si porta dietro una parte della A. La Riforma creò l'urgenza religiosa e le reti che rendevano utile stampare in sloveno. Ma il primo libro sloveno non scese tradotto da Wittenberg: la formazione plurilingue nella casa di Bonomo, l'esilio dentro reti tipografiche straniere, la scelta di una grafia e di una parlata, la decisione di stampare insieme catechismo e abecedario mostrano un autore che dovette costruire testo e lettori insieme. E la risposta cattolica non fu solo divieto: accanto al controllo dei libri mise dottrina, disciplina dei vescovi e scuole.
+
+::: reality-check
+### CIÒ CHE NON SAPPIAMO ANCORA
+
+*   **La porta di Wittenberg:** l'invio della lettera del 31 ottobre 1517 è documentato; l'affissione delle tesi è raccontata per la prima volta ventinove anni dopo, da chi non era presente. Gli storici discutono ancora se sia avvenuta.
+*   **Dove uscirono i primi due libri sloveni:** Tubinga è l'attribuzione tradizionale, corretta nel 2013 in favore di Schwäbisch Hall. Ordine e datazione esatta restano aperti.
+*   **Quanti lettori, e per quali strade:** tirature, alfabetizzazione e vie clandestine sono stime; i racconti sulle botti, ripetuti da un libro all'altro, non sono da soli un documento.
+:::
+
+::: memo-box
+### CRONOLOGIA ESSENZIALE
+
+*   **1517:** Lutero rende pubbliche le novantacinque tesi sulle indulgenze.
+*   **1540:** approvazione della Compagnia di Gesù.
+*   **1545-1563:** Concilio di Trento.
+*   **1548:** Trubar lascia la Carniola per l'esilio.
+*   **1550:** *Catechismus* e *Abecedarium*, primi libri stampati in sloveno.
+*   **1564:** promulgazione dell'Indice tridentino dei libri proibiti.
+:::
+
+Due sistemi che usano gli stessi attrezzi l'uno contro l'altro: carta, torchi, scuole, elenchi. Uno stampa un abecedario da sedici facciate perché i contadini imparino le lettere. L'altro apre collegi gratuiti e obbliga ogni diocesi ad avere una scuola per i preti. Nessuno dei due combatte per un territorio: combattono per chi saprà leggere, e cosa.
+
+Prossima missione. Nel Cinquecento il potere si batte per controllare le parole. Nel Seicento un re proverà a controllare tutto — e un uomo con un tubo di vetro pretenderà che comandi la prova.[^ee2]
+
+[^ee2]: Curiosità cifrata (ROT13): *Y'hnvpn pbcvn qryy'Norprqnevhz qry 1550 è n Ivraan.*

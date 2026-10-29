@@ -1,0 +1,345 @@
+/* CHRONOS: Ai Confini dell'Impero — PDF stylesheet (weasyprint) */
+/* Basato sul linguaggio visivo di storia_b, esteso per: firma del cronoriporter (.byline),
+   checkpoint con contenuto reale (non solo divisore), tetto capitolo 0. */
+
+/* Page setup */
+@page {
+    size: A4;
+    margin: 25mm 22mm;
+
+    @bottom-center {
+        content: counter(page);
+        font-family: "Georgia", "Times New Roman", serif;
+        font-size: 10.5pt;
+        color: #555;
+    }
+}
+
+@page cover {
+    margin: 0;
+    @bottom-center { content: none; }
+}
+
+div.cover {
+    page: cover;
+    page-break-after: always;
+    width: 100%;
+    height: 100%;
+}
+
+/* Typography */
+body {
+    font-family: "Georgia", "Times New Roman", serif;
+    font-size: 12.5pt;
+    line-height: 1.45;
+    text-align: justify;
+    hyphens: auto;
+    widows: 3;
+    orphans: 3;
+    margin: 0;
+    padding: 0;
+    color: #1a1a1a;
+}
+
+/* Chapter title (# Capitolo N — Titolo) — the only allowed occurrence of "Capitolo" */
+h1 {
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    font-size: 26pt;
+    font-weight: 800;
+    margin-top: 0;
+    margin-bottom: 0.3em;
+    page-break-before: always;
+    page-break-after: avoid;
+    break-after: avoid;
+    text-align: left;
+    color: #0d2b45;
+    border-bottom: 4px solid #c8862b;
+    padding-bottom: 0.25em;
+    letter-spacing: 0.5px;
+}
+
+/* Scene subtitle (pure, no "Scena N"/"Beat N" per style rule) */
+h2 {
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    font-size: 17pt;
+    font-weight: 700;
+    margin-top: 2em;
+    margin-bottom: 0.15em;
+    page-break-after: avoid;
+    break-after: avoid;
+    color: #0d2b45;
+}
+
+h3 {
+    font-size: 14pt;
+    margin-top: 1.2em;
+    margin-bottom: 0.5em;
+    font-weight: bold;
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    color: #333;
+}
+
+/* Firma del cronoriporter — byline stile reportage, subito sotto h2 */
+.byline {
+    display: block;
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    font-size: 10pt;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: #c8862b;
+    margin-bottom: 1.4em;
+}
+.byline::before {
+    content: "✎ ";
+}
+
+/* Paragraphs */
+p {
+    margin-top: 0.4em;
+    margin-bottom: 0;
+    text-indent: 1.4em;
+}
+
+h1+p, h2+p, h3+p, .byline+p {
+    text-indent: 0;
+    margin-top: 0.6em;
+}
+
+/* Blockquote — Briefing/Debriefing (Mission Control voice) */
+blockquote {
+    font-family: "Courier New", monospace;
+    font-size: 11pt;
+    background-color: #f4f1ea;
+    border-left: 4px solid #0d2b45;
+    padding: 1em 1.4em;
+    margin: 1.5em 0;
+    color: #222;
+}
+blockquote p { text-indent: 0; }
+
+/* Dialogue lines: **Nome:** "battuta" */
+p strong:first-child {
+    color: #0d2b45;
+}
+
+/* Table of Contents */
+nav#TOC {
+    page-break-after: always;
+    page-break-before: always;
+}
+nav#TOC h1 {
+    margin-top: 0;
+    margin-bottom: 1em;
+    text-align: left;
+    font-size: 22pt;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    border-bottom: 4px solid #c8862b;
+}
+nav#TOC ul { list-style-type: none; padding-left: 0; margin: 0; }
+nav#TOC ul ul { padding-left: 1.5em; margin-top: 0.2em; margin-bottom: 0.2em; }
+nav#TOC li { margin-bottom: 0.5em; }
+nav#TOC a {
+    text-decoration: none;
+    color: #0d2b45;
+    display: block;
+    border-bottom: 1px dotted #ccc;
+    padding-bottom: 2px;
+}
+nav#TOC a::after {
+    content: target-counter(attr(href), page);
+    float: right;
+    font-weight: bold;
+    color: #c8862b;
+}
+
+/* --- GAMIFICATION / HUD BOXES --- */
+
+/* scan-result: oggetto/tecnologia — terminale HUD */
+.scan-result {
+    background-color: #142230;
+    color: #4fd67a;
+    border: 2px solid #4fd67a;
+    border-radius: 4px;
+    padding: 14px 16px;
+    margin: 22px 0;
+    font-family: "Courier New", monospace;
+    font-size: 10.5pt;
+    page-break-inside: avoid;
+    break-inside: avoid;
+    box-shadow: 4px 4px 0px rgba(0,0,0,0.15);
+}
+.scan-result h4, .scan-result h3 {
+    margin-top: 0;
+    border-bottom: 1px dashed #4fd67a;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+    font-size: 12pt;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    color: #fff;
+    font-weight: bold;
+}
+.scan-result ul { list-style-type: none; padding-left: 0; margin: 0; }
+.scan-result li { margin-bottom: 6px; padding-left: 14px; position: relative; }
+.scan-result li::before { content: ">"; position: absolute; left: 0; color: #4fd67a; }
+.scan-result strong { color: #fff; }
+
+/* target-profile: scheda RPG del personaggio */
+.target-profile {
+    border: 3px solid #0d2b45;
+    border-radius: 12px;
+    padding: 18px 20px;
+    margin: 22px 0;
+    background-color: #faf7f0;
+    page-break-inside: avoid;
+    break-inside: avoid;
+    box-shadow: 3px 3px 8px rgba(0,0,0,0.1);
+}
+.target-profile h3, .target-profile h4 {
+    margin-top: 0;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: #0d2b45;
+    color: #fff;
+    padding: 6px 10px;
+    border-radius: 6px;
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    letter-spacing: 1px;
+    font-size: 12.5pt;
+}
+.target-profile ul { list-style-type: none; padding: 0; margin-top: 12px; }
+.target-profile li {
+    margin-bottom: 6px;
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    font-size: 10.5pt;
+    border-bottom: 1px solid #e0dccd;
+    padding-bottom: 3px;
+}
+.target-profile strong { color: #c8862b; }
+
+/* reality-check: sintesi / ciò che non sappiamo */
+.reality-check {
+    background-color: #fdf3e2;
+    border: 2px solid #f0dba8;
+    border-left: 5px solid #c8862b;
+    border-radius: 4px;
+    padding: 14px 16px 14px 46px;
+    margin: 22px 0;
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    font-size: 10.5pt;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.05);
+    page-break-inside: avoid;
+    break-inside: avoid;
+    position: relative;
+}
+.reality-check::before {
+    content: "?";
+    position: absolute;
+    left: 12px;
+    top: 12px;
+    width: 24px;
+    height: 24px;
+    line-height: 24px;
+    text-align: center;
+    border-radius: 50%;
+    background: #c8862b;
+    color: #fff;
+    font-weight: bold;
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+}
+.reality-check h4, .reality-check h3 {
+    margin-top: 0;
+    color: #8a5a10;
+    font-size: 12pt;
+    text-transform: uppercase;
+    margin-bottom: 8px;
+    border-bottom: 1px solid #f0dba8;
+    padding-bottom: 4px;
+    font-weight: bold;
+}
+.reality-check ul { margin: 0; padding-left: 18px; list-style-type: disc; }
+.reality-check li { margin-bottom: 4px; color: #333; }
+
+/* memo-box: glossario M.E.M.O. / cronologia essenziale */
+.memo-box {
+    background-color: #e7f1f5;
+    border: 2px solid #c3dfe8;
+    border-left: 5px solid #2e7d94;
+    border-radius: 4px;
+    padding: 14px 16px 14px 46px;
+    margin: 22px 0;
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    font-size: 10pt;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.05);
+    page-break-inside: avoid;
+    break-inside: avoid;
+    position: relative;
+}
+.memo-box::before {
+    content: "i";
+    position: absolute;
+    left: 14px;
+    top: 12px;
+    width: 22px;
+    height: 22px;
+    line-height: 22px;
+    text-align: center;
+    border-radius: 50%;
+    background: #2e7d94;
+    color: #fff;
+    font-weight: bold;
+    font-style: normal;
+    font-family: "Georgia", serif;
+}
+.memo-box h4, .memo-box h3 {
+    margin-top: 0;
+    color: #17505e;
+    font-size: 12pt;
+    text-transform: uppercase;
+    margin-bottom: 8px;
+    border-bottom: 1px solid #c3dfe8;
+    padding-bottom: 4px;
+    font-weight: bold;
+}
+.memo-box ul { margin: 0; padding-left: 18px; list-style-type: none; }
+.memo-box li { margin-bottom: 6px; color: #333; }
+.memo-box strong { color: #2e7d94; }
+
+/* checkpoint: decisione del lettore — non più un semplice divisore */
+.checkpoint {
+    background-color: #fff9ed;
+    border: 2px dashed #c8862b;
+    border-radius: 4px;
+    padding: 16px 18px;
+    margin: 28px 0;
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    font-size: 11pt;
+    page-break-inside: avoid;
+    break-inside: avoid;
+    position: relative;
+}
+.checkpoint h3, .checkpoint h4 {
+    margin-top: 0;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    font-size: 12.5pt;
+    color: #c8862b;
+    border-bottom: 1px dashed #c8862b;
+    padding-bottom: 8px;
+    margin-bottom: 10px;
+}
+.checkpoint ul { list-style-type: none; padding-left: 0; margin: 10px 0; }
+.checkpoint li {
+    margin-bottom: 6px;
+    padding: 6px 10px;
+    background: #fff;
+    border: 1px solid #e6d3ac;
+    border-radius: 3px;
+}
+.checkpoint strong { color: #0d2b45; }
+
+/* Easter Egg footnote — visual distinction from ordinary footnotes */
+.footnote-ref { color: #c8862b; }
