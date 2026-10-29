@@ -91,7 +91,10 @@ books/<book-slug>/
 ├── PRD.md
 ├── INSTRUCTION.md
 ├── STYLE_BIBLE.md
+├── PUBLISH_CONFIG.md  ← copied from .claude/skills/new-book/PUBLISH_CONFIG.template.md, then filled in (Step 2.5)
 ├── ralph.sh           ← copied from .claude/skills/new-book/ralph.sh
+├── generate_cover.sh  ← copied from .claude/skills/new-book/scripts/generate_cover.sh
+├── publish.sh         ← copied from .claude/skills/new-book/scripts/publish.sh
 ├── drafts/
 ├── docs/
 │   └── adr/           ← created lazily; only when a Narrative ADR is warranted
@@ -100,10 +103,12 @@ books/<book-slug>/
 
 `NARRATIVE_GLOSSARY.md` is **not** created upfront. The Writer creates it lazily when the first canonical term is resolved in ch.1 prose. Same for `chapter_index.md` — the Reviewer creates it after the first chapter passes.
 
-Copy the pipeline runner into the project:
+Copy the pipeline runner and publishing scripts into the project:
 ```bash
 cp .claude/skills/new-book/ralph.sh books/<book-slug>/ralph.sh
-chmod +x books/<book-slug>/ralph.sh
+cp .claude/skills/new-book/scripts/generate_cover.sh books/<book-slug>/generate_cover.sh
+cp .claude/skills/new-book/scripts/publish.sh books/<book-slug>/publish.sh
+chmod +x books/<book-slug>/ralph.sh books/<book-slug>/generate_cover.sh books/<book-slug>/publish.sh
 ```
 
 The `ralph.sh` is a generic, self-configuring runner. It reads `INSTRUCTION.md`, `PRD.md`, and `STYLE_BIBLE.md` to configure each agent — no hardcoded book-specific content. Usage:
@@ -433,6 +438,12 @@ Generate a Style Bible adapted to the book's tone, format, and chosen persona. I
 7. **Pacing rules** — maximum consecutive paragraphs before a scene break or beat shift
 8. **Anti-AI checklist** — 10 questions the Editor runs on every output to detect AI drift, including: "Does this still sound like [persona name] or has it drifted to generic AI prose?"
 
+### Step 2.5 — Write `PUBLISH_CONFIG.md`
+
+Copy `.claude/skills/new-book/PUBLISH_CONFIG.template.md` to `books/<book-slug>/PUBLISH_CONFIG.md` and fill it in. This file feeds `generate_cover.sh` and `publish.sh` (Phase 4) — it is where Author, back-cover description, and the cover art creative brief live. `Title` and `Language` are deliberately not duplicated here; both scripts read them from `INSTRUCTION.md` § METADATA.
+
+The **Cover Brief** section is the part most worth writing carefully: name concrete visual motifs tied to the book's actual content (not generic genre iconography), a specific mood/palette, and what clichés to avoid. A vague brief produces a generic stock-photo-style cover regardless of which image model runs it.
+
 ---
 
 ## Phase 3 — FIRST CHAPTER: Run the Ralph Loop
@@ -478,6 +489,33 @@ Score `chapter_1.md` against NUFs and run Anti-AI checklist.
 Read `chapter_1.md` + `STYLE_BIBLE.md` + `chapter_1_struttura.md`.
 Score across 6 dimensions. Apply corrections or plan a rewrite. Write `review_chapter_1.md`.
 On PASS: create `chapter_index.md` (it doesn't exist yet) and write the ch.1 entry with the three sub-sections (Canonical terms / Central claims / Narrative positions taken).
+
+---
+
+## Phase 4 — PUBLISHING: Cover & Export
+
+Run once all chapters are drafted (or any time an updated preview is wanted — both scripts are idempotent and safe to re-run). This phase is manual, not part of the per-chapter Ralph Loop: invoke it only when the human asks for a cover or an export, never automatically after a chapter passes.
+
+### Step 4.1 — Generate the cover
+
+```bash
+./generate_cover.sh            # skips if cover.png already exists
+./generate_cover.sh --force    # regenerate after editing PUBLISH_CONFIG.md § Cover Brief
+```
+
+Uses codex's built-in `image_gen` tool to produce a text-free background image from `PUBLISH_CONFIG.md` § Cover Brief, then composites the title (from `INSTRUCTION.md`) and author (from `PUBLISH_CONFIG.md`) on top with ImageMagick. If the result looks generic, the fix is almost always to make the Cover Brief more specific — concrete motifs from the book's actual content, not genre clichés — not to tweak the script.
+
+### Step 4.2 — Export EPUB/PDF
+
+```bash
+./publish.sh              # both dist/book.epub and dist/book.pdf
+./publish.sh --epub-only
+./publish.sh --pdf-only
+```
+
+Assembles all `chapter_N.md` files in numeric order into one manuscript, pulls Title/Language from `INSTRUCTION.md` and Author/Description/cover image from `PUBLISH_CONFIG.md`, and renders via pandoc. Requires `pandoc` and, for PDF, `weasyprint` (the zero-setup default PDF engine — swap for `xelatex` in the script if the project needs LaTeX-quality typography and has a LaTeX distribution available).
+
+Both scripts have a `CUSTOMIZE PER PROJECT` block at the top of the file documenting exactly what to change for a given book (trim size, fonts, front/back matter, PDF engine) — read it before editing anything else in the script.
 
 ---
 

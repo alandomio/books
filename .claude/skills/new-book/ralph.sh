@@ -1,4 +1,4 @@
-#!/opt/homebrew/bin/bash
+#!/bin/bash
 # ══════════════════════════════════════════════════════════════════════════════
 # ralph.sh — Ralph Loop V5.1 — 5-Agent Stateless Writing Pipeline
 # Generic template: works for any book project with INSTRUCTION.md + PRD.md + STYLE_BIBLE.md
@@ -18,9 +18,11 @@
 #   ./ralph.sh <chapter> status        Show pipeline state for chapter N
 #
 # Flags:
-#   --force    Re-run phase even if output files already exist
-#   --model    Override model (default: claude-sonnet-4-6)
-#   --dry-run  Show what would run without executing
+#   --force                  Re-run phase even if output files already exist
+#   --model <model[:level]>  Override model for all phases
+#   --reasoning <level>      Override reasoning for all phases (medium|high|xhigh)
+#   --phase-model P=SPEC     Override one phase, e.g. architect=gpt-5.5:xhigh
+#   --dry-run                Show what would run without executing
 #
 # Examples:
 #   ./ralph.sh 1                        # Full pipeline, Chapter 1
@@ -29,6 +31,8 @@
 #   ./ralph.sh 1 reviewer               # Editorial audit, Chapter 1
 #   ./ralph.sh review_all               # Review all existing chapters
 #   ./ralph.sh 1 status                 # Check what's done
+#   ./ralph.sh 1 --phase-model architect=gpt-5.5:xhigh
+#   ./ralph.sh 1 --phase-model researcher=gemini-flash-3.5:medium
 # ══════════════════════════════════════════════════════════════════════════════
 
 set -euo pipefail
@@ -43,14 +47,58 @@ fi
 # ─── CONFIG ────────────────────────────────────────────────────────────────
 PROJECT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 MAX_RETRIES=3
-DEFAULT_MODEL="claude-sonnet-4-6"
-# Writer Stage 2 and Reviewer need long output — always use Sonnet or better
-LONG_OUTPUT_MODEL="claude-sonnet-4-6"
+DEFAULT_MODEL_KEY="sonnet"
+DEFAULT_REASONING_LEVEL="high"
 LOG_DIR="${PROJECT_DIR}/.ralph_logs"
+# Base name only. Each agent invocation gets a unique status file (see
+# run_agent): concurrent ralph.sh runs (several chapters at once) must never
+# share one, or one phase consumes another phase's status line and the loser
+# waits until timeout.
+OUTPUT_FILE_BASE="${PROJECT_DIR}/.ralph_output"
+OUTPUT_FILE="${OUTPUT_FILE_BASE}"
+
+# How long to wait for an agent to persist its status line, per phase.
+# The researcher runs many grounded web searches and is the slowest phase.
+AGENT_WAIT_TIMEOUT_DEFAULT=1800
+AGENT_WAIT_TIMEOUT_RESEARCHER=2400
+
+# Bash 4 associative arrays let us map logical model names to the correct CLI.
+declare -A MODEL_TO_AGENT=(
+  [haiku]="claude"
+  [sonnet]="claude"
+  [opus]="claude"
+  [gemini-flash-3.8]="agy"
+  [gpt-5.6]="codex"
+  [gpt-5.6-sol]="codex"
+  [gpt-5.5]="codex"
+)
+
+declare -A MODEL_TO_PROVIDER_MODEL=(
+  [haiku]="haiku"
+  [sonnet]="claude-sonnet-5"
+  [opus]="opus"
+  [gpt-5.6]="gpt-5.6"
+  [gpt-5.6-sol]="gpt-5.6-sol"
+  [gpt-5.5]="gpt-5.5"
+)
+
+declare -A MODEL_TO_DISPLAY_NAME=(
+  [haiku]="Haiku"
+  [sonnet]="Sonnet 5"
+  [opus]="Opus"
+  [gemini-flash-3.8]="Gemini Flash 3.8"
+  [gpt-5.6]="GPT 5.6"
+  [gpt-5.6-sol]="GPT 5.6 Sol"
+  [gpt-5.5]="GPT 5.5"
+)
+
+declare -A PHASE_MODEL_KEYS=()
+declare -A PHASE_REASONING_LEVELS=()
+PIPELINE_PHASES=(architect researcher writer1 writer2 editor reviewer)
 
 # ─── ARGS ──────────────────────────────────────────────────────────────────
 if [[ $# -lt 1 ]]; then
-  echo "Usage: ./ralph.sh <chapter_number|review_all> [phase] [--force] [--dry-run] [--model <model>]"
+  echo "Usage: ./ralph.sh <chapter_number|review_all> [phase] [--force] [--dry-run] [--model <model[:level]>] [--reasoning <level>] [--phase-model <phase=model[:level]>]"
   echo "Phases: all | architect | researcher | writer | writer1 | writer2 | editor | reviewer | status"
   echo "Special: ./ralph.sh review_all  — runs reviewer on every chapter with existing files"
   exit 1
@@ -60,7 +108,175 @@ CHAPTER="${1}"
 PHASE="all"
 FORCE=false
 DRY_RUN=false
-MODEL="${DEFAULT_MODEL}"
+
+# Globals filled by parse_model_spec / resolve_phase_runtime.
+PARSED_MODEL_KEY=""
+PARSED_REASONING_LEVEL=""
+RESOLVED_MODEL_KEY=""
+RESOLVED_REASONING=""
+RESOLVED_AGENT=""
+RESOLVED_PROVIDER_MODEL=""
+RESOLVED_DISPLAY_NAME=""
+
+normalize_model_key() {
+  local raw="${1,,}"
+  raw="${raw// /}"
+  case "$raw" in
+    haiku|claude-haiku|claude-haiku-4-5|claude-haiku-4.5) echo "haiku" ;;
+    sonnet|claude-sonnet|claude-sonnet-4-6|claude-sonnet-4.6) echo "sonnet" ;;
+    opus|claude-opus|claude-opus-4-6|claude-opus-4.6) echo "opus" ;;
+    gemini-flash-3.5|gemini3.5flash|gemini-3.5-flash|gemini_flash_3_5) echo "gemini-flash-3.5" ;;
+    gemini-flash-3.8|gemini3.8flash|gemini-3.8-flash|gemini_flash_3_8) echo "gemini-flash-3.8" ;;
+    gpt-5.4|gpt5.4|gpt54) echo "gpt-5.4" ;;
+    gpt-5.5|gpt5.5|gpt55|gpt-5.3-codex) echo "gpt-5.5" ;;
+    gpt-5.6|gpt5.6|gpt56) echo "gpt-5.6" ;;
+    gpt-5.6-sol|gpt5.6sol|gpt56sol) echo "gpt-5.6-sol" ;;
+    *)
+      err "Unsupported model: $1"
+      err "Supported models: haiku | sonnet | opus | gemini-flash-3.5 | gemini-flash-3.8 | gpt-5.4 | gpt-5.5 | gpt-5.6 | gpt-5.6-sol"
+      exit 1
+      ;;
+  esac
+}
+
+normalize_reasoning_level() {
+  local raw="${1,,}"
+  case "$raw" in
+    medium|med) echo "medium" ;;
+    high) echo "high" ;;
+    xhigh|x-high|veryhigh|very-high|max) echo "xhigh" ;;
+    *)
+      err "Unsupported reasoning level: $1"
+      err "Supported levels: medium | high | xhigh"
+      exit 1
+      ;;
+  esac
+}
+
+init_phase_model_defaults() {
+  local phase
+  for phase in "${PIPELINE_PHASES[@]}"; do
+    PHASE_MODEL_KEYS["$phase"]="$DEFAULT_MODEL_KEY"
+    PHASE_REASONING_LEVELS["$phase"]="$DEFAULT_REASONING_LEVEL"
+  done
+  # Researcher defaults to medium effort (agreed baseline).
+  PHASE_REASONING_LEVELS["researcher"]="medium"
+  # Writer Stage 1 (Sonnet): high effort on the raw prose pass.
+  PHASE_REASONING_LEVELS["writer1"]="high"
+  # Writer Stage 2 (Opus): medium effort is enough given the stronger model.
+  PHASE_REASONING_LEVELS["writer2"]="medium"
+  # Architect and Reviewer run once per chapter (no retry multiplier) and
+  # carry the pipeline's structural/critical apex tasks — max effort.
+  PHASE_REASONING_LEVELS["architect"]="xhigh"
+  PHASE_REASONING_LEVELS["reviewer"]="xhigh"
+
+  # Cost/quality-tuned per-phase model assignment.
+  # Architect: structural/logical reasoning + strict constraint adherence.
+  PHASE_MODEL_KEYS["architect"]="gpt-5.6-sol"
+  # Researcher: native search grounding, low hallucination, low cost.
+  PHASE_MODEL_KEYS["researcher"]="gemini-flash-3.8"
+  # Writer Stage 1 stays on the default (sonnet) — raw prose that Writer
+  # Stage 2 will refine anyway.
+  # Writer Stage 2: refinement is not just surface polish — it's also the
+  # pass responsible for cross-chapter format consistency (no stray "## Beat
+  # N" headers, matching capitalization, etc). Empirically this needs more
+  # reasoning capability than a lighter model reliably provides. Editor keeps
+  # the default (sonnet) — scoring against Claude-authored drafts, at
+  # retry-loop cost.
+  PHASE_MODEL_KEYS["writer2"]="opus"
+  # Reviewer: deep deductive critique plus creative rewriting.
+  PHASE_MODEL_KEYS["reviewer"]="opus"
+}
+
+parse_model_spec() {
+  local spec="$1"
+  local raw_model raw_reasoning
+
+  raw_model="${spec%%:*}"
+  raw_reasoning="${spec#*:}"
+
+  PARSED_MODEL_KEY="$(normalize_model_key "$raw_model")"
+  if [[ "$spec" == *:* ]]; then
+    PARSED_REASONING_LEVEL="$(normalize_reasoning_level "$raw_reasoning")"
+  else
+    PARSED_REASONING_LEVEL=""
+  fi
+}
+
+apply_phase_model_spec() {
+  local phase_selector="$1"
+  local spec="$2"
+  local target_phases=()
+  local phase
+
+  parse_model_spec "$spec"
+
+  case "$phase_selector" in
+    all) target_phases=("${PIPELINE_PHASES[@]}") ;;
+    writer) target_phases=(writer1 writer2) ;;
+    review_all|reviewer) target_phases=(reviewer) ;;
+    architect|researcher|writer1|writer2|editor) target_phases=("$phase_selector") ;;
+    *)
+      err "Unsupported phase selector for --phase-model: $phase_selector"
+      exit 1
+      ;;
+  esac
+
+  for phase in "${target_phases[@]}"; do
+    PHASE_MODEL_KEYS["$phase"]="$PARSED_MODEL_KEY"
+    [[ -n "$PARSED_REASONING_LEVEL" ]] && PHASE_REASONING_LEVELS["$phase"]="$PARSED_REASONING_LEVEL"
+  done
+}
+
+apply_global_reasoning() {
+  local reasoning="$1"
+  local phase
+  reasoning="$(normalize_reasoning_level "$reasoning")"
+  for phase in "${PIPELINE_PHASES[@]}"; do
+    PHASE_REASONING_LEVELS["$phase"]="$reasoning"
+  done
+}
+
+describe_phase_model() {
+  local phase="$1"
+  local model_key="${PHASE_MODEL_KEYS[$phase]}"
+  local reasoning="${PHASE_REASONING_LEVELS[$phase]}"
+  local agent="${MODEL_TO_AGENT[$model_key]}"
+  echo "${MODEL_TO_DISPLAY_NAME[$model_key]} / ${reasoning} via ${agent}"
+}
+
+phase_selector_summary() {
+  local selector="$1"
+  case "$selector" in
+    all)
+      echo "architect=$(describe_phase_model architect), researcher=$(describe_phase_model researcher), writer1=$(describe_phase_model writer1), writer2=$(describe_phase_model writer2), editor=$(describe_phase_model editor), reviewer=$(describe_phase_model reviewer)"
+      ;;
+    writer)
+      echo "writer1=$(describe_phase_model writer1), writer2=$(describe_phase_model writer2)"
+      ;;
+    review_all|reviewer)
+      echo "reviewer=$(describe_phase_model reviewer)"
+      ;;
+    architect|researcher|writer1|writer2|editor)
+      echo "${selector}=$(describe_phase_model "$selector")"
+      ;;
+    status)
+      echo "architect=$(describe_phase_model architect), researcher=$(describe_phase_model researcher), writer1=$(describe_phase_model writer1), writer2=$(describe_phase_model writer2), editor=$(describe_phase_model editor), reviewer=$(describe_phase_model reviewer)"
+      ;;
+    *)
+      echo "custom phase selection"
+      ;;
+  esac
+}
+
+print_phase_model_summary() {
+  local phase
+  for phase in "${PIPELINE_PHASES[@]}"; do
+    info "${phase}: $(describe_phase_model "$phase")"
+  done
+}
+
+init_phase_model_defaults
 
 if [[ "${CHAPTER}" == "review_all" ]]; then
   PHASE="review_all"
@@ -73,7 +289,19 @@ while [[ $# -gt 0 ]]; do
       PHASE="$1"; shift ;;
     --force)    FORCE=true; shift ;;
     --dry-run)  DRY_RUN=true; shift ;;
-    --model)    MODEL="${2:?--model requires a value}"; shift 2 ;;
+    --model)    apply_phase_model_spec "all" "${2:?--model requires a value}"; shift 2 ;;
+    --reasoning) apply_global_reasoning "${2:?--reasoning requires a value}"; shift 2 ;;
+    --phase-model)
+      phase_override="${2:?--phase-model requires <phase>=<model[:level]>}"
+      if [[ "$phase_override" != *=* ]]; then
+        err "--phase-model requires <phase>=<model[:level]>"
+        exit 1
+      fi
+      phase_name="${phase_override%%=*}"
+      phase_spec="${phase_override#*=}"
+      apply_phase_model_spec "$phase_name" "$phase_spec"
+      shift 2
+      ;;
     *)          echo "Unknown argument: $1"; exit 1 ;;
   esac
 done
@@ -120,22 +348,166 @@ log_run() {
 export CLAUDE_CODE_MAX_OUTPUT_TOKENS="32000"
 CLAUDE_SETTINGS='{"env":{"CLAUDE_CODE_MAX_OUTPUT_TOKENS":"32000"}}'
 
-run_claude() {
+resolve_phase_runtime() {
+  local phase="$1"
+  local model_key="${PHASE_MODEL_KEYS[$phase]}"
+  local reasoning="${PHASE_REASONING_LEVELS[$phase]}"
+  local agent="${MODEL_TO_AGENT[$model_key]}"
+
+  if [[ -z "$agent" ]]; then
+    err "No CLI agent configured for model key: $model_key"
+    exit 1
+  fi
+
+  RESOLVED_MODEL_KEY="$model_key"
+  RESOLVED_REASONING="$reasoning"
+  RESOLVED_AGENT="$agent"
+  RESOLVED_PROVIDER_MODEL="${MODEL_TO_PROVIDER_MODEL[$model_key]:-}"
+  RESOLVED_DISPLAY_NAME="${MODEL_TO_DISPLAY_NAME[$model_key]}"
+
+  if [[ "$agent" == "agy" ]]; then
+    # NOTE: agy's --model wants the short kebab-case id from `agy models`
+    # (e.g. gemini-3.8-flash-medium), NOT the human-readable display name —
+    # passing the display name breaks agy's flag parser silently. Verify with
+    # `agy models` if these ever stop matching upstream.
+    case "$model_key:$reasoning" in
+      gemini-flash-3.5:medium) RESOLVED_PROVIDER_MODEL="gemini-3.5-flash-medium" ;;
+      gemini-flash-3.5:high)   RESOLVED_PROVIDER_MODEL="gemini-3.5-flash-high" ;;
+      gemini-flash-3.5:xhigh)
+        warn "agy does not expose Gemini Flash 3.5 xhigh. Falling back to High for phase '${phase}'."
+        RESOLVED_PROVIDER_MODEL="gemini-3.5-flash-high"
+        RESOLVED_REASONING="high"
+        ;;
+      gemini-flash-3.8:medium) RESOLVED_PROVIDER_MODEL="gemini-3.8-flash-medium" ;;
+      gemini-flash-3.8:high)   RESOLVED_PROVIDER_MODEL="gemini-3.8-flash-high" ;;
+      gemini-flash-3.8:xhigh)
+        warn "agy does not expose Gemini Flash 3.8 xhigh. Falling back to High for phase '${phase}'."
+        RESOLVED_PROVIDER_MODEL="gemini-3.8-flash-high"
+        RESOLVED_REASONING="high"
+        ;;
+      *)
+        err "Unsupported agy model/reasoning combination: ${model_key}:${reasoning}"
+        exit 1
+        ;;
+    esac
+  fi
+}
+
+build_automation_prompt() {
   local prompt="$1"
-  local log_file="${2:-/dev/null}"
+  cat <<EOF
+$prompt
+
+CRITICAL AUTOMATION INSTRUCTION:
+You are running inside the Ralph automated writing pipeline.
+When you have finished writing or editing files, you MUST write your final status line to '${OUTPUT_FILE}'.
+The file must contain the exact terminal status you want Ralph to read, such as:
+- ARCHITECT DONE ✓
+- RESEARCHER DONE ✓ (...)
+- WRITER STAGE 1 DONE ✓ (...)
+- WRITER STAGE 2 DONE ✓ (...)
+- EDITOR PASS ✓ Score: X.X/10
+- EDITOR FAIL ✗ Score: X.X/10
+- REVIEWER PASS ✓ Score: X/60
+
+Do not only print the status to stdout. Persist it to '${OUTPUT_FILE}' before you stop.
+EOF
+}
+
+wait_for_agent_output_file() {
+  local log_file="$1"
+  local timeout="${2:-$AGENT_WAIT_TIMEOUT_DEFAULT}"
+  local elapsed=0
+  local check_interval=5
+
+  while [[ ! -f "$OUTPUT_FILE" ]]; do
+    if [[ $elapsed -ge $timeout ]]; then
+      err "Timeout waiting for ${RESOLVED_AGENT} to write ${OUTPUT_FILE##*/}."
+      exit 1
+    fi
+    sleep "$check_interval"
+    elapsed=$((elapsed + check_interval))
+    echo -n "." >&2
+  done
+  echo "" >&2
+
+  local output
+  output="$(cat "$OUTPUT_FILE")"
+  echo "$output" | tee "$log_file"
+  rm -f "$OUTPUT_FILE"
+}
+
+run_agent() {
+  local phase="$1"
+  local prompt="$2"
+  local log_file="${3:-/dev/null}"
+  local full_prompt
+  local wait_timeout="$AGENT_WAIT_TIMEOUT_DEFAULT"
+  [[ "$phase" == "researcher" ]] && wait_timeout="$AGENT_WAIT_TIMEOUT_RESEARCHER"
+
+  resolve_phase_runtime "$phase"
+
+  # Unique per chapter, phase and process: parallel runs must not cross-talk.
+  OUTPUT_FILE="${OUTPUT_FILE_BASE}_ch${CHAPTER}_${phase}_$$"
+  trap 'rm -f "$OUTPUT_FILE"' EXIT
 
   if $DRY_RUN; then
-    echo -e "${DIM}[DRY-RUN] Would invoke claude -p with model=${MODEL}${NC}"
+    echo -e "${DIM}[DRY-RUN] Would invoke ${RESOLVED_AGENT} with ${RESOLVED_DISPLAY_NAME} (${RESOLVED_REASONING})${NC}"
     echo -e "${DIM}          Prompt preview: $(echo "$prompt" | head -3 | tr '\n' ' ')...${NC}"
     return 0
   fi
 
-  claude -p "$prompt" \
-    --permission-mode bypassPermissions \
-    --model "$MODEL" \
-    --add-dir "$PROJECT_DIR" \
-    --settings "$CLAUDE_SETTINGS" \
-    2>&1 | tee "$log_file"
+  case "$RESOLVED_AGENT" in
+    claude)
+      claude -p "$prompt" \
+        --permission-mode bypassPermissions \
+        --model "$RESOLVED_PROVIDER_MODEL" \
+        --effort "$RESOLVED_REASONING" \
+        --add-dir "$PROJECT_DIR" \
+        --settings "$CLAUDE_SETTINGS" \
+        2>&1 | tee "$log_file"
+      ;;
+    codex)
+      full_prompt="$(build_automation_prompt "$prompt")"
+      rm -f "$OUTPUT_FILE"
+      local codex_exit=0
+      printf "%s" "$full_prompt" | codex exec \
+        --model "$RESOLVED_PROVIDER_MODEL" \
+        -c "model_reasoning_effort=\"${RESOLVED_REASONING}\"" \
+        --dangerously-bypass-approvals-and-sandbox \
+        --ephemeral \
+        - >/dev/null 2>&1 || codex_exit=$?
+      if [[ $codex_exit -ne 0 ]]; then
+        err "codex exited immediately with code ${codex_exit} — not waiting for ${OUTPUT_FILE##*/}."
+        exit 1
+      fi
+      wait_for_agent_output_file "$log_file" "$wait_timeout"
+      ;;
+    agy)
+      full_prompt="$(build_automation_prompt "$prompt")"
+      rm -f "$OUTPUT_FILE"
+      local agy_exit=0
+      # NOTE: the prompt MUST be attached to --print (--print="...") as the
+      # last argument — a bare `--print` followed by other flags makes agy's
+      # parser swallow the next flag as the prompt and silently no-op.
+      agy \
+        --dangerously-skip-permissions \
+        --model "$RESOLVED_PROVIDER_MODEL" \
+        --add-dir "$PROJECT_DIR" \
+        --print-timeout "$((wait_timeout / 60))m" \
+        --print="$full_prompt" >/dev/null 2>"${log_file}.err" || agy_exit=$?
+      if [[ $agy_exit -ne 0 ]]; then
+        err "agy exited immediately with code ${agy_exit} — not waiting for ${OUTPUT_FILE##*/}."
+        head -5 "${log_file}.err" >&2
+        exit 1
+      fi
+      wait_for_agent_output_file "$log_file" "$wait_timeout"
+      ;;
+    *)
+      err "Unsupported CLI agent: $RESOLVED_AGENT"
+      exit 1
+      ;;
+  esac
 }
 
 # ─── STATUS ────────────────────────────────────────────────────────────────
@@ -188,7 +560,6 @@ show_status() {
 
 # ─── ARCHITECT ─────────────────────────────────────────────────────────────
 run_architect() {
-  local MODEL="${LONG_OUTPUT_MODEL:-$MODEL}"
   divider "🏛️  ARCHITECT — Chapter ${CHAPTER}"
 
   if ! should_run "$STRUTTURA"; then
@@ -262,9 +633,9 @@ ENDPROMPT
 )
 
   local output exit_code=0
-  output=$(run_claude "$PROMPT" "$log_file") || exit_code=$?
+  output=$(run_agent "architect" "$PROMPT" "$log_file") || exit_code=$?
   if [[ $exit_code -ne 0 ]]; then
-    err "Architect: claude exited with code ${exit_code}. Check log: ${log_file##*/}"
+    err "Architect: ${RESOLVED_AGENT} exited with code ${exit_code}. Check log: ${log_file##*/}"
     [[ -f "$log_file" && -s "$log_file" ]] && { warn "Log tail:"; tail -5 "$log_file" >&2; }
     exit 1
   fi
@@ -273,7 +644,7 @@ ENDPROMPT
   if echo "$output" | grep -q "ARCHITECT DONE" || file_exists "$STRUTTURA"; then
     ok "Struttura written: $STRUTTURA"
   else
-    err "Architect: claude ran but did not write struttura. Check log: ${log_file##*/}"
+    err "Architect: ${RESOLVED_AGENT} ran but did not write struttura. Check log: ${log_file##*/}"
     [[ -f "$log_file" && -s "$log_file" ]] && { warn "Log tail:"; tail -5 "$log_file" >&2; }
     exit 1
   fi
@@ -281,7 +652,6 @@ ENDPROMPT
 
 # ─── RESEARCHER ────────────────────────────────────────────────────────────
 run_researcher() {
-  local MODEL="${LONG_OUTPUT_MODEL:-$MODEL}"
   divider "🕵️  RESEARCHER — Chapter ${CHAPTER}"
 
   if ! should_run "$DOSSIER"; then
@@ -363,9 +733,9 @@ ENDPROMPT
 )
 
   local output exit_code=0
-  output=$(run_claude "$PROMPT" "$log_file") || exit_code=$?
+  output=$(run_agent "researcher" "$PROMPT" "$log_file") || exit_code=$?
   if [[ $exit_code -ne 0 ]]; then
-    err "Researcher: claude exited with code ${exit_code}. Check log: ${log_file##*/}"
+    err "Researcher: ${RESOLVED_AGENT} exited with code ${exit_code}. Check log: ${log_file##*/}"
     [[ -f "$log_file" && -s "$log_file" ]] && { warn "Log tail:"; tail -5 "$log_file" >&2; }
     exit 1
   fi
@@ -375,7 +745,7 @@ ENDPROMPT
     ok "Dossier written: $DOSSIER"
     echo "$output" | grep "RESEARCHER DONE" || true
   else
-    err "Researcher: claude ran but did not write dossier. Check log: ${log_file##*/}"
+    err "Researcher: ${RESOLVED_AGENT} ran but did not write dossier. Check log: ${log_file##*/}"
     [[ -f "$log_file" && -s "$log_file" ]] && { warn "Log tail:"; tail -5 "$log_file" >&2; }
     exit 1
   fi
@@ -383,7 +753,6 @@ ENDPROMPT
 
 # ─── WRITER STAGE 1 ────────────────────────────────────────────────────────
 run_writer1() {
-  local MODEL="${LONG_OUTPUT_MODEL:-$MODEL}"
   divider "✍️  WRITER Stage 1 — Chapter ${CHAPTER} (Prose Engine)"
 
   if ! should_run "$DRAFT_PROSE"; then
@@ -470,9 +839,9 @@ ENDPROMPT
 )
 
   local output exit_code=0
-  output=$(run_claude "$PROMPT" "$log_file") || exit_code=$?
+  output=$(run_agent "writer1" "$PROMPT" "$log_file") || exit_code=$?
   if [[ $exit_code -ne 0 ]]; then
-    err "Writer S1: claude exited with code ${exit_code}. Check log: ${log_file##*/}"
+    err "Writer S1: ${RESOLVED_AGENT} exited with code ${exit_code}. Check log: ${log_file##*/}"
     [[ -f "$log_file" && -s "$log_file" ]] && { warn "Log tail:"; tail -5 "$log_file" >&2; }
     exit 1
   fi
@@ -482,7 +851,7 @@ ENDPROMPT
     ok "Draft prose written: $DRAFT_PROSE"
     echo "$output" | grep "WRITER STAGE 1 DONE" || true
   else
-    err "Writer S1: claude ran but did not write draft prose. Check log: ${log_file##*/}"
+    err "Writer S1: ${RESOLVED_AGENT} ran but did not write draft prose. Check log: ${log_file##*/}"
     [[ -f "$log_file" && -s "$log_file" ]] && { warn "Log tail:"; tail -5 "$log_file" >&2; }
     exit 1
   fi
@@ -490,7 +859,6 @@ ENDPROMPT
 
 # ─── WRITER STAGE 2 ────────────────────────────────────────────────────────
 run_writer2() {
-  local MODEL="${LONG_OUTPUT_MODEL:-$MODEL}"
   divider "✍️  WRITER Stage 2 — Chapter ${CHAPTER} (Refinement Engine)"
 
   if ! should_run "$CHAPTER_FILE"; then
@@ -544,9 +912,9 @@ ENDPROMPT
 )
 
   local output exit_code=0
-  output=$(run_claude "$PROMPT" "$log_file") || exit_code=$?
+  output=$(run_agent "writer2" "$PROMPT" "$log_file") || exit_code=$?
   if [[ $exit_code -ne 0 ]]; then
-    err "Writer S2: claude exited with code ${exit_code}. Check log: ${log_file##*/}"
+    err "Writer S2: ${RESOLVED_AGENT} exited with code ${exit_code}. Check log: ${log_file##*/}"
     [[ -f "$log_file" && -s "$log_file" ]] && { warn "Log tail:"; tail -5 "$log_file" >&2; }
     exit 1
   fi
@@ -556,7 +924,7 @@ ENDPROMPT
     ok "Chapter written: $CHAPTER_FILE"
     echo "$output" | grep "WRITER STAGE 2 DONE" || true
   else
-    err "Writer S2: claude ran but did not write chapter file. Check log: ${log_file##*/}"
+    err "Writer S2: ${RESOLVED_AGENT} ran but did not write chapter file. Check log: ${log_file##*/}"
     [[ -f "$log_file" && -s "$log_file" ]] && { warn "Log tail:"; tail -5 "$log_file" >&2; }
     exit 1
   fi
@@ -564,7 +932,6 @@ ENDPROMPT
 
 # ─── EDITOR ────────────────────────────────────────────────────────────────
 run_editor() {
-  local MODEL="${LONG_OUTPUT_MODEL:-$MODEL}"
   divider "⚖️  EDITOR — Chapter ${CHAPTER} (NUF Audit + Stop-Hook)"
 
   if ! $DRY_RUN && ! file_exists "$CHAPTER_FILE"; then
@@ -647,7 +1014,7 @@ ENDPROMPT
 )
 
     local output
-    output=$(run_claude "$PROMPT" "$log_file" 2>&1 || true)
+    output=$(run_agent "editor" "$PROMPT" "$log_file" 2>&1 || true)
     echo "$output"
 
     if echo "$output" | grep -q "EDITOR PASS"; then
@@ -693,7 +1060,6 @@ ENDPROMPT
 
 # ─── REVIEWER ──────────────────────────────────────────────────────────────
 run_reviewer() {
-  local MODEL="${LONG_OUTPUT_MODEL:-$MODEL}"
   divider "📋  REVIEWER — Chapter ${CHAPTER} (Editorial Audit + Corrections)"
 
   if ! should_run "$REVIEW"; then
@@ -777,9 +1143,9 @@ ENDPROMPT
 )
 
   local output exit_code=0
-  output=$(run_claude "$PROMPT" "$log_file") || exit_code=$?
+  output=$(run_agent "reviewer" "$PROMPT" "$log_file") || exit_code=$?
   if [[ $exit_code -ne 0 ]]; then
-    err "Reviewer: claude exited with code ${exit_code}. Check log: ${log_file##*/}"
+    err "Reviewer: ${RESOLVED_AGENT} exited with code ${exit_code}. Check log: ${log_file##*/}"
     [[ -f "$log_file" && -s "$log_file" ]] && { warn "Log tail:"; tail -5 "$log_file" >&2; }
     exit 1
   fi
@@ -860,7 +1226,7 @@ Write ${BOOK_REWRITE_PLAN} with:
 After writing, print: "BOOK_REWRITE_PLAN DONE ✓"
 ENDPROMPT
 )
-    run_claude "$PROMPT" "$log_file" || true
+    run_agent "reviewer" "$PROMPT" "$log_file" || true
     file_exists "$BOOK_REWRITE_PLAN" && ok "Book rewrite plan: $BOOK_REWRITE_PLAN"
   fi
 
@@ -870,9 +1236,9 @@ ENDPROMPT
 # ─── FULL PIPELINE ─────────────────────────────────────────────────────────
 run_full_pipeline() {
   log "Starting full pipeline — Chapter ${CHAPTER}"
-  log "Model: ${MODEL} (long output: ${LONG_OUTPUT_MODEL})"
   log "Force: ${FORCE}"
   log "Project: ${PROJECT_DIR}"
+  print_phase_model_summary
   echo ""
 
   run_architect
@@ -896,7 +1262,8 @@ DRYRUN_STR=""; $DRY_RUN && DRYRUN_STR=" | DRY-RUN"
 
 echo ""
 echo -e "${BOLD}Ralph Loop V5.1 — 5-Agent Stateless Writing Pipeline${NC}"
-echo -e "  Chapter: ${BOLD}${CHAPTER}${NC} | Phase: ${BOLD}${PHASE}${NC} | Model: ${BOLD}${MODEL}${NC}${FORCE_STR}${DRYRUN_STR}"
+echo -e "  Chapter: ${BOLD}${CHAPTER}${NC} | Phase: ${BOLD}${PHASE}${NC}${FORCE_STR}${DRYRUN_STR}"
+echo -e "  Models: ${DIM}$(phase_selector_summary "$PHASE")${NC}"
 echo ""
 
 case "$PHASE" in
