@@ -267,3 +267,203 @@ Glossario bilingue dei concetti/entità centrali introdotti capitolo per capitol
 **Armata d'Italia / Italijanska armada** — il corpo militare della Repubblica Francese comandato da Napoleone Bonaparte a partire dal marzo 1796, che conduce la Campagna d'Italia.
 
 **Lublanske novice / Lublanske novice** — il primo giornale a stampa in lingua slovena, uscito a Lubiana a partire da gennaio 1797, due numeri alla settimana, diffuso per abbonamento a circa un centinaio di copie. Titolo invariato in entrambe le lingue.
+
+**Žiga Zois (1747-1819)** — barone, proprietario di miniere di ferro a Bohinj e ferriere a Javornik, figura centrale dell'Illuminismo sloveno e mecenate di Vodnik e Kopitar; durante l'occupazione francese del 1797 non fugge da Lubiana come gran parte della nobiltà, ma resta neutrale per proteggere le sue proprietà e continuare a finanziare la cultura slovena. Nome invariato in entrambe le lingue.
+
+**Protocollo delle tre copie / Protokol treh izvodov** — pratica dei mercanti dell'Alto Adriatico di scrivere tre esemplari identici di ogni notizia commerciale sensibile e spedirli per tre vie diverse (posta a cavallo via terra, nave neutrale, copia manoscritta nel proprio copialettere/kopirna knjiga), per non perdere l'informazione se una via viene bloccata, ritardata o intercettata.
+
+## Capitolo 8
+
+**Congresso di Vienna (1814-1815) / Dunajski kongres (1814-1815)** — assise diplomatica dei vincitori di Napoleone, aperta ufficialmente il 1º novembre 1814 e chiusa con l'Atto finale del 9 giugno 1815, che ridisegna i confini europei e li ratifica prima ancora dell'esito di Waterloo (18 giugno 1815).
+
+**Restaurazione / Restavracija** — il progetto politico dei vincitori del 1815 di rimettere sul trono le dinastie spodestate e contenere nuove rivoluzioni e guerre; non un ritorno completo all'assetto del 1789 (Venezia, Genova e il Sacro Romano Impero, ad esempio, non tornano).
+
+**Principio di legittimità / Načelo legitimnosti** — criterio dinastico sostenuto soprattutto da Talleyrand al Congresso di Vienna: le famiglie che regnavano prima del 1789 hanno diritto a ritrovare troni e territori — un criterio applicato in modo selettivo, non a chi non aveva una dinastia (come la Repubblica di Venezia).
+
+**Equilibrio fra potenze / Ravnovesje sil** — criterio difeso da Castlereagh (Gran Bretagna) e da Metternich (Austria) al Congresso di Vienna: nessuno Stato del continente deve poter dominare militarmente gli altri.
+
+**Santa Alleanza (26 settembre 1815) / Sveta aliansa (26. september 1815)** — patto fra Russia, Austria e Prussia per governare secondo la "carità cristiana", senza organo di controllo né esercito comune; da non confondere con la Quadruplice Alleanza.
+
+**Quadruplice Alleanza (20 novembre 1815) / Četverna aliansa (20. november 1815)** — trattato militare e politico fra Gran Bretagna, Austria, Prussia e Russia che istituisce il "sistema dei congressi", riunioni periodiche per mantenere l'equilibrio fra potenze, anche con la forza.
+
+**Funzionario forestale distrettuale / Okrajni gozdar** — amministratore tecnico dei boschi di proprietà statale in un distretto; misura, pianifica tagli e rimboschimenti e tiene i registri ufficiali (in tedesco, la lingua d'ufficio), pur dovendo parlare la lingua di chi lavora il legname sul campo.
+
+**Rilievo forestale / Gozdna izmera** — misurazione e disegno della mappa di un bosco per triangolazione, senza dover attraversare ogni tratto a piedi; il metodo con cui un funzionario come Ressel sapeva quanto legname c'era prima che cadesse un solo albero.
+
+**Privilegio d'invenzione / Izumiteljski privilegij** — concessione del sovrano che garantisce all'inventore l'esclusiva su un'invenzione per un tempo e un territorio stabiliti; somiglia al brevetto moderno ma non coincide, perché dura poco e decade se l'invenzione resta inutilizzata.
+
+**Propulsione a vite (elica navale) / Vijačni pogon (ladijski vijak)** — sistema di spinta navale in cui la rotazione trasmessa da una macchina a vapore fa girare, tramite un albero, una vite di bronzo immersa a poppa; l'acqua spinta all'indietro spinge la nave in avanti, senza le ruote a pale ai fianchi.
+
+**Civetta** — la goletta a vela con motore ausiliario a vapore ed elica a poppa di Ressel, allestita allo Squero Panfili di Trieste, che nell'estate del 1829 compì la prova pubblica interrotta dal cedimento di un tubo della caldaia. Nome invariato in entrambe le lingue.
+
+**Carlo Ottavio Fontana** — imprenditore triestino che nel 1827 finanziò con un contratto notarile il collaudo dell'elica di Ressel sulla *Civetta*, puntando su una linea regolare Trieste–Venezia; dopo l'incidente del 1829 rescisse il contratto e ritirò i capitali.
+
+**Josef Ressel (1793-1857)** — funzionario forestale nato a Chrudim in Boemia, attivo dal 1817 nella tenuta statale di Pleterje (Bassa Carniola), dove imparò lo sloveno per lavorare con boscaioli e carrettieri; brevettò nel 1827 un sistema di elica a vite per navi e lo collaudò nel 1829 a Trieste sulla *Civetta*. L'origine esatta della sua idea resta un'inferenza storiografica, non un documento.
+
+**Lloyd Austriaco / Avstrijski Lloyd** — società fondata a Trieste il 20 aprile 1833 da diciannove compagnie di assicurazione marittima, banchieri e negozianti, guidati dal barone Karl Ludwig von Bruck; nasce come rete di informazione commerciale (corrispondenti nei porti, bollettini, giornale) prima ancora di possedere una nave, e apre la propria Compagnia di Navigazione a Vapore solo il 2 agosto 1836.
+
+**Compagnia di Navigazione a Vapore / Parobrodna družba** — la seconda sezione del Lloyd Austriaco, aperta il 2 agosto 1836 con agevolazioni doganali e il monopolio della posta imperiale per il Levante, che nel 1837 mise in linea le prime navi a ruote verso Costantinopoli.
+
+**Assicurazione marittima / Pomorsko zavarovanje** — pratica per cui chi assicura valuta il rischio di un viaggio per mare e lo distribuisce fra molti in cambio di un premio; se la nave affonda, paga l'assicuratore.
+
+**Linea regolare / Redna linija** — servizio di trasporto che parte su una rotta fissa e con tempi stabiliti, anche quando il carico è scarso; diversa da una traversata occasionale legata alla sola convenienza del momento.
+
+## Capitolo 7
+
+**Blocco Continentale / Celinska zapora** — il sistema di divieti con cui Napoleone chiude ai prodotti britannici tutti i porti del continente europeo, dal 1806; non una flotta che sbarra il mare, ma una rete doganale applicata a terra.
+
+**Guerra economica / Gospodarska vojna** — una guerra condotta contro i commerci, le merci e il denaro del nemico invece che contro i suoi soldati; qui lo scopo francese è privare la Gran Bretagna dei mercati continentali.
+
+**Licenza imperiale / Cesarska licenca** — permesso scritto, venduto direttamente da Napoleone a partire dal 1809-1810, che autorizza un singolo mercante a commerciare con la Gran Bretagna in deroga al Blocco Continentale.
+
+**Contrabbando / Tihotapstvo** — il trasporto di merci vietate eludendo un divieto, con documenti falsi, sbarchi notturni o carichi nascosti; distinto dal commercio con licenza, che è un'eccezione scritta e pagata apertamente.
+
+**Embargo / Embargo** (stesso termine in entrambe le lingue) — divieto legale di commerciare con un paese nemico, imposto con un decreto e fatto rispettare in dogana; distinto dal blocco navale, l'interdizione fisica del mare con navi da guerra — a Trieste fra 1808 e 1811 il primo è francese, il secondo britannico, e solo insieme fermano davvero il porto.
+
+**Accentramento amministrativo / Centralizacija uprave** — concentrare in un'unica sede (qui Lubiana) le decisioni, le tasse e i rapporti che prima ogni provincia gestiva per conto proprio; è la logica pratica dietro la scelta di una capitale imperiale, non un titolo d'onore.
+
+**Province Illiriche / Ilirske province** — territorio creato da Napoleone con il decreto di Schönbrunn del 14 ottobre 1809, esteso dalle Alpi a Ragusa/Dubrovnik, con capitale Lubiana; non una nazione né uno Stato sloveno, ma una dipendenza sotto la sovranità diretta dell'Imperatore, popolata da sloveni, croati, italiani, tedeschi e serbi.
+
+**Governatore generale / Generalni guverner** — il comandante militare nominato da Napoleone a capo delle Province Illiriche, con poteri quasi da viceré; la carica fu ricoperta dal maresciallo Auguste de Marmont.
+
+**Coscrizione / Naborništvo** — l'iscrizione obbligatoria, per liste e non per scelta, dei giovani maschi nell'esercito napoleonico; per la Carniola comincia con le Province Illiriche e alimenta i reggimenti illirici, in parte inviati in Russia nel 1812.
+
+**Codice civile (napoleonico) / Napoleonov civilni zakonik** — il corpo di leggi francese del 1804 sui rapporti fra privati (famiglia, matrimonio, eredità, proprietà, contratti), entrato in vigore nelle Province Illiriche il 1° gennaio 1812; stabilisce l'uguaglianza giuridica fra i sudditi ma mantiene, fra l'altro, l'autorità del marito sulla moglie sposata.
+
+**Uguaglianza giuridica / Pravna enakost** — stessa legge e stessi tribunali per tutti davanti al giudice, senza privilegi legati alla nascita; introdotta dal Codice civile napoleonico, non cancella da sola le diseguaglianze di fatto (tlaka, censo, obblighi verso il signore) che restano fuori dall'aula del tribunale.
+
+**Atto di notorietà / Pričevalni list** — dichiarazione giurata con cui alcuni vicini attestano davanti al cancelliere l'identità di una persona (età dimostrata, cicatrici, statura, mestiere) quando manca un documento scritto; il modo in cui si provava chi si era prima delle carte d'identità e delle fotografie.
+
+**Lingua d'insegnamento / Učni jezik** — la lingua in cui si svolgono tutte le materie scolastiche, non solo quella studiata come materia; i decreti scolastici di Marmont (1810) e generale (1811) la fissano in sloveno per le scuole primarie della Carniola.
+
+**Valentin Vodnik (1758-1819)** — sacerdote e poeta, direttore del ginnasio di Lubiana e ispettore delle scuole primarie e artigiane della Carniola sotto le Province Illiriche; autore nel 1811 della prima grammatica dello sloveno scritta interamente in sloveno, rimosso dall'incarico nel 1815 al ritorno dell'Austria.
+
+## Capitolo 9
+
+**Sistema di fabbrica / Tovarniški sistem** — macchine costose, energia a vapore e lavoratori concentrati nello stesso edificio, sotto lo stesso orario e lo stesso padrone; chi lavora non possiede più gli strumenti né decide il proprio tempo.
+
+**Divisione del lavoro / Delitev dela** — la scomposizione della produzione in compiti semplici e ripetuti, ciascuno affidato a una persona diversa, al ritmo imposto dalla macchina.
+
+**Inurbamento / Urbanizacija** — la crescita della popolazione di una città perché lavoro e servizi si concentrano nello stesso luogo e attirano gente dalle campagne.
+
+**Knocker-up** — nell'Inghilterra industriale, chi viene pagato pochi pence a settimana per svegliare gli operai battendo una lunga canna contro i vetri prima del turno; chi arriva comunque in ritardo paga la multa. Termine inglese invariato in entrambe le lingue.
+
+**Mee-mawing** — nel Lancashire tessile, il linguaggio labiale muto che i tessitori si insegnano a vicenda per comunicare sopra il frastuono ininterrotto dei telai. Termine inglese invariato in entrambe le lingue.
+
+**Factory Act (29 agosto 1833) / Factory Act (29. avgust 1833)** — legge britannica che vieta il lavoro nelle fabbriche tessili sotto i 9 anni e limita a 8 ore giornaliere, più 2 ore di scuola pagate dal datore di lavoro, il lavoro dei minori fra 9 e 13 anni; fatta rispettare da soli quattro ispettori per l'intero regno.
+
+**Lavoro salariato / Mezdno delo** — chi lavora vende il proprio tempo a un'impresa in cambio di una paga; il prodotto finale non gli appartiene.
+
+**Proletariato / Proletariat** — chi vive soprattutto del proprio salario perché non possiede i mezzi di produzione (scali, officine, capitali).
+
+**Borghesia imprenditoriale / Podjetniško meščanstvo** — chi possiede o finanzia un'impresa, ne organizza il lavoro e si assume il rischio di guadagnare o perdere; non un'etichetta morale, né un gruppo internamente uniforme.
+
+**Gaspare Tonello (1798-1849)** — costruttore navale veneziano, docente di architettura navale all'Accademia di Commercio e Nautica di Trieste dal 1820 e fondatore, nel 1840, del Cantiere San Marco: applica per primo a Trieste il calcolo e l'organizzazione industriale alla costruzione navale, prima affidata solo all'esperienza pratica dei maestri d'ascia.
+
+**Cantiere San Marco / Ladjedelnica San Marco** — cantiere navale inaugurato a Trieste il 21 marzo 1840 fra la collina di Sant'Andrea e Servola/Škedenj, con scali in muratura, tettoie stabili e un'officina fissa: il primo impianto triestino organizzato su base industriale, finanziato da mercanti, banchieri e compagnie di assicurazione cittadine.
+
+**Mlekarice / Mlekarice** — le contadine dei villaggi del Carso che, ogni mattina prima dell'alba, portavano a piedi il latte appena munto ai propri clienti fissi di Trieste; il ricavato, tenuto e amministrato dalle donne stesse, era spesso l'unica entrata regolare in contanti della famiglia contadina.
+
+**Šavrinke / Šavrinke** — nome dato dall'esterno (città e pianura) alle donne dell'Istria nord-occidentale che compravano uova, pollame e altri prodotti nei villaggi dell'interno per rivenderli sulla costa; in origine un'etichetta spesso spregiativa, diventata simbolo identitario regionale solo nella seconda metà del Novecento — le protagoniste si definivano *jajčarice* ("quelle delle uova") o *potovke* ("quelle che vanno").
+
+**Osmiza / osmica** — vendita temporanea, per un periodo di otto giorni (o multipli), di vino e cibi freddi prodotti in proprio nella cantina o nel cortile di un contadino del Carso, segnalata da un ramo d'edera appeso alla porta; il nome viene dallo sloveno *osem*, otto, ma non compare per iscritto prima degli anni Ottanta dell'Ottocento — il decreto di Giuseppe II del 1784, spesso citato come sua origine, non lo contiene.
+
+**Sacco del Diavolo / Hudičeva vreča** — leggenda carsica che spiega l'origine della pietra affiorante ovunque sull'altopiano come le pietre avanzate dalla creazione del mondo, sparse quando il diavolo squarcia con le corna il sacco che le trasportava verso il mare; attestata per iscritto solo dal Novecento, racconta il rapporto fra la gente e una terra avara, non il reale processo geologico.
+
+**Carsismo / Zakrasevanje** — il processo chimico per cui l'acqua piovana, resa debolmente acida, scioglie lentamente il calcare e lascia affiorare la roccia piena di solchi e fessure; la causa reale, spiegata da MEMO, della pietrosità del Carso che la leggenda del Sacco del Diavolo racconta in altro modo.
+
+## Capitolo 10
+
+**Suffragio censitario / Cenzusna volilna pravica** — sistema in cui vota solo chi possiede un certo patrimonio o paga una certa soglia di tasse; chi non ha proprietà non vota, anche se è adulto e lavora.
+
+**Governo provvisorio / Začasna vlada** — un gruppo che prende in mano il potere durante una crisi per tenere in piedi l'amministrazione finché non si arriva a elezioni o a una costituzione definitiva.
+
+**Barricata / Barikada** — muro improvvisato che chiude una strada, costruito con quello che c'è (pietre del selciato, carri, mobili); toglie una via alla cavalleria e all'artiglieria, non vince da sola una battaglia.
+
+**Insurrezione urbana / Mestna vstaja** — rivolta che scoppia dentro una città e prova a cacciarne l'autorità che la governa, quartiere per quartiere, senza un esercito regolare.
+
+**Prima guerra d'indipendenza (1848) / Prva italijanska osamosvojitvena vojna (1848)** — la guerra dichiarata dal Regno di Sardegna all'Impero austriaco il 23 marzo 1848; distinta dall'insurrezione cittadina che l'ha preceduta, perché la dichiara uno Stato con un esercito contro un altro Stato.
+
+**Repubblica di San Marco (1848) / Republika svetega Marka (1848)** — repubblica proclamata da Daniele Manin a Venezia il 22 marzo 1848 dopo la capitolazione austriaca; vota la fusione con il Regno di Sardegna il 4 luglio 1848, ma torna in vita ad agosto e resiste fino alla resa per fame del 22-24 agosto 1849.
+
+**Fusione (o annessione) / Združitev (priključitev)** — l'unione di un territorio a un altro Stato già esistente, con le sue leggi e il suo sovrano.
+
+**Guardia Nazionale (Civica) / Narodna straža** — milizia di cittadini volontari, distinta dall'esercito regolare; si arma da sé, presidia il proprio quartiere e risponde alle autorità cittadine, non a un generale.
+
+**Autonomia municipale / Mestna avtonomija** — il diritto di una città di amministrare da sé i propri affari (tasse locali, porto, polizia urbana) dentro uno Stato più grande.
+
+**Lealismo dinastico / Dinastična zvestoba** — la fedeltà al sovrano e alla sua casa regnante; può convivere con la richiesta di una costituzione, perché si può volere un imperatore e insieme dei limiti scritti al suo potere.
+
+**Programma nazionale / Narodni program** — un insieme pubblico di richieste politiche presentate a nome di un gruppo che si definisce come popolo; è un testo, non uno Stato.
+
+**Dieta territoriale (*deželni zbor*) / Deželni zbor** — l'assemblea che rappresenta un territorio della monarchia asburgica e ne discute le leggi proprie (scuola, tasse, questioni civili).
+
+**Parità linguistica / Jezikovna enakopravnost** — l'uguale validità giuridica di due lingue nelle funzioni pubbliche indicate (scuola, tribunale, amministrazione); non significa che una sostituisca l'altra.
+
+**Movimento petizionario / Peticijsko gibanje** — la raccolta organizzata di firme e richieste da presentare all'autorità; forma di partecipazione politica per chi non ha diritto di voto.
+
+**Controrivoluzione / Protirevolucija** — il ritorno al potere, spesso con l'esercito, delle autorità che una rivoluzione aveva sconfitto o ridimensionato.
+
+**Neoassolutismo / Neoabsolutizem** — il decennio successivo al 1851 nella monarchia asburgica: costituzione revocata, associazioni politiche sciolte, controllo di polizia sulla stampa e sulle riunioni.
+
+**Matija Majar – Ziljski (1809-1892)** — sacerdote, etnografo e linguista carinziano; nel 1848, cappellano della cattedrale di Celovec, mette per primo per iscritto le richieste territoriali che confluiranno in *Zedinjena Slovenija*. Nome invariato in entrambe le lingue.
+
+**Daniele Manin (1804-1857)** — avvocato veneziano, arrestato a gennaio 1848 per una petizione legale di riforme costituzionali; proclama la Repubblica di San Marco il 22 marzo 1848, ne raccomanda la fusione con il Regno di Sardegna il 4 luglio e viene richiamato al potere ad agosto dopo la sconfitta piemontese di Custoza. Nome invariato in entrambe le lingue.
+
+## Capitolo 11
+
+**Armistizio / Premirje** — sospensione concordata dei combattimenti che fissa condizioni provvisorie, non ancora la pace: un trattato dovrà poi confermarle o modificarle.
+
+**Plebiscito / Plebiscit** — voto usato per approvare un cambiamento di governo o di territorio già deciso dall'alto; nell'Ottocento si vota spesso a voto palese e riservato a una parte della popolazione, non un referendum nel senso odierno.
+
+**Spedizione dei Mille / Pohod tisočerih** — la campagna di volontari guidata da Garibaldi, partita da Quarto nel maggio 1860, che con l'appoggio di rivolte locali abbatté il potere borbonico in Sicilia e nel Sud; il nome indica un numero simbolico, non un conteggio esatto.
+
+**Cessione territoriale / Odstop ozemlja** — il passaggio di sovranità su un territorio da uno Stato a un altro, stabilito da un trattato; un plebiscito successivo può ratificarla, non sempre la decide.
+
+**Litorale austriaco / Avstrijsko primorje** — l'unità amministrativa asburgica (*Österreichisches Küstenland*) che comprende Gorizia e Gradisca, Trieste e l'Istria; resta fuori dal Regno d'Italia dopo la cessione del Veneto nel 1866.
+
+**Irredentismo / Iredentizem** — il movimento che rivendicherà all'Italia le terre rimaste fuori dai suoi confini dopo il 1866; la parola non esiste ancora in quell'anno, la conia Matteo Renato Imbriani nel 1877.
+
+**Venezia Giulia / Julijska krajina** — nome proposto nel 1863 dal glottologo Graziadio Isaia Ascoli come classificazione storico-linguistica delle terre fra l'Isonzo, le Alpi Giulie e il mare; diventa nome amministrativo dello Stato italiano solo dopo il 1918, mentre la sua traduzione slovena nasce fra il 1918 e il 1920 — nel 1866 nessuna delle due esiste come nome ufficiale o corrente.
+
+**Beneška Slovenija / Slavia Veneta** — le comunità di lingua slovena delle valli del Natisone, annesse al Regno d'Italia nel 1866; hanno più nomi a seconda di chi scrive (*Slavia Veneta* o *Schiavonia Veneta* in italiano, *Venetianische Slawen* in tedesco, *Beneška Slovenija* o *Beneški Slovenci* in sloveno), e nessuno di questi nomi coincide con uno Stato.
+
+**Zedinjena Slovenija / Slovenia Unita** — il programma politico del 1848 che chiede di riunire tutte le terre di lingua slovena in un'unica unità amministrativa dentro la monarchia asburgica; nel 1866 non è stato né realizzato né abbandonato.
+
+**Staroslovenci e Mladoslovenci / Vecchi Sloveni e Giovani Sloveni** — le due correnti del movimento nazionale sloveno attive negli anni 1860: i primi, guidati da Janez Bleiweis, uniscono lealtà dinastica agli Asburgo e richieste nazionali graduali; i secondi, emersi dopo il 1866, contestano quella fedeltà come incapace di ottenere risultati concreti (scuola e uffici in sloveno).
+
+**Toponimo politico / Politično ime kraja** — un nome di luogo creato o usato per interpretare, organizzare o rivendicare uno spazio, mai un'etichetta neutra; lo stesso territorio può avere nomi diversi a seconda di chi lo nomina e per quale scopo.
+
+## Capitolo 12
+
+**Seconda rivoluzione industriale / Druga industrijska revolucija** — fase di trasformazione collocata di solito fra il 1870 circa e il 1914, senza una data d'inizio unica; la novità non è una singola macchina ma il collegamento fra reti (elettricità, chimica, ferrovia, telegrafo).
+
+**Società di massa / Množična družba** — società in cui milioni di persone vivono in città, leggono giornali economici, comprano prodotti uguali e lavorano con gli stessi orari; non significa benessere per tutti, porta anche turni più lunghi e forti disuguaglianze.
+
+**Ferrovia di valico / Železnica čez prelaz** — linea costruita per superare una catena montuosa con pendenze e curve percorribili da una locomotiva a vapore; la ferrovia del Semmering (1854) arriva al 2,5% di pendenza senza cremagliera.
+
+**Orario ferroviario / Železniški čas** — tempo comune imposto a un'intera linea (qui l'ora di Vienna), diverso dall'ora solare di ogni città lungo il percorso; serve a far combaciare partenze, incroci e coincidenze.
+
+**Istmo / Ožina** — striscia di terra stretta che separa due mari e unisce due terre; quello di Suez separa il Mediterraneo dal Mar Rosso.
+
+**Canale a livello / Prekop v višini morske gladine** — canale che collega acque alla stessa altezza e quindi non richiede chiuse; il Canale di Suez, lungo in origine circa 164 chilometri, è di questo tipo.
+
+**Dragaggio / Bagranje** — scavo sott'acqua compiuto da una draga, macchina galleggiante che solleva fango e sabbia dal fondo con una catena di tazze o benne.
+
+**Magazzino doganale / Carinsko skladišče** — deposito controllato in cui una merce resta senza pagare subito il dazio; il dazio si versa solo quando la merce esce verso il mercato interno.
+
+**Imperialismo / Imperializem** — espansione del potere politico, economico e militare di uno Stato su territori e popoli fuori dai propri confini, anche senza trasformarli formalmente in colonie.
+
+**Occupazione militare velata / Prikriti protektorat** — controllo di fatto su un territorio (qui l'Egitto dopo il 1882) esercitato tramite un console generale straniero, senza dichiarare formalmente una colonia o un protettorato; distinto dal protettorato ufficiale, dichiarato solo nel 1914.
+
+**Quota azionaria / Delniški delež** — parte del capitale di una società; chi la possiede riceve una parte degli utili e un certo peso nelle decisioni, ma non diventa padrone del territorio in cui la società opera.
+
+**Stazione carboniera / Premogovna postaja** — porto con depositi di carbone dove le navi a vapore si riforniscono lungo una rotta lunga; senza una catena di stazioni ravvicinate, la rotta stessa non regge.
+
+**Trasbordo / Pretovor** — passaggio fisico di una merce da un mezzo di trasporto a un altro (per esempio dalla nave al vagone); il momento in cui il rischio di perderla, rovinarla o rubarla è più alto.
+
+**Lettera di vettura / Tovorni list** — documento in più copie che accompagna la merce sul treno, con marca, numero di colli, peso, sigilli e responsabilità della ferrovia in caso di danno o ritardo.
+
+**Pasquale Revoltella (1795-1869)** — bancario triestino nato a Venezia, vicepresidente della Compagnia del Canale di Suez, attivo fra Parigi e Vienna dal 1855 al 1858; scrive già nel 1862 che il canale da solo non basta senza porto e ferrovia, e muore settanta giorni prima dell'inaugurazione del 1869. Nome invariato in entrambe le lingue.
+
+**Porto Nuovo di Trieste / Novo pristanišče v Trstu** — ampliamento portuale deciso dal governo imperiale con convenzione del 1867 con la Ferrovia Meridionale, costruito dal 1868, in funzione parziale dal 1877 e completato in prima fase nel 1883; il nome "Porto Vecchio" nascerà solo nel Novecento, con la costruzione di un porto più a sud.

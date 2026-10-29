@@ -2,7 +2,7 @@
 
 ## Briefing
 
-Alex, Maja: tokrat gresta nazaj. Pristanek je v Parizu, 14. julija 1789, sredi osemnajstega stoletja, sled pa vaju bo držala vse do oktobra 1797. V prejšnjem poglavju sta do istega leta 1797 prišla po ameriški poti — prek tržaškega konzulata in ljubljanske knjižnice. Zdaj boste do njega prišli iz Pariza, in veriga bo popolnoma druga.
+Alex, Maja: tokrat gresta nazaj. Pristanek je v Parizu, 14. julija 1789, sredi osemnajstega stoletja, sled pa vaju bo držala vse do oktobra 1797. Na prejšnji nalogi sta do istega leta 1797 prišla po ameriški poti — prek tržaškega konzulata in ljubljanske knjižnice. Zdaj bosta do njega prišla iz Pariza, in veriga bo popolnoma druga.
 
 Učbenik jo zloži takole: kriza starega režima sproži naskok na Bastiljo → privilegiji padejo → revolucionarna Francija zaupa svobodo in enakost mlademu generalu → italijanski pohod in mir v Campoformiu z enim zamahom izbrišeta tisočletno Beneško republiko in prineseta revolucijo v vse prečkane dežele.
 
@@ -32,16 +32,16 @@ Borzna dvorana, kapitanov ladijski dnevnik in dve listini, ki ju nihče ne polo�
 Razglas v dveh jezikih, baron, ki ne more vstati s stola, in jama, izkopana sredi gozda.
 **Dokaz, ki ga zbiraš:** primerjaj besede, jezike in stroške zasedbe ter preveri, ali so različne družbene skupine res dobile isto revolucijo.
 
-Poročilo podpisujeta dva. Alex sestavlja pariški prelom, vojaški pohod in listini, ki na novo zarišeta Zgornji Jadran; Maja sprašuje vire, ki so nastali v slovenskih deželah takrat, ko novica postane zasedba. Nobeden od njiju ne dobi povzetka drugega.
+Poročilo podpisujeta dva. Alex sestavlja pariški prelom, vojaški pohod in listini, ki na novo zarišeta Zgornji Jadran; Maja sprašuje vire, ki so nastali v slovenskih deželah takrat, ko novica postane zasedba. Nobeden ne govori namesto drugega. Vsak pa lahko preizkusi sklepe drugega.
 
-In pozor na metodo: natisnjen razglas, glasovanje sveta, diplomatska določba, anonimno pismo in rekvizicijski seznam ne tehtajo enako. Pri vsakem viru se vprašaj, kdo govori, kdaj piše in predvsem koga ne more zastopati.
+In pozor na metodo: natisnjen razglas, glasovanje sveta, diplomatska določba, anonimno pismo in rekvizicijski seznam ne tehtajo enako. Pri vsakem viru se vprašajta, kdo govori, kdaj piše in predvsem koga ne more zastopati.
 
 ---
 
 ## Od Bastilje Do Terorja
 <span class="byline">Poroča Alex</span>
 
-Sredi dvorišča gori kup slame in nihče ga ne gasi. Dim je namenoma gost — zastira pogled švicarskim strelcem na obzidju. Zrak je vroč, poln smodnika in zmletega apna, tlak pod podplati pa spolzek od krvi, potu in razbitega stekla iz uničenih svetilk. Z osmih stolpov, visokih štiriindvajset metrov, ves čas padajo kosi hodnika. Med ljudmi vidim vajence v platnenih srajcah in usnjenih predpasnikih, ki držijo stare puške brez bajonetov.
+Sredi dvorišča gori kup slame in nihče ga ne gasi. Dim je namenoma gost — zastira pogled švicarskim strelcem na obzidju. Zrak je vroč, poln smodnika in zmletega apna, tlak pod podplati pa spolzek in posut s steklom razbitih svetilk. Z obhodov na vrhu osmih stolpov, visokih štiriindvajset metrov, se ves čas krušijo kamni in omet. Med ljudmi vidim vajence v platnenih srajcah in usnjenih predpasnikih, ki držijo stare puške brez bajonetov.
 
 Šestnajst ur prej sem v tem mestu stal v vrsti in se z eno roko držal vrvi.
 
@@ -88,7 +88,7 @@ V šoli so mi Bastiljo opisali kot ječo, nabito z nedolžnimi, ki jih je treba 
 *   **Fevdalni privilegij:** neenaka pravica ali obveznost, vezana na stan in zemljiško gospostvo — davčne oprostitve za prva dva stanova, dajatve, desetina in delovni dnevi, ki jih kmet dolguje gospodu.
 :::
 
-Po uradnih seznamih napadalcev je tistega dne padlo okoli osemindevetdeset ljudi, hudo ranjenih je bilo okrog sedemdeset. Med branilci je med bojem umrl en sam invalid; po predaji je množica na ulici linčala poveljnika de Launayja. Račun ni čist na nobeni strani in nihče ga ne zapiše enako.
+Kri na kamnih je skoraj vsa od napadalcev. Uradni seznami med njimi naštejejo blizu sto mrtvih in še kakih sedemdeset hudo ranjenih; med branilci v boju pade en sam, star vojak iz posadke invalidov. Po predaji pa množica na poti do mestne hiše ubije de Launayja, poveljnika trdnjave. Kdor bi rad izbral eno samo številko za "ceno svobode", jo bo moral izmisliti sam.
 
 *MEMO, kdaj padejo privilegiji?*
 
@@ -96,7 +96,7 @@ Po uradnih seznamih napadalcev je tistega dne padlo okoli osemindevetdeset ljudi
 
 Se pravi: kmet, ki nocoj nazdravlja, ker gospodu ne dolguje več delovnih dni, zjutraj ugotovi, da mora ostalo kupiti. Popolna in brezplačna odprava pride šele štiri leta pozneje, 17. julija 1793. Vmes, 26. avgusta 1789, skupščina sprejme Deklaracijo o pravicah človeka in državljana: sedemnajst členov, prvi pravi, da se ljudje rodijo in ostanejo svobodni in enaki v pravicah.
 
-Potem skok naprej. Isto mesto, druga leta. Vmes so bili kraljev pobeg v Varennes, vojna napoved Avstriji aprila 1792, naskok na Tuilerije, republika, kraljeva usmrtitev, vstaja v Vendéeju in tuje vojske na mejah.
+Potem MEMO preskoči naprej, kot bi prelistal debelo knjigo in se ustavil šele na strani, ki je nihče ne bere rad. Kralj poskuša pobegniti in ga ujamejo v Varennesu. Sledi vojna z Avstrijo, naskok na kraljevo palačo, konec monarhije, kraljeva usmrtitev, upor na zahodu države in sovražne vojske na vseh mejah hkrati. Vse to v manj kot treh letih.
 
 ::: memo-box
 ### MEMO SLOVAR
@@ -104,13 +104,19 @@ Potem skok naprej. Isto mesto, druga leta. Vmes so bili kraljev pobeg v Varennes
 *   **Vladavina terorja:** obdobje izrednega vladanja in represije med septembrom 1793 in 27. julijem 1794 — ne oznaka za celotno revolucijo, temveč enajst mesecev znotraj desetih let.
 :::
 
-V sobi odbora za javno blaginjo sem pričakoval prestol in enega samega človeka, ki odloča. Stolov je dvanajst. Dvanajst članov, ki jih konvent vsak mesec znova izvoli, in vsak ima svoj del: Carnot vojske, Lindet preskrbo, Robespierre politično smer. Prepirajo se. Nadzorujejo drug drugega. Podpisujejo skupaj.
+Nobenega prestola. To me najbolj preseneti, ko vstopim v sobo odbora za javno blaginjo — pričakoval sem enega človeka, ki odloča sam, namesto tega naštejem dvanajst stolov okoli mize, zasute s papirji. Seženem po enega od listov, da bi videl podpise, in nekdo me plosne po prstih.
 
-Revolucionarna sodišča po najbolj uporabljanem popisu izrečejo in izvršijo nekaj manj kot šestnajst tisoč šeststo smrtnih obsodb. Če prištejemo poboje brez sojenja na območjih državljanske vojne in mrtve v ječah, ocene skupno število žrtev postavljajo med petintrideset in štirideset tisoč. Približno štiriinosemdeset odstotkov obsojenih je bilo iz tretjega stanu: kmetje, obrtniki, delavci.
+**Sluga:** "Ne dotikaj se, državljan. To ni tvoje."
 
-27. julija 1794 Robespierra aretirajo, naslednji dan ga usmrtijo skupaj s Saint-Justom, Couthonom in devetnajstimi sodelavci. Izredna vlada se konča tako.
+**Alex:** "Samo pogledat sem hotel, čigav je podpis. Robespierrov?"
 
-Pet let prej mi je pred pekarno neka ženska razlagala, kako se raztegne star kruh. Nobeden od naju ni vedel, kam vodi tista vrsta.
+**Sluga:** "Ne samo njegov. Od tu nič ne gre ven z enim samim imenom." S prstom gre od stola do stola. "Carnotov — vojska. Lindetov — žito in preskrba. Robespierrov — politična smer. Konvent jih izvoli vsak mesec na novo, vseh dvanajst. In prepirajo se, verjemi mi."
+
+Uradni popis, na katerega se zgodovinarji najpogosteje sklicujejo, našteje nekaj manj kot šestnajst tisoč šeststo izvršenih smrtnih obsodb. Kdor prišteje še poboje brez sojenja in mrtve v ječah, pride do ocene med petintrideset in štirideset tisoč žrtev. Plemičev med njimi ni bilo veliko: od sto obsojenih jih je kakih štiriinosemdeset prišlo iz tretjega stanu — kmetov, obrtnikov, delavcev, ljudi, kakršni so stali v vrsti pred pekarno.
+
+Robespierra aretirajo 27. julija 1794, naslednji dan ga usmrtijo skupaj s Saint-Justom, Couthonom in devetnajstimi sodelavci. S tem je izredne vlade konec.
+
+Pet let prej mi je ženska pred pekarno razlagala, kako se raztegne star kruh. Od tiste vrvi do teh dvanajstih stolov ni vodila ravna pot.
 
 ---
 
@@ -125,13 +131,13 @@ Podplat je odpadel v celoti in vojak drži čevelj v roki, kakor se drži razbit
 
 **Alex:** "Vam novih čevljev ne dajo?"
 
-**Vojak:** *(se zasmeje brez veselja)* "Plače zamujajo že mesece. Dobimo, kar najdemo." Iz torbe potegne pravokotnik svežega govejega usnja, odrtega snoči z rekviriranega vola. "Zeleno usnje. Nogo si ovijem v volnene cunje, namazane z zasekami, da voda ne gre skozi, in jo položim nanj. Robove privihaš, luknje narediš s konico bajoneta, skoznje potegneš konopljeno vrvico in jo zavežeš nad gležnjem. Po dveh urah hoje se usnje posuši in dobi natanko obliko moje noge."
+**Vojak:** *(se zasmeje brez veselja)* "Plače zamujajo že mesece. Dobimo, kar najdemo." Iz torbe potegne pravokotnik svežega govejega usnja, odrtega snoči z rekviriranega vola. "Zeleno usnje. Nogo si ovijem v volnene cunje, namazane z mastjo, da voda ne gre skozi, in jo položim nanj. Robove privihaš, luknje narediš s konico bajoneta, skoznje potegneš konopljeno vrvico in jo zavežeš nad gležnjem. Po dveh urah hoje se usnje posuši in dobi natanko obliko moje noge."
 
 **Alex:** "In hrana?"
 
 **Vojak:** "V mestu si furir od župana takoj izsili ključe vseh peči. Moko zaseže v skladiščih, domače vajence postavi mesit vso noč, pred vrati stoji straža — ob zori nam vroče hlebce podajo kar nataknjene na bajonete. Zunaj mest pa moka in mrzla voda v menažki, ščepec soli, testo razpotegneš v tanke kolobarje in jih spečeš na vročih kamnih ob ognju. Kruh ni. V žep gre."
 
-Besedo "zaseže" izgovori dvakrat, vsakič enako mirno, kot bi govoril o vremenu.
+Besedo "zaseže" izgovori tako mirno, kot bi govoril o vremenu.
 
 Šele takrat opazim list, pribit na cerkvena vrata. Sveže natisnjen. Pred njim stojijo ljudje, eden bere na glas za druge. Govori o svobodi. Govori o enakosti. Zatrjuje, da vojska Francoske republike ne prihaja v vojno z ljudstvi, temveč s tirani.
 
@@ -145,7 +151,13 @@ Besedo "zaseže" izgovori dvakrat, vsakič enako mirno, kot bi govoril o vremenu
 
 Na papirju šteje ta armada šestdeset tisoč mož. Zgodovinarji ocenjujejo, da jih je bilo bojno sposobnih med osemintrideset in triinštirideset tisoč, s poljskimi topovi, ki jih ni bilo niti trideset, in z vprežnimi konji, na katerih so se poznala rebra.
 
-Pa zmaguje. Aprila se zarine med piemontsko in avstrijsko vojsko ter ju porazi ločeno; 28. aprila 1796 sardinski kralj podpiše premirje v Cherascu in izstopi iz vojne. 15. maja Bonaparte vkoraka v Milano. Dva dni zatem samo Lombardiji naloži vojni prispevek dvajsetih milijonov frankov v gotovini in žlahtnih kovinah. Modenskemu vojvodi deset milijonov. Papežu, s premirjem v Bologni, enaindvajset milijonov, sto umetnin in petsto vatikanskih rokopisov.
+Pa zmaguje. Aprila se zarine med piemontsko in avstrijsko vojsko ter ju porazi vsako posebej; 28. aprila 1796 sardinski kralj v Cherascu podpiše premirje in izstopi iz vojne. Sredi maja je Bonaparte v Milanu, dva dni pozneje pa izstavi račun: samo Lombardija mora plačati dvajset milijonov frankov v gotovini in žlahtnih kovinah.
+
+*MEMO, kdo še plača?*
+
+*"Modenski vojvoda: deset milijonov frankov. Papež ob premirju v Bologni: enaindvajset milijonov, sto umetnin in petsto vatikanskih rokopisov."*
+
+Sto umetnin. Svoboda, se zdi, potuje s precej prtljage.
 
 Hkrati nastajajo sestrske republike: konec decembra 1796 cispadanska, ki prva uporabi zeleno-belo-rdečo zastavo, 29. junija 1797 v Milanu razglašena cisalpinska. Nove ustave, državljani namesto podložnikov, prenovljena sodišča. To ni gledališče. Njihova suverenost pa se konča natanko tam, kjer se začne francoska vojaška odločitev.
 
@@ -158,12 +170,12 @@ Dnevni ukazi iz pomladi 1796 dokazujejo, da je vojakom res obljubljal kruh in bo
 *   **Moč:** 2 — telesno ni nič posebnega; njegovo orožje je razporeditev mož, ne njegova teža.
 *   **Inteligenca:** 5 — cele divizije premakne po trideset do petinštirideset kilometrov na dan po gorskih stezah, da jih je na kraju spopada več, kot jih je nasprotnik uspel zbrati.
 *   **Karizma:** 5 — bosim vojakom brez plače obljubi ravno tisto, kar jim najbolj manjka, in verjamejo mu dovolj, da prehodijo še en dan.
-*   **Posebna sposobnost (Diplomatska poteza zmage):** dim bitke se še ni razkadil, on pa že sedi za pogajalsko mizo s kralji in cesarji — domov v Pariz ne pošlje prošnje za dovoljenje, temveč sporočilo o dejstvu.
+*   **Posebna sposobnost (Diplomatska poteza zmage):** dim bitke se še ni razkadil, on pa že narekuje pogoje — v Cherascu, Bologni, Leobnu — odposlancem kraljev, vojvod, papeža in cesarja. V Pariz večkrat ne pošlje prošnje za dovoljenje, temveč sporočilo o že storjenem.
 :::
 
-Mantova pade marca 1797, in armada takoj krene naprej, proti Dunaju. Ustavi se šele pri Leobnu, sto petdeset kilometrov od cesarske prestolnice — pot tja vodi prek Tilmenta, 21. marca skozi Gorico, dva dni pozneje skozi Trst, nato po Kranjskem in Koroškem. Tam, 18. aprila, podpišejo mirovna preliminarija s tajnimi določbami o usodi ozemelj Beneške republike, čeprav je ta nevtralna in ji vojne sploh še niso napovedali.
+Mantova se vda februarja 1797. Marca armada krene naprej, proti Dunaju. Ustavi se šele pri Leobnu, sto petdeset kilometrov od cesarske prestolnice — pot tja vodi prek Tilmenta, 21. marca skozi Gorico, dva dni pozneje skozi Trst, nato po Kranjskem in Koroškem. Tam, 18. aprila, podpišejo mirovna preliminarija s tajnimi določbami o usodi ozemelj Beneške republike, čeprav je ta nevtralna in ji vojne sploh še niso napovedali.
 
-Zeleno usnje mu ostane privezano na nogi še dolgo po tem, ko odrine naprej. List na cerkvenih vratih zanj ostane samo kos papirja, ki ga nihče ni prosil, naj prebere.
+Zeleno usnje mu ostane privezano na nogi še dolgo po tem, ko odrine naprej. List na cerkvenih vratih pa zanj ostane samo papir. Nihče mu ga ni prebral.
 
 ::: checkpoint
 ### KONTROLNA TOČKA: Kaj bolj določa odločitve revolucionarne vojske, ko vstopi v Italijo — razglašena načela ali strateška korist?
@@ -181,7 +193,7 @@ Zapomni si svoj odgovor — razsodba v Debriefingu ti ga bo potrdila, popravila 
 ## Dva Datuma Za En Konec
 <span class="byline">Poroča Alex</span>
 
-Po tržaški obali diši po rastlinskem katranu za tesnjenje ladij, po slanih slanikih v hrastovih sodih in po vrečah kave, zloženih vzdolž Velikega kanala. Konec oktobra 1797 je. V borzni dvorani je tišje: rumena svetloba oljenk na zasteklenih oknih, škripanje gosjih peres po usnjenih vpisnikih, iz pristanišča pa škripanje lesenih škripcev.
+Ob tržaškem Velikem kanalu diši po lesnem katranu za tesnjenje ladij, po slanikih v hrastovih sodih in po vrečah kave, zloženih ob pomolu. Konec oktobra 1797 je. V borzni dvorani je tišje: rumena svetloba oljenk na svinčenih zasteklitvah, praskanje gosjih peres po usnjenih vpisnikih, od zunaj pa cviljenje lesenih škripcev.
 
 Posrednik, ki mu sledim, ne bere pisma za svojo mizo. Vzame ga in gre po stopnicah dol, v kavarno.
 
@@ -191,7 +203,7 @@ Posrednik, ki mu sledim, ne bere pisma za svojo mizo. Vzame ga in gre po stopnic
 
 **Alex:** "In kako veste, da pisma ni prej odprl nekdo drug?"
 
-**Posrednik:** *(mi pokaže zlomljen pečat)* "Pismo ne potuje v ovojnici. List se zloži sam vase in zapečati z voskom in mojim pečatnikom. Če vosek priteče razpokan ali prelit z navadnim voskom, vem, da je bilo pri cesarski cenzuri."
+**Posrednik:** *(mi pokaže zlomljen pečat)* "Pismo ne potuje v ovojnici. List se zloži sam vase in zapečati z voskom in mojim pečatnikom. Če pride pečat razpokan ali prelit z navadnim voskom, vem, da ga je pred mano odprla cesarska cenzura."
 
 **Alex:** "In če ladja potone?"
 
@@ -199,13 +211,13 @@ Posrednik, ki mu sledim, ne bere pisma za svojo mizo. Vzame ga in gre po stopnic
 
 Potem mi pove, kaj je v tistem dopisu — in zgodba, ki sem jo imel v glavi, se prelomi na dvoje.
 
-17. oktobra 1797 Bonaparte in habsburški pooblaščenci podpišejo mir. Francija hiši Avstriji odstopi Benetke, Istro, Dalmacijo, Boko Kotorsko in beneško kopno do Adiže; v zameno dobi priznanje cisalpinske republike, avstrijsko Nizozemsko, nekdanje beneške Jonske otoke in v tajnih členih levi breg Rena. Pogodba se imenuje po Campoformiu. Miza, na kateri so jo okoli enih ponoči res podpisali, pa je stala v vili Manin v Passarianu — v poletni rezidenci zadnjega doža, ki jo je Bonaparte zasedel za svoj glavni stan.[^ee6]
+17. oktobra 1797 Bonaparte in habsburški pooblaščenci podpišejo mir. Francija Avstriji prepusti Benetke, Istro, Dalmacijo, Boko Kotorsko in beneško kopno do Adiže; v zameno dobi priznanje cisalpinske republike, avstrijsko Nizozemsko, nekdanje beneške Jonske otoke in v tajnih členih levi breg Rena. Pogodba se imenuje po Campoformiu. Miza, na kateri so jo okoli enih ponoči res podpisali, pa je stala v vili Manin v Passarianu — v poletni rezidenci zadnjega doža, ki jo je Bonaparte zasedel za svoj glavni stan.
 
 In tu pride tisto, česar nisem pričakoval: takrat beneške vlade ni bilo že pet mesecev.
 
 *MEMO, prvi datum.*
 
-*"12. maj 1797, Doževa palača. Veliki svet se zadnjič sestane pod dožem Ludovicom Maninom, francoske enote pa so razporejene pri Marghere. Izglasuje prenos oblasti na začasno mestno upravo, naklonjeno Francozom."*
+*"12. maj 1797, Doževa palača. Veliki svet se zadnjič sestane pod dožem Ludovicom Maninom, francoske enote pa so razporejene v Margheri. Izglasuje prenos oblasti na začasno mestno upravo, naklonjeno Francozom."*
 
 ::: memo-box
 ### MEMO SLOVAR
@@ -215,22 +227,26 @@ In tu pride tisto, česar nisem pričakoval: takrat beneške vlade ni bilo že p
 *   **Nevtralnost:** odločitev, da država ne sodeluje v vojni. Sama po sebi ne jamči, da bodo tuje vojske njeno ozemlje spoštovale.
 :::
 
-V dvorani je tistega dne sedelo petsto sedemintrideset patricijev od približno tisoč dvesto. Temeljni zakoni republike jih za tako odločitev zahtevajo najmanj šeststo. Glasovanje: petsto dvanajst za, dvajset proti, pet vpisanih kot "neiskrenih". Zunaj, v laguni, dalmatinski Slovani streljajo v zrak, ker se vkrcavajo za domov, patriciji v dvorani pa mislijo, da se je začel pokol. Manin odloži doževo kapo in plašč ter peš odide domov.
+Manjka več kot polovica: od približno tisoč dvesto patricijev jih tisti dan sedi v dvorani samo petsto sedemintrideset, temeljni zakoni pa za tako odločitev zahtevajo vsaj šeststo. Glasujejo vseeno — petsto dvanajst za, dvajset proti, pet vpisanih kot "neiskrenih" — potem ko z lagune, kjer se dalmatinski Slovani vkrcavajo za domov in streljajo v zrak v pozdrav, do dvorane prispe zvok, ki ga vsi zamenjajo za začetek pokola. Manin odloži doževo kapo in plašč ter peš odide domov.[^ee6]
 
-Glasovanje brez sklepčnosti, sprejeto v paniki, s topovi osem kilometrov stran. Politično nepovratno. Po zakonih same republike pravno nično.
+**Posrednik:** *(s prstom potrka po številki v dopisu)* "Petsto sedemintrideset. Za tako odločitev bi jih moralo sedeti vsaj šeststo."
+
+**Alex:** "Potem so Benetke še vedno republika! Glasovanje ne velja, in—"
+
+**Posrednik:** "Na papirju že. Patriciji so medtem doma za zapahi, Francozi pa v Margheri. S pravilnikom ne streljaš, fant."
 
 **Alex:** "Za vas tukaj — je to dobra ali slaba novica?"
 
-**Posrednik:** "Oboje — in to mislim resno." Za trenutek pomisli. "Vso obalo od zdaj upravlja ena sama krona: to pomeni dalmatinski les, istrski kamen, olje in vino brez pristojbine svetemu Marku. Odlično." Zapre vpisnik. "Skrbi me nekaj drugega. Dunaj ima zdaj tudi Benetke same. Kdo mi zagotovi, da čez leta ne prenese kam tja tudi kakšne od svoboščin, ki jih uživa naše pristanišče?"
+**Posrednik:** "Oboje — in to mislim resno." Za trenutek pomisli. "Vso obalo od zdaj upravlja ena sama krona: to pomeni dalmatinski les, istrski kamen, olje in vino brez pristojbine svetemu Marku. Odlično." Zapre vpisnik. "Skrbi me nekaj drugega. Dunaj ima zdaj tudi Benetke same. Kdo mi zagotovi, da čez leta tja ne prenese tudi kakšne od svoboščin, ki jih uživa naše pristanišče?"
 
-Posrednik pozna na pamet eno samo številko, bolje kot katerikoli člen te pogodbe: dva milijona šeststo tisoč frankov, vojni prispevek, ki so ga Francozi zahtevali od Trsta med marčevsko in majsko zasedbo, sedem mesecev prej.
+Posrednik pozna na pamet eno samo številko, bolje kot katerikoli člen te pogodbe: dva milijona šeststo tisoč frankov, vojni prispevek, ki so ga Francozi zahtevali od Trsta med zasedbo od marca do maja, sedem mesecev prej.
 
 ---
 
 ## Svoboda Na Papirju, Vojaki Pred Vrati
 <span class="byline">Poroča Maja</span>
 
-Na Mestnem trgu francoski bobni odbijajo menjavo straže in zvok se odbija od Robbovega vodnjaka. Prvo, kar pogledam, ni vodnjak. Je razglas na zidu poleg njega — in v katerem jeziku je napisan.
+Na Mestnem trgu francoski bobni naznanjajo menjavo straže, njihov zvok pa odmeva od Robbovega vodnjaka. Prvo, kar pogledam, ni vodnjak. Je razglas na zidu poleg njega — in v katerem jeziku je napisan.
 
 Dva stolpca. Levi v nemščini, v gotici. Desni v jeziku, ki ga govorim jaz.
 
@@ -244,7 +260,7 @@ Spodaj, na istem listu, sledi ukaz mestni gosposki: denarni prispevek v nekaj dn
 
 Svoboda in rekvizicija. Isti papir. Isto črnilo.
 
-Moški, ki se ustavi brat poleg mene, ima rokave uradnika in oči nekoga, ki si na pamet dela zapiske. Imena mi ne pove. Ne bo ga povedal niti poleti, ko bo njegovih devet pisem izšlo v Ljubljani pri Egrovi tiskarni — v nemščini, polni tukajšnjih izrazov, naslovljenih na botra, ki živi v Ložu.
+Moški, ki se ustavi brat poleg mene, ima rokave uradnika in oči nekoga, ki si na pamet dela zapiske. Imena mi ne pove. Ne bo ga povedal niti poleti, ko bo v Ljubljani pri Egrovi tiskarni izšlo njegovih devet pisem: v nemščini, polnih tukajšnjih izrazov, naslovljenih na botra v Ložu.
 
 **Maja:** "Ste si to predstavljali tako?"
 
@@ -254,7 +270,7 @@ Moški, ki se ustavi brat poleg mene, ima rokave uradnika in oči nekoga, ki si 
 
 **Anonimni meščan:** "Tega nisem rekel. V samostanih so zdaj hlevi. Vino, moka in seno gredo in se ne vrnejo. Pišem zato, ker bo čez deset let nekdo teh enainštirideset dni opisal drugače, kot sem jih videl sam."
 
-Priča je. Ljudstvo ni. Mestni uradnik, ki ni bil nikoli lačen, je en glas, ne zbor.
+Priča je. Ne pa ljudstvo. Mestni uradnik, ki ni bil nikoli lačen, je en glas, ne zbor.
 
 V palači na Bregu, z okni nad Ljubljanico, baron Žiga Zois ni zbežal. Ne iz poguma: putika mu je ohromila noge in premika se na vozičku, ki si ga je sam zasnoval. Ima rudnike železa v Bohinju in fužine na Javorniku, in medtem ko se pogovarjava, neprenehoma podpisuje liste.
 
@@ -262,9 +278,11 @@ V palači na Bregu, z okni nad Ljubljanico, baron Žiga Zois ni zbežal. Ne iz p
 
 **Zois:** "Strah me je, da se ustavi železo. Če je cesta polna vojakov, železo ne pride dol, in če železo ne pride dol, ne plačam nikogar — ne rudarjev ne knjig, ki jih dajem tiskati. Mirujem, mesto oskrbujem, nikomur se ne pridružim. To je edina drža, ki mi na koncu pusti posest."
 
+Spraševala sem o idejah, on pa mi odgovarja z vozovi železa.
+
 Na njegovi mizi je med papirji list *Lublanskih novic*, prvega tiskanega časopisa v slovenščini, ki od januarja izhaja dvakrat na teden v kakšnih sto naročniških izvodih. Iz teh dni je tudi satirična kitica, ki kroži po mestu in se norčuje iz cesarske propagande — kdo jo je zložil, viri ne povedo: *Trka nam Francoz na vrata*, dobri Fronc pa pošilja ljubega brata Korla, da nas na hitro reši. Korel se medtem umika.
 
-Zunaj Ljubljane, na poti proti Krasu, se zgodba spet spremeni. Podeželski zvonovi zvonijo s plat zvona — tisto neenakomerno bitje, ki pomeni, da prihaja konjenica. V Krakovem je blato do gležnjev in Ljubljanica je od aprilskega dežja narasla. Fant, komaj kaj starejši od mene, riva dva vola s ceste proti nizkim njivam in ju drži na kratki vrvi, da ne delata hrupa.
+V Krakovem, kjer se mesto neha, je blato do gležnjev in Ljubljanica je od aprilskega dežja narasla. Naprej, proti Krasu, se zgodba spet spremeni. Podeželski zvonovi zvonijo s plat zvona — tisto neenakomerno bitje, ki pomeni, da prihaja konjenica. Fant, komaj kaj starejši od mene, riva dva vola s ceste proti nizkim njivam in ju drži na kratki vrvi, da ne delata hrupa.
 
 Na drugi strani, pod gozdom, mi ženska z zemljo pod nohti pove, kam je šlo seme.
 
@@ -278,7 +296,7 @@ Na drugi strani, pod gozdom, mi ženska z zemljo pod nohti pove, kam je šlo sem
 
 Obriše si roke ob predpasnik in ne odgovori takoj.
 
-**Kmetica:** "Tlako dolgujem enako. Dneve pri gospodu dolgujem enako, in desetino tudi. Zdaj dolgujem še seno tem. Prej sem dolgovala enemu."
+**Kmetica:** "Tlako dolgujem kot prej. Desetino tudi. Zdaj dolgujem še seno tem tukaj. Prej sem dolgovala samo enemu."
 
 Ima prav, in tega noben razglas ne pove. Francoska zasedba leta 1797 traja enainštirideset dni, od 28. marca do 8. maja, in ne odpravi ničesar: zemljiško gospostvo in tlaka ostaneta nedotaknjena med prehodom republikancev in po njihovem odhodu. Podložništvo bo v habsburški monarhiji padlo šele pol stoletja pozneje, leta 1848.
 
@@ -298,16 +316,26 @@ Tri priče, tri različice, in nobena od njih ne govori v imenu drugih dveh.
 
 ## Debriefing
 
-Mission Control je dokazne predmete položil na isto mizo: trdo skorjo kruha in ključ trdnjave, razglas ob rekvizicijskem ukazu, beneško listino iz maja ob oktobrski mirovni pogodbi, anonimni ljubljanski spis ob kosu brezovega lubja.
+Štirje pari predmetov ležijo zdaj drug ob drugem na isti mizi Mission Control: trda skorja kruha poleg ključa trdnjave, razglas poleg rekvizicijskega ukaza, majska beneška listina poleg oktobrske mirovne pogodbe, anonimni ljubljanski spis poleg kosa brezovega lubja.
 
 Alex, ti si sledil odločitvam. Maja, ti si sledila računu, ki ga je bilo treba plačati. To je ista zgodba, gledana z dveh višin, in nobena je ne zajame v celoti.
 
-**Razsodba.** Nobena od možnosti s kontrolne točke sama zase ne zadošča, teritorialne odločitve leta 1797 pa bolje pojasni B. Revolucija je zares zrušila privilegije in spremenila jezik oblasti: po letu 1789 mora oblast povedati, od kod prihaja. A italijanski pohod je ta načela prinesel skupaj z vojno, zasedbo in strateškimi interesi — in v Campoformiu je obljuba o osvoboditvi ljudstev izgubila proti koristnosti miru. Beneška republika ni izginila z enim podpisom v eni noči: stara vlada se je razpustila 12. maja pod vojaškim pritiskom in sredi že odprte krize, šele 17. oktobra pa je pogodba Benetke, Istro in Dalmacijo dodelila Habsburžanom. Enotnega odziva ni bilo: v Trstu in na Kranjskem so trgovski interesi, posest, podložniške obveznosti in telesna bližina vojakov isti novici dali različen pomen.
+Maja še ni prišla do besede, ko ji Alex pod nos potisne listek. Na njem je ena sama vrstica, ki si jo je v Trstu na skrivaj prepisal iz posrednikove kopirne knjige: *vojni prispevek, 2.600.000 frankov*.
+
+**Alex:** "Francozi so v Trstu triindvajsetega marca, v Ljubljani osemindvajsetega. Ista vojska, pet dni razlike, isti račun. Stavim, da sta moj posrednik in tvoj anonimnež plačevala istemu komisarju."
+
+**Maja:** "Staviš ali veš? Na razglasu ne piše, kdo je denar prejel." Listek obrne in ga še enkrat prebere. "Ampak na to nisem pomislila. Iskala sem, kdo plača. Nisem pa iskala, od kod pride ukaz."
+
+**Alex:** "Pa tvoj pisec pisem? Tisti, ki piše, ker bo čez deset let nekdo vse skupaj povedal drugače?"
+
+**Maja:** "Dela isto kot tvoj urar. Humbert hoče svoj list natisnjen, preden si prvenstvo prisvoji kdo drug. Brez tvojega urarja bi to spregledala."
+
+**Razsodba.** Dva datuma, pet mesecev narazen, sta dokaz sam po sebi: 12. maja pade beneška vlada pod vojaškim pritiskom, sredi krize, ki je bila odprta že prej; šele 17. oktobra pogodba Benetke, Istro in Dalmacijo dejansko dodeli Habsburžanom. Nobena od obeh razlag s kontrolne točke ne zadošča sama, a možnost B odločitve iz leta 1797 pojasni bolje: revolucija je 1789 res zrušila privilegije in za vselej spremenila, kdo sme vprašati oblast, od kod ji pravica do vladanja — toda ko so ta ista načela prišla v Italijo z vojsko, so si morala prostor deliti z zasedbo in strateškim računom, in v Campoformiu je obljuba o osvoboditvi izgubila proti koristi miru. Tudi odziv ni bil en sam: tržaški posrednik je v isti pogodbi videl hkrati kupčijo in grožnjo, na Kranjskem pa so isto zasedbo vsak po svoje prebrali meščan, veleposestnik in kmetica, kot da bi vsak od njih bral drug list.
 
 ::: reality-check
 ### ČESA ŠE NE VEMO
 
-*   **Kako pojasniti teror:** zgodovinarji se še vedno ne strinjajo, koliko težo imajo vojna na mejah in notranji upori, koliko izredne institucije in koliko odločitve posameznih voditeljev — in kje naj se to obdobje sploh začne in konča.
+*   **Kako pojasniti teror:** zgodovinarji se še vedno ne strinjajo, kolikšno težo imajo vojna na mejah in notranji upori, koliko izredne institucije in koliko odločitve posameznih voditeljev — in kje naj se to obdobje sploh začne in konča.
 *   **Kako neizogiben je bil konec Benetk:** francoski pritisk, neoborožena nevtralnost, notranji razkoli, upori na kopnem in diplomatski račun se pojavljajo v vseh razlagah, a z različno težo, odvisno od tega, ali beremo beneške, francoske ali novejše zgodovinopisne vire.
 *   **Kako reprezentativni so zabeleženi odzivi na Kranjskem:** anonimni spis je glas mestnega uradnika, Zoisova pisma glas velikega posestnika, rekvizicijski seznami pa glas tistih, ki so upravljali. Neposreden glas kmečkih družin gre skoraj vedno skozi tuje pero.
 :::
@@ -318,8 +346,8 @@ Alex, ti si sledil odločitvam. Maja, ti si sledila računu, ki ga je bilo treba
 *   **14. julij 1789:** naskok na Bastiljo.
 *   **4. avgust 1789:** odprava fevdalnih privilegijev.
 *   **1793-1794:** vladavina terorja.
-*   **1796:** začetek Bonapartejevega italijanskega pohoda.
-*   **pomlad-12. maj 1797:** prva francoska zasedba Kranjske in konec vlade Beneške republike.
+*   **1796-1797:** Bonapartejev italijanski pohod; na Kranjskem prva francoska zasedba (28. marec-8. maj 1797).
+*   **12. maj 1797:** konec vlade Beneške republike.
 *   **17. oktober 1797:** mir v Campoformiu.
 :::
 
@@ -327,7 +355,7 @@ Alex je pokazal, da načela, nasilje, ustanove in diplomacija stojijo v isti ver
 
 Leta 1797 Francozi prečkajo Kranjsko, ostanejo enainštirideset dni in odidejo. Leta 1809 se vrnejo — in ne za enainštirideset dni, temveč za štiri leta, z Ljubljano kot izbrano prestolnico. Kaj se spremeni, ko se vojska, ki je prej samo šla mimo, odloči ostati?
 
-[^ee6]: Šifrirana zanimivost (ROT13): *Pnzcbsbezvb wr vzr an yvfgh cbqcvfnyv cn fb i Cnffnevnah i ivyv mnqawrtn orarfxrtn qbmn*
+[^ee6]: Šifrirana zanimivost (ROT13): *Cb vmebpvyh wr Orarfxn erchoyvxn anfgnyn yrgn 697 va cnqyn angnaxb gvfbp fgb yrg cbmarwr*
 
 <!-- WORD COUNT: ~4240 -->
 <!-- PERSONA CHECK: Alex/Maja voice intact? Pass — Alex keeps his interrogative habit toward MEMO and the fascination with concrete mechanisms (rope queue, boot repair, wax seal); Maja opens on language and who is allowed to speak it before any visual detail, and never explains Slovene as exotic to an outside reader. Both scenes are independently composed, not calques of the Italian text (different openings, different sentence rhythm, different image order). -->

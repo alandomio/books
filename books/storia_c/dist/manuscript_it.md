@@ -325,7 +325,12 @@ Sullo schermo resta accesa una riga sola: **1453 → Costantinopoli cade → le 
 
 Quale prova, trovata nel 1453, vi costringerebbe a cancellare una di quelle frecce?
 
-[^ee0]: Curiosità cifrata (ROT13): *Va fybirafpvav Pbfgnagvabcbyv fv erpr Pnevtenq.*
+::: memo-box
+### MEMO: COME SI LEGGE UN CODICE ROT13
+Ogni lettera si sposta di 13 posizioni nell'alfabeto (A↔N, B↔O, C↔P... si applica due volte per tornare al testo originale). Prova su questa: *Xvfn* → [il lettore prova a decifrare].
+:::
+
+[^ee0]: Curiosità cifrata (ROT13 — vedi sopra come si decifra): *Va fybirafpvav Pbfgnagvabcbyv fv erpr Pnevtenq.*
 
 <!-- WORD COUNT: ~2.630 -->
 <!-- PERSONA CHECK: Alex/Maja voice intact? Pass — Alex keeps the media-vs-reality tic (portale da film smentito dalla checklist di scarponcini), sarcasm and quiet friction toward MEMO, and the mild seniority-driven overreach toward Maja ("ti do un consiglio"); Maja keeps "perché non lo so già", structural focus (chi firma, chi incassa il dazio, chi ha prodotto il dato), and closes the operational agreement without ceding ground. No drift into generic AI narration. -->
@@ -618,6 +623,10 @@ Poi mi porta a vedere perché quel sale conta davvero, e non è per il sapore. M
 
 Sto guardando l'oceano che si apre dall'altra parte del mondo. Qui, intanto, un canale rotto lungo venti metri decide chi mangia a gennaio.
 
+*MEMO, avvisa Maja,* penso. *Le vasche ancora attive hanno appena fatto partire un carico superstite verso l'interno.*
+
+**MEMO:** *"Messaggio inviato. Destinazione dichiarata dal salinaio: Carniola, Carinzia, Stiria."*
+
 ---
 
 ## Il Banco Sul Fiume
@@ -626,6 +635,12 @@ Sto guardando l'oceano che si apre dall'altra parte del mondo. Qui, intanto, un 
 Una bestemmia, forte, in sloveno, da qualche parte dietro le chiatte — seguita da una risata di tre o quattro voci. È così che arrivo al Breg, il porto fluviale di Lubiana, sulla riva della Ljubljanica: è il 1489, e intorno a quella risata c'è tutto il resto insieme, cavalli da tiro che sbuffano infangati fino ai garretti, grida di barcaioli, il cigolio delle carrucole di faggio, e sopra tutto un odore di pece nera, catrame di bosco, segatura d'abete bagnata.
 
 Una chiatta grande sta scaricando: botti di sale marino, barre di ferro lavorato, legname. Il barcaiolo che dirige l'operazione ha le mani spesse come guanti.
+
+*MEMO, confronta,* penso. *È il carico partito oggi dalle vasche ancora attive di Zaule — quello segnalato da Alex?*
+
+**MEMO:** *"Stessa provenienza, stessa destinazione verso l'interno. Nessun altro dato trasmesso."*
+
+Ad Alex interessava chi produce questo sale. A me interessa chi ha il diritto di farlo viaggiare da qui in avanti.
 
 **Maja:** "Quanto tiene una di queste?"
 
@@ -2220,7 +2235,7 @@ Prossimo salto. Se una rivoluzione nata nelle colonie impiega undici anni per di
 
 ## Briefing
 
-Alex, Maja: si torna indietro. Primo atterraggio Parigi, 14 luglio 1789, in pieno Settecento, e da lì seguirete le prove fino all'ottobre 1797. A quel 1797 eravate già arrivati nel capitolo precedente, ma dalla strada americana. Stavolta ci arrivate da Parigi, e la catena è tutta diversa.
+Alex, Maja: si torna indietro. Primo atterraggio Parigi, 14 luglio 1789, in pieno Settecento, e da lì seguirete le prove fino all'ottobre 1797. A quel 1797 eravate già arrivati nella missione precedente, ma dalla strada americana. Stavolta ci arrivate da Parigi, e la catena è tutta diversa.
 
 Il manuale la mette così: la crisi dell'Antico Regime fa esplodere la presa della Bastiglia → i privilegi cadono → la Francia rivoluzionaria affida libertà e uguaglianza a un giovane generale → la Campagna d'Italia e Campoformio cancellano in un colpo solo la millenaria Repubblica di Venezia e portano la Rivoluzione nei territori attraversati.
 
@@ -2242,7 +2257,7 @@ Un foglio stampato inchiodato a una porta, un esercito senza scarpe e un general
 
 ### 3. Due Date Per Una Fine (Venezia, Passariano e Trieste, 12 maggio – 17 ottobre 1797) — voce: Alex
 
-Una ceralacca incrinata e due documenti che nessuno ha mai messo uno accanto all'altro.
+Una ceralacca spezzata e due documenti che quasi nessuno mette uno accanto all'altro.
 **Prova da raccogliere:** separare la fine del governo veneziano dalla spartizione diplomatica, e cercare che cosa quelle clausole significassero per un mercante dell'Alto Adriatico.
 
 ### 4. Libertà Sulla Carta, Soldati Alla Porta (Lubiana e campagna carniolina, primavera 1797) — voce: Maja
@@ -2250,7 +2265,7 @@ Una ceralacca incrinata e due documenti che nessuno ha mai messo uno accanto all
 Un manifesto in due lingue, un barone che non può alzarsi dalla sedia, una fossa scavata nel bosco.
 **Prova da raccogliere:** confrontare parole, lingue e costi dell'occupazione, e verificare se gruppi sociali diversi abbiano ricevuto la stessa Rivoluzione.
 
-Firmano in due. Alex ricostruisce la rottura di Parigi, la campagna militare e i due documenti che ridisegnano l'Alto Adriatico; Maja interroga le fonti nate nelle terre slovene quando la notizia diventa occupazione. Nessuno dei due riceve il riassunto dell'altro.
+Firmano in due. Alex ricostruisce la rottura di Parigi, la campagna militare e i due documenti che ridisegnano l'Alto Adriatico; Maja interroga le fonti nate nelle terre slovene quando la notizia diventa occupazione. Nessuno parla al posto dell'altro. Ma ciascuno può mettere alla prova le conclusioni dell'altro.
 
 Un'avvertenza. Un proclama stampato, il voto di un consiglio, una clausola diplomatica, una lettera anonima e un registro di requisizioni non pesano uguale: chiedetevi chi parla, quando scrive e soprattutto chi non può rappresentare.
 
@@ -2265,13 +2280,13 @@ Sono le tre del mattino e sto tenendo una corda. Canapa ruvida, tesa lungo il mu
 
 *"Parigi, 14 luglio 1789, ore 03:12. Il pane da quattro libbre è arrivato a un prezzo stimato fra i 14 e i 15 soldi. Un manovale non specializzato guadagna fra i venti e i trenta soldi al giorno."*
 
-Faccio il conto due volte perché la prima non ci credo. Tre quarti dello stipendio. Per il pane.
+Non era quello che ti avevo chiesto, MEMO. Faccio il conto due volte perché la prima non ci credo. Per chi prende venti soldi, sono tre quarti della paga. Per il pane.
 
 La donna davanti a me mi sposta la mano sulla fune. Al buio ci si scavalca, e chi si scavalca finisce sotto: la corda tiene ognuno al suo posto fino all'apertura.
 
 **Alex:** "E se il pane finisce prima del vostro turno?"
 
-**La donna:** "Allora si prende il bis, quello scuro con la crusca e la segala: pesa di più e ti resta nello stomaco. E se manca anche quello, si tirano fuori le croste della settimana. Si spezzettano nella pentola: acqua bollente, una foglia di cavolo, ortica pestata, un pezzo di lardo se c'è, finché il pane beve tutto. Con mezza libbra di pane duro mangiano in cinque."
+**La donna:** "Allora si prende il pane bigio, quello scuro con la crusca, la segale e le fave: pesa di più e ti resta nello stomaco. E se manca anche quello, si tirano fuori le croste della settimana. Si spezzettano nella pentola: acqua bollente, una foglia di cavolo, ortica pestata, un pezzo di lardo se c'è, finché il pane beve tutto. Con mezza libbra di pane duro mangiano in quattro o cinque."
 
 **Alex:** "E se il fornaio nasconde la farina per rivenderla più cara?"
 
@@ -2312,9 +2327,19 @@ Poi il salto in avanti. In mezzo: la fuga del re a Varennes, la guerra dichiarat
 *   **Terrore:** la fase di governo d'emergenza e repressione fra il settembre 1793 e il 27 luglio 1794 — non un sinonimo dell'intera Rivoluzione, ma undici mesi dentro dieci anni.
 :::
 
-Nella sala del Comitato di salute pubblica mi aspettavo un trono e un uomo solo che decide. Ci sono dodici sedie, dodici membri rieletti ogni mese dalla Convenzione, e ognuno ha il suo pezzo: Carnot gli eserciti, Lindet i rifornimenti, Robespierre la linea politica. Litigano. Si controllano. Firmano insieme.
+Nella sala del Comitato di salute pubblica mi aspettavo un trono e un uomo solo che decide. Ci sono dodici sedie intorno a un tavolo sommerso di carte. Cinque anni in dieci secondi mi hanno tagliato le gambe, così mi lascio cadere sulla più vicina. Un usciere mi tira su per il gomito.
 
-Secondo il censimento più usato dagli storici i tribunali rivoluzionari eseguono poco meno di sedicimilaseicento condanne a morte; con le esecuzioni sommarie e i morti nelle carceri le stime salgono a trentacinque-quarantamila vittime. Circa l'ottantaquattro per cento del Terzo Stato. Non nobili: contadini, artigiani, operai.
+**L'usciere:** "Quella è del cittadino Carnot. Gli eserciti."
+
+**Alex:** "E quella in fondo? Robespierre? È lui che comanda, no?"
+
+**L'usciere:** "Lui tiene la linea politica. Il cittadino Lindet tiene il grano e i rifornimenti, e così via, tutti e dodici. La Convenzione li rielegge ogni mese." Abbassa la voce. "Litigano. Si controllano. Ma da questa stanza un decreto esce con più di una firma in fondo."
+
+*MEMO, quanti morti?*
+
+*"Il censimento più usato dagli storici conta 16.594 condanne a morte eseguite dopo un processo. Aggiungendo esecuzioni sommarie e morti in carcere, le stime salgono a 35.000-40.000 vittime. Circa l'84% dei condannati apparteneva al Terzo Stato."*
+
+Per la maggior parte, niente parrucche incipriate. Contadini, artigiani, operai.
 
 Il 27 luglio 1794 Robespierre viene arrestato e giustiziato il giorno dopo con Saint-Just, Couthon e diciannove altri. Il governo d'emergenza finisce lì.
 
@@ -2353,7 +2378,13 @@ Ha detto "requisisce" senza cambiare tono, come si dice "piove".
 
 Sulla carta questo esercito conta sessantamila uomini. Quelli davvero in grado di combattere, secondo le stime degli storici, sono fra trentotto e quarantatremila, con meno di trenta cannoni da campagna e i cavalli da traino ridotti pelle e ossa.
 
-E vince. In aprile si incunea fra piemontesi e austriaci e li batte separatamente; il 28 aprile 1796 il re di Sardegna firma l'armistizio di Cherasco e si sfila dalla guerra. Il 15 maggio entra a Milano, e due giorni dopo impone alla sola Lombardia venti milioni di franchi in contanti e metalli preziosi. Al duca di Modena ne chiede dieci. Al papa, con l'armistizio di Bologna, ventuno milioni, cento opere d'arte e cinquecento manoscritti vaticani.
+E vince. In aprile si infila fra piemontesi e austriaci e li batte uno alla volta; il 28 aprile 1796, a Cherasco, il re di Sardegna firma l'armistizio ed esce dalla guerra. Il 15 maggio l'armata entra a Milano. Due giorni dopo arriva il conto: 20 milioni di franchi in monete e metalli preziosi, solo per la Lombardia.
+
+*MEMO, e gli altri?*
+
+*"Duca di Modena: 10 milioni di franchi. Il papa, con l'armistizio di Bologna: 21 milioni, 100 opere d'arte, 500 manoscritti vaticani."*
+
+Detta così, MEMO, sembra la lista della spesa. Solo che la spesa la paga qualcun altro.
 
 Intanto nascono le repubbliche sorelle: la Cispadana a fine dicembre 1796, prima ad adottare un vessillo verde, bianco e rosso; la Cisalpina proclamata a Milano il 29 giugno 1797. Costituzioni nuove, cittadini invece di sudditi, tribunali riformati. Non è finzione. Ma la loro sovranità finisce dove comincia una decisione militare francese.
 
@@ -2364,12 +2395,12 @@ Intanto nascono le repubbliche sorelle: la Cispadana a fine dicembre 1796, prima
 *   **Forza:** 2 — fisicamente non è nulla di speciale: la sua arma è dove mette gli uomini.
 *   **Intelligenza:** 5 — sposta divisioni intere di trenta-quarantacinque chilometri al giorno su sentieri di montagna, per essere in più nel punto esatto dello scontro.
 *   **Carisma:** 5 — promette a soldati scalzi e non pagati pane, vestiti e riscatto, e loro camminano.
-*   **Abilità Speciale (Leva Diplomatica della Vittoria):** trasforma una battaglia vinta la mattina in un trattato firmato la sera, trattando da solo con re, duchi e imperatori — e mettendo Parigi davanti al fatto compiuto senza averne mai chiesto il permesso.
+*   **Abilità Speciale (Leva Diplomatica della Vittoria):** trasforma una vittoria in una firma prima che il nemico abbia il tempo di riorganizzarsi — Cherasco, Bologna, Leoben — trattando direttamente con i rappresentanti di re, duchi, papa e imperatore, e mettendo più di una volta il governo di Parigi davanti al fatto compiuto.
 :::
 
 Sul proclama celebre — *"Soldati, siete nudi, mal nutriti..."* — c'è una cosa scomoda: la versione che tutti citano è una riscrittura dettata anni dopo a Sant'Elena. Che nella primavera del 1796 abbia promesso pane e ricchezze prese ai nemici lo confermano gli ordini del giorno coevi. Le parole esatte, no.
 
-Nel marzo 1797, caduta Mantova, l'armata riparte: passa il Tagliamento, entra a Gorizia il 21 marzo e a Trieste il 23, prosegue dentro la Carniola e la Carinzia fino a Leoben, a centocinquanta chilometri da Vienna. Il 18 aprile lì si firmano i preliminari di pace, con clausole segrete che dispongono dei territori della Repubblica di Venezia — che è neutrale, e a cui la guerra non è ancora stata dichiarata.
+Nel marzo 1797, con Mantova caduta già a febbraio, l'armata riparte: passa il Tagliamento, entra a Gorizia il 21 marzo e a Trieste il 23, prosegue dentro la Carniola e la Carinzia fino a Leoben, a centocinquanta chilometri da Vienna. Il 18 aprile lì si firmano i preliminari di pace, con clausole segrete che dispongono dei territori della Repubblica di Venezia — che è neutrale, e a cui la guerra non è ancora stata dichiarata.
 
 Il fuciliere, quando riparte, ha ancora il cuoio verde legato al piede. Il foglio sulla porta della chiesa non l'ha letto. Nessuno gliel'ha chiesto.
 
@@ -2389,13 +2420,13 @@ Tieni a mente la tua risposta: il Verdetto te la confermerà, la correggerà, o 
 ## Due Date Per Una Fine
 <span class="byline">Cronaca di Alex</span>
 
-Il rumore che mi fa girare la testa è secco: la ceralacca rossa che si spezza sotto un tagliacarte di corno. Palazzo della Borsa mercantile di Trieste, fine ottobre 1797, luce gialla di lampade a olio sulle vetrate piombate. Fuori, sul Canal Grande, l'odore del catrame da calafataggio, delle aringhe nei barili di rovere e dei sacchi di caffè. Dentro, solo penne d'oca che grattano sui registri di pelle.
+Il rumore che mi fa girare la testa è secco: la ceralacca rossa che si spezza sotto un tagliacarte di corno. Sala della Borsa mercantile di Trieste, fine ottobre 1797, luce gialla di lampade a olio sulle vetrate piombate. Dalle banchine del Canal Grande entra l'odore del catrame da calafataggio, delle aringhe nei barili di rovere e dei sacchi di caffè. Dentro, solo penne d'oca che grattano sui registri di pelle.
 
 Il mediatore che ha appena aperto il dispaccio lo legge due volte prima di parlare.
 
 **Alex:** "Cattive notizie?"
 
-**Il mediatore:** "Non lo so ancora. È questo il problema." Gira il foglio verso di me. "Vede la piegatura? La lettera non viaggia in una busta: si ripiega su se stessa e si chiude con la ceralacca e il mio sigillo. Se fosse arrivata incrinata e rifusa con cera comune, sapevo che la censura postale l'aveva aperta prima di me."
+**Il mediatore:** "Non lo so ancora. È questo il problema." Gira il foglio verso di me. "Vede la piegatura? La lettera non viaggia in una busta: si ripiega su se stessa e si chiude con la ceralacca e il mio sigillo. Se la ceralacca fosse incrinata, o rifusa con cera comune, saprei che la censura imperiale l'ha aperta prima di me."
 
 **Alex:** "E se la nave affonda?"
 
@@ -2417,13 +2448,15 @@ Perché io ero convinto — come credo tutti — che la Repubblica di Venezia fo
 *   **Neutralità:** la scelta di non partecipare a una guerra. Non garantisce da sola che gli eserciti degli altri rispettino il tuo territorio.
 :::
 
-Nell'aula ci sono cinquecentotrentasette patrizi su circa milleduecento; le leggi fondamentali della Repubblica ne chiedono almeno seicento per una decisione del genere. Il voto è cinquecentododici favorevoli, venti contrari, cinque registrati come "non sinceri". Fuori, in laguna, gli Schiavoni della Dalmazia sparano in aria mentre si imbarcano per tornare a casa, e i patrizi credono sia cominciato il massacro. Manin depone corno ducale e veste e se ne va a piedi.
+Il registro di quella seduta conta 537 patrizi presenti su circa 1.200; le leggi fondamentali della Repubblica ne chiedono almeno 600 per una decisione del genere. Il voto: 512 favorevoli, 20 contrari, 5 registrati come "non sinceri". Fuori, in laguna, gli Schiavoni della Dalmazia sparano in aria mentre si imbarcano per tornare a casa, e i patrizi credono che sia cominciato il massacro. Manin depone corno ducale e veste e se ne va a piedi.[^ee6]
 
-Un voto senza numero legale, preso nel panico, con i cannoni a otto chilometri. Politicamente irreversibile. Giuridicamente nullo secondo le leggi della Repubblica stessa.
+**Alex:** "Aspetti. Ne servivano seicento e ce n'erano cinquecentotrentasette. Allora quel voto non vale."
+
+**Il mediatore:** "Per le leggi di San Marco, no." Allarga le mani. "Ma i patrizi sono tornati a casa, e i francesi a Marghera sono rimasti. Vada Lei a leggere il regolamento a un cannone."
 
 Poi c'è la seconda data. Il 17 ottobre 1797, cinque mesi dopo, Bonaparte e i plenipotenziari asburgici firmano il trattato di pace. La Francia cede alla Casa d'Austria Venezia, l'Istria, la Dalmazia, le Bocche di Cattaro e la Terraferma veneta fino all'Adige; in cambio ottiene il riconoscimento della Repubblica Cisalpina, i Paesi Bassi austriaci, le isole Ionie ex venete, e in articoli segreti la riva sinistra del Reno.
 
-Il trattato si chiama Campoformio. Ma il tavolo su cui è stato firmato, verso l'una di notte fra il 17 e il 18 ottobre, stava a Villa Manin a Passariano — la residenza estiva dell'ultimo doge, requisita da Bonaparte come quartier generale.[^ee6]
+Il trattato si chiama Campoformio. Ma il tavolo su cui è stato firmato, verso l'una di notte fra il 17 e il 18 ottobre, stava a Villa Manin a Passariano — la residenza estiva dell'ultimo doge, requisita da Bonaparte come quartier generale.
 
 **Alex:** "E per voi, qui, è un affare o un disastro?"
 
@@ -2440,7 +2473,7 @@ Nel sobborgo di Krakovo il fango arriva alle caviglie e la Ljubljanica è grossa
 
 Sul muro accanto alla fontana, in piazza, c'è il manifesto. Due colonne. Una in tedesco, in caratteri gotici. L'altra nella lingua che parlo io.
 
-Che fosse successo, lo sapevo già. Vederlo scritto è un'altra cosa: nella primavera del 1797, per quarantun giorni, nel capoluogo della Carniola i proclami dell'esercito francese furono affissi e letti ad alta voce anche in sloveno. Questo dettaglio, a scuola, nessuno me l'ha mai raccontato.
+Per quarantun giorni, nella primavera del 1797, nel capoluogo della Carniola i proclami dell'esercito francese vennero affissi e letti ad alta voce anche in sloveno. Nessuno me l'ha mai fatto vedere. Non a scuola, non in una mostra, non in una foto a margine di un libro. Adesso ce l'ho a un palmo dal naso.
 
 *MEMO, cosa c'è scritto?*
 
@@ -2458,41 +2491,43 @@ Libertà e requisizione. Stessa carta. Stesso inchiostro.
 *   **Requisizione:** già vista in Italia settentrionale; qui non tocca un esercito nemico, ma le dispense di una casa.
 :::
 
-L'uomo che legge accanto a me ha le maniche di un funzionario e gli occhi di chi prende appunti a memoria. Il nome non me lo dice, e non lo dirà neanche d'estate, quando le sue nove lettere usciranno stampate a Lubiana dall'officina di Eger.
+Accanto a me c'è un uomo che non dirà mai il proprio nome — nemmeno d'estate, quando le sue nove lettere usciranno a stampa a Lubiana, dall'officina di Eger, in un tedesco pieno di espressioni di qui e indirizzate a un compare che vive a Lož. Per ora è solo maniche da funzionario e occhi di chi sta già componendo mentalmente una frase da annotare.
 
-**Maja:** "L'avevate immaginata così?"
+**Maja:** "Cosa vi avevano detto di aspettarvi?"
 
-**L'anonimo:** "No di certo. Le voci parlavano di fuoco e di stragi, e metà della nobiltà è fuggita verso la Bassa Carniola e la Stiria portandosi dietro l'argenteria. Poi sono arrivati davvero, e il problema non è stato il sangue: è stato trovare un letto per tre ufficiali, mentre mio cognato gli rivendeva il vino al doppio."
+**L'anonimo:** *(abbassa la voce)* "Mio cognato gli vende il vino al doppio del prezzo, e io devo trovare un letto a tre ufficiali: ecco tutto il sangue che scorre a Lubiana. Eppure, prima che arrivassero, si parlava solo di fuoco e di stragi. Metà della nobiltà è scappata verso la Bassa Carniola e la Stiria, con l'argenteria nei bauli."
 
-**Maja:** "Quindi va tutto bene?"
+**Maja:** "Quindi è andata meglio di quanto temevate?"
 
-**L'anonimo:** "Questo non l'ho detto. I conventi sono diventati scuderie, e vino, farina e fieno escono dalle case senza più tornare indietro. Tengo nota di tutto perché so già come andrà a finire: fra dieci anni qualcuno racconterà questi quarantun giorni in un modo diverso da come li ho vissuti io."
+**L'anonimo:** "Non proprio: il vino, la farina e il fieno delle case escono e non tornano più, e nei conventi, dove prima c'erano i frati, ora ci sono i cavalli. Ma scrivo tutto, perché lo so già: fra dieci anni qualcuno racconterà questi quarantun giorni in un modo del tutto diverso da come li ho vissuti io."
 
 È un testimone. Non è il popolo. Un funzionario municipale che non ha mai avuto fame è una voce, non un coro.
 
-Il barone Žiga Zois, nel suo palazzo sul Breg, non è fuggito come gli altri. Il motivo non è il coraggio: sono le gambe, paralizzate dalla gotta, a tenerlo su una sedia a rotelle disegnata da lui stesso. Possiede miniere di ferro a Bohinj e ferriere a Javornik, e per tutto il tempo in cui parliamo non smette un istante di firmare carte.
+Firma carte senza fermarsi un istante, per tutto il tempo in cui gli parlo — il barone Žiga Zois, proprietario delle miniere di ferro di Bohinj e delle ferriere di Javornik, non si è mosso dal suo palazzo sul Breg quando gli altri sono fuggiti. Non per coraggio: la gotta gli ha bloccato le gambe, e si muove solo grazie a una sedia a rotelle che si è disegnato da sé.
 
-**Maja:** "Voi che cosa temete di più — i francesi o quello che dicono i francesi?"
+**Maja:** "Barone, a voi fanno più paura le baionette o la parola *uguaglianza*?"
 
 **Zois:** "Il ferro. Temo che smetta di arrivare. Con la strada piena di soldati non scende dalle miniere, e senza quello non ho da pagare né i minatori né la stampa dei miei libri. Per questo non mi muovo: rifornisco chi me lo chiede e non prendo posizione con nessuno. È l'unico modo che conosco per non perdere quello che ho."
 
-Tra le carte sul tavolo spunta un numero delle *Lublanske novice*, il primo giornale mai stampato in sloveno: esce da gennaio, due volte a settimana, un centinaio di abbonati in tutto. In città circola anche una strofa satirica di questi giorni, di autore mai identificato: *Trka nam Francoz na vrata*, il francese bussa alla porta, e il buon Francesco manda in soccorso il fratello Carlo. Il quale, nel frattempo, si ritira.
+Gli ho chiesto di un'idea. Mi ha risposto con un carico di ferro.
+
+Tra le carte sul tavolo spunta un numero delle *Lublanske novice*, il primo giornale mai stampato in sloveno: esce da gennaio, due volte a settimana, forse un centinaio di abbonati in tutto. In città circola anche una strofa satirica di questi giorni, di autore mai identificato: *Trka nam Francoz na vrata*, il francese bussa alla porta, e il buon Francesco manda in soccorso il fratello Carlo. Il quale, nel frattempo, si ritira.
 
 Fuori Lubiana, verso il Carso, la storia cambia. Le campane di campagna suonano a martello: quel rintocco irregolare vuol dire cavalleria in arrivo. Un ragazzo spinge due buoi giù dalla strada maestra, con la cavezza corta perché non facciano rumore. Una donna con le mani rosse di terra mi spiega dove è finita la semente.
 
-**La contadina:** "Nel granaio no, mai. Il granaio lo aprono per primo e battono il pavimento con le bacchette di ferro. La fossa la scaviamo nel bosco, a forma di fiasco: dentro si brucia paglia per disinfettarla, si fodera di corteccia di betulla, si riempie di grano e di ajda, si chiude con tavole di quercia sigillate d'argilla, e sopra ci va terra, muschio, foglie."
+**La contadina:** "Il granaio non lo uso mai per il grano vero: è il primo posto dove guardano, e battono il pavimento con le bacchette di ferro per sentire il vuoto sotto. Nel bosco invece scaviamo una fossa a forma di fiasco: prima la paglia bruciata per disinfettarla, poi corteccia di betulla, grano e ajda, e sopra tavole di quercia sigillate d'argilla — infine terra, muschio, foglie, e non si vede più niente."
 
-**Maja:** "E il maiale?"
+**Maja:** "E il maiale, dove va?"
 
-**La contadina:** "Il lardo affumicato si avvolge nel lino con la cenere fine, che tiene lontane umidità e mosche, e si sotterra nella pila di fieno. Le bestie vanno nelle doline, legate corte, col fieno davanti perché mastichino e non muggiscano."
+**La contadina:** "Il lardo lo affumico, lo avvolgo nel lino con la cenere fine sopra — così restano lontane l'umidità e le mosche — e lo sotterro dentro la pila di fieno. Le bestie invece le portiamo nelle doline, legate corte, con un ciuffo di fieno davanti al muso: così masticano, invece di muggire."
 
-**Maja:** "E i proclami? Quello sul muro dice libertà e uguaglianza."
+Apro il quaderno sulla riga che ho copiato dal manifesto in piazza.
 
-Si pulisce le mani sul grembiule e non risponde subito.
+**Maja:** "E il proclama in piazza? Qui c'è scritto libertà e uguaglianza."
 
-**La contadina:** "La tlaka la devo lo stesso. Le giornate al signore le devo lo stesso, e la decima anche. Poi devo il fieno a questi. Prima ne dovevo a uno."
+**La contadina:** "La tlaka la devo lo stesso, e la decima anche — uguale a prima. Solo che adesso il fieno lo devo pure a questi. Prima lo dovevo soltanto al signore."
 
-Ha ragione, ed è la cosa che i manifesti non dicono. L'occupazione francese del 1797 dura quarantun giorni, dal 28 marzo all'8 maggio, e non abolisce niente: signoria fondiaria e tlaka restano intatte, durante il passaggio dei repubblicani e dopo. La servitù della gleba nella monarchia asburgica finirà nel 1848.
+Nessun manifesto lo dice, ma lei ha ragione: la tlaka e la signoria fondiaria attraversano indenni sia i quarantun giorni dell'occupazione francese (28 marzo – 8 maggio 1797) sia gli anni che seguono, e per vederle abolite nella monarchia asburgica bisognerà aspettare il 1848 — mezzo secolo dopo questo proclama.
 
 Il 28 aprile Bonaparte in persona attraversa Lubiana tornando da Graz e dorme nel palazzo vescovile. Il 9 maggio non c'è più un soldato francese in Carniola.
 
@@ -2506,7 +2541,17 @@ Mission Control ha messo gli oggetti-prova sullo stesso tavolo: una crosta di pa
 
 Alex ha seguito le decisioni. Maja ha seguito il conto da pagare. Stessa storia vista da due altezze, e nessuna delle due la contiene tutta.
 
-**Verdetto.** Nessuna delle due letture del Checkpoint basta da sola, ma la B spiega meglio le decisioni territoriali del 1797. La Rivoluzione abbatté davvero i privilegi e cambiò il linguaggio della legittimità: dopo il 1789 il potere deve dire da dove viene. Ma la Campagna d'Italia portò quei principi insieme a guerra, occupazione e interessi strategici, e a Campoformio la promessa di liberare i popoli perse contro la convenienza della pace. La Repubblica di Venezia non è sparita per una firma in una notte: il vecchio governo si è sciolto il 12 maggio sotto pressione militare, dentro una crisi già aperta, e solo il 17 ottobre il trattato ha assegnato Venezia, Istria e Dalmazia agli Asburgo. Né è esistita una reazione unica: a Trieste e in Carniola interessi commerciali, proprietà, obblighi rurali e presenza dei soldati hanno dato alla stessa notizia significati diversi.
+Alex non aspetta il suo turno. Spinge verso Maja un foglietto con una sola riga, ricopiata di nascosto dal copialettere del mediatore di Trieste: *contribuzione, due milioni e seicentomila franchi*.
+
+**Alex:** "Trieste, 23 marzo. Lubiana, 28 marzo. Stesso esercito, stessa settimana, stesso tipo di conto. Scommetto che il tuo anonimo e il mio mediatore hanno pagato allo stesso ufficiale."
+
+**Maja:** "Scommetti o lo sai? Sul mio manifesto non c'è scritto chi incassava." Rigira il foglietto e lo rilegge. "Però io cercavo solo chi pagava. Da dove partiva l'ordine, non me lo sono chiesta."
+
+**Alex:** "E il tuo anonimo, quello che scrive perché fra dieci anni lo racconteranno diverso..."
+
+**Maja:** "...fa come il tuo orologiaio. Humbert corre a stampare il suo foglio per la stessa ragione. Se non l'avessi trovato tu, non me ne sarei accorta."
+
+**Verdetto.** Nessuna delle due letture del Checkpoint basta da sola, ma la B spiega meglio le decisioni territoriali del 1797. La Rivoluzione abbatté davvero i privilegi e cambiò il linguaggio della legittimità: dopo il 1789 il potere deve dire da dove viene. Ma la Campagna d'Italia portò quei principi insieme a guerra, occupazione e interessi strategici, e a Campoformio la promessa di liberare i popoli perse contro la convenienza della pace. La Repubblica di Venezia non sparì per una firma in una notte: il vecchio governo si sciolse il 12 maggio sotto pressione militare, dentro una crisi già aperta, e solo il 17 ottobre il trattato assegnò Venezia, Istria e Dalmazia agli Asburgo. Né esistette una reazione unica: a Trieste e in Carniola interessi commerciali, proprietà, obblighi rurali e presenza dei soldati diedero alla stessa notizia significati diversi.
 
 ::: reality-check
 ### CIÒ CHE NON SAPPIAMO ANCORA
@@ -2522,8 +2567,8 @@ Alex ha seguito le decisioni. Maja ha seguito il conto da pagare. Stessa storia 
 *   **14 luglio 1789:** presa della Bastiglia.
 *   **4 agosto 1789:** abolizione dei privilegi feudali.
 *   **1793-1794:** fase del Terrore.
-*   **1796:** inizio della Campagna d'Italia di Bonaparte.
-*   **primavera-12 maggio 1797:** prima occupazione francese della Carniola e fine del governo della Repubblica di Venezia.
+*   **1796-1797:** Campagna d'Italia di Bonaparte; in Carniola, prima occupazione francese (28 marzo-8 maggio 1797).
+*   **12 maggio 1797:** fine del governo della Repubblica di Venezia.
 *   **17 ottobre 1797:** Trattato di Campoformio.
 :::
 
@@ -2531,12 +2576,3647 @@ Principi, violenza, istituzioni e diplomazia stanno tutti dentro la stessa caten
 
 Nel 1797 i francesi attraversano la Carniola, restano quarantun giorni e se ne vanno. Nel 1809 torneranno per quattro anni, con Lubiana scelta come capitale. Che cosa cambia, quando un esercito di passaggio decide di restare?
 
-[^ee6]: Curiosità cifrata (ROT13): *Pnzcbsbezvb r vy abzr fhyyn pnegn zn yn svezn niiraar n Cnffnevnab aryyn ivyyn qryy hygvzb qbtr*
+[^ee6]: Curiosità cifrata (ROT13): *Frpbaqb yn genqvmvbar yn Erchooyvpn qv Irarmvn anfpr ary 697 r pnqr zvyyrpragb naav qbcb*
 
 <!-- WORD COUNT: ~4440 -->
-<!-- PERSONA CHECK: Alex/Maja voice intact? Pass — Alex keeps the media-vs-reality tic (Bastille prisoners), the MEMO sarcasm, the individual-drama focus (baker's queue, fusiliere's shoe). Maja keeps the "why didn't anyone tell me" tic, the structural/language focus (proclamation columns, requisition ledgers), and interviews three unequal witnesses instead of one composite "people." No condescension between them since they don't share a scene this chapter. -->
+<!-- PERSONA CHECK: Alex/Maja voice intact? Pass — Alex keeps the media-vs-reality tic (Bastille prisoners), the MEMO sarcasm, the individual-drama focus (baker's queue, fusiliere's shoe). Maja keeps the "why didn't anyone tell me" tic, the structural/language focus (proclamation columns, requisition ledgers), and interviews three unequal witnesses instead of one composite "people." Reviewer (cap. 6): aggiunto nel Debriefing uno scambio diretto Alex-Maja (arco Complementarità) — errore asimmetrico di Alex (plausibilità/prova) e riconoscimento di Maja del testimone trovato da Alex. -->
 <!-- NUF CHECK: [1] ✅ chain from fiscal crisis through Bastille, Terror, Italian campaign to the two-date fall of Venice, no automatic arrow — [2] ✅ principles (end of privileges, equal rights) kept distinct from their uneven application (redeemable dues, requisitions, occupation) — [3] ✅ merchant, official, Zois, and peasant woman each read the same event differently, explicitly graded as unequal-weight testimony — [4] ✅ bread queue scene grounds the material pressure before 14 July without turning it into a violence spectacle — [5] ✅ Maja's discomfort at "libertà e requisizione. Stessa carta. Stesso inchiostro." sits without an easy resolution — [6] ✅ Bastille/4 August/Terror kept chronologically distinct, casualty figures marked as official counts and estimates — [7] ✅ Italian campaign presented as revolutionary war, Napoleon not called emperor, Italy not unified — [8] ✅ 12 May and 17 October kept as two separate documents/events — [9] ✅ Carniola occupation built from proclamation + anonymous letters + Zois + peasant testimony, no fused "the Slovenes felt X" — [10] ✅ Maja's scene opens and stays self-contained, never framed as a footnote to Alex's beats. -->
 <!-- ANTI-AI CHECK: no banned openers ("Immaginate di...", "Ebbene sì..."), no explicit moral closers, no production-jargon labels in the body, single target-profile with an Abilità Speciale that passes the operational test (diplomatic leverage, not "he wins battles"), checkpoint used once at chapter midpoint with two genuinely plausible readings, Easter Egg footnote follows the short-form convention (decoder key already taught in Cap. 0). -->
+
+
+<div style="page-break-after: always;"></div>
+
+# Capitolo 7 — L'Impero Napoleonico E Le Province Illiriche
+
+## Briefing
+
+Alex, Maja: il salto comincia nel 1806 e si chiude nel 1813, nei primi anni del XIX secolo. Dodici anni fa, nel 1797, avete visto i francesi attraversare la Carniola, restare quarantun giorni e andarsene. Stavolta non passano e basta. Nel 1809 si fermano, governano per quattro anni e fanno di Lubiana il centro di un territorio che va dalle Alpi fino a Ragusa. Dopo questa indagine vi aspettano il 1815, la Restaurazione e il vapore.
+
+Il manuale mette in fila questa catena: nel 1809 Napoleone sconfigge l'Austria → riunisce le terre adriatiche nelle Province Illiriche → sceglie Lubiana come capitale → porta con sé Blocco Continentale e Codice civile → riforme e scuole in sloveno modernizzano il nuovo territorio.
+
+Qualcosa non torna. Il registro di un porto, la carta di un ufficio, il libro di un'aula e il fascicolo di un tribunale non misurano lo stesso cambiamento. E non nominano gli stessi vincitori.
+
+La vostra missione è raccogliere cinque prove, pesarle una per una e ricostruire la vera catena fra la strategia di un impero, una capitale nuova e quello che la gente ha davvero vissuto.
+
+## OBIETTIVI DEL SALTO (SCENE)
+
+### 1. L'Europa Con Le Porte Chiuse (un porto del continente, 1808) — voce: Alex
+
+Una sonda di ferro dentro un sacco, un capitano con due cassetti e una bevanda che finge di essere caffè.
+**Prova da raccogliere:** come il Blocco dovrebbe mettere in ginocchio la Gran Bretagna, e dove il controllo napoleonico delle merci comincia a perdere acqua.
+
+### 2. Il Porto Senza Orizzonte (Trieste, 1811) — voce: Alex
+
+Un molo quasi senza alberi maestri, un magazzino chiuso con la catena, un facchino senza lavoro.
+**Prova da raccogliere:** separare quattro cause che di solito si confondono in una — divieti francesi, navi da guerra britanniche, guerra e fine pratica del porto franco — e vedere chi le paga.
+
+### 3. Una Capitale Disegnata Sulla Mappa (Lubiana, 1810) — voce: Maja
+
+Un gesso su una porta, una borsa di cuoio incerata, un tamburo sotto il municipio.
+**Prova da raccogliere:** stabilire perché proprio Lubiana, e quali poteri, uffici e obblighi vi si concentrano.
+
+### 4. La Lingua Sulla Lavagna (Lubiana, 1811) — voce: Maja
+
+Quaranta tavolette d'ardesia, un solo libro stampato e un ispettore che è anche poeta.
+**Prova da raccogliere:** misurare dove, per chi e per volontà di chi lo sloveno diventa lingua della scuola.
+
+### 5. Uguali Davanti Alla Legge? (Lubiana, 1812) — voce: Alex
+
+Un sigillo con l'aquila, un contadino senza cravatta davanti al giudice, un registro scritto due volte.
+**Prova da raccogliere:** confrontare una regola del Codice civile con quello che la stessa riforma lascia com'era.
+
+Firmano in due. Alex segue la guerra economica dal continente al molo, e dalla legge stampata al fascicolo; Maja segue la nuova capitale e le lingue usate negli uffici e nelle aule delle terre slovene. Durante il salto non vi scambierete appunti: le vostre prove si incontreranno solo sul tavolo del Debriefing, e lì dovranno reggere l'una contro l'altra.
+
+Un'avvertenza di metodo. Un decreto dice che cosa un governo ordina. Un registro del porto dice che cosa si muove davvero, un manuale che cosa si vuole insegnare, un fascicolo che cosa succede a una persona. Nessuna di queste carte pesa come le altre, e nessuna parla per tutti.
+
+---
+
+## L'Europa Con Le Porte Chiuse
+<span class="byline">Cronaca di Alex</span>
+
+*Tin.* La sonda entra nel sacco fino al manico e il doganiere la gira due volte, piano, come uno che cerca le chiavi in fondo a una borsa. La tira fuori. Dalla scanalatura cadono semi grigi sul tavolo. Nient'altro.
+
+L'ufficio sa di ceralacca fusa e di inchiostro scuro, quello che si mangia la carta se lo lasci troppo. Fuori, sulla banchina, balle di cotone grezzo affondano nel fango, e su ognuna c'è un timbro: *Boston*, *Smirne*.
+
+*MEMO, dove sono finito?*
+
+*"Porto dell'Impero francese, inverno 1808. Dal 21 novembre 1806, per il Decreto di Berlino, le Isole Britanniche sono dichiarate in stato di blocco. Ogni merce inglese o delle colonie inglesi va sequestrata."*
+
+Blocco. Io mi aspettavo navi da guerra in fila davanti alla costa, bandiere, cannoni pronti, la scena da film. Invece c'è un uomo in giacca verde con uno spiedo di ferro e un timbro. Il Blocco, qui, è questo.
+
+**Alex:** "Cosa sta cercando, esattamente?"
+
+**Il doganiere:** "Quello che l'Imperatore ha vietato. Tessuti inglesi, ferramenta inglese, zucchero e caffè passati per mani inglesi. Li nascondono sotto i semi, sotto il sale, dentro le botti."
+
+**Alex:** "E le navi inglesi? Non le fermate in mare?"
+
+Mi guarda come se avessi chiesto perché non vola.
+
+**Il doganiere:** "Con che cosa? Le nostre navi sono in fondo al mare da Trafalgar. Il mare è loro. La terra è nostra. Allora chiudiamo la terra."
+
+::: memo-box
+### MEMO GLOSSARIO
+
+*   **Blocco Continentale:** il sistema di divieti con cui Napoleone chiude ai prodotti britannici tutti i porti del continente, dalla Spagna al Baltico. Non è una flotta che sbarra il mare: è una dogana gigantesca a terra.
+*   **Guerra economica:** una guerra che colpisce commerci, merci e denaro del nemico invece dei suoi soldati. L'obiettivo qui è togliere a Londra i mercati dove vendere.
+:::
+
+Sulla stufa c'è un pentolino. Il doganiere me ne versa un dito in una tazza sbeccata. È nero, amarissimo, e non è caffè.
+
+**Il doganiere:** "Cicoria. Radici seccate, tostate nel forno, macinate. Il caffè vero, ormai, lo beve chi può pagarlo."
+
+*"Tra il 1807 e il 1811 si stima che nell'Europa continentale zucchero di canna e caffè costino fra quattro e otto volte i prezzi del 1805. La differenza dipende dalla distanza dai centri di contrabbando."*
+
+Grazie, MEMO. Adesso so anche quanto fa schifo, moltiplicato per otto.
+
+Il capitano della nave neutrale, quella delle balle di Boston, mi fa salire a bordo mentre il doganiere firma. Cabina bassa, legno che scricchiola. Prima di tutto tira il chiavistello. Poi fa scorrere un pannello sotto il tavolo: due cassetti a scomparsa. Ne apre uno, lo richiude, apre l'altro. Che io guardi non gli importa: chi crederebbe a un ragazzino che parla strano?
+
+**Alex:** "Perché due?"
+
+**Il capitano:** "Uno per i francesi: certificati d'origine firmati da un console compiacente, che dicono che il cotone non ha mai visto un inglese. Uno per gli inglesi: la licenza che mi hanno fatto pagare quando mi hanno obbligato a passare da un loro porto."
+
+**Alex:** "Obbligato?"
+
+**Il capitano:** "Da un anno, per le loro Ordinanze in Consiglio, ogni nave neutrale diretta verso un porto francese deve fermarsi prima in un porto britannico, farsi ispezionare, pagare. Se non lo fa, la Royal Navy la prende. E i francesi, a Milano, hanno risposto: chi si è fatto ispezionare dagli inglesi non è più neutrale. È una preda."
+
+Faccio due più due e mi viene zero. Se obbedisce a Londra, lo sequestra Parigi. Se obbedisce a Parigi, lo affonda Londra. L'unica soluzione è mentire a tutti e due, un cassetto per volta.
+
+::: scan-result
+### SCANNING: DOPPIO CASSETTO DI BORDO
+
+*   **Tipo:** coppia di scomparti nascosti nella cabina del comandante.
+*   **Materiale:** legno, carte bollate, sigilli consolari.
+*   **Funzione:** mostrare a ogni controllore le carte che vuole vedere — certificati d'origine neutrali ai guardacoste francesi, licenza britannica alle fregate inglesi.
+*   **Dettaglio Tecnico:** di notte, altre navi restano fuori dalle acque territoriali e passano il carico a piccole barche veloci, che lo sbarcano su spiagge e lagune dove le pattuglie dei doganieri non arrivano in tempo.
+:::
+
+::: memo-box
+### MEMO GLOSSARIO
+
+*   **Contrabbando:** far passare merci vietate eludendo il divieto — con carte false, sbarchi notturni, carichi nascosti. Diverso dal commercio autorizzato con una licenza, che è un'eccezione scritta e pagata.
+:::
+
+**Alex:** "E l'Imperatore lo sa?"
+
+**Il capitano:** *(ride)* "Lo sa. Ma anche a Parigi c'è vino da vendere e zucchero da comprare."
+
+*"Confermato: dal 1809-1810 Napoleone vende licenze imperiali che permettono a singoli mercanti di commerciare con la Gran Bretagna. Secondo la ricostruzione degli storici, la costa orientale dell'Adriatico gli serve come corridoio da sigillare contro le merci inglesi e come strada di terra verso il cotone ottomano."*
+
+Una carta dice che un continente intero ha chiuso la porta. Sotto il tavolo di un capitano, la porta ha due serrature.
+
+---
+
+## Il Porto Senza Orizzonte
+<span class="byline">Cronaca di Alex</span>
+
+Conto gli alberi maestri lungo il Canal Grande e arrivo a tre. Tre, in una città che dovrebbe vivere di navi. Il resto sono barche da pesca e trabaccoli con le vele rattoppate, fermi, e l'acqua che sbatte contro gli scafi con un rumore lento, sempre uguale, come un orologio che nessuno guarda.
+
+*MEMO, data.*
+
+*"Trieste, primavera 1811. Dopo la pace di Schönbrunn del 14 ottobre 1809 la città fa parte delle Province Illiriche. Il 13 marzo, al largo di Lissa, quattro fregate britanniche comandate da William Hoste hanno battuto una flotta franco-italiana più numerosa."*
+
+Da lontano, verso Punta Salvore, arriva un colpo di cannone. Poi un altro. Nessuno sul molo alza la testa. È questo che mi colpisce più del cannone: che non alzano la testa.
+
+Sui massi di pietra d'Istria del Molo San Carlo un uomo rammenda una rete che non ha niente da pescare, a giudicare dai buchi. Ha le spalle larghe, le mani a uncino.
+
+**Alex:** "Pescatore?"
+
+**Il facchino:** "Bastaso. Portavo sacchi dalle navi ai magazzini, dall'alba al buio. Se non ci sono navi, non ci sono sacchi."
+
+**Alex:** "Colpa degli inglesi?"
+
+**Il facchino:** "Degli inglesi in mare. Dei francesi in dogana. Di tutti e due." Stringe un nodo coi denti. "Mio fratello è andato via l'anno scorso, verso l'interno. Quello del piano di sopra, a Fiume. La casa è mezza vuota."
+
+*"Si stima che la popolazione di Trieste e del suo distretto sia scesa da circa 33.200 abitanti nel 1808 a un numero fra 20.000 e 24.000 nel 1812."*
+
+Più di un quarto della città. Forse più di un terzo. Svanito come l'acqua da un secchio bucato, un vicino alla volta.
+
+Mi è venuto automatico pensare "l'embargo inglese". Sbagliato. L'embargo è una firma su un foglio, e qui la firma è di Parigi. Davanti a Trieste gli inglesi non mandano fogli: mandano fregate. Divieti a terra, cannoni in mare: ci vogliono tutte e due le cose per fermare un porto.
+
+::: memo-box
+### MEMO GLOSSARIO
+
+*   **Embargo:** divieto giuridico di commerciare con qualcuno. Qui lo impone la Francia: è il Blocco Continentale, applicato in dogana.
+*   **Blocco navale:** interdizione fisica, fatta con navi da guerra, che fermano e catturano le navi mercantili in mare. Qui lo esercita la Gran Bretagna, dalla base di Lissa.
+*   **Licenza commerciale:** un'eccezione scritta al divieto, comprata a caro prezzo da chi può permettersela.
+:::
+
+Il magazzino dietro il molo ha le porte chiuse con una catena arrugginita. Dentro sa di umido e di salmastro. Un commesso sulla trentina, con le mezzemaniche nere, sta spargendo sul pavimento di pietra una polvere bianca che pizzica il naso.
+
+**Alex:** "Cos'è?"
+
+**Il commesso:** "Calce spenta e zolfo. Poi i sacchi di grano sopra, su travi di quercia, alti da terra. I topi non passano, la muffa non attacca. Il grano sta qui da mesi. Può starci ancora mesi."
+
+**Alex:** "Ma il porto non era franco? Niente dazi, merci che entrano ed escono?"
+
+**Il commesso:** "Il nome c'è ancora. Nessuno l'ha cancellato con una legge. Però qui adesso valgono le tariffe doganali dell'Impero, come in qualsiasi altro porto francese. Un porto franco che paga i dazi di tutti gli altri." Si pulisce le mani sul grembiule. "Chiamalo come vuoi."
+
+Mi porta nell'ufficio accanto e apre il libro degli arrivi della Borsa. Le pagine degli anni prima sono fitte di brigantini e navi d'alto mare. Queste sono larghe, spaziose, quasi bianche. I pochi nomi sono trabaccoli e tartane: farina e olio dall'Istria, qualche carico dalla Dalmazia.
+
+*"Le serie mercantili dell'epoca indicano un calo stimato del traffico d'alto mare fra l'80 e il 90 per cento rispetto al 1800-1805."*
+
+**Alex:** "E il suo padrone? Anche lui rammenda reti?"
+
+**Il commesso:** *(abbassa la voce)* "Il mio padrone ha venduto due barche per finta a un uomo di Dulcigno. Adesso battono bandiera del Sultano, hanno un nome nuovo dipinto a poppa e due serie di carte. Altri comprano licenze e mandano legname e ferro in Italia. Chi ha soldi, si arrangia."
+
+**Alex:** "E chi non ne ha?"
+
+Non risponde. Guarda verso il molo, dove il bastaso continua a lavorare sulla rete. Più tardi MEMO mi dirà che molti come lui vivono di sussidi del comune, o di sale e tabacco portati di notte lungo la costa del Carso. Ma il commesso, lì, non dice niente.
+
+**Il commesso:** "Il cotone, ormai, arriva a dorso di mulo. Da Salonicco, per la Bosnia, fino a Karlovac. Poi su per la strada nuova, fino a Lubiana, e da Lubiana giù fino a noi. Settimane di strada per evitare tre giorni di mare."
+
+Una rete da rammendare. Un libro con le pagine bianche. E un mulo carico di cotone che scende dai monti al posto di una nave.
+
+---
+
+## Una Capitale Disegnata Sulla Mappa
+<span class="byline">Cronaca di Maja</span>
+
+La carrozza della posta entra nel cortile coperta di polvere fino ai finestrini: arriva dalla stazione di Postumia. Un inserviente scarica nell'atrio dell'Intendenza pacchi chiusi con la ceralacca rossa, uno sopra l'altro, come mattoni.
+
+*MEMO, coordinate.*
+
+*"Lubiana, primavera 1810. Le Province Illiriche sono state create da Napoleone con il decreto del 14 ottobre 1809, a Schönbrunn. Il loro Governo Generale ha sede qui."*
+
+Qui. Dentro Palazzo Auersperg, trasformato in uffici, il corridoio sa di gesso e di inchiostro appena steso. Un copista giovane, dita blu fino alla seconda falange, ricopia in tedesco un foglio scritto in francese. Controllo la sua scrivania riga per riga. In sloveno, lì sopra, non c'è una parola.
+
+**Maja:** "Come arriva un ordine da questa stanza a un villaggio di montagna?"
+
+**Il copista:** "Per strada, di stazione in stazione. Un corriere porta la borsa di cuoio incerata contro la pioggia; alla stazione dopo un altro l'aspetta già in sella, col cavallo fresco. In paese, poi, la domenica dopo la messa, il parroco legge l'editto dal pulpito. In tedesco e nella parlata del posto."
+
+*"Stazioni ogni 10-14 chilometri. Cambio del cavallo in meno di quattro minuti. Oltre 150 chilometri in ventiquattro ore."*
+
+Nella parlata del posto, allora. Non sulla carta del copista. Dal pulpito, sì.
+
+**Maja:** "E perché proprio Lubiana? Perché è il cuore delle terre dove si parla come parlo io?"
+
+**Il copista:** *(senza alzare gli occhi)* "Il Carso e le montagne ci separano dal mare: per questo, qui, un cannone inglese non arriva. A Trieste e a Zara, sulla costa, le fregate sparano quando gli pare."
+
+**Maja:** "Tutto qui?"
+
+**Il copista:** "C'è anche la strada. Da Vienna a Trieste, dall'Italia fino a Karlovac e alla Bosnia: si incontrano proprio in questo punto. E gli edifici c'erano già — palazzi degli Stati provinciali, tipografie, tribunali, caserme. Un funzionario non lo pianti sotto una tenda."
+
+Speravo in un'altra risposta. Nella scelta di Lubiana volevo leggere un riconoscimento, e invece mi ritrovo in mano una strada segnata sulla carta e la gittata di un cannone. Delusa, non offesa: sono due cose diverse.
+
+*"Una tradizione patriottica più tarda sostiene che Lubiana fu scelta come centro culturale. I dispacci militari e le lettere di Marmont indicano sicurezza dal mare, incrocio di strade, edifici già pronti."*
+
+Sulla parete di fronte c'è una mappa più alta di me. Villach, Trieste, Fiume, Zara, Ragusa: tutte le linee finiscono in un punto solo.
+
+Nei libri dei miei compagni italiani Napoleone attraversa mezza Europa senza mai fermarsi qui. Che per quattro anni Lubiana abbia dato ordini fino a Ragusa, nessuno di loro lo sa. Eppure è appeso lì, con i sigilli.
+
+::: scan-result
+### SCANNING: CARTA AMMINISTRATIVA DELLE PROVINCE ILLIRICHE
+
+*   **Tipo:** mappa ufficiale del Governo Generale, disegnata a mano.
+*   **Estensione:** dalla Carniola alla Carinzia occidentale con Villach, poi Gorizia e Gradisca, Trieste, Istria, Fiume, la Croazia civile e militare a sud della Sava, fino a Dalmazia e Ragusa.
+*   **Abitanti (stima):** fra 1.480.000 e 1.550.000, circa un milione e mezzo, su 55.000 km² — di questi, circa 500.000 parlano sloveno.
+*   **Rapporto con la Francia:** nessun dipartimento, nessun deputato a Parigi. Solo una dipendenza sotto il comando diretto dell'Imperatore.
+:::
+
+Illiria, quindi, non è il nome di un popolo. Su questa carta vivono sloveni, croati, italiani, tedeschi, serbi. È il nome di una mappa.
+
+**Maja:** "E chi comanda?"
+
+**Il copista:** "Il governatore generale. Il maresciallo Marmont. Accanto a lui un intendente generale per le finanze e un commissario per la giustizia. Quello che il maresciallo firma parte per tutte le province. Quello che vuole l'Imperatore arriva da Parigi al maresciallo."
+
+Una capitale non è un titolo d'onore. È la casa dove siede il governo e dove stanno gli uffici principali, e da Villach a Ragusa tutto deve passare da questa porta.
+
+::: memo-box
+### MEMO GLOSSARIO
+
+*   **Governatore generale:** l'uomo che Napoleone manda a comandare le Province — di fatto un viceré, anche se il titolo non lo dice.
+*   **Accentramento amministrativo:** un solo ufficio, qui a Lubiana, per gli ordini, le tasse e i rapporti di un intero territorio — nessuna provincia decide più da sé.
+*   **Coscrizione:** i giovani finiscono in un elenco, e dall'elenco in divisa: non è una scelta loro.
+:::
+
+Fuori, nella via, un uomo col mantello del comune segna col gesso le porte. *4 S.* Una porta più in là, *1 O.* Parla tedesco; la padrona di casa gli risponde in sloveno, e lui annuisce.
+
+**Maja:** "Che cosa vuol dire?"
+
+**La padrona di casa:** "Quattro soldati. Dai vicini, un ufficiale." Ha già le lenzuola sul braccio. "All'ufficiale si dà la camera migliore, candele di sego, biancheria pulita. Così non va a frugare nel resto della casa. Le ragazze in soffitta. I cucchiai d'argento pure."
+
+**Maja:** "E se dice che non c'è posto?"
+
+**La padrona di casa:** "Il posto lo trovano loro."
+
+In piazza del Mercato, sotto la loggia del Magistrato, la guardia civica batte tre rulli di tamburo. Il banditore grida l'editto, un garzone lo incolla sul portone con una pasta di farina e acqua. Passano ufficiali francesi con i pennacchi tricolori. Tra loro, contadini in mantelli di lana grezza marrone e cappelli di feltro, sui carri la legna per le stufe della città.
+
+**Maja:** "Che cosa ha letto?"
+
+**Il contadino:** "L'imposta sulla terra. Uguale per tutti, dicono." Stringe la corda sulla legna. "Siamo uguali in quello che fa male. E scriveranno i ragazzi nell'esercito."
+
+**Maja:** "Ha un figlio?"
+
+**Il contadino:** "Diciassette anni." Guarda a lungo il foglio che non sa leggere. "I soldi si trovano. Un figlio no."
+
+*"Adesso i giovani della Carniola vengono chiamati con la coscrizione obbligatoria nell'esercito napoleonico. Formeranno i reggimenti illirici. Una parte andrà in Russia nel 1812."*
+
+E Marmont, MEMO? Lo voleva lui, tutto questo?
+
+*"Ricostruzione dalle sue memorie: vorrebbe lasciare strade, un orto botanico, scuole riordinate. Da Parigi gli chiedono denaro contante, grano e battaglioni."*
+
+Il postiglione rimette la carrozza sulla strada di Postumia. Arrivano gli ordini, partono i ragazzi: la strada è la stessa.
+
+::: checkpoint
+### CHECKPOINT: Perché nascono davvero le Province Illiriche — per trasformare e governare meglio un territorio, oppure per usare coste, strade e città come strumenti della guerra napoleonica?
+
+Finora hai raccolto: il Blocco pretende il controllo di ogni porto e di ogni balla; Trieste paga il crollo delle rotte e del proprio statuto; Lubiana riceve funzioni di governo su un territorio che non aveva mai amministrato.
+
+*   **A.** Soprattutto un progetto di riorganizzazione: capitale, uffici comuni e procedure nuove mostrano un governo che vuole costruire un territorio più uniforme; la guerra è la condizione che lo rende possibile.
+*   **B.** Soprattutto uno strumento strategico: capitale e uffici servono a controllare costa, strade, denaro e uomini; le riforme sono vere, ma vengono dopo le necessità dell'impero e della guerra.
+
+Tieni a mente la tua risposta — il Verdetto nel Debriefing te la confermerà, la correggerà, o mostrerà che la realtà era più complicata di entrambe.
+:::
+
+---
+
+## La Lingua Sulla Lavagna
+<span class="byline">Cronaca di Maja</span>
+
+Il maestro taglia una penna d'oca con tanta cura che la stanza sa di piuma bruciacchiata. Sul suo tavolo, accanto al temperino, c'è un libro stampato. Uno. Sulle panche, davanti a lui, i ragazzi sono quaranta.
+
+Poi un ragazzo si alza, prende una bacchetta e la punta contro un grande cartellone appeso al muro.
+
+"Bu-kva!"
+
+"BU-KVA!"
+
+"Kme-ti-ja!"
+
+"KME-TI-JA!"
+
+La classe gli risponde in coro, a tempo, quasi una cantilena. È sloveno. Ad alta voce, a scuola, come lingua della lezione — non come la lingua in cui ti spiegano cosa dovrai poi imparare in tedesco.
+
+**Maja:** "Come fate a insegnare a leggere con un libro solo?"
+
+**Il maestro:** "Il libro lo tengo io, oppure il migliore della fila. Lui legge, gli altri ripetono. Prima imparano con l'orecchio, poi copiano sulla tavoletta. La carta costa troppo per i figli degli artigiani e dei contadini. L'ardesia la cancelli quante volte vuoi."
+
+*MEMO, data e regole.*
+
+*"Lubiana, fine del 1811. Con il decreto di Marmont del 4 luglio 1810 e il decreto generale sull'istruzione pubblica del 12 febbraio 1811, nelle scuole primarie si insegna nella lingua del paese. In Carniola è lo sloveno, affiancato dallo studio del francese."*
+
+In un angolo, una grande stufa di maiolica verde spande fumo di faggio e un odore di fuliggine. Sulle ginocchia, ogni ragazzo ha una tavoletta d'ardesia chiusa in una cornice di legno di faggio, con una spugnetta legata alla cornice da uno spago di canapa. La punta di pietra stride sull'ardesia. Riga controllata, riga cancellata: con la spugna, con la manica, a volte con lo sputo.
+
+La porta si apre e la classe si zittisce. Entra un prete oltre la cinquantina, un libro sotto il braccio. Il maestro si raddrizza. Il prete prende la tavoletta di un ragazzo, corregge una lettera col dito, gliela rende senza una parola.
+
+*"Valentin Vodnik. Dal 1810 direttore del rinnovato ginnasio di Lubiana e ispettore delle scuole primarie e artigiane della Carniola."*
+
+**Maja:** "Quel libro è opera sua?"
+
+**Vodnik:** "Mancava, e qualcuno doveva scriverlo. Il decreto ordina di insegnare nella lingua del paese — ma un decreto non si scrive da solo un abbecedario."
+
+**Maja:** "Quindi lo sloveno entra in un'aula per la prima volta."
+
+**Vodnik:** "Non proprio. Già ai tempi dell'imperatrice si spiegava il catechismo nella lingua di casa, perché i bambini imparassero meglio anche il tedesco. Ciò che cambia adesso è che, per legge, è la lingua in cui si insegna tutto — e che finalmente una grammatica descrive questa lingua usando questa stessa lingua."
+
+**Maja:** "E ai francesi cosa importa? Lo fanno per noi?"
+
+**Vodnik:** *(un mezzo sorriso)* "Lo fanno per farsi capire da chi paga le tasse e manda i figli in guerra. Il resto —" allarga le mani verso il libro "— è il mio lavoro: che sappiano leggere."
+
+*"Ricostruzione degli storici: le autorità francesi non volevano uno Stato sloveno. Introdussero lo sloveno per pragmatismo amministrativo e pedagogico, per farsi capire da una popolazione in gran parte analfabeta."*
+
+::: memo-box
+### MEMO GLOSSARIO
+
+*   **Lingua d'insegnamento:** non la materia che studi in classe, ma la lingua in cui il maestro spiega tutte le altre materie.
+*   **Ispettore scolastico:** gira le scuole, ascolta le lezioni, controlla i maestri — e scrive alle autorità se le regole vengono davvero rispettate.
+*   **Ordinamento scolastico:** i decreti che decidono, tutti insieme, quali scuole ci sono, chi ci va, cosa si insegna e in che lingua.
+:::
+
+Il maestro mi passa il libro. Carta giallina, e sul frontespizio: *Pismenost ali gramatika za perve shole*. *Pismenost* "oppure" *gramatika*: la parola di casa accanto a quella straniera, alla pari.
+
+Fino al 1811, a quanto pare, nessuno aveva mai scritto della mia lingua nella mia lingua. È la prima grammatica dello sloveno interamente in sloveno — e questo, a scuola, non me l'ha mai detto nessuno.
+
+*"Prima di questa, dal 1584 al 1808, sono uscite tre grammatiche dello sloveno: una in latino, due in tedesco. Questa è stampata a Lubiana nel 1811."*
+
+::: target-profile
+### SCHEDA PERSONAGGIO: Valentin Vodnik
+
+*   **Ruolo:** prete e poeta (1758–1819); sotto le Province Illiriche dirige il ginnasio di Lubiana e ispeziona le scuole primarie e artigiane della Carniola.
+*   **Forza:** 2
+*   **Intelligenza:** 5
+*   **Carisma:** 3
+*   **Abilità Speciale:** Un decreto amministrativo, pensato per durare quanto l'occupazione francese, diventa nelle sue mani la prima grammatica mai scritta della lingua slovena nella lingua slovena stessa — un libro che sopravvive al potere che lo ha reso possibile.
+:::
+
+A metà del libro, fra una regola e l'altra, trovo una poesia. *Ilirija oživljena*, "L'Illiria risvegliata". Sulla pagina non c'è nessuna č: al suo posto, *zh*.
+
+*Napoleon rezhe: Ilirija vſtan'!*
+
+La rileggo a modo mio, *Napoleon reče*: "Napoleone dice: Sorgi, Illiria!". La poesia celebra Napoleone come l'eroe che risveglia l'antica Illiria da un sonno di secoli. Ed è stampata in una grammatica per bambini.
+
+Orgoglio e disagio, insieme, senza che l'uno spenga l'altro: è quello che provo. Ma questi versi raccontano solo il pensiero di Vodnik — non quello del contadino che ho visto trascinare la legna in piazza del Mercato.
+
+*"Al ritorno dell'Austria, nell'autunno 1813, la polizia lo considera inaffidabile per quei versi. Nel 1815 viene rimosso e messo a riposo con una pensione ridotta. Non potrà più insegnare."*
+
+**Maja:** "E le ragazze?"
+
+**Il maestro:** "Le ragazze hanno la loro classe, dove c'è. Nei villaggi, quasi tutte restano a casa. Badano ai fratelli piccoli, lavorano."
+
+**Maja:** "E i ragazzi dei villaggi?"
+
+**Il maestro:** "D'inverno vengono. Quando si scioglie la neve, vanno nei campi."
+
+*"Stima: nelle campagne della Carniola, d'inverno, frequenta la scuola fra il 20 e il 30 per cento dei bambini. In primavera e d'estate meno del 10 per cento, perché lavorano nei campi e al pascolo."*
+
+Il ragazzo della bacchetta è di nuovo sotto il cartellone. Gli chiedo se ad aprile ci sarà ancora.
+
+**Il ripetitore:** "Ad aprile porto le bestie al pascolo. A casa servo io."
+
+L'ardesia si cancella all'infinito. Il suo posto sulla panca, a primavera, resta vuoto.
+
+---
+
+## Uguali Davanti Alla Legge?
+<span class="byline">Cronaca di Alex</span>
+
+Il sigillo d'acciaio affonda nella ceralacca rossa e quando il cancelliere lo solleva, in fondo all'atto di divisione ereditaria resta un'aquila a becco aperto. L'ufficio sa di polvere di pergamena, di carta bollata, di cera d'api. Il cancelliere sfoglia i fogli filigranati con un bollo da cinquanta centesimi in alto a destra, e ha le dita unte di tabacco da fiuto. Ogni pagina lascia un'impronta.
+
+*MEMO, dove.*
+
+*"Tribunale di prima istanza di Lubiana, 1812. Il decreto del 15 aprile 1811 ha fissato al 1° gennaio 1812 l'entrata in vigore del Codice civile francese in tutte le Province Illiriche. Giudici di pace nei cantoni, tribunali nei capoluoghi, Corte d'Appello qui a Lubiana."*
+
+Il Codice Napoleone. A scuola era il pezzo forte, quello che ti fa pensare: va bene, ha fatto guerre dappertutto, però almeno ha portato la legge uguale per tutti. Me l'ero già scritto in testa, in bella copia.
+
+Nell'aula accanto c'è un silenzio che si sente. Un contadino di Šiška, camicia di lino ruvido e niente cravatta, sta in piedi davanti al giudice di pace. Il giudice legge la sentenza in francese; un interprete giurato del comune la ripete in tedesco, poi in sloveno. Il contadino ascolta la terza versione con gli occhi fissi sulle labbra dell'interprete.
+
+**Alex:** "Quindi davanti a questo giudice un contadino e un barone sono uguali?"
+
+**Il cancelliere:** "Davanti al tribunale, sì. I nobili non hanno più privilegi di legge. E i tribunali dei signori sono stati soppressi: adesso la giustizia è dello Stato, per tutti."
+
+Uguaglianza. Caso chiuso. Stavo già per dirlo ad alta voce.
+
+::: memo-box
+### MEMO GLOSSARIO
+
+*   **Codice civile:** il libro di leggi che regola i rapporti fra privati — famiglia, matrimonio, eredità, proprietà, contratti. Quello francese del 1804 si chiama anche Codice Napoleone.
+*   **Uguaglianza giuridica:** la stessa legge e gli stessi tribunali per tutti, senza privilegi di nascita. Non vuol dire stessa ricchezza, stessi voti o stessa libertà.
+*   **Stato civile:** i registri pubblici di nascite, matrimoni e morti, tenuti dal comune invece che solo dalla parrocchia.
+:::
+
+Sul banco del cancelliere ci sono due volumi identici, stesse righe, stessa grafia.
+
+**Alex:** "Perché lo scrive due volte?"
+
+**Il cancelliere:** "Registro dello stato civile. Una copia resta nella cassaforte del comune. L'altra, a fine anno, parte a cavallo per la cancelleria del tribunale, qui o a Novo Mesto. Se un incendio o i soldati distruggono l'una, resta l'altra."
+
+**Alex:** "E se uno non ha niente di scritto? Tipo, deve dimostrare chi è?"
+
+Mi indica il corridoio. Un uomo aspetta con quattro vicini, cappelli in mano.
+
+**Il cancelliere:** "Atto di notorietà. I testimoni giurano che è lui, la persona nominata: l'età che dimostra, le cicatrici, il colore degli occhi, la statura, il mestiere. Io scrivo, il sindaco mette il sigillo. È così che si diventa eredi, quando i libri della parrocchia sono bruciati in guerra."
+
+Niente carta d'identità, niente foto. Il tuo documento sono quattro vicini che si ricordano la tua cicatrice.
+
+::: scan-result
+### SCANNING: DOPPIO REGISTRO DELLO STATO CIVILE
+
+*   **Tipo:** coppia di registri identici di nascite, matrimoni e morti.
+*   **Materiale:** carta bollata, inchiostro, sigillo municipale, legatura con cordelle di canapa.
+*   **Funzione:** conservare due prove della stessa vita in due luoghi diversi — la cassaforte del comune e la cancelleria del tribunale.
+*   **Dettaglio Tecnico:** nelle campagne è spesso il parroco a compilare il modulo civile insieme al battesimo o alle nozze; si stima che nel 1812-1813, nei tribunali di Lubiana e Novo Mesto, meno del 5 per cento dei matrimoni sia stato celebrato solo in forma civile.
+:::
+
+**Alex:** "Ok. E una donna sposata? Può vendere un campo, se è suo?"
+
+Il cancelliere apre il Codice senza cercare, come chi conosce la pagina.
+
+**Il cancelliere:** "Articolo 217: la moglie non può donare, vendere, ipotecare né firmare contratti senza il consenso scritto del marito. Articolo 213." Legge. "*Il marito deve protezione alla moglie, la moglie obbedienza al marito.*"
+
+*"Anche il divorzio ha due misure: il marito può chiederlo per un solo adulterio della moglie; la moglie solo se lui tiene la concubina nella casa comune. Per la moglie adultera il Codice penale del 1810 prevede fino a due anni di casa di correzione."*
+
+Il mio "caso chiuso" si riapre da solo. Uguali, sì. Ma metà degli sposati ha bisogno della firma dell'altra metà.
+
+Il contadino di Šiška esce dall'aula. Si rimette il cappello sulla soglia, non prima.
+
+**Alex:** "Allora? Adesso siete uguale al barone?"
+
+**Il contadino:** "Lì dentro, forse." Guarda la porta. "Lunedì però devo la giornata al signore, come prima. Col carro e coi buoi. E in più le tasse nuove, e mio nipote l'hanno preso per l'esercito. Carte in francese, bolli da pagare. Il bastone del fattore è sempre quello."
+
+*"Confermato: il Codice e i decreti francesi non cancellano la tlaka né i tributi ai signori. Si possono riscattare solo pagando, cosa che i contadini poveri non possono permettersi. Tlaka, tasse e coscrizione insieme porteranno alla rivolta di Višnja Gora nel 1813."*
+
+Caso chiuso, dicevo. Il caso, qui fuori, ha un carro, due buoi e un nipote in divisa.
+
+*"Dopo il ritorno dell'Austria il Codice napoleonico viene revocato: fra il 1814 e il 1816 al suo posto arriva il codice civile austriaco. La tlaka resterà fino al 1848."*
+
+Il cancelliere lega il fascicolo del contadino con una cordella di canapa e lo mette sulla pila. Dentro c'è scritto che è uguale a tutti. Lunedì, all'alba, lo aspetta un campo che non è suo.
+
+---
+
+## Debriefing
+
+Sul tavolo di Mission Control: la sonda di un doganiere e due cassetti di bordo, il libro degli arrivi della Borsa di Trieste con le pagine quasi bianche, la carta amministrativa appesa a Lubiana, una grammatica di Vodnik stampata nel 1811, un registro dello stato civile scritto due volte.
+
+Alex non aspetta che qualcuno apra la seduta.
+
+**Alex:** "Per me è semplice. Era tutto per la guerra. Il porto chiuso, la capitale lontana dai cannoni, perfino la scuola: servivano a farsi obbedire."
+
+**Maja:** "Allora spiegami la grammatica. Il governo voleva farsi capire, va bene. Ma in quel libro c'è qualcosa che nessun decreto aveva ordinato."
+
+**Alex:** "E tu spiegami il bastaso. Lui non ha scelto niente, e ha pagato lui."
+
+**Maja:** "Hai ragione. Non tutto quello che si apre viene aperto per chi ci passa."
+
+**Alex:** "...E non tutto quello che serve alla guerra serve solo alla guerra. Va bene."
+
+Non si sono messi d'accordo. Ma nessuno dei due, adesso, può più dire la frase con cui era partito.
+
+**Verdetto.** La B spiega meglio perché nacquero le Province Illiriche: furono una costruzione dell'Impero napoleonico per controllare l'Adriatico, tagliare fuori l'Austria dal mare e combattere la guerra economica contro la Gran Bretagna — non uno Stato sloveno, né un premio a Lubiana. Ma la A descrive una conseguenza reale: la nuova capitale concentrò un governo su un territorio vastissimo e aprì riforme amministrative, scolastiche e giuridiche che cambiarono regole e possibilità per una parte degli abitanti. Furono cambiamenti brevi, diseguali, accompagnati da tasse, coscrizione e una tlaka che nessun decreto francese abolì; l'uso dello sloveno a scuola, grazie anche a Vodnik, acquistò un significato culturale che andava oltre le intenzioni francesi. La crisi di Trieste e l'ascesa di Lubiana non sono due storie opposte: sono due effetti della stessa mappa imperiale.
+
+::: reality-check
+### CIÒ CHE NON SAPPIAMO ANCORA
+
+*   **Quanto il crollo di Trieste dipenda da ciascuna causa:** Blocco Continentale, fregate britanniche, guerra e tariffe doganali agiscono insieme; le cifre sul traffico e sulla popolazione sono stime, e le fonti non permettono di assegnare a ogni causa la sua quota.
+*   **Quanto la scuola in sloveno arrivasse davvero ai bambini:** i decreti e i libri sono certi, la frequenza no — soprattutto nelle campagne, dove le stime cambiano con le stagioni e le ragazze restano quasi sempre fuori.
+*   **Quanto il Codice civile cambiasse la vita quotidiana:** il testo entra in vigore ovunque nel 1812, ma per matrimoni e registri la gente continua a passare dal parroco, e fuori dall'aula del tribunale i suoi effetti si possono misurare soltanto per stime.
+:::
+
+::: memo-box
+### CRONOLOGIA ESSENZIALE
+
+*   **21 novembre 1806:** Decreto di Berlino, inizio del Blocco Continentale.
+*   **1807:** Ordinanze in Consiglio britanniche e Decreti di Milano.
+*   **14 ottobre 1809:** pace di Schönbrunn e creazione delle Province Illiriche, con capitale Lubiana.
+*   **1810-1811:** decreti scolastici; Vodnik pubblica la *Pismenost* con *Ilirija oživljena*.
+*   **1° gennaio 1812:** entra in vigore il Codice civile nelle Province.
+*   **Autunno 1813:** tornano gli austriaci; il 29 ottobre si arrende la fortezza di San Giusto a Trieste.
+:::
+
+A Lubiana, nell'autunno del 1813, un funzionario francese chiude l'ultimo registro e lo lascia su un tavolo che non è più suo. Poche strade più in là, in un libro stampato due anni prima, una parola slovena aspetta un lettore che non è ancora nato.[^ee7]
+
+Nel 1815 i sovrani d'Europa proveranno a rimettere ogni confine al suo posto. Ma una macchina e un'elica si possono restaurare come un trono?
+
+[^ee7]: Curiosità cifrata (ROT13): *Vy cevzb cvebfpnsb nccnefb qninagv n Gevrfgr, ary 1818, fv puvnznin Pnebyvan.*
+
+<!-- WORD COUNT: ~5850 -->
+<!-- PERSONA CHECK: Pass — Alex keeps the media/reality tic within limit (twice: film-warships vs. iron-probe customs; "caso chiuso" on the Code vs. art. 217/tlaka), keeps MEMO banter ("Grazie, MEMO..."), stays anchored to individual drama (bastaso, contadino di Šiška), shows an asymmetric error (confuses plausible with proven at the tribunal). Maja keeps "nessuno me l'ha mai detto" within limit (twice: Lubiana governing to Ragusa; first grammar in Slovene), notices language before anything else in every setting, names her emotions precisely ("non sono offesa, sono delusa"; "orgogliosa e a disagio"), shows her own asymmetric error (reads the choice of Lubiana as recognition, corrected by logistics). Alex and Maja never merge into one voice; they meet only in the Debriefing and each revises a position because of the other. -->
+<!-- NUF CHECK: [1] ✅ chain Blocco→Adriatic corridor→Schönbrunn/Province→Lubiana kept, strategic aim vs. local effect kept distinct — [2] ✅ reforms real but tied to taxes/coscrizione/tlaka, intention vs. tool vs. unintended meaning (Vodnik) made explicit — [3] ✅ customs register, Borsa ledger, administrative map, grammar, civil register each interrogated for what they show and whom they omit — [4] ✅ concrete loss on the Trieste molo vs. ambiguous possibility in Lubiana's offices/classroom, neither erasing the other — [5] ✅ Maja's pride and unease over the Slovene grammar, paired with attendance estimates and the 1815 dismissal as limits on any "recognition" reading — [6] ✅ Berlin Decree, Orders in Council/Milan Decrees, licences, embargo vs. naval blockade kept distinct with dates and sources — [7] ✅ 1809 creation, dependency status (no départements), Lubiana as seat, 1813 end, explicit "non uno Stato sloveno" — [8] ✅ Vodnik's real titles/dates, "first time" narrowed to language-of-instruction and first grammar, Code's 1812 entry into force with women's/tlaka limits — [9] ✅ Lubiana scene stands as its own story, not measured against Trieste — [10] ✅ Vodnik/school scene autonomous, Maja separates practical use from cultural meaning without Alex present. -->
+<!-- ANTI-AI CHECK: no banned patterns found (no "immaginate di essere", no "ebbene sì", no explicit closing moral); no production-jargon labels anywhere, "Capitolo" appears once; section headers are pure subtitles; bylines are HTML spans matching the narrating voice; MEMO interventions stay at or under 3 facts each; Easter Egg (ROT13) uses the short-note form, consistent with the cipher having been taught in Cap. 0; every [ESTIMATE] rendered with cautionary language ("si stima", "circa", ranges), no reconstructed dialogue presented as documented quote. -->
+
+
+<div style="page-break-after: always;"></div>
+
+# Capitolo 8 — La Restaurazione, Il Vapore E La Nascita Del Lloyd
+
+## Briefing
+
+Alex, Maja: coordinate principali 1815, inizio del XIX secolo. Nella missione precedente avete visto le Province Illiriche durare dal 1809 al 1813, e il controllo asburgico tornare dopo la caduta di Napoleone. Adesso l'Europa deve decidere che forma darsi. Da qui seguirete le prove per ventidue anni: dalle carte diplomatiche del 1815 alla prima partenza di linea del 1837. Dopo questa indagine vi aspetta la società industriale; qui ci fermiamo un passo prima.
+
+Il manuale propone due catene, una dopo l'altra. La prima: 1815 → i sovrani restaurano il vecchio ordine → l'Europa torna com'era prima. La seconda: macchina a vapore → Ressel inventa l'elica a Trieste → comincia la nuova navigazione.
+
+Qualcosa non torna. Le tracce più antiche dell'idea non stanno tutte in un porto. E le fonti raccontano la stessa prova del 1829 sia come un successo sia come un fallimento.
+
+La vostra missione è raccogliere quattro prove e ricostruire la catena che collega Restaurazione, lavoro forestale, prova tecnica e navigazione regolare.
+
+## OBIETTIVI DEL SALTO (SCENE)
+
+### 1. Un Tavolo Per Rimettere Ordine (Vienna, 1814-1815) — voce: Alex
+
+Una lama scaldata sopra una fiammella, un sigillo sollevato intatto e una stanza dove nessuno balla.
+**Prova da raccogliere:** verificare quali parti del passato i negoziatori tentano di restaurare e quali decisioni richiedono invece un equilibrio nuovo.
+
+### 2. Misurare Un Bosco, Disegnare Una Spinta (Pleterje, 1817-1827) — voce: Maja
+
+Un registro scritto in una lingua, un bosco allagato dove se ne parla un'altra, e un funzionario venuto dalla Boemia.
+**Prova da raccogliere:** separare le tracce documentate del lavoro e dei disegni di Ressel dai racconti nati dopo sull'origine dell'idea.
+
+### 3. La Civetta Esce Dal Porto (Golfo di Trieste, 1829) — voce: Alex
+
+Pece bollente, una vite di bronzo sotto la poppa e circa quaranta persone sul ponte.
+**Prova da raccogliere:** osservare che cosa accade prima e dopo l'arresto della nave, e stabilire quali affermazioni quella prova permette davvero di sostenere.
+
+### 4. Quando L'Informazione Diventa Una Rotta (Trieste, 1833-1837) — voce: Alex
+
+Una parete coperta di date, venti e quarantene, e un sacco di posta chiuso col piombo.
+**Prova da raccogliere:** verificare quali strutture trasformano una tecnologia sperimentale in partenze ripetibili e commerci organizzati.
+
+La missione ha due co-reporter. Maja ricostruisce la traccia nelle terre slovene; Alex segue il negoziato di Europa e mondo e il porto dell'Alto Adriatico. Nessuno parlerà al posto dell'altra, ma ogni prova dovrà cambiare il modo di leggere le successive.
+
+Un'avvertenza. Un privilegio imperiale, un racconto di paese, il verbale di una prova e una storia aziendale non pesano uguale. Prima di legarli in una catena chiedetevi chi li ha prodotti, quando, e per dimostrare che cosa.
+
+---
+
+## Un Tavolo Per Rimettere Ordine
+<span class="byline">Cronaca di Alex</span>
+
+La lama è sottile come un'unghia. L'uomo seduto davanti a me la tiene sopra una fiammella d'alcol finché il metallo cambia colore, poi la infila sotto un disco di ceralacca rossa e solleva il sigillo intero, senza una crepa. Come si stacca un adesivo dal diario di tua sorella. Solo che questo è il dispaccio di un ambasciatore.
+
+Mi guardo intorno. Una stanza bassa nella Stallburg, a Vienna, sette del mattino. Odore di ceralacca fusa su un braciere di carbone, inchiostro che punge il naso, candele di sego che fanno più fumo che luce.
+
+*MEMO, dove sono i lampadari? Il ballo?*
+
+*"Vienna, fine inverno 1815. Il Congresso è aperto ufficialmente dal 1º novembre 1814. Ti trovi nel Gabinetto segreto della Cancelleria."*
+
+A scuola il Congresso di Vienna era un'illustrazione con parrucche e valzer. Qui c'è un tizio con le dita nere d'inchiostro che legge la posta degli altri prima di colazione.
+
+**Alex:** "Quindi voi… aprite tutto?"
+
+**Il copista:** "Quello che arriva prima delle nove. La lettera deve tornare al postiglione intatta. Se il sigillo si rompe, premo sull'impronta un impasto fresco di gesso finissimo e ne ricavo una matrice. Poi si risigilla."
+
+Parla senza alzare gli occhi. Accanto a lui altri tre copiano a una velocità assurda su fogli di carta velina, così sottile che la luce della candela ci passa attraverso. Quando finiscono, il dispaccio viene ripiegato esattamente sulle pieghe originali. Sulla carta sabbiata scricchiolano i granelli di polvere di pomice usati per asciugare l'inchiostro.
+
+**Alex:** "E l'ambasciatore non se ne accorge?"
+
+**Il copista:** "Riceve la sua lettera alle nove. Il Principe ne ha già la copia sulla scrivania."
+
+Il Principe è Metternich, il ministro degli Esteri dell'imperatore. Non lo vedo. Vedo solo le sue copie.
+
+Mi sporgo sul foglio. Parla di Venezia. L'ambasciatore scrive — il copista me lo riassume a mezza voce, e il riassunto è suo, non una citazione — che la Repubblica di Venezia non tornerà. Andrà agli Asburgo.
+
+**Alex:** "Aspetta. Non dovevate rimettere tutto com'era prima di Napoleone? I re sul loro trono, le repubbliche…"
+
+**Il copista:** "Legittimità, dicono i francesi. Il principe di Talleyrand la ripete in ogni seduta: le dinastie che regnavano prima dell'89 riprendano i loro troni. Giusto. Ma Venezia non aveva una dinastia. Aveva un doge eletto. E Genova?" Gira un altro foglio. "Genova va al re di Sardegna. Un muro contro la Francia."
+
+**Alex:** "Quindi la legittimità vale solo quando fa comodo?"
+
+Lui intinge la penna. Non risponde a me: risponde al foglio.
+
+**Il copista:** "Gli inglesi e il Principe parlano d'altro. Di equilibrio. Nessuna potenza deve diventare così forte da schiacciare le altre. Quando le due parole vanno d'accordo, si firma. Quando non vanno d'accordo, si pesa."
+
+::: memo-box
+### MEMO GLOSSARIO
+
+*   **Restaurazione:** progetto politico dei vincitori dopo la sconfitta di Napoleone — rimettere sul trono le dinastie e contenere nuove rivoluzioni e nuove guerre. Non un ritorno completo al 1789.
+*   **Principio di legittimità:** criterio dinastico sostenuto soprattutto da Talleyrand: le famiglie che regnavano prima del 1789 hanno diritto a ritrovare troni e territori.
+*   **Equilibrio fra potenze:** criterio difeso dal britannico Castlereagh e da Metternich: nessuno Stato del continente deve poter dominare militarmente gli altri.
+:::
+
+Fuori, sotto la finestra, passa una carrozza. Il rombo dei cerchioni di ferro sul selciato gelato fa tremare il vetro. Nella strada c'è letame che fuma nel freddo.
+
+Qualcuno entra di corsa e parla in tedesco a bassa voce. Il copista posa la penna per la prima volta.
+
+**Il copista:** "Napoleone ha lasciato l'Elba."
+
+Mi aspetto che si alzino tutti, che scappino, che il Congresso si sciolga. Invece i fogli aumentano. MEMO me lo conferma con la sua solita calma da bollettino.
+
+*"I lavori non si interrompono: accelerano. L'Atto finale sarà firmato il 9 giugno 1815. Waterloo è il 18 giugno: nove giorni dopo."*
+
+Nove giorni. Hanno chiuso la carta dell'Europa prima di sapere chi vinceva la battaglia.
+
+**Alex:** "Allora il Sacro Romano Impero lo rimettete in piedi, almeno quello?"
+
+**Il copista:** "Sciolto nel 1806. Resta sciolto. Al suo posto una Confederazione. Trentanove Stati."
+
+*"Prima di Napoleone, nello stesso spazio, erano oltre trecento,"* aggiunge MEMO.
+
+Trecento contro trentanove. Non è un tasto *annulla*. È un'altra mappa con dei re vecchi sopra.
+
+Sul tavolo, sotto le copie, c'è una minuta con un numero cerchiato: articolo 93. Riguarda le terre dove la missione scorsa ci aveva lasciati — le ex Province Illiriche. Le truppe asburgiche le hanno già rioccupate tra l'autunno del 1813 e i primi mesi del 1814. L'articolo non le conquista: ratifica sulla carta quello che i soldati hanno già fatto sul terreno.
+
+Nella mia testa i pezzi si incastrano da soli. Anche troppo bene.
+
+**Alex:** "Ok, ho capito. Poi fanno la Santa Alleanza e questa è la stessa cosa, giusto? Il patto per tenere tutto fermo."
+
+*"Negativo. Tre dati."* MEMO non si scompone mai. *"La Santa Alleanza è firmata a Parigi il 26 settembre 1815, dopo la chiusura del Congresso. Firmano lo zar Alessandro I, Francesco I d'Austria e Federico Guglielmo III di Prussia. Gran Bretagna, Stato Pontificio e Impero Ottomano rifiutano di aderire."*
+
+::: memo-box
+### MEMO: DUE ALLEANZE, NON UNA
+
+*   **Santa Alleanza (26 settembre 1815):** i tre sovrani si impegnano a governare come "fratelli" secondo la carità cristiana. Nessun organo di controllo, nessuna scadenza, nessun esercito comune.
+*   **Quadruplice Alleanza (20 novembre 1815):** trattato militare e politico fra Gran Bretagna, Austria, Prussia e Russia. Crea il "sistema dei congressi": riunioni periodiche per mantenere l'equilibrio, anche con la forza.
+:::
+
+Il copista ha finito. Richiude il dispaccio sulle pieghe vecchie, scalda la ceralacca, preme la matrice di gesso. Il sigillo sembra quello di prima.
+
+Guardo l'orologio sulla parete: le nove meno un quarto. Il postiglione aspetta in cortile, battendo i piedi.
+
+Sembra una lettera mai aperta. È questo il punto.
+
+---
+
+## Misurare Un Bosco, Disegnare Una Spinta
+<span class="byline">Cronaca di Maja</span>
+
+"Levo! Še malo levo — k hrastu!"
+
+Il palo bianco e rosso si sposta di mezzo metro, verso la quercia. L'ordine è in sloveno. L'accento è sbagliato, di quelli che si sentono subito, ma la lingua è la mia.
+
+Chi urla è un uomo con il fango fino al ginocchio. Il suo registro l'ha lasciato aperto su un ceppo, a un passo da me. In cima alla pagina, in gotico, c'è scritto chi è: *Distriktsförster*. In tedesco, come ogni riga di quel libro.
+
+Una lingua per il bosco, un'altra per la carta.
+
+*MEMO, chi è?*
+
+*"Josef Ressel. Il 16 marzo 1817 è stato nominato funzionario forestale distrettuale della tenuta del Fondo degli Studi, con sede nell'ex certosa di Pleterje, in Bassa Carniola. La certosa è stata soppressa nel 1784 da Giuseppe II; i suoi boschi sono passati allo Stato."*
+
+Allo Stato. Ecco perché il registro parla tedesco: lo legge Vienna.
+
+Il Krakovski gozd non somiglia a nessun bosco del Carso. È una pianura che la Krka allaga quando le pare. L'argilla nera ti afferra lo stivale e non lo molla; quelli di Ressel sono ingrassati col sego di montone e sprofondano lo stesso. Puzza di foglie di quercia che marciscono nell'acqua ferma, di corteccia fradicia. Da qualche parte una scure batte colpi lenti, poi una sega a telaio stride, poi un conducente grida roco a una coppia di buoi carinziani che trascina un tronco squadrato dentro la melma.
+
+Mi avvicino prima che si rimetta all'occhio della sua tavoletta.
+
+**Maja:** "Scrive in tedesco e parla in sloveno. Perché?"
+
+**Ressel:** "Il registro lo legge Vienna. Ma Vienna le querce non le taglia." Indica il conducente dei buoi. "Le taglia lui. E se non capisco quello che mi dice, il tronco finisce sulla riva sbagliata."
+
+I documenti lo confermano senza bisogno della sua battuta: lo sloveno Ressel lo impara qui, apposta, per farsi capire da boscaioli, carrettieri e contadini. La lingua d'ufficio resta il tedesco; nei tribunali e fra i mercanti compare anche l'italiano. Tre lingue in una sola tenuta. Nel registro aperto sul ceppo ne entra una.
+
+Il ragazzo del palo ha più o meno la mia età. Giacca di panno ruvido che gli arriva alle ginocchia, gambe fasciate di lino grezzo e strette con lacci di cuoio.
+
+**Maja:** "A che serve il palo?"
+
+**Il ragazzo:** "A farsi vedere. Io lo pianto, il signore guarda dentro quella fessura e disegna. Poi vado alla quercia dopo."
+
+**Maja:** "E quando arriva l'acqua?"
+
+**Il ragazzo:** "Si aspetta. Oppure si passa dall'argine. Qui una corda dritta non la tiri: c'è un fosso, poi un albero caduto, poi un altro fosso."
+
+Mi ha appena spiegato una cosa che non avevo ancora chiesto: come misuri un bosco dove non puoi camminare in linea retta.
+
+Non lo misuri albero per albero. Ressel ha fissato una tavoletta pretoriana su un treppiede di frassino e l'ha messa in bolla con il filo a piombo. Lungo il sentiero asciutto ha tracciato sul foglio cerato una linea di base di cui conosce la lunghezza. Da lì punta la diottra — la fessura di cui parlava il ragazzo — sui pali che i ragazzi piantano nei punti scelti e riporta gli angoli sulla carta, a matita dura. Triangolazione: il bosco entra nel disegno senza che nessuno debba attraversare la palude. Con lui lavora un geometra e assistente stradale di Novo Mesto.
+
+Poi arriva il resto. Con il compasso forestale di legno di pero, tarato in pollici austriaci, si prende il diametro dei tronchi all'altezza del petto. La mappa si divide in trapezi, e l'area si calcola con le tabelle rapide che Ressel ha pubblicato a Vienna nel 1817, nel suo manuale per il calcolo delle superfici. Così sa quante querce dritte ci sono per le ordinate e il fasciame della marina imperiale prima che cada un solo albero.
+
+::: memo-box
+### MEMO GLOSSARIO
+
+*   **Funzionario forestale:** amministratore tecnico dei boschi dello Stato in un distretto; misura, pianifica tagli e rimboschimenti, tiene i registri ufficiali.
+*   **Rilievo forestale:** misurazione e disegno della mappa di un bosco — senza, non si sa quanto legname c'è né come gestirlo.
+:::
+
+Per un attimo mi viene un orgoglio stupido, come se fosse nostro. Poi MEMO mi dice da dove viene.
+
+*"Nato a Chrudim, in Boemia, il 29 giugno 1793. Padre tedesco, madre ceca. Studi a Vienna dal 1812 al 1814 — meccanica, idraulica, matematica — poi l'Accademia forestale di Mariabrunn fino al 1817."*
+
+Non è nostro. E non è nemmeno straniero. È un funzionario dell'Impero, venuto dalla Boemia, che lo sloveno l'ha imparato nel fango della Krka. Non sono delusa. È una cosa più scomoda: volevo che questa storia appartenesse solo a noi, e lei non si lascia prendere.
+
+::: target-profile
+### SCHEDA PERSONAGGIO: Josef Ressel
+
+*   **Ruolo:** funzionario forestale distrettuale nella tenuta statale di Pleterje dal 1817; nato in Boemia, formato a Vienna e a Mariabrunn.
+*   **Forza:** 3 — passa le giornate a guadare un bosco allagato, e la sua firma decide quali alberi cadranno.
+*   **Intelligenza:** 5 — meccanica, idraulica, matematica, e tabelle di calcolo scritte di suo pugno.
+*   **Carisma:** 3 — impara la lingua di chi lavora con lui, perché boscaioli e carrettieri lo capiscano.
+*   **Abilità Speciale (La Misura Che Viaggia):** porta lo stesso calcolo dal fango alla carta e dalla carta alla prova — misura prima di tagliare, disegna prima di costruire, in un posto dove nemmeno una linea retta è scontata.
+:::
+
+Sulla Krka fanno fluitare il legname. I tronchi scendono con la corrente, s'incagliano in un'ansa, due uomini li spingono via con gli uncini. Più a valle una chiatta viene tirata controcorrente, e la fune si tende come se il fiume tirasse dall'altra parte.
+
+**Maja:** "Di tutto questo, cos'è lavoro suo?"
+
+**Ressel:** "Tutto quello che è acqua. I fossi che prosciugano la palude. Quanto legname porta il fiume. Quanti buoi servono per una chiatta controcorrente. L'acqua non sta mai ferma, signorina. O ti aiuta o ti tira indietro."
+
+Di navi non dice niente. Di viti nemmeno. E io vorrei tanto sentirglielo dire.
+
+Nei libri dei miei compagni italiani Ressel è una riga: Trieste, elica, 1829. Il Krakovski gozd in quella riga non c'è. Perché nessuno lo racconta mai?
+
+E subito dopo: posso aggiungercelo io, solo perché lo vorrei?
+
+*MEMO, a casa ho sentito dire che proprio qui, sulla Krka, provava un modellino di barca. Con l'aiuto del fabbro della certosa.*
+
+*"È la tradizione locale di Kostanjevica e Pleterje. Nessuna testimonianza scritta del 1817–1820 la conferma. I racconti orali sono stati raccolti decenni dopo la sua morte, durante la campagna per il monumento, intorno al 1911."*
+
+*E il disegno del 1812? Tutti i libri dicono che l'elica l'aveva già disegnata da studente.*
+
+*"Gli storici ritengono che il foglio datato 1812 sia una copia successiva o un disegno a memoria, fatto da Ressel stesso per sostenere la sua priorità contro gli inglesi. Nessun archivio conserva un originale del 1812."*
+
+Nessun diario, nessuna riga d'ufficio in cui sia scritto: *guardavo il legno e ho pensato alla vite.* Che il lavoro con l'acqua e i tronchi lo abbia portato all'idea è un'inferenza degli storici. Fondata. Ma un'inferenza.
+
+Sul quaderno traccio due colonne. A sinistra: *registro, rilievo, tabelle 1817.* A destra: *Krka, fabbro, disegno 1812.* La colonna di destra non la cancello. Ci scrivo sopra solo: *memoria — da verificare.*
+
+---
+
+Dieci anni dopo cambia la carta, e cambia la città. Ressel adesso lavora a Trieste, sempre per i boschi, ma per quelli che servono alla marina. L'uomo è lo stesso.
+
+Il foglio nuovo porta il sigillo dell'imperatore Francesco I: privilegio n. 746, 11 febbraio 1827. La domanda Ressel l'aveva presentata proprio a Trieste, il 28 novembre 1825. Durata: due anni appena, prolungati poi su richiesta fino al 1829.
+
+::: memo-box
+### MEMO GLOSSARIO
+
+*   **Privilegio d'invenzione:** concessione del sovrano che garantisce all'inventore l'esclusiva per un tempo e un territorio stabiliti. Somiglia al brevetto moderno ma non coincide: dura poco e decade se l'invenzione resta inutilizzata.
+:::
+
+L'oggetto del privilegio è una frase sola, di nuovo in tedesco: *Schraube ohne Ende zur Fortbewegung der Schiffe.* Vite senza fine per far avanzare le navi.
+
+La ricopio sotto le due colonne. Questa riga non è un ricordo: ha un numero, una data, un sigillo.
+
+La lascio ad Alex così com'è, con una domanda sola accanto: di questa frase, che cosa resta quando la metti in acqua?
+
+---
+
+## La Civetta Esce Dal Porto
+<span class="byline">Cronaca di Alex</span>
+
+Qualcuno mi mette in mano un secchio di pece bollente e mi indica una fessura nel fasciame. Non faccio in tempo a dire che non so calafatare. Il calore mi sale nel naso, denso, catramoso. Allo Squero Panfili, a Trieste, nell'estate del 1829, chi sta fermo sul molo lavora.
+
+Intorno è un casino di rumori: martellate su ribattini di rame, pulegge di legno che cigolano, un uomo che spalma olio di lino crudo su un albero maestro. Più a poppa un altro ingrassa l'asse della macchina con una poltiglia che sa di zolfo e di grasso animale.
+
+Mi aspettavo un piroscafo da film: fumaioli alti, ruote a pale grandi come una casa, tipo battello sul Mississippi. La *Civetta* è una goletta di legno con due alberi e le vele arrotolate. Se non fosse per il fumo nero che esce da un tubo in mezzo al ponte, direi che è una barca a vela un po' grassa.
+
+*MEMO, dimmi che non è questa.*
+
+*"È questa. Lunghezza circa 15,8 metri. Stazza stimata fra 33 e 48 tonnellate, secondo le fonti. Macchina a due cilindri da 6 cavalli nominali."*
+
+Sei cavalli. Lo scooter 125 di mio cugino ne ha il doppio.
+
+Nella tasca della giacca ho il foglio che Maja mi ha lasciato. Una riga sola, in tedesco: *Schraube ohne Ende zur Fortbewegung der Schiffe*. Vite senza fine per far avanzare le navi. E sotto, la sua domanda.
+
+Scendo lungo lo scalo e mi chino sull'acqua sotto la poppa. Eccola. Non ha niente di una vite da falegname. È bronzo, due pale larghe e contorte, un diametro di più di un metro e mezzo, montata sull'asse immerso fra il dritto di poppa e il timone. L'hanno fusa e lavorata qui a Trieste, in un'officina meccanica della città.
+
+La frase di Maja è diventata metallo.
+
+::: memo-box
+### MEMO GLOSSARIO
+
+*   **Macchina a vapore:** l'acqua bolle nella caldaia; il vapore spinge i pistoni nei cilindri e il loro movimento diventa rotazione.
+*   **Elica navale:** la rotazione passa lungo un albero fino alla vite di poppa; girando, le pale spingono l'acqua all'indietro.
+*   **Propulsione a vite:** l'acqua spinta indietro spinge la nave in avanti. Niente ruote ai fianchi: la forza lavora sott'acqua, a poppa.
+:::
+
+Sul molo un uomo in redingote scura controlla un foglio e l'orologio. Non è un meccanico: ha le mani pulite.
+
+**Alex:** "Lei è quello che paga?"
+
+**Fontana:** "Carlo Ottavio Fontana. Pago, sì. Con un contratto davanti a un notaio."
+
+**Alex:** "E che cosa ci guadagna, da una barca con sei cavalli?"
+
+**Fontana:** "Una linea. Trieste–Venezia, veloce, regolare, passeggeri e merci. Se il vento cala, la vela si ferma; questa no. Ma solo se arriva sempre."
+
+Sempre. Se lo segna, quel *sempre*, lo sento dal tono.
+
+Un marinaio sta ammainando una cima accanto a me. Gli indico gli alberi.
+
+**Alex:** "Perché le vele, se avete la macchina?"
+
+**Marinaio:** "Perché la macchina è un aiuto, non un padrone. Chi va in mare fidandosi solo di quella non torna."
+
+*"Nel 1829 le macchine a vapore sono considerate ausiliarie e poco affidabili,"* conferma MEMO. Tradotto: la vela è il piano A, la macchina il piano B.
+
+La data esatta di questa uscita è un piccolo pasticcio. Ci sono state prove preliminari in luglio; negli atti della polizia marittima la prova pubblica finita male porta la data del 4 agosto 1829, ma non tutte le fonti concordano sul giorno. A bordo saliamo in circa quaranta: membri della commissione del governo marittimo, Ressel, Fontana, tecnici e curiosi. Io mi infilo fra i curiosi.
+
+La *Civetta* si stacca dal molo. Nessuna vela. Solo il respiro della macchina, un sibilo pesante e regolare, vapore a due o tre atmosfere nei cilindri. Sotto la poppa l'acqua gorgoglia in vortici rapidi.
+
+Ci muoviamo. In mare aperto, verso Servola e Muggia, spinti soltanto dall'elica.
+
+**Alex:** "Funziona! Ressel, funziona!"
+
+Ressel non si gira. Sta guardando la caldaia.
+
+Cento metri. Duecento. Mi sono già convinto di tutto: che è fatta, che questa è la nascita della navigazione moderna, che fra un'ora saremo a Venezia.
+
+Il molo diventa una riga bassa dietro di noi.
+
+Poi un colpo secco, come una frusta. Un getto bianco sibila fuori dalla caldaia, l'odore di ferro caldo riempie il ponte, e il ritmo della macchina si spezza. Rallenta. Si ferma.
+
+*"Cedimento di una saldatura in un tubo della caldaia. Perdita di vapore, calo improvviso di pressione. Nessun ferito grave."*
+
+Il silenzio, in mezzo al golfo, è peggio del colpo.
+
+Nessuno però va nel panico. Il timoniere sfrutta l'ultimo slancio della nave e mette la prua al vento; due marinai corrono avanti e issano le vele di prua, trinchetto e fiocco, perché una nave che non si muove non risponde più al timone. Se il vento cala del tutto, l'ancora è già pronta: la calano, così la corrente non ci spinge contro i frangiflutti delle saline o gli scogli di Barcola, e si aspettano le lance della capitaneria per il rimorchio. Guardo le due soluzioni prepararsi insieme e non so quale servirà. Più tardi non lo sapranno nemmeno le fonti: c'è chi scrive che la *Civetta* rientrò a rimorchio, chi con le vele ausiliarie.
+
+Le vele che trovavo ridicole mezz'ora fa sono l'unica cosa che funziona.
+
+Quanto abbiamo fatto? Chiedo a MEMO e la risposta non mi piace.
+
+*"Circa mezzo miglio, forse un miglio marittimo: uno o due chilometri. Alcune memorie scritte molto più tardi parlano di cinque miglia e sei nodi. Queste cifre non reggono al confronto con le fonti più vicine all'evento."*
+
+A terra, i giorni dopo, la prova diventa carta. Il governo imperiale e la Direzione di polizia marittima vietano in modo assoluto ogni nuova prova nel golfo: la caldaia è giudicata pericolosa per l'incolumità pubblica. Fontana, spaventato dai rischi e dai costi, legato alle scadenze del contratto, lo rescinde e ritira i capitali. L'elica viene sbarcata.
+
+Fra i due, nella corrispondenza di quei giorni, si legge questo scontro. Le parole esatte non le abbiamo: quelle che seguono ne ricostruiscono il senso.
+
+**Ressel:** "L'elica non ha il minimo difetto. Si è rotto un tubo della caldaia, fornita dalla Stiria. Non la vite."
+
+**Fontana:** "Per chi vende biglietti conta la nave intera. Non posso rischiare la bancarotta e i sequestri per una caldaia che scoppia davanti a quaranta testimoni."
+
+Hanno ragione tutti e due, ed è questo che mi manda fuori di testa.
+
+Il privilegio del 1827 scadrà senza che nessuno lo sfrutti in un cantiere. La frase di Maja è andata in acqua, ha girato, ha spinto. Poi un tubo ha ceduto, e quello che resta, adesso, è un pezzo di bronzo su un molo.
+
+La vite ha girato. La nave si è fermata. Sono due frasi diverse.
+
+::: checkpoint
+### CHECKPOINT: Che cosa ha dimostrato davvero la prova interrotta della *Civetta*: che il nuovo sistema non era pronto, o che una sua parte funzionava già?
+
+Hai raccolto: un privilegio del 1827 che protegge per iscritto una "vite senza fine" per navi; una nave che nel 1829 si muove spinta solo dall'elica per mezzo miglio, forse un miglio, poi si ferma per il cedimento di un tubo della caldaia e non può più riprovare.
+
+*   **A.** Una nave che non completa la prova in sicurezza non ha ancora dimostrato di essere un sistema affidabile per il servizio commerciale: il movimento iniziale non basta.
+*   **B.** Il movimento prima del guasto è una prova parziale a favore dell'elica: il cedimento di un altro componente lascia aperta l'affidabilità della nave intera, ma non cancella ciò che è stato osservato.
+
+Tieni a mente la tua risposta: il Verdetto nel Debriefing te la confermerà, la correggerà, o ti mostrerà che la realtà era più complicata di entrambe.
+:::
+
+---
+
+## Quando L'Informazione Diventa Una Rotta
+<span class="byline">Cronaca di Alex</span>
+
+Un impiegato in piedi su uno sgabello scrive con il gesso su una parete. Nome della nave, porto di partenza, data, vento. Sotto, in un'altra colonna: *quarantena*. Sotto ancora: il prezzo del grano a Odessa.
+
+Non è una lavagna di scuola. È grande come mezza aula, e ci stanno davanti sei uomini in silenzio, come davanti al tabellone delle partenze di un aeroporto.
+
+*MEMO, dove sono?*
+
+*"Trieste, uffici della Borsa, 1833. Il Lloyd Austriaco è stato fondato il 20 aprile di quest'anno."*
+
+La stanza sa di polvere di carta e di tabacco da fiuto. Sui banchi di noce scuro ci sono registri rilegati in pergamena, calamai d'ottone, vasetti di sabbia per asciugare l'inchiostro. Le lettere commerciali arrivano piegate su se stesse, senza busta, chiuse con un sigillo a secco. Dalle finestre grandi entra il libeccio con tutta l'umidità del mare, e i fogli sul davanzale si arricciano.
+
+Mi aspettavo navi. Qui non c'è neanche una nave. Ci sono solo notizie di navi.
+
+L'impiegato scende dallo sgabello. Ha le dita bianche di gesso.
+
+**Alex:** "Chi vi dice tutte queste cose? Il vento a Smirne, il grano a Odessa…"
+
+**L'impiegato:** "I nostri corrispondenti. Uno a Costantinopoli, uno ad Alessandria, a Venezia, a Odessa, a Malta. Ogni volta che un bastimento tocca il loro porto scrivono un bollettino, sempre nello stesso ordine, e lo mandano col primo legno postale. O via terra, con la staffetta."
+
+**Alex:** "E se il bollettino arriva tardi?"
+
+**L'impiegato:** "Arriva sempre tardi. Il punto è che arrivi. Prima, un mercante di qui poteva aspettare mesi per sapere se la sua nave era affondata al largo di Creta o ferma per la peste a Smirne. Adesso sa quando è partita, con che vento, e quanto ci mette in media una nave a fare quella traversata."
+
+Io, a casa, so dov'è un pacco da un'app. Loro lo sanno da un muro scritto col gesso. Funziona uguale: ritardo compreso.
+
+Un uomo con il panciotto di seta si avvicina alla parete e fa un conto con il dito. Sta decidendo se assicurare un carico prima che salpi la prossima nave.
+
+**Alex:** "Scusi, lei cosa guarda?"
+
+**Il mercante:** "La data di partenza, il vento, l'avviso di tempesta. Se la traversata sta andando più lunga della media, il premio sale. Se è nella media, assicuro e spedisco. Se il porto è chiuso per quarantena, aspetto."
+
+Non è indovinare. È trasformare la paura del mare in un numero da scrivere su una polizza.
+
+Il Lloyd l'hanno fondato diciannove compagnie di assicurazione marittima, banchieri e negozianti, guidati da Karl Ludwig Bruck — il titolo di barone e il posto di ministro a Vienna arriveranno anni dopo. E per ora non ha nemmeno una barca a remi. Ha una rete, e un giornale quotidiano, il *Giornale del Lloyd Austriaco*, pieno di arrivi, partenze, naufragi, prezzi e quarantene.
+
+::: memo-box
+### MEMO GLOSSARIO
+
+*   **Assicurazione marittima:** chi assicura valuta il rischio di un viaggio e lo divide fra molti in cambio di un premio; se la nave affonda, paga lui.
+*   **Linea regolare:** un servizio che parte su una rotta fissa e con tempi stabiliti, anche quando c'è poco carico.
+*   **Compagnia di navigazione a vapore:** un'impresa che mette insieme navi, equipaggi, capitali e autorizzazioni per ripetere quel servizio, viaggio dopo viaggio.
+:::
+
+Fuori, sulle rive del Porto Franco, i caricatori dalmati e carsolini in camicia di canapa scaricano balle di cotone egiziano e barili di caffè dai trabaccoli e dalle tartane arrivati dall'Egeo. Un uomo passa con un sacco di posta chiuso con un sigillo di piombo. Da Vienna la posta arriva in carrozza, passando da Lubiana e Maribor: quattro, sei giorni di strada. La ferrovia non c'è ancora.
+
+*"Salto: 1836,"* dice MEMO.
+
+Il 2 agosto 1836 l'assemblea dei soci del Lloyd decide di aprire una seconda sezione: la Compagnia di Navigazione a Vapore. Il governo di Vienna le concede agevolazioni doganali, esenzioni fiscali e soprattutto il monopolio del trasporto della posta imperiale verso il Levante. Entrate fisse, a ogni viaggio, piena o vuota che sia la nave.
+
+Lo stesso Impero che a Vienna aveva rimesso i re sui troni adesso firma la concessione per i piroscafi. Chiude la porta alle rivoluzioni e la apre al commercio, con la stessa penna.
+
+Il 16 maggio 1837 sono sulla riva a guardare la prima partenza di linea: il piroscafo *Arciduca Lodovico*, per Costantinopoli, con scali ad Ancona, Corfù, Patrasso, il Pireo e Smirne.
+
+Guardo la poppa. Cerco il bronzo.
+
+Non c'è. Ai fianchi della nave girano due ruote enormi a pale, che frustano l'acqua e buttano spruzzi fino al molo.
+
+**Alex:** "Aspetta. Niente elica?"
+
+*"Tutte le prime navi del Lloyd, fra il 1836 e il 1840, sono piroscafi a ruote. Costruite sul Tamigi o a Trieste con motori inglesi. Il Lloyd adotterà l'elica solo negli anni Cinquanta."*
+
+Nella lista delle prime navi della compagnia, a proposito, ce n'è una che si chiama *Principe Metternich*. Il signore delle copie delle sette del mattino ora ha un piroscafo col suo nome.
+
+E io che nella testa avevo già il titolo pronto: *il Lloyd realizza il sogno della Civetta*. Lo cancello. Nelle carte della compagnia non risulta un contratto, un tecnico, un pezzo che passi dall'una all'altra. Se un filo fra Ressel e questa banchina esiste, nessun documento lo mostra.
+
+L'uomo del sacco di piombo lo porge a un marinaio sulla passerella.
+
+**Alex:** "E se non ci sono abbastanza passeggeri?"
+
+**L'agente postale:** "La posta dell'imperatore parte lo stesso. Per questo parte la nave."
+
+La ruota comincia a girare. L'*Arciduca Lodovico* si stacca dal molo.
+
+Dentro, all'ufficio, sul muro di gesso, l'impiegato ha già tracciato la riga per il prossimo bollettino da Costantinopoli.
+
+---
+
+## Debriefing
+
+Mission Control ha messo quattro oggetti sullo stesso tavolo: una matrice di gesso ancora sporca di ceralacca, un quaderno aperto su due colonne, un pezzo di bronzo a due pale e una lastra coperta di gesso con nomi di navi e venti.
+
+Vienna, la Carniola, Trieste. Tre posti, un solo spazio: lo stesso Impero decide i confini, paga un funzionario forestale venuto dalla Boemia per misurare le sue querce, protegge con un privilegio la sua vite e poi concede la posta del Levante a una compagnia di piroscafi. Persone, idee, legname e notizie si muovono dentro quello spazio. Nessuno di questi pezzi basta da solo.
+
+**Maja:** "Hai gridato 'funziona' dopo duecento metri."
+
+**Alex:** "E tu volevi che fosse vostro prima di sapere da dove veniva."
+
+Nessuno dei due ritira quello che ha detto. Ma la colonna *memoria — da verificare* di Maja è quello che mancava al grido di Alex sul ponte. E le ruote a pale che Alex ha visto il 16 maggio 1837 sono quello che manca a qualunque racconto che porti Ressel in linea retta dal bosco al Lloyd.
+
+**Verdetto.** Il Congresso di Vienna restaurò dinastie e costruì un equilibrio fra potenze, ma non riportò l'Europa al punto di partenza: Venezia, Genova e il Sacro Romano Impero non tornarono. La nuova navigazione non nacque in un solo luogo né dal gesto isolato di un inventore: Ressel lavorò fra terre slovene e Alto Adriatico, ottenne il privilegio nel 1827 e collaudò nel 1829 uno dei primi sistemi funzionanti di propulsione navale con l'elica a poppa, ma l'origine esatta della sua idea resta un'inferenza. Al Checkpoint, **B regge per il componente** e **A regge per il sistema**: la *Civetta* fornì una prova parziale della propulsione a vite, non la prova di un servizio commerciale affidabile. Il Lloyd del 1833-1836 mostra l'ultimo passaggio — informazioni, capitale, autorizzazioni, posta e linee regolari trasformano possibilità tecniche in una rete — e lo fa con navi a ruote, senza l'elica di Ressel.
+
+::: reality-check
+### CIÒ CHE NON SAPPIAMO ANCORA
+
+*   **Da dove viene l'idea:** il disegno datato 1812 potrebbe essere una copia fatta a memoria anni dopo, e le prove del modellino sulla Krka sono ricordi raccolti decenni più tardi. Il legame fra il lavoro forestale e l'elica è un'ipotesi fondata, non un documento.
+*   **Che cosa accadde esattamente nel 1829:** il giorno preciso della prova, la distanza (fra mezzo miglio e un miglio, secondo le fonti più vicine) e il numero dei presenti (circa quaranta) restano stime.
+*   **Che cosa vuol dire "primo":** Ressel ha il merito del privilegio del 1827 per l'elica immersa a poppa; l'idea di una vite nell'acqua circolava già nel Settecento, e l'adozione su larga scala arriva dal 1836 con l'inglese Francis Pettit Smith e lo svedese John Ericsson. Il titolo di "primo applicatore dell'elice" compare nel 1858 in una monografia commemorativa stampata dalla tipografia del Lloyd, l'anno dopo la sua morte a Lubiana.
+:::
+
+::: memo-box
+### CRONOLOGIA ESSENZIALE
+
+*   **9 giugno 1815:** Atto finale del Congresso di Vienna.
+*   **16 marzo 1817:** Ressel funzionario forestale a Pleterje.
+*   **11 febbraio 1827:** privilegio n. 746 per la "vite senza fine".
+*   **Estate 1829:** prova della *Civetta* nel golfo di Trieste.
+*   **20 aprile 1833:** nasce il Lloyd Austriaco, rete di informazioni marittime.
+*   **2 agosto 1836:** nasce la sua Compagnia di Navigazione a Vapore.
+:::
+
+Il 1815 aveva provato a fermare l'orologio; nel 1837 un piroscafo parte per Costantinopoli, e poi un altro, e poi un altro ancora. Le navi ora possono partire su linee regolari e la città cresce attorno al porto.
+
+Ma chi trasporta, ripara e soprattutto nutre una città industriale prima che le sue strade si sveglino?
+
+<!-- WORD COUNT: ~5580 -->
+<!-- PERSONA CHECK: Alex/Maja voice intact? Pass — Alex mantiene il tic scarto media/realtà (Congresso da illustrazione scolastica, piroscafo da film, "lavagna di scuola") entro il limite di 3 usi; Maja mantiene il tic "perché nessuno lo racconta mai" e la voce da strutture/documenti (colonne, registro, privilegio); nessuna deriva verso prosa AI generica. -->
+<!-- NUF CHECK:
+1. Catena Napoleone→Congresso→restaurazione/equilibrio vs ritorno impossibile al 1789: ✅
+2. Quattro livelli idea/privilegio/prova/adozione distinti senza "inventato"=diffuso: ✅
+3. Prova tecnica incompleta valutata (Checkpoint + Verdetto A/B): ✅
+4. Tensione dell'esperimento interrotto, niente favola del genio incompreso ("Hanno ragione tutti e due"): ✅
+5. Orgoglio inquieto di Maja + rischio di appropriazione nazionale: ✅
+6. Congresso di Vienna, legittimità, equilibrio, Santa Alleanza distinti per data/funzione/firmatari: ✅
+7. Servizio forestale di Ressel datato/fontato, origine idea marcata "memoria — da verificare": ✅
+8. Privilegio 1827 e prova 1829 con linguaggio proporzionato (stime, range, "secondo le fonti"): ✅
+9. Lloyd 1833 vs 1836 distinti, nessun nesso causale diretto con l'elica di Ressel inventato: ✅
+10. Scena Slovenia autonoma, non nota a margine: ✅
+-->
+<!-- ANTI-AI CHECK: nessun pattern bannato, nessun anacronismo, nessuna etichetta di produzione (Beat/Scena/EU/GIULIA/SLOVENIA) nel testo, briefing in forma "indagine" senza risposta anticipata, checkpoint unico con vera decisione A/B, debriefing con Verdetto + Ciò Che Non Sappiamo + Cronologia Essenziale, MEMO entro 3 informazioni per intervento, densità lessicale (max 2 nomi propri/3 termini tecnici nuovi per beat) rispettata. -->
+
+
+<div style="page-break-after: always;"></div>
+
+# Capitolo 9 — Società Industriale E Vita Quotidiana Di Confine
+
+## Briefing
+
+Alex, Maja: coordinate principali XIX secolo. Si parte dal 1833 e si arriva al 1840, pochi anni dopo le linee regolari a vapore del 1836 che avete visto partire da Trieste nel capitolo precedente. A metà missione, però, faremo un salto in avanti dichiarato: fino alla seconda metà dell'Ottocento, verso il 1890 e il 1891. Certe reti di lavoro esistono da prima, ma le fonti le rendono visibili soltanto allora. Non è un errore di calendario. È il punto esatto in cui cominciano le prove. Il capitolo successivo vi riporterà indietro, al 1848.
+
+Il manuale propone questa catena: macchine → fabbriche → contadini che si trasferiscono in città → proletariato salariato da una parte e borghesia industriale dall'altra. La società industriale nasce e vive dentro la fabbrica.
+
+Qualcosa non torna. Ogni mattina, prima che suoni qualunque turno, merci deperibili entrano in città insieme a lavoratrici che lì non abitano. Nei registri del cantiere non compaiono.
+
+La vostra missione è raccogliere cinque prove e ricostruire la rete di persone, capitale, cibo e regole che tiene in vita una città industriale.
+
+## OBIETTIVI DEL SALTO (SCENE)
+
+### 1. La Città Che Suona A Turni (Manchester, 1833) — voce: Alex
+
+Una canna che batte sui vetri prima dell'alba, un orologio appeso all'ingresso e un'aria piena di fiocchi bianchi.
+**Prova da raccogliere:** verificare quali cambiamenti trasformano macchine e lavoratori in un sistema di fabbrica, e quali conseguenze produce sulla crescita della città.
+
+### 2. Dietro Il Cancello Del Cantiere (Trieste, 1840) — voce: Alex
+
+Pece bollente, una goletta ancora sullo scalo e tre paghe molto diverse per la stessa giornata.
+**Prova da raccogliere:** stabilire quali elementi del modello industriale sono già visibili nel cantiere, e quali non autorizzano ancora a chiamare Trieste una copia di Manchester.
+
+### 3. Il Latte Prima Dell'Alba: Le Mlekarice (Carso–Trieste, verso il 1890) — voce: Maja
+
+Una cisterna nella roccia, un cesto piatto sulla testa e un libretto di conti.
+**Prova da raccogliere:** seguire provenienza, trasporto, vendita e ritorno del denaro, per capire che rapporto esiste fra la domanda della città e un lavoro rurale che la fabbrica non registra.
+
+### 4. La Strada Delle Uova: Le Šavrinke (Istria–città costiere, 1891) — voce: Maja
+
+Un uovo guardato controluce, una cesta piena di crusca e un nome che non tutti pronunciano con rispetto.
+**Prova da raccogliere:** distinguere chi produce da chi compra e rivende, e verificare che cosa una fonte del tempo permette davvero di affermare su merci, strade e rischio.
+
+### 5. Otto Giorni Sotto Una Frasca (Carso, 1891, con un documento del 17 agosto 1784) — voce: Alex
+
+Un ramo d'edera legato a un portone, una botte da finire e un sacco strappato in cielo.
+**Prova da raccogliere:** confrontare una regola sulla vendita diretta e una leggenda sul paesaggio, e stabilire quale informazione economica può dare ciascuna delle due.
+
+La missione ha due co-reporter. Alex segue il sistema di fabbrica in Europa e mondo e il suo primo avvio nell'Alto Adriatico; Maja ricostruisce nelle terre slovene le reti di lavoro, lingua e credito che i cancelli industriali lasciano fuori dall'inquadratura. Non dovete vedere le stesse cose. Dovete capire se ciò che vede uno cambia il significato di ciò che ha visto l'altro.
+
+Attenzione: una legge, un registro di paga, una descrizione di viaggio, una testimonianza raccolta decenni dopo e una leggenda non hanno lo stesso peso. Prima di unirli, chiedetevi che cosa prova davvero ciascuno, e per quale data.
+
+---
+
+## La Città Che Suona A Turni
+<span class="byline">Cronaca di Alex</span>
+
+Tic. Tic. Tic.
+
+Una canna lunga e sottile batte contro il vetro di una finestra al primo piano. Non smette finché dietro il vetro non compare una faccia gonfia di sonno che fa sì con la mano. Allora l'uomo con la canna passa alla finestra dopo.
+
+Sono quasi le cinque del mattino. Manchester, autunno del 1833. La nebbia è così fitta che il lampione a gas in fondo alla strada sembra una caramella sciolta.
+
+*MEMO, chi è quel tizio? Un ladro molto educato?*
+
+*"Un knocker-up. Lo pagano pochi pence a settimana per battere ai vetri prima del turno. Chi arriva in ritardo in fabbrica paga una multa."*
+
+Una sveglia umana. In abbonamento. Io ho tre allarmi sul telefono e arrivo tardi lo stesso.
+
+Dieci minuti dopo la strada si riempie. Uomini, donne, ragazzini. Hanno ai piedi zoccoli di legno con un ferro a mezzaluna sotto la suola e sotto il tacco, e sul selciato fanno un rumore da cavalleria. Seguo il fiume di gente fino a un edificio lungo, di mattoni, con file di finestre tutte uguali. Suona una campana. Il cancello si apre, la gente entra, il cancello si chiude.
+
+A scuola la rivoluzione industriale era una foto: ciminiere, fumo nero, cielo color carbone. Dentro la filatura, invece, mi si attacca addosso qualcosa di bianco. Fiocchi di cotone. Volano dappertutto, leggeri come neve che non scende mai, e si posano sulle ciglia, sui capelli, sulle spalle di tutti.
+
+E fa caldo. Un caldo umido, da serra, con le finestre sbarrate.
+
+*"Temperatura fra 24 e 30 gradi,"* dice MEMO. *"Umidità tenuta alta con getti di vapore: il filo sottile, all'asciutto, si spezza di continuo."*
+
+Quindi il caldo non è un difetto. È voluto. Per il filo, non per le persone.
+
+Poi c'è il rumore. Sul soffitto gira un lungo albero di ferro, e da quello scendono cinghie di cuoio che fanno muovere centinaia di macchine tutte insieme. In fondo al capannone, da qualche parte, c'è una macchina a vapore che non vedo e che comanda tutto. Il frastuono è un muro. Grido *"MEMO!"* e non sento neanche la mia voce.
+
+Una donna al telaio si gira verso la vicina e muove le labbra, senza un suono. La vicina annuisce. Capito tutto.
+
+*"Mee-mawing,"* MEMO me lo scrive quasi nell'orecchio. *"Nel Lancashire i tessitori imparano a leggere le labbra per parlarsi nel frastuono."*
+
+Hanno inventato una lingua muta perché la macchina si è presa l'aria.
+
+Accanto all'ingresso, su una parete ingrigita dall'olio, c'è un orologio. È l'unico. Sotto, con un registro aperto, sta un uomo in giacca di fustagno che non tocca nessun filo: guarda. Lo chiamano overlooker, il sorvegliante. Durante il cambio di una cinghia, quando per un attimo il rumore cala, riesco a parlargli.
+
+**Alex:** "Quello è l'unico orologio? Nessuno ne ha uno suo?"
+
+**Il sorvegliante:** "Un orologio in tasca, qui dentro? Chi lo porta viene mandato a casa. L'ora è quella." Batte la penna sul vetro. "Quella del padrone."
+
+**Alex:** "E se è avanti? O indietro?"
+
+Lui non risponde. Scrive un nome sul registro.
+
+Più tardi, all'uscita, una tessitrice mi dirà a mezza voce che la sera quell'orologio va piano, e la mattina va di corsa. È una frase sola, e non posso controllarla. Ma gli storici hanno trovato molte lamentele così: sorveglianti che manomettevano l'orologio di fabbrica per allungare il turno senza pagarlo.
+
+Sotto un filatoio, a piedi nudi, si infila un ragazzino. Esce. Il sorvegliante gli indica un altro punto. Si infila di nuovo. Esce. Sempre lo stesso gesto, sempre sotto una macchina che non si ferma mai.
+
+**Alex:** "Quanti anni ha?"
+
+**Il sorvegliante:** "Tredici, dice il certificato."
+
+**Alex:** "E senza il certificato?"
+
+**Il sorvegliante:** "Adesso il Parlamento li vuole, i certificati. Un medico firma, io archivio. Se il medico ha visto bene non lo so. Non è il mio lavoro."
+
+Il ragazzino passa accanto a noi. Sembra più piccolo di mia cugina, che ne ha dieci.
+
+*MEMO, che legge?*
+
+*"Factory Act, 29 agosto 1833. Vietato il lavoro nelle fabbriche tessili sotto i 9 anni. Fra 9 e 13 anni: massimo 8 ore al giorno, più 2 ore di scuola a carico del datore di lavoro."*
+
+**Alex:** "Otto ore. Mi aspettavo peggio."
+
+Il sorvegliante fa una smorfia che non capisco finché non parla MEMO.
+
+*"Prima della legge, alcuni testimoni interrogati da una commissione del Parlamento hanno descritto giornate dalle 5 o 6 del mattino alle 20 o 21, con 30-40 minuti di pausa. Parlano delle loro fabbriche, non di tutte."*
+
+Tre cose, come sempre. E la terza è quella che mi resta in testa: quelle voci raccontano un pezzo di Inghilterra, non una fotografia di ogni capannone. Però bastano per capire perché una legge del genere è sembrata necessaria.
+
+**Alex:** "E chi controlla che la rispettiate?"
+
+**Il sorvegliante:** "Gli ispettori."
+
+**Alex:** "Quanti?"
+
+**Il sorvegliante:** "Quattro. Per tutto il regno."
+
+Quattro. Per migliaia di fabbriche. Controllare tutto il Regno Unito con quattro persone è come fare l'appello in uno stadio.
+
+Alla pausa di mezzogiorno il ragazzino si siede su una cassa e mangia una patata bollita condita con un velo di lardo. Accanto a lui una donna beve un tè così chiaro che sembra acqua sporca. Nessuno ha carne. Un medico della città, l'anno scorso, durante il colera, ha scritto proprio questo: patate, lardo, farina d'avena, tè scadente, pane raffermo, famiglie operaie stipate in cantine umide senza fognature.
+
+**Alex:** "Tu abiti vicino?"
+
+**Il ragazzo:** "Dietro il canale. Siamo venuti dall'Irlanda quando ero piccolo. La mamma dice che in campagna non c'era più niente."
+
+Dall'Irlanda, e dalle campagne inglesi. Arrivano qui perché qui c'è il lavoro. E il lavoro c'è qui perché la macchina a vapore non si può portare a casa di nessuno.
+
+*"Popolazione dell'area di Manchester: circa 69.000 abitanti nel 1801, circa 164.000 nel 1831. Stima: i confini dei censimenti non coincidono."*
+
+In trent'anni la città è più che raddoppiata, anche se nessuno può dire esattamente di quanto.
+
+::: memo-box
+### MEMO GLOSSARIO
+
+*   **Sistema di fabbrica:** macchine costose, energia del vapore e lavoratori concentrati nello stesso edificio, sotto lo stesso orario e lo stesso padrone. Chi lavora non possiede più gli strumenti né decide il proprio tempo.
+*   **Divisione del lavoro:** la produzione viene spezzata in tanti compiti semplici e ripetuti; ognuno ne esegue uno, al ritmo della macchina.
+*   **Inurbamento:** aumento della popolazione di una città, perché lavoro e servizi si concentrano nello stesso spazio e attirano gente dalle campagne.
+:::
+
+Mio nonno faceva il falegname: diceva che il lavoro finisce quando il tavolo è finito. Qui niente finisce. Finisce il turno.
+
+La campana suona di nuovo. Il ragazzino butta la buccia, si pulisce le mani sui pantaloni e torna sotto il filatoio.
+
+Alle mie spalle, l'orologio all'ingresso segna un'ora che nessuno, qui dentro, può controllare.
+
+---
+
+## Dietro Il Cancello Del Cantiere
+<span class="byline">Cronaca di Alex</span>
+
+"Trenta carantani."
+
+L'uomo lo dice senza guardarmi, mentre scarica una trave di larice dalla spalla. È magro, con una camicia di canapa incollata alla schiena e le mani piene di schegge.
+
+**Alex:** "Trenta carantani… al giorno?"
+
+**Il manovale:** "Al giorno. D'estate si fanno undici, dodici ore. Venticinque, se il capo è di cattivo umore. Trentacinque, se è di buono."
+
+Trieste, estate del 1840. Il Cantiere San Marco sta fra la collina di Sant'Andrea e Servola, sulla riva, e ha l'aria di una cosa nuova che non ha ancora finito di nascere. È stato inaugurato il 21 marzo di quest'anno. Gli scali su cui poggiano le navi in costruzione non sono di terra battuta: sono di muratura. Ci sono tettoie fisse per chi lavora. E in fondo, un'officina con le forge accese.
+
+Il rumore qui è doppio. Da una parte il colpo sordo dell'ascia sul legno: un maestro d'ascia sta sagomando un madiere, una delle costole della nave, e ogni colpo fa volare un truciolo largo come una mano. Dall'altra lo stridore dell'incudine, dove un fabbro ribatte un tirante di ferro arroventato. Legno e ferro, a venti metri di distanza.
+
+E sopra tutto, la puzza. Pece nera che bolle in un calderone, acre, pungente, che ti si attacca in gola.
+
+Ok. Ho già capito tutto. Macchine, operai, un padrone: è Manchester col mare.
+
+*MEMO, conferma. Manchester dell'Adriatico, giusto?*
+
+*"Negativo. A Trieste, nel 1840, le industrie sono poche: questo cantiere, una fonderia e officina aperta nel 1835 a Sant'Andrea, le officine che riparano i piroscafi del Lloyd. La città vive soprattutto di porto e di commercio."*
+
+Mi brucia un po'. Sono venuto qui con la parola "fabbrica" in mano e la volevo appoggiare sopra ogni cosa.
+
+Mi avvicino allo scafo sullo scalo. Un calafato è in ginocchio contro il fasciame. Ha le dita nere di catrame fino alla seconda falange, e callose come corteccia. Con un ferro scanalato infila a forza nelle fessure fra le tavole una stoppa di canapa sfilacciata, poi ci batte sopra col mazzuolo di legno. Toc. Toc. Toc.
+
+**Alex:** "Cos'è quella roba?"
+
+**Il calafato:** "Cime vecchie. Si sfilano, si imbevono di catrame, si cacciano dentro." Fa un cenno col mento verso il calderone. "Poi sopra ci va la pece, bollente, con il sego. In acqua fredda si gonfia e tiene. Il sale non la mangia."
+
+**Alex:** "E se sbagli?"
+
+**Il calafato:** "Se sbaglio, la nave beve."
+
+Nessun silicone, nessun sigillante in tubetto. Solo corda vecchia, grasso animale e pece. E una nave che deve reggere il mare aperto.
+
+**Alex:** "Quanto prendi?"
+
+**Il calafato:** "Fra quarantacinque e cinquantacinque carantani. I segantini uguale. I maestri d'ascia di più." Indica l'uomo con l'ascia. "Lui arriva al fiorino. Anche al fiorino e venti."
+
+*"Un fiorino vale 60 carantani,"* aggiunge MEMO.
+
+Faccio il conto a mente, male, due volte. Il maestro d'ascia può guadagnare in un giorno quasi quanto il manovale in tre, forse di più. Stesso cantiere, stessa nave, stesso sole.
+
+**Alex:** "E questa nave, di chi è?"
+
+Il calafato ride, e per la prima volta mi guarda.
+
+**Il calafato:** "Mia no di certo. Io vendo la giornata. Quando la nave va in mare, io cerco un'altra giornata."
+
+::: memo-box
+### MEMO GLOSSARIO
+
+*   **Lavoro salariato:** chi lavora vende il proprio tempo a un'impresa in cambio di una paga (a giornata, a settimana); il prodotto finale non gli appartiene.
+*   **Proletariato:** chi vive soprattutto del salario perché non possiede i mezzi di produzione — scali, officine, capitali.
+*   **Borghesia imprenditoriale:** chi possiede o finanzia l'impresa, organizza il lavoro e si prende il rischio di guadagnare o perdere. Non sono etichette morali, e nessuno dei due gruppi è tutto uguale al suo interno.
+:::
+
+Il manovale di prima è tornato con un'altra trave. Gli chiedo da dove viene.
+
+**Il manovale:** "Dal Carso. Mio cugino è venuto dal Friuli. Qui ci sono istriani, carniolini… Chi trova giornata resta."
+
+*"Nel 1821 Trieste e il suo territorio contavano circa 45.000 abitanti. Verso il 1840 il comune supera i 75.000. Molti arrivano da Friuli, Istria, Carso e Carniola."*
+
+La città cresce. Non come Manchester, ma cresce.
+
+Sotto la tettoia, un uomo sulla quarantina tiene un foglio pieno di linee curve e numeri, e discute con il maestro d'ascia. Non ha le mani sporche di pece. Ha le dita sporche d'inchiostro. Il calafato abbassa la voce.
+
+**Il calafato:** "Il professore."
+
+È Gaspare Tonello. Veneziano, costruttore navale, il fondatore del cantiere. Dal 1820 insegna architettura navale all'Accademia di Commercio e Nautica.
+
+Le parole che seguono sono ricostruite: non le abbiamo scritte da lui. Il senso, però, viene da quello che sappiamo del suo lavoro.
+
+**Alex:** "Scusi, ma perché i numeri? Quel signore con l'ascia sembra sapere già dove tagliare."
+
+**Tonello:** "Lo sa. Come lo sapevano suo padre e suo nonno, negli squeri. A occhio, a mano, per esperienza. Per una barca va bene. Ma per navi più grandi, con il ferro, con le macchine a vapore dentro, l'occhio non basta. Serve il calcolo. Servono officine vicine agli scali. E servono molti soldi, tutti insieme."
+
+**Alex:** "E i soldi chi li mette? Lei?"
+
+**Tonello:** "Chi ha le navi da assicurare e le merci da muovere."
+
+*"Mercanti all'ingrosso, banchieri, armatori, azionisti delle compagnie di assicurazione nate a Trieste. Il Porto Franco esenta le merci dai dazi; Vienna sostiene le infrastrutture."*
+
+Non è la fabbrica che ha fatto nascere il porto. È il porto che adesso sta facendo nascere la fabbrica.
+
+::: target-profile
+### SCHEDA PERSONAGGIO: Gaspare Tonello
+
+*   **Ruolo:** costruttore navale veneziano (1798–1849), docente all'Accademia di Commercio e Nautica di Trieste dal 1820, fondatore del Cantiere San Marco.
+*   **Forza:** 3 — non ha né una flotta né una banca, ma riesce a far convergere terreni, maestranze e capitali su un solo progetto.
+*   **Intelligenza:** 5 — architettura navale, navigazione pratica, e uno strumento per il rilievo nautico inventato da lui, il trigonometro.
+*   **Carisma:** 3 — deve convincere i vecchi maestri d'ascia e i nuovi finanziatori insieme, due pubblici che non parlano la stessa lingua.
+*   **Abilità Speciale (Dall'Aula Allo Scalo):** porta il calcolo della lavagna dentro il cantiere e trasforma lo squero a occhio in un sistema di scali in muratura, officine e capitali — il primo approccio industriale alla costruzione navale a Trieste.
+:::
+
+::: memo-box
+### MEMO: CHI METTE I SOLDI
+
+*   **Assicurazioni Generali (1831)** e **Riunione Adriatica di Sicurtà (1838):** compagnie assicurative nate a Trieste, i cui azionisti finanziano anche l'industria.
+*   **Lloyd Austriaco:** dal 1836 compagnia di navigazione a vapore; le riparazioni dei suoi piroscafi hanno bisogno di officine meccaniche stabili.
+:::
+
+Sullo scalo più vicino al mare c'è lo scafo di una goletta, già quasi completo. Il fasciame di quercia è lucido di pece nuova.
+
+**Alex:** "Come si chiamerà?"
+
+**Il calafato:** "*Primogenito*. È la prima di questo cantiere. La mettiamo in mare a settembre."
+
+La prima. Non la centesima. A Manchester le macchine battono da decenni; qui, sotto le tettoie nuove, stanno appena cominciando.
+
+A fine giornata il manovale si carica la giacca sulla spalla ed esce dal cancello verso la città, verso settantacinquemila persone che domattina, prima di qualunque turno, vorranno qualcosa da mettere in tazza.
+
+---
+
+## Il Latte Prima Dell'Alba: Le Mlekarice
+<span class="byline">Cronaca di Maja</span>
+
+Un passo corto. Un altro. Le ginocchia appena piegate, il piede che rulla dal tallone alla punta, la testa immobile, come se qualcuno gliela tenesse ferma con due dita.
+
+Davanti a me, nel buio, una donna scende la *škala*, il sentiero di pietra che dal Carso precipita verso Trieste. Sulla testa porta un cesto largo e piatto. Nel cesto, tre brocche di latte. Il cesto non oscilla. Nemmeno di un dito.
+
+Io invece scivolo due volte in cinque minuti.
+
+La bora arriva a raffiche, di traverso, e mi fa lacrimare gli occhi. La pietra è bagnata, a tratti ghiacciata. Lei ha scarponi di cuoio grezzo con la suola piena di chiodi a testa piramidale, e sul calcare non perde mai presa. Io ho le mie scarpe da ginnastica, e le odio.
+
+*MEMO, anno.*
+
+*"Verso il 1890. La vendita di latte dal Carso a Trieste esiste da prima, ma negli archivi di metà secolo compaiono solo generiche 'venditrici di latte'. Le descrizioni precise di strade, orari e recipienti sono soprattutto degli anni 1890-1910, e molte vengono da testimonianze raccolte nel Novecento."*
+
+Quindi il salto in avanti non è un capriccio. Più indietro di così, con prove che reggono, non si arriva.
+
+Sono cresciuta sul Carso. Delle *mlekarice* ho sempre sentito parlare come di una "vecchia usanza", roba da cartolina. Perché nessuno mi ha mai detto che era un lavoro pagato, con clienti e conti?
+
+Sopra ogni brocca è legato un pezzo di tela grezza bagnata. Sull'ultima, due grandi foglie di cavolo.
+
+**Maja:** "Le foglie servono a qualcosa o erano finiti gli stracci?"
+
+**La mlekarica:** "Erano finiti gli stracci." Non si gira: girarsi vorrebbe dire muovere la testa. "Ma servono uguale. Il vento le asciuga. Finché asciuga, il latte resta freddo."
+
+L'acqua evapora e porta via calore. La bora, che a me fa solo male, per lei lavora gratis.
+
+E il freddo era cominciato prima. Alle quattro, nella stalla di casa sua a Trebče, l'ho vista mungere due mucche: il latte usciva caldo, sui 37 gradi, e fumava nell'aria gelata. Non l'ha versato subito nelle brocche. L'ha filtrato attraverso una pezza di lino fitta, il *cedilo*, che ha trattenuto peli e pagliuzze. Poi ha immerso le brocche nella cisterna scavata nella roccia, la *štirna*, nell'acqua nera e gelida. Niente frigorifero, niente pastorizzazione data per scontata. Ogni grado in meno era un'ora in più prima che il latte inacidisse.
+
+**Maja:** "E se arriva acido?"
+
+**La mlekarica:** "Non arriva. Se arriva, l'hai portato giù per niente."
+
+::: memo-box
+### MEMO GLOSSARIO
+
+*   **Mlekarice:** contadine dei villaggi del Carso che ogni mattina portavano a piedi il latte appena munto ai loro clienti fissi di Trieste.
+*   **Economia domestica rurale:** l'insieme del lavoro e delle decisioni economiche di una famiglia contadina — stalla, campo, cava di pietra, vendita. Non vuol dire "senza soldi": proprio la vendita del latte porta contante.
+*   **Vendita al minuto:** vendita in piccole quantità direttamente a chi consuma, un litro alla volta, porta per porta.
+:::
+
+Il peso lo sento solo guardandola. Sotto il cesto di vimini, il *plenir*, c'è una ciambella di stoffa imbottita, lo *svitek*, che distribuisce il carico su tutta la testa.
+
+*"Carico medio fra 20 e 30 chili, fino a 35 per le donne più robuste. Per una donna di 50-60 chili, circa metà del proprio peso."*
+
+Metà di sé stessa, sulla testa, giù per un sentiero ghiacciato, al buio.
+
+Le fonti parlano di sei-dodici chilometri, a seconda del villaggio, e di trecento-trecentottanta metri di dislivello, dall'altopiano quasi fino al mare. In tasca alla sottana lei stringe un sasso liscio che ha scaldato ieri sera nella cenere del focolare.
+
+**Maja:** "Perché così presto? Non potrebbe partire con la luce?"
+
+**La mlekarica:** "La colazione in città è fra le sei e le sette. Dopo le sette, la signora l'ha già comprato da un'altra."
+
+Alle sei siamo in Cittavecchia. Vicoli stretti, scale, portoni. Sulla soglia di alcune case aspettano già le serve con un recipiente in mano. Lei non cerca clienti nuovi: va dritta alle porte che conosce. Versa, misura, e su un libretto tira una riga.
+
+**Maja:** "Non la pagano?"
+
+**La mlekarica:** "A fine settimana. Qualcuna a fine mese." Una pausa. "Se paga."
+
+In quel libretto c'è tutto il suo rischio: latte già finito nelle tazze della città, soldi che ancora non ha.
+
+*MEMO, in che lingua parla con i clienti?*
+
+*"Le fonti a mia disposizione non lo registrano."*
+
+Nessuna risposta. Me lo segno sul quaderno con un punto interrogativo. Anche un vuoto nelle fonti è un dato.
+
+Quando l'ultima brocca è vuota, va a fare la spesa. Farina di grano tenero, che sul Carso non si produce. Zucchero. Sale. Petrolio per la lucerna con cui stamattina, alle quattro, controllava il libretto. Aghi, filo. Oggi anche un paio di scarpe per il figlio.
+
+**Maja:** "Allora è lei che decide. I soldi sono suoi."
+
+Lo dico con l'aria di chi ha scoperto una cosa enorme.
+
+**La mlekarica:** "I soldi li tengo io. Decidono il freddo, la mucca se si ammala, e la signora che non paga."
+
+Sto zitta. Ho visto potere dove c'era soprattutto necessità. È vero, dicono gli studi: il denaro delle *mlekarice* era spesso l'unica entrata in contanti regolare della famiglia, e lo custodivano e gestivano le donne, mentre gli uomini lavoravano i campi, spaccavano la pietra o facevano giornate stagionali in porto. Ma tenere la cassa non significa avere tutti i diritti.
+
+Più avanti, fra la fine del secolo e l'inizio del Novecento, arriveranno recipienti di metallo chiusi con coperchio e la *premca*, un carrettino a due ruote fatto apposta per le brocche, sulle strade carrozzabili. Oggi no. Oggi c'è la testa.
+
+Risaliamo nel primo pomeriggio. Il peso sulla testa ha cambiato natura: stamattina era latte da vendere, adesso sono farina, sale e petrolio. Soldi diventati cose, portati di nuovo in salita.
+
+::: checkpoint
+### CHECKPOINT: Il cancello della fabbrica separa davvero la società industriale da ciò che resta fuori?
+
+Finora hai raccolto: orari, paghe e proprietà a Manchester e nel cantiere di Trieste; una città che cresce e ogni mattina ha bisogno di latte fresco, portato dal Carso lungo un percorso fisso, con un guadagno che torna in contanti nella casa contadina.
+
+*   **A.** Sì, come categoria di lavoro: chi non vende il proprio tempo a un'impresa e non lavora con le sue macchine appartiene a un'economia rurale distinta, anche se commercia con la città.
+*   **B.** No, come sistema sociale: se turni e crescita urbana creano la domanda che organizza percorso, prezzo e reddito delle venditrici rurali, il loro lavoro è parte della società industriale anche senza salario di fabbrica.
+
+Tieni a mente la tua risposta: il Verdetto nel Debriefing te la confermerà, la correggerà, o ti mostrerà che la realtà era più complicata di entrambe.
+:::
+
+---
+
+## La Strada Delle Uova: Le Šavrinke
+<span class="byline">Cronaca di Maja</span>
+
+Il libretto ha gli angoli consumati. Dentro, colonne di segni e numeri: chi ha ricevuto petrolio, chi aghi, chi sale, e quante dozzine di uova deve ancora.
+
+La donna che lo tiene in mano non è di qui. Viene dalle colline dell'Istria nord-occidentale, a piedi, con un asino che adesso mastica paglia contro il muro del cortile. Qui siamo in un casolare sopra Pinguente, nell'Istria centrale, nel 1891. Galline che razzolano, odore di letame e di pietra bagnata.
+
+**La donna col libretto:** "Mi devi ancora quindici dozzine."
+
+**La contadina:** "Oggi ne ho dodici."
+
+**La donna col libretto:** "Allora tre la prossima volta."
+
+La contadina non ha contanti, e non lo nasconde. L'ultima volta ha ricevuto petrolio per la lucerna, aghi, filo, sapone, sale marino e cicoria, che qui si beve al posto del caffè. Adesso paga in uova.
+
+**La contadina:** "Ecco. Tieni, Šavrinka."
+
+Lo dice asciutta. Non è un complimento, si sente dal tono. L'altra non risponde. Prende un uovo.
+
+Lo alza verso il sole e ci guarda attraverso, con le dita chiuse a tubo davanti all'occhio. Controlla che la camera d'aria sia piccola e il tuorlo non sia scuro. L'uovo va nella cesta. Un altro. Un altro ancora. Uno lo restituisce senza dire niente, e la contadina non protesta.
+
+*MEMO, chi è?*
+
+*"Compra uova, galline, capponi e conigli nei villaggi dell'Istria interna. Paga in contanti, in merce o a credito. Poi rivende nei mercati della costa e a Trieste, a prezzo più alto."*
+
+Quindi non vende il suo raccolto: vende quello degli altri. Non è la *mlekarica* con le sue tre brocche. È un'altra cosa.
+
+**Maja:** "Quanto paga una dozzina?"
+
+**La donna col libretto:** "Qui due carantani. Tre, se sono belle."
+
+**Maja:** "E a Trieste?"
+
+**La donna col libretto:** "Quattro. Cinque."
+
+La differenza è il suo guadagno. A patto di arrivarci, con le uova intere.
+
+**Maja:** "Prima l'ha chiamata Šavrinka. È così che vi chiamate?"
+
+Si ferma con un uovo a mezz'aria. Mi guarda come se l'avessi offesa.
+
+**La donna col libretto:** "Così ci chiamano quelli di città. E quelli della pianura. Io sono *jajčarica*."
+
+Io quel nome l'avevo sempre sentito come un titolo d'onore. La donna con l'asino, l'eroina, il simbolo dell'Istria: libri, scuola, perfino una statua. Qui è quasi un insulto, detto da fuori per i poveri delle colline di flysch. Loro si chiamano *jajčarice*, quelle delle uova, o *potovke*, quelle che vanno. E il libretto dei debiti, la speratura controluce, i conti in carantani? Perché dell'eroina so tutto e della contabile niente?
+
+*"Prima attestazione a stampa, 1857: Fran Vidmar scrive dei mulini lungo la Dragogna che macinano per le Šavrinke, che portano lontano pane di ottimo sapore. Nel 1891 Vjekoslav Spinčić le descrive con pane, frutta, latte, pollame, uova e legna. Diventano simbolo regionale solo nella seconda metà del Novecento, anche grazie al romanzo Šavrinke di Marjan Tomšič, del 1986."*
+
+Pane nel 1857. Uova verso fine secolo. Un insulto diventato un onore. Tre cose diverse con lo stesso nome.
+
+::: memo-box
+### MEMO GLOSSARIO
+
+*   **Šavrinke:** nome che ha cambiato significato nel tempo. Nella seconda metà dell'Ottocento era spesso un'etichetta sprezzante per la gente povera delle colline dell'Istria nord-occidentale; solo nel secondo Novecento è diventato un simbolo d'identità.
+*   **Intermediazione commerciale:** comprare merce da qualcuno, trasportarla e rivenderla a qualcun altro a un prezzo più alto; il guadagno è la differenza, il rischio è tuo.
+*   **Migrazione lavorativa:** spostarsi da casa per lavoro, anche in modo ripetuto o stagionale, senza trasferirsi per sempre.
+:::
+
+Poi prepara il carico, e questa è la parte che nessuna statua mostra.
+
+Una cesta profonda di vimini, a trama fitta. Sul fondo, uno strato spesso di crusca. Sopra, le uova, in piedi, con la punta verso il basso, ognuna separata dalle vicine. Altra crusca. Un altro strato di uova. Poi pula di cereali, poi paglia sminuzzata, poi di nuovo crusca.
+
+**Maja:** "Perché con la punta in giù?"
+
+**La donna col libretto:** "Perché così non si rompe. Di traverso, al primo scossone, crac."
+
+In quella posizione il guscio regge meglio la pressione; la crusca si beve i sobbalzi dell'asino e dei sassi della mulattiera. Niente cartoni sagomati, niente scatole: solo scarti del grano e pazienza.
+
+*"Per ogni viaggio, fra 200 e 300 uova. Con l'asino, in due ceste bilanciate sui fianchi, eccezionalmente 500-600."*
+
+Venti, trenta chilometri di mulattiera con centinaia di gusci. Uno rotto non è niente. Dieci rotti sono una giornata senza guadagno.
+
+**Maja:** "E se qualcuno non le paga il debito?"
+
+**La donna col libretto:** "Allora il petrolio gliel'ho regalato." Alza le spalle. "Non ci torno più. Oppure ci torno, perché altrove uova non ce ne sono."
+
+Non è povertà che aspetta. È capitale che cammina: merce anticipata sulla fiducia, uova già pagate, una cesta che porta insieme il guadagno e la perdita.
+
+Partiamo col sole già alto. Dopo mezz'ora lei si toglie le scarpe, le lega insieme per i lacci e le appende al basto dell'asino. Cammina scalza sulla terra battuta.
+
+**Maja:** "Non le fanno male i piedi?"
+
+**La donna col libretto:** "Le scarpe sono un paio. Servono per la città."
+
+Me lo segno, e sotto aggiungo un'altra riga. Saper contrattare non vuol dire avere potere davanti alla legge. Contare i carantani e avere dei diritti sono due colonne diverse del quaderno.
+
+Vicino alle prime case di Capodistria si ferma a un torrente. Si lava i piedi, li asciuga con la sottana, infila le scarpe. Più avanti c'è il posto del dazio: chi porta merce in città paga l'imposta di consumo. Lei si raddrizza, sistema le ceste sull'asino e va avanti, calzata, come una qualsiasi donna di città.
+
+Sui ciottoli, per la prima volta da stamattina, i suoi passi fanno rumore.
+
+---
+
+## Otto Giorni Sotto Una Frasca
+<span class="byline">Cronaca di Alex</span>
+
+All'incrocio di due carrarecce, legato a un paletto, c'è un ramo d'edera. La cima punta a sinistra.
+
+*MEMO, qualcuno ha perso un addobbo di Natale?*
+
+*"È un segnale. La cima del ramo indica la direzione. Segui."*
+
+Seguo. Muretti a secco, pietre dappertutto, pietre sopra altre pietre, un'erba corta e dura che spunta dalle fessure. Carso, fine estate 1891. Al secondo incrocio un altro ramo d'edera, la cima verso una casa bassa con un grande portone di pietra. Sopra il portone, un ramo più grosso, verde lucido.
+
+Niente insegna. Niente cartello. Solo foglie.
+
+**Alex:** "Scusi, è aperto?"
+
+L'uomo sulla soglia ha un grembiule di tela macchiato di viola e le maniche arrotolate. Guarda me, poi il ramo sopra la sua testa.
+
+**L'oste:** "Finché è verde, sì."
+
+**Alex:** "E quando non è più verde?"
+
+**L'oste:** "Allora la botte è finita. O sono finiti i giorni."
+
+L'edera, mi spiega MEMO senza che io lo chieda, ha foglie coriacee che restano lucide circa una settimana, dieci giorni. Poi ingialliscono e si accartocciano. Il ramo è un cartello che si spegne da solo. E lo capisce anche chi non sa leggere.
+
+Dentro è fresco. È una cantina con il pavimento di terra battuta e le botti di rovere allineate contro il muro. I clienti stanno su panche di legno grezzo, davanti ad assi appoggiate su cavalletti. L'aria sa di mosto, di vino aspro, di fumo di ginepro e di lardo. Un vecchio beve da un boccale di terracotta smaltata. Il vino è scuro, quasi nero.
+
+**L'oste:** "Terrano. Il nostro."
+
+Assaggio, perché sono un professionista. Sa di ferro e di limone andato a male. Tossisco. Il vecchio ride.
+
+Sul tavolo non c'è un menu. C'è quello che c'è: uova sode di giornata con un pizzico di sale e pepe, pane nero, pancetta, salsiccia secca, un pezzo di formaggio.
+
+**Alex:** "Niente di caldo? Una minestra?"
+
+**L'oste:** "Il caldo è per le osterie. Qui solo il mio. E freddo."
+
+*"I regolamenti municipali di questi anni vietano alle osmize di cucinare. Solo cibi freddi di produzione propria."*
+
+Solo roba sua. È questo il punto, allora. Non un ristorante: un contadino che vende quello che gli avanza.
+
+**Alex:** "E perché aprite solo per pochi giorni?"
+
+**L'oste:** "Otto giorni. Ce li ha dati l'imperatore Giuseppe, dicono i vecchi. Per questo si chiama *osmica*. Da *osem*, otto."
+
+Suona perfetto. Imperatore, legge, otto giorni, nome che viene dal numero. Ci credo in un secondo.
+
+*"Il decreto di Giuseppe II del 17 agosto 1784 permette ai sudditi di vendere vino, mosto e cibo di propria produzione in qualunque momento, a qualunque prezzo, senza licenza da oste. Non contiene né la parola osmiza né gli otto giorni."*
+
+Mi sono fatto fregare da una frase che suonava bene. Di nuovo.
+
+**Alex:** "E allora gli otto giorni da dove vengono?"
+
+*"Dalle regole locali sul dazio del Carso triestino e goriziano: una finestra di otto giorni, o multipli di otto, per finire la botte dell'annata prima della vendemmia senza pagare l'imposta delle osterie fisse. Il nome osmiza, per iscritto, compare solo dagli anni Ottanta dell'Ottocento."*
+
+Quindi: una legge generale da Vienna, valida per tutto l'Impero. Una regola locale sul dazio. E un'abitudine molto più vecchia di tutte e due.
+
+*"Già nel 1430 un documento riconosce ai contadini di Prosecco il diritto di vendere il proprio vino, per un periodo limitato, senza pagare il dazio alla città."*
+
+**Alex:** "Quanto guadagna, a venderlo qui invece che all'osteria?"
+
+**L'oste:** "Se lo vendo all'oste, guadagna anche l'oste. Se lo vendo qui, il vino è mio fino al boccale."
+
+::: memo-box
+### MEMO GLOSSARIO
+
+*   **Osmiza / osmica:** vendita temporanea di vino e cibi freddi prodotti in casa, nella cantina o nel cortile del contadino. Il nome viene dallo sloveno *osem*, otto, come i giorni di apertura.
+*   **Vendita diretta:** chi produce vende da sé a chi consuma, senza intermediari; così trattiene una parte più grande del prezzo.
+*   **Eccedenza agricola:** ciò che resta del raccolto dopo il consumo della famiglia, e che si può vendere.
+:::
+
+Il vecchio col boccale mi fa segno di sedermi. Indica con il mento le pietre fuori dalla porta.
+
+**Il vecchio:** "Lo sai perché qui è tutto sassi?"
+
+**Alex:** "No. Mi dica."
+
+**Il vecchio:** "Quando il Signore finì di fare il mondo, avanzavano pietre. Tutte quelle appuntite, cattive. Le mise in un sacco grande, di canapa, e mandò un angelo a buttarle in mare. Il diavolo lo vide passare e pensò che nel sacco ci fosse oro. Lo squarciò con le corna. Proprio qui sopra." Allarga le braccia verso il portone. "E le pietre caddero tutte sul Carso."
+
+Il *Sacco del Diavolo*. C'è chi dice che il sacco lo portasse Dio in persona, chi un arcangelo; chi dice che il diavolo cercasse oro, chi anime. Le prime versioni scritte che conosciamo sono del Novecento.
+
+È una storia bellissima. Spiega benissimo com'è vivere qui: una terra avara, fatica infinita per ogni metro di campo. Non spiega come si è formata la pietra.
+
+::: memo-box
+### MEMO: PERCHÉ IL CARSO È DI PIETRA
+
+*   **Carsismo:** l'acqua piovana, resa debolmente acida dall'anidride carbonica dell'aria e del suolo, scioglie lentamente il calcare e lascia affiorare la roccia piena di solchi e fessure.
+*   **Terra rossa:** la parte che non si scioglie, argille e ossidi di ferro, si raccoglie sul fondo delle doline: lì la terra è fertile.
+*   **Disboscamento:** il taglio dei boschi nei secoli ha peggiorato la situazione, lasciando la pietra ancora più scoperta.
+:::
+
+**Alex:** "E lei ci crede?"
+
+**Il vecchio:** "Io credo alle pietre. Le ho tolte dal campo per sessant'anni."
+
+Due fonti sullo stesso tavolo. Il decreto dice chi può vendere, e a quali condizioni. La leggenda dice come ci si sente a coltivare sassi. Nessuna delle due fa il lavoro dell'altra.
+
+Quando esco il sole è basso. Il ramo sopra il portone è ancora verde. Fra qualche giorno le foglie cominceranno ad accartocciarsi, la botte sarà vuota, e all'incrocio qualcuno toglierà la freccia d'edera.
+
+---
+
+## Debriefing
+
+Mission Control ha messo cinque oggetti sullo stesso tavolo: un orologio da parete con il vetro unto d'olio, un foglio di paga con la cifra *30 carantani*, una pezza di lino per filtrare il latte, un libretto di debiti con gli angoli consumati e un ramo d'edera che comincia a ingiallire.
+
+Manchester e Trieste, il Carso e l'Istria. Un orologio decide il tempo di centinaia di persone in una filatura inglese; a Trieste un cantiere comincia a trasformare in salario la giornata di manovali venuti dal Friuli, dall'Istria, dal Carso e dalla Carniola. Ma quelle città in crescita, ogni mattina, devono anche mangiare. E il cibo arriva da fuori del cancello, portato da chi in fabbrica non entra.
+
+**Alex:** "Allora le *mlekarice* sono operaie anche loro, no? Lavorano per la città."
+
+**Maja:** "Nessuno le paga a giornata. Non hanno un padrone. Lavorano *con* la città, non *per* la città."
+
+**Alex:** "E tu hai visto il potere nella cassa, e lei ti ha risposto: il freddo e la mucca."
+
+**Maja:** "Sì. L'ho scritto sul quaderno. Tu, invece, hai scritto che l'imperatore aveva inventato gli otto giorni."
+
+Nessuno dei due ritira quello che ha detto. Ma la domanda di Maja — chi paga, chi rischia, chi decide — spiega perché il manovale di Alex beve latte ogni mattina. E il cantiere di Alex spiega perché la *mlekarica* deve arrivare entro le sette.
+
+**Verdetto.** L'Ipotesi è corretta soltanto a metà. Fabbrica, capitale e salario accelerano l'inurbamento e rendono visibile la divisione fra borghesia imprenditoriale e proletariato, a Manchester nel 1833 come, in piccolo e con una storia diversa, nel cantiere triestino del 1840. Ma la società industriale non finisce al cancello: la crescita delle città dipende anche da produzione, trasporto, intermediazione e vendita svolti nelle campagne, spesso da donne che non sono operaie di fabbrica. Al Checkpoint, **B spiega meglio il sistema**, mentre **A resta utile per distinguere il tipo di lavoro**: *mlekarice* e *šavrinke* non vanno chiamate proletarie solo perché servono una città industriale. La città è una rete; la fabbrica ne è un motore, non l'intero organismo.
+
+::: reality-check
+### CIÒ CHE NON SAPPIAMO ANCORA
+
+*   **Le prime mlekarice:** a metà Ottocento gli archivi registrano solo generiche "venditrici di latte"; le descrizioni dettagliate arrivano fra il 1890 e il 1910, e molte da testimonianze raccolte nel Novecento. Fin dove si possa risalire con sicurezza, e con quali recipienti, resta aperto.
+*   **Chi era davvero una Šavrinka:** nel 1857 il nome indica donne che portano pane, nel 1891 venditrici di molti prodotti, nel tardo Novecento un simbolo; il nome non ha sempre indicato lo stesso gruppo né lo stesso mestiere.
+*   **Da dove vengono gli otto giorni e il Sacco del Diavolo:** il decreto del 1784 non li contiene; la regola è locale, le sue origini si mescolano a diritti più antichi, e le versioni scritte della leggenda sono tutte più tarde dei racconti orali.
+:::
+
+::: memo-box
+### CRONOLOGIA ESSENZIALE
+
+*   **17 agosto 1784:** decreto di Giuseppe II sulla vendita dei prodotti propri.
+*   **29 agosto 1833:** Factory Act britannico, con i primi ispettori di fabbrica.
+*   **21 marzo 1840:** inaugurazione del Cantiere San Marco a Trieste.
+*   **1857:** prima attestazione a stampa delle Šavrinke, in Fran Vidmar.
+*   **1884:** la parola *osmiza* compare per iscritto.
+*   **1891:** descrizione delle Šavrinke di Vjekoslav Spinčić.
+:::
+
+Ora torniamo al 1848. Fabbriche, città e nuove disuguaglianze hanno cambiato quello che le persone chiedono. Resta da vedere perché, nello stesso anno, popoli vicini trasformino quelle richieste in programmi politici diversi.
+
+<!-- WORD COUNT: ~6587 -->
+<!-- PERSONA CHECK: Alex/Maja voice intact? Pass — tic scuola/realtà di Alex usato 1 volta (filatura), tic "perché non lo so già" di Maja usato 2 volte (mlekarice, šavrinke), entrambi sotto il limite di 3; nessuna deriva verso prosa AI generica; MEMO resta clinico/asettico con Alex, informativo/diretto con Maja -->
+<!-- NUF CHECK:
+1. Catena meccanizzazione→fabbrica→divisione del lavoro→salario/inurbamento ✅
+2. Proletariato/borghesia distinti da lavoratrici rurali non incasellabili ✅
+3. Rete crescita urbana→domanda→lavoro d'entroterra→denaro in famiglia ✅
+4. Corpo: turno/orologio, peso del cesto (metà del proprio peso), rischio uova rotte ✅
+5. Rabbia precisa di Maja su lavoro femminile invisibile + iniziativa/margine di scelta ✅
+6. Manchester con dati e testimonianze graduate per qualità ✅
+7. Trieste 1840 datata per fasi, non copia di Manchester ✅
+8. Mlekarice/šavrinke/osmiza con fonti, salto in avanti dichiarato, decreto 1784 separato dalla consuetudine locale ✅
+9. Scena mlekarice autonoma, punto di vista delle lavoratrici ✅
+10. Scena šavrinke autonoma, economia mobile istriana prima dello sbocco triestino ✅
+-->
+<!-- ANTI-AI CHECK: nessuna frase vietata rilevata (grep pulito su "come sappiamo", "è importante notare", "e la morale è che", ecc.); nessun pattern bannato (niente "Immaginate di essere", "Ebbene sì", morale esplicita di chiusura); checkpoint unico dopo il Beat 3 con vera decisione A/B; un solo target-profile (Tonello) con Abilità Speciale che supera il test operativo (primo approccio industriale, non "apre un cantiere"); nessun Easter Egg, come da struttura -->
+
+
+
+<div style="page-break-after: always;"></div>
+
+# Capitolo 10 — Il 1848 e la Primavera dei Popoli
+
+Alex, Maja: coordinate 1848, pieno XIX secolo.
+
+Il salto precedente vi ha portati dentro le città delle fabbriche, dei quartieri operai e delle disuguaglianze nuove, e si è chiuso con una promessa: tornare indietro fino all'anno in cui tutto questo prende per la prima volta la forma di una richiesta politica. Ci siamo. Restiamo fra il febbraio del 1848 e il 1849. Il salto successivo vi porterà fra il 1859 e il 1866, quando alcuni di questi programmi smetteranno di essere fogli e diventeranno eserciti.
+
+Il manuale propone questa catena: Parigi si ribella → l'esempio attraversa l'Europa → i popoli chiedono libertà e uno Stato nazionale indipendente → gli eserciti imperiali soffocano tutto.
+
+Qualcosa non torna. Sotto lo stesso imperatore, nello stesso mese, una città proclama la repubblica. Una città vicinissima arma una milizia di cittadini e non la segue. E in un terzo luogo, a poche giornate di carrozza, un foglio stampato in un'altra lingua disegna una geografia politica che non somiglia a nessuna delle due.
+
+La vostra missione è raccogliere sei prove e ricostruire perché la stessa apertura rivoluzionaria produce programmi diversi — e che cosa resta quando le rivoluzioni vengono sconfitte.
+
+## Obiettivi del Salto
+
+### 1. La Scintilla Attraversa le Frontiere (Parigi–Vienna, febbraio-marzo 1848) — voce: Alex
+
+Seguirai una notizia mentre viaggia, non mentre viene raccontata dopo.
+**Prova da raccogliere:** verificare che cosa passa davvero da una capitale all'altra, e quali domande cambiano appena quella notizia incontra istituzioni e società diverse.
+
+### 2. Cinque Giorni Dietro le Barricate (Milano, 18-22 marzo 1848) — voce: Alex
+
+Entrerai in una città chiusa dai suoi stessi abitanti, pietra per pietra.
+**Prova da raccogliere:** stabilire come una rivolta cittadina espelle temporaneamente un esercito, e in quale momento esatto quella vittoria apre una guerra fra Stati.
+
+### 3. Una Repubblica sulla Laguna (Venezia, marzo 1848 - estate 1849) — voce: Alex
+
+Cercherai un avvocato appena uscito di prigione e una scelta presa sotto pressione.
+**Prova da raccogliere:** seguire il passaggio dalla proclamazione repubblicana alla decisione di unirsi a una monarchia, senza fingere che un programma politico resti immobile.
+
+### 4. La Guardia Che Non Segue Venezia (Trieste, marzo-autunno 1848) — voce: Alex
+
+Ti troverai in un porto dove ogni bandiera esposta sposta anche un salario.
+**Prova da raccogliere:** confrontare richieste costituzionali, sicurezza del porto e appartenenze cittadine per capire che cosa difende davvero una milizia civica — senza ridurre tutto al denaro.
+
+### 5. Un Regno Ancora di Carta (Celovec, Vienna e la rete delle terre slovene, aprile 1848) — voce: Maja
+
+Entrerai in una stanza dove si copiano fogli che nessun libro di scuola italiano nomina.
+**Prova da raccogliere:** leggere richieste e varianti di *Zedinjena Slovenija*, e capire quale problema di territorio, rappresentanza e lingua quel testo tenta di risolvere.
+
+### 6. Chi Firma, Chi Aspetta (Lubiana e campagna carniolina, 1848-1849) — voce: Maja
+
+Misurerai la distanza tra un programma chiarissimo e le persone che dovrebbe rappresentare.
+**Prova da raccogliere:** confrontare petizioni e firme con le priorità di chi vive in campagna e con l'abolizione della *tlaka*, senza trasformare silenzi o croci tracciate a mano in una coscienza unanime.
+
+La missione è seguita da due co-reporter. Alex ricostruisce l'ondata europea e le scelte dell'Alto Adriatico; Maja segue nelle terre slovene la nascita di un programma nazionale e mette alla prova chi quel programma riesca davvero a rappresentare.
+
+Attenzione: un proclama dice che cosa chiede chi lo scrive. Una petizione mostra chi firma. Un registro commerciale misura un rischio. Una memoria scritta trent'anni dopo racconta ciò che qualcuno ha scelto di ricordare. Nessuna di queste fonti può parlare automaticamente al posto delle altre.
+
+---
+
+## La Scintilla Attraversa le Frontiere
+
+<span class="byline">Cronaca di Alex</span>
+
+La prima cosa che mi arriva non è il rumore della folla. È l'odore: olio di lino bruciato e nerofumo di pece, denso come una vernice, che ti resta attaccato in gola.
+
+Sono in una tipografia di Parigi ed è il 24 febbraio 1848. Fogli di carta straccia stesi ad asciugare su corde di canapa tirate da un torchio all'altro, così bassi che devo camminare piegato. Un uomo in grembiule allinea caratteri di piombo su un vantaggio di legno, e ha i polpastrelli neri fino alla seconda nocca. La parola che sta componendo è lunga dieci lettere. RÉPUBLIQUE.
+
+*MEMO, dove siamo esattamente nella giornata?*
+
+*"Alphonse de Lamartine ha proclamato la Seconda Repubblica francese all'Hôtel de Ville da poche ore. Re Luigi Filippo ha abdicato questa mattina. La città ha eretto più di millecinquecento barricate in una notte."*
+
+Millecinquecento. Il numero mi resta in testa mentre guardo il compositore, che non sembra particolarmente emozionato: sembra uno che ha una consegna.
+
+**Alex:** "Quanto ci mettete a stamparne abbastanza?"
+
+**Il compositore:** "Abbastanza per chi? Per questa strada, un'ora. Per il Reno, tre giorni. Per Vienna, non lo so e non è affar mio."
+
+**Alex:** "Ma la gente qui fuori cosa chiedeva, prima? Solo il re via?"
+
+**Il compositore:** "Il pane costa il doppio di due inverni fa e il cantiere dove lavorava mio fratello ha chiuso. Poi il governo ha proibito anche i banchetti, che erano l'unico modo che avevamo di riunirci senza finire in prigione. Togli il pane e togli la parola nello stesso anno, signore, e vedi che cosa cresce."
+
+Non è una frase da manuale ed è più precisa di un manuale. Il raccolto di cereali distrutto nel 1846, i prezzi di pane e farina raddoppiati fra quell'inverno e la primavera del 1847, le manifatture tessili che chiudono a catena, gli operai edili di Parigi disoccupati fino a uno su due. E sopra tutto questo, il divieto di associarsi. Il banchetto politico vietato il 21 febbraio era solo il coperchio che saltava.
+
+Il 23 sera un drappello di soldati ha aperto il fuoco sui dimostranti in Boulevard des Capucines: cinquantadue morti. Il 24 mattina il re è partito per l'Inghilterra.
+
+::: memo-box
+### MEMO GLOSSARIO
+
+*   **Suffragio censitario:** sistema in cui vota solo chi possiede un certo patrimonio o paga una certa soglia di tasse. Chi non ha proprietà non vota, anche se è adulto e lavora.
+*   **Costituzione:** la legge fondamentale di uno Stato: divide i poteri, mette un limite all'autorità del sovrano e scrive nero su bianco i diritti dei cittadini.
+*   **Governo provvisorio:** un gruppo di persone che prende in mano il potere durante una crisi, per tenere in piedi l'amministrazione finché non si arriva a elezioni o a una costituzione definitiva.
+:::
+
+Il 5 marzo quel governo provvisorio farà una cosa enorme: sostituirà il suffragio censitario con il voto di tutti i maschi dai ventun anni in su. Gli elettori passano da circa duecentoquarantamila a più di nove milioni in un decreto solo. A scuola questa parte non me l'avevano mai raccontata come una decisione: me l'avevano raccontata come una data.
+
+E adesso viene la parte che pensavo di sapere e non sapevo.
+
+Credevo che una notizia del genere attraversasse l'Europa in un lampo. Nei film è sempre così: un uomo entra in una stanza, dice "è caduto il re", e sono già tutti in piazza. Invece no. Nel febbraio del 1848 non esiste nessuna rete telegrafica elettrica che colleghi la Francia all'Impero austriaco. C'è il telegrafo ottico Chappe, torri con bracci di legno che si vedono l'una con l'altra, e arriva fino a Strasburgo. Da lì in poi la notizia ha delle gambe e degli zoccoli: staffette a cavallo, corrieri della posta celere, qualche tratto di ferrovia tedesca attraverso il Baden, la Baviera, la Boemia.
+
+L'abdicazione avvenuta il 24 febbraio arriva a Vienna fra la sera del 28 febbraio e il 1° marzo. Cinque, sei giorni.
+
+**Alex:** "E se alla dogana ti trovano addosso i fogli?"
+
+**Il compositore:** "Per questo esiste la carta sottile."
+
+Me ne mostra un foglio: è carta di stracci di lino talmente fine che, tenuta contro la lampada, ci si legge attraverso. Meno di quattro centesimi di millimetro. Un manifesto di otto pagine piegato in quello spessore sparisce nella fodera di un cappello di feltro, oppure nel tacco cavo di uno stivale da viaggio, oppure cucito tra la stoffa e il crine di cavallo dell'imbottitura di una sella postale. Alla frontiera asburgica i doganieri infilzano i carichi con lunghi spiedi di ferro e scuotono i bauli per sentire i fruscii. La carta biblica non fruscia.
+
+Un contrabbando che pesa meno di un tovagliolo.
+
+Il salto successivo mi deposita a Vienna, il 13 marzo, e capisco subito che qui la stessa notizia ha prodotto una domanda diversa. Fa freddo — quattro gradi, l'ultima aria dell'inverno — ma nella Herrengasse ci sono tremila persone schiacciate una contro l'altra e l'aria sopra le teste è tiepida di fiato. Cappotti di loden verde. Cappelli di feltro a tesa larga. Scarponi ferrati che battono sul selciato calcareo con un rumore che non smette mai del tutto.
+
+Non stanno chiedendo una repubblica. Stanno chiedendo una costituzione, la fine della censura e la testa politica di un uomo solo: il cancelliere Metternich, settantaquattro anni.
+
+**Alex:** "Perché leggono un discorso ungherese nel cortile di un palazzo di Vienna?"
+
+**Uno studente della folla:** "Perché a Presburgo un deputato ha detto ad alta voce, dieci giorni fa, quello che qui non si può stampare. Se l'ha detto lui e non è successo niente, forse possiamo dirlo anche noi."
+
+**Alex:** "E se invece succede qualcosa?"
+
+**Lo studente:** "Allora sapremo che cosa sono disposti a fare. È un'informazione che a noi manca da trent'anni."
+
+Succede qualcosa. I soldati sparano nel cortile del Landhaus e nella strada: cinque morti accertati, il primo è uno studente di filosofia. Nei sobborghi industriali, nei due giorni successivi, gli operai attaccano i caselli daziari e le fabbriche, e lì il conto si allarga — la storiografia austriaca stima fra trentacinque e cinquanta morti in tutto, ma le fonti non concordano e nessuno può darti un numero secco con la faccia seria.
+
+La sera stessa Metternich si dimette. Il 14 marzo scappa da Vienna in una carrozza chiusa e privata, verso Dresda, Rotterdam, l'Inghilterra. Il giorno dopo l'imperatore Ferdinando I abolisce la censura preventiva, autorizza gli studenti ad armarsi in una Legione Accademica e promette una costituzione.
+
+*MEMO, la stessa scintilla sta producendo le stesse richieste dappertutto?*
+
+*"Negativo. A Praga, l'11 marzo, la petizione di San Venceslao chiede l'unione amministrativa di Boemia, Moravia e Slesia e la parità fra ceco e tedesco nelle scuole e negli uffici. A Pest-Buda, il 15 marzo, i manifestanti proclamano dodici punti fra cui un ministero responsabile in loco e l'abolizione degli obblighi feudali."*
+
+Tre città, tre liste della spesa diverse.
+
+Il fuoco è lo stesso. La legna no.
+
+---
+
+## Cinque Giorni Dietro le Barricate
+
+<span class="byline">Cronaca di Alex</span>
+
+Una campana suona a martello, e non smette.
+
+È il suono che riconosco per primo quando atterro a Milano, la sera del 18 marzo 1848: non un rintocco regolare, ma colpi sbilenchi, uno sopra l'altro, da San Giorgio al Palazzo e dal Duomo insieme, come se qualcuno avesse deciso che il tempo normale è sospeso. Sotto, odore di zolfo e salnitro. Sopra, polvere bianca di calce che scende lenta dai muri colpiti dalle palle di cannone sparate dal Castello.
+
+Le notizie da Vienna sono arrivate stamattina. Davanti al Palazzo di Governo una sentinella ha sparato e ha ucciso un bambino; la folla è entrata, ha catturato il vicegovernatore austriaco e gli ha fatto firmare tre decreti. Adesso sta succedendo la cosa che non mi aspettavo.
+
+Non stanno combattendo. Stanno costruendo.
+
+Una donna con la gonna rimboccata e un fucile da caccia a tracolla mi urta senza guardarmi. Ha le mani rosse, screpolate come quelle di chi lava panni tutto il giorno nell'acqua fredda, e sta trascinando un materasso. Un materasso.
+
+**Alex:** "Scusi — a cosa serve?"
+
+**La donna:** "Tu da dove vieni che non lo sai?"
+
+**Alex:** "Da lontano. Molto."
+
+**La donna:** "La palla di piombo che batte sul granito ti torna addosso in schegge di pietra. Ti acceca prima ancora di ferirti. La lana no: la lana la mangia, la palla. Prima il sasso, poi la lana sopra, dalla parte che guarda i soldati. Un materasso lo bucano cento volte e resta un materasso."
+
+Mi porta a vedere la barricata di cui è responsabile, e in venti minuti capisco che è un oggetto pensato.
+
+Sotto, una trincea di quaranta centimetri, scavata dopo aver scardinato i masselli di granito del selciato con leve di ferro da carrettiere. Dentro la trincea, rovesciati, ci sono carri da letame e — giuro — un pianoforte a coda, requisito da un palazzo di nobili, con la cassa riempita di terra e mattoni perché non resti vuoto. La faccia rivolta verso gli austriaci è coperta di materassi di lana e pagliericci di crine legati alle assi con la corda. E sul fianco, contro il muro, una fessura larga esattamente mezzo metro, a forma di Z, protetta da un secondo muretto arretrato.
+
+**Alex:** "Perché non la chiudete del tutto?"
+
+**La donna:** "Perché i nostri devono passare di corsa e loro no. Un uomo a piedi ci gira dentro. Un cavallo no, una baionetta in fila nemmeno."
+
+Mille e seicento, forse mille e settecento barricate in due giorni. Nessuno le ha contate con precisione, e le stime degli storici ballano — ma il risultato è visibile a occhio: la cavalleria austriaca non ha più una sola strada dritta in cui caricare.
+
+E questo è il momento in cui mi convinco di aver capito tutto. Radetzky ha tredici o quattordicimila soldati regolari, artiglieria pesante, il Castello. I milanesi nei primi due giorni hanno sei-ottocento fucili da caccia e vecchi schioppi, più quelli che riescono a togliere ai posti di guardia. Sulla carta è finita in mezza giornata. Invece la notte fra il 22 e il 23 marzo Radetzky ordina l'evacuazione: a corto di munizioni e di viveri, con le retrovie minacciate dai volontari che arrivano dalle campagne, porta l'esercito fuori dalle mura.
+
+*MEMO,* penso, *questa è una vittoria totale, giusto?*
+
+*"Negativo. L'esercito imperiale non è distrutto: si ritira in ordine verso le fortezze di Verona, Peschiera, Legnago e Mantova, che restano austriache. Il 23 marzo il re di Sardegna Carlo Alberto dichiara guerra all'Austria. Le sue truppe attraversano il Ticino il 25."*
+
+Tre informazioni, e la seconda mi cambia la scena sotto i piedi.
+
+Perché fino a ieri sera qui c'era una città che si difendeva da sola, con i materassi della propria camera da letto. Da domani c'è una guerra fra due Stati, con due eserciti, due catene di comando e un obiettivo che non è più "liberare questa strada". Non è la stessa cosa che continua: è un'altra cosa che comincia, e la vittoria delle barricate è ciò che l'ha resa possibile.
+
+::: memo-box
+### MEMO GLOSSARIO
+
+*   **Barricata:** un muro improvvisato che chiude una strada, fatto con quello che c'è: pietre del selciato, carri, mobili. Serve a togliere una via alla cavalleria e all'artiglieria, non a vincere una battaglia.
+*   **Insurrezione urbana:** una rivolta che scoppia dentro una città e prova a cacciarne l'autorità che la governa, quartiere per quartiere, senza un esercito regolare.
+*   **Prima guerra d'indipendenza:** la guerra che il Regno di Sardegna dichiara all'Impero austriaco il 23 marzo 1848. Non è la stessa cosa dell'insurrezione: la dichiara uno Stato, con un esercito, contro un altro Stato.
+:::
+
+Non tutti in città sono contenti del cambio di scala. Il Consiglio di Guerra che ha organizzato la difesa è guidato da un democratico federalista che non vuole affatto consegnare la Lombardia a una monarchia; il podestà che proclama il Governo Provvisorio la pensa diversamente. Carlo Alberto, dal canto suo, si muove anche perché teme che la Lombardia diventi una repubblica democratica.
+
+**Alex:** "Adesso che se ne sono andati, cosa fa?"
+
+**La donna:** "Adesso smonto la barricata. Il granito va rimesso dov'era, se no le carrette non passano e la roba da mangiare non arriva."
+
+**Alex:** "E se tornano?"
+
+**La donna:** "Allora so quanto ci metto. Venti minuti."
+
+E poi c'è il conto. Fra gli insorti, i registri dei decessi e le lapidi della città documentano fra quattrocentonove e quattrocentoventiquattro caduti. Circa trecento sono popolani, artigiani, manovali. Circa quaranta sono donne.
+
+Le perdite austriache stimate nei rapporti di Radetzky superano i seicento fra morti e feriti. Anche qui, stime: nessuno dei due conteggi è un dato chiuso.
+
+La città ha vinto la propria strada. Chi vincerà la guerra è una domanda che a Milano, il 23 marzo, nessuno può ancora sapere.
+
+---
+
+## Una Repubblica sulla Laguna
+
+<span class="byline">Cronaca di Alex</span>
+
+**Alex:** "Sta salendo su un tavolo."
+
+**MEMO:** *"Confermato. Daniele Manin, avvocato. Scarcerato il 17 marzo su pressione della folla in Piazza San Marco. Sta per proclamare la repubblica."*
+
+Il tavolo non è un palco, è un tavolo. Manin ci sale sopra e per un attimo sembra solo un uomo in piedi su un mobile. Viene dall'Arsenale, non da un ufficio: poche ore fa era là dentro, fra le armi appena prese.
+
+È il pomeriggio del 22 marzo 1848 e Venezia ha appena smesso di essere austriaca.
+
+L'acqua scura dei canali riflette le coccarde appese ai balconi, verdi bianche rosse, e i nastri gialli di San Marco. La voce di Manin rimbalza tra le arcate di pietra d'Istria delle Procuratie e torna indietro mezza sillaba dopo, sdoppiata. Le sue parole, quelle sì, sono documentate parola per parola:
+
+**Manin:** "Noi siamo liberi e possiamo doppiamente gloriarci di esserlo, poiché lo siamo senza aver versato goccia né del nostro sangue, né di quello dei nostri fratelli... Ma non basta aver abbattuto l'antico governo, bisogna sostituirne un altro. E qual miglior governo per noi che quello della Repubblica? Ma non già l'antica, oligarchica, bensì una repubblica fondata sulla libertà e sull'uguaglianza."
+
+Quella precisazione — *non già l'antica* — è la frase più importante della piazza e quasi nessuno, tra quelli che urlano, ci sta facendo caso.
+
+Cinque giorni prima, il 17 marzo, un vapore postale austriaco ha attraccato portando la notizia di Vienna. La folla ha preteso dal governatore civile la scarcerazione di Manin e del letterato dalmata arrestati a gennaio per aver promosso una petizione — una petizione legale, scritta, che chiedeva riforme costituzionali. Il governatore, guardando la piazza, ha firmato il rilascio.
+
+Stamattina gli operai dell'Arsenale si sono ribellati e hanno ucciso il loro direttore austriaco. Manin è entrato nell'Arsenale alla testa della Guardia Civica e si è preso armi e artiglierie navali senza altro sangue. Il governatore militare, senza ordini da Vienna e con la città addosso, ha firmato la capitolazione: le truppe imperiali si imbarcano, le fortezze della laguna passano di mano.
+
+Senza versare goccia di sangue, ha detto Manin. Il direttore dell'Arsenale è morto stamattina, ucciso dai suoi operai. In piazza non è morto nessuno, quindi Manin non sta mentendo. Ma un proclama racconta la giornata nel modo che serve a chi lo pronuncia, e io me lo segno.
+
+::: scan-result
+### SCANNING: BANDIERA DELLA REPUBBLICA DI SAN MARCO
+
+*   **Tipo:** insegna di Stato, adottata marzo 1848
+*   **Colori:** verde, bianco, rosso, con insegna dorata
+*   **Funzione:** dichiarare due appartenenze contemporaneamente
+*   **Dettaglio Tecnico:** è il tricolore italiano, ma nel cantone superiore sinistro, sul campo verde, porta il Leone di San Marco alato in oro, con la zampa posata sul libro aperto. Non una scelta o l'altra: tutte e due cucite sullo stesso panno.
+:::
+
+Sul molo dell'Arsenale l'odore di catrame di pino bagnato si mescola all'umido salmastro della bassa marea. Un arsenalotto mi spiega la cosa più utile della giornata senza smettere di lavorare.
+
+**Alex:** "Allora Venezia vuole tornare quella di prima? La repubblica dei dogi?"
+
+**L'arsenalotto:** "Quella di prima non mi dava da mangiare meglio, ragazzo. Quella di prima la decidevano i nobili del Maggior Consiglio, e mio padre nobile non era."
+
+**Alex:** "E adesso chi decide?"
+
+**L'arsenalotto:** "Adesso si vedrà. È questo il punto: che c'è un adesso."
+
+::: memo-box
+### MEMO GLOSSARIO
+
+*   **Repubblica:** forma di governo senza re, in cui chi comanda è scelto e può essere sostituito. Non dice da sola *quanti* possono scegliere.
+*   **Fusione (o annessione):** l'unione di un territorio a un altro Stato già esistente, con le sue leggi e il suo sovrano.
+*   **Plebiscito:** un voto chiamato a confermare una scelta già formulata. Nel 1848 non significa che votino tutti: significa che vota chi ne ha diritto in quel momento, e sono pochissimi.
+:::
+
+La parte che nessun documentario mi aveva mostrato arriva a luglio.
+
+Il 4 luglio 1848, nella Sala dello Scrutinio di Palazzo Ducale, l'Assemblea dei Deputati di Venezia vota se unirsi al Regno di Sardegna di Carlo Alberto. Non è la città che vota: è un'assemblea di centotrentatré deputati. L'esito è centoventisette a favore, sei contrari.
+
+A raccomandarlo è Manin. Il repubblicano che tre mesi prima è salito sul tavolo. Lo fa perché senza l'esercito sabaudo Venezia non regge la guerra contro Radetzky, e perché una repubblica assediata senza alleati è una repubblica per poche settimane. Subito dopo il voto, si dimette.
+
+**Alex:** "Ha tradito?"
+
+**MEMO:** *"Non ci sono elementi per definirlo così. Sacrifica la forma repubblicana per ottenere una difesa militare. Ad agosto, dopo la sconfitta piemontese a Custoza, l'Assemblea lo richiama al potere."*
+
+E la Repubblica torna. I commissari del re se ne vanno l'11 agosto, la città rifiuta l'armistizio.
+
+Il programma è cambiato due volte in meno di cinque mesi, nella stessa città, con le stesse persone. Non perché qualcuno abbia cambiato idea su cosa sia giusto, ma perché è cambiato cosa era possibile.
+
+Poi arriva il 1849 e arriva il conto. Venezia resiste all'assedio per oltre un anno, bombardata da luglio, con il colera che uccide più di duemilacinquecento civili. La carne sparisce dai banchi di Rialto. Un chilo di polenta di granturco ammuffito costa tre volte quello di prima. Si mangiano i granchi della laguna, le erbe delle barene, pane nero allungato con crusca e polvere di fave secche, e l'acqua dolce delle cisterne è razionata a un secchio al giorno per famiglia. La città si arrende per fame e per mancanza di polvere fra il 22 e il 24 agosto 1849.
+
+Manin parte per l'esilio su una nave francese.
+
+Un anno e mezzo prima era in una cella, arrestato per aver scritto una richiesta di riforme. In mezzo c'è stata una repubblica.
+
+---
+
+## La Guardia Che Non Segue Venezia
+
+<span class="byline">Cronaca di Alex</span>
+
+A Trieste, in marzo, le banchine sanno di caffè crudo.
+
+Non caffè tostato: crudo, arrivato da Santos, chiuso in balle di juta accatastate nei magazzini, con un odore acidulo e vegetale che non somiglia a niente di quello che conosco. Accanto, botti di rovere piene di olio d'oliva pugliese, e stecche di tabacco della Macedonia legate a mazzi. Sul Molo San Carlo si sentono contemporaneamente il dialetto triestino dei mercanti, lo sloveno dei carrettieri che scendono dal Carso, il greco dei mediatori marittimi e il tedesco burocratico degli ufficiali del Lloyd.
+
+Venezia, dall'altra parte del golfo, ha appena cacciato gli austriaci.
+
+Trieste non fa la stessa cosa. E io arrivo qui convinto di sapere già perché: soldi. È la spiegazione comoda, la più rapida, quella che mi è venuta in mente prima ancora di atterrare — i mercanti contano le monete e stanno con chi paga.
+
+Ci metto due ore a capire che è una spiegazione troppo pulita.
+
+La sera del 15 marzo i primi dispacci da Vienna arrivano anche qui, e il 16-17 il governatore imperiale del Litorale autorizza la formazione di una milizia civica. In pochi giorni si arruolano fra duemila e tremila cittadini, divisi in battaglioni per rione.
+
+::: memo-box
+### MEMO GLOSSARIO
+
+*   **Guardia Nazionale:** milizia di cittadini volontari, distinta dall'esercito regolare. Si arma da sé, presidia il proprio quartiere e risponde alle autorità cittadine, non a un generale.
+*   **Autonomia municipale:** il diritto di una città di amministrare da sé i propri affari — tasse locali, porto, polizia urbana — dentro uno Stato più grande.
+*   **Lealismo dinastico:** la fedeltà al sovrano e alla sua casa regnante. Può convivere benissimo con la richiesta di una costituzione: si può volere un imperatore *e* dei limiti scritti al suo potere.
+:::
+
+Il milite che mi lascia parlare mentre monta la guardia a un magazzino ha un cappotto scuro a doppio petto e in testa un tschako di feltro nero con la visiera di cuoio lucido e l'aquila asburgica di ottone. All'occhiello, una coccarda bianca e rossa con l'alabarda di San Giusto. Nessun tricolore. Da nessuna parte.
+
+**Alex:** "A Milano e a Venezia sono verdi bianche e rosse. Qui perché bianche e rosse?"
+
+**Il milite:** "Perché sono i colori di questa città, non di un'altra. Cantiamo anche così: bianca e rossa è la nostra bandiera, bianca e rossa è la nostra coccarda."
+
+Poi tira fuori la daga di ordinanza e me la fa guardare di taglio. Sulla lama è incisa una data: *13-14-15 marzo 1848*.
+
+Sono i giorni della rivoluzione di Vienna.
+
+**Alex:** "Un attimo. Avete inciso sulle armi la rivoluzione contro il vostro imperatore?"
+
+**Il milite:** "Contro il cancelliere. Non contro l'imperatore. Noi vogliamo la costituzione che ci ha promesso e vogliamo indietro le nostre libertà municipali, che ci hanno tolto più di sessant'anni fa. Non vogliamo la guerra in porto."
+
+Quella frase — *non vogliamo la guerra in porto* — comincia a spiegarmi qualcosa, ma non tutto. I due pezzi che mancano non sono qui davanti a me: uno è alle mie spalle, l'altro deve ancora arrivare.
+
+Il primo è successo pochi giorni fa, e il milite me lo racconta senza orgoglio. Il 18 e il 19 marzo alcuni gruppi di studenti e liberali hanno provato a esporre coccarde tricolori e bandiere repubblicane in Piazza Grande e al caffè, gridando per Milano e Venezia. La Guardia Nazionale è intervenuta, ha sequestrato i simboli, ha disperso la gente, ha arrestato gli agitatori venuti da fuori. Non l'ha fatto un esercito imperiale: sono stati cittadini armati a togliere la bandiera ad altri cittadini. La città non è d'accordo con sé stessa, e si vede.
+
+Il secondo arriva due mesi dopo. Il 23 maggio una squadra navale del Regno di Sardegna, del Regno di Napoli e di Venezia, comandata dall'ammiraglio Albini, compare nel golfo e blocca il porto.
+
+Qui smetto di pensare in termini di bandiere.
+
+Le rotte del Lloyd si fermano. I mercantili dall'Oriente non arrivano. Le banchine si svuotano in pochi giorni e più di quattromila facchini, scaricatori e marinai — i *bastasi* — restano senza lavoro da un giorno all'altro. Il prezzo della farina raddoppia. Non è un ragionamento astratto sulla lealtà: è il pane di quattromila famiglie che sparisce perché tre bandiere da guerra stanno al largo.
+
+E il Porto Franco, che è la ragione per cui questa città esiste, è una macchina che vive di una cosa sola: l'entroterra dell'Impero. Un mercato di trentacinque milioni di persone, dalla Boemia all'Ungheria, per cui Trieste è la porta sul mare. Il Lloyd Austriaco, le Assicurazioni Generali, la Riunione Adriatica di Sicurtà hanno i capitali legati a quel mercato. Staccarsi dall'Austria non significherebbe cambiare bandiera: significherebbe restare con un porto e senza il continente dietro, in concorrenza con Venezia e Genova, dietro una barriera doganale alpina.
+
+**Alex:** "Quindi avevo ragione. È il denaro."
+
+**Il milite:** "Mio cugino non ha capitali, ragazzo. Mio cugino scarica caffè. Adesso è in fila alla mensa."
+
+::: scan-result
+### SCANNING: CONTRASSEGNO DEL PANE D'ORDINANZA
+
+*   **Tipo:** documento nominativo di razionamento, Trieste, maggio-agosto 1848
+*   **Distribuzione:** nominativo, consegnato dai capi-rione della Guardia Nazionale
+*   **Funzione:** dare accesso a un pane a prezzo bloccato durante il blocco navale
+*   **Dettaglio Tecnico:** la Municipalità requisì le farine dei mulini a vapore cittadini pagandole con certificati comunali, e impose ai fornai un solo tipo di pane, metà frumento e metà segale, venduto a tre carantani a libbra solo dietro presentazione del contrassegno. Una milizia di cittadini che distribuisce il pane è anche una milizia che tiene la città lontana dalla sommossa.
+:::
+
+C'è ancora un pezzo, e riguarda un'altra opzione che quasi nessuno si ricorda.
+
+Trieste e il Litorale facevano parte della Confederazione Germanica, e a maggio si vota per mandare deputati all'Assemblea nazionale di Francoforte. La città si spacca di nuovo, e non in due metà nette: la componente mercantile e germanofona elegge un cofondatore del Lloyd che sogna una grande unione doganale mitteleuropea con Trieste come sbocco al mare; un gruppo di intellettuali rivendica invece la nazionalità italiana della lingua e delle istituzioni cittadine e rifiuta di essere assorbito in uno Stato tedesco unitario.
+
+Quattro possibilità sul tavolo, nella stessa primavera, nella stessa città: restare nell'Impero riformato, entrare in una Germania unita, unirsi all'Italia, o tenersi il più possibile di autonomia municipale.
+
+Se esitano, non è per viltà. È perché ognuna costa qualcosa di diverso a persone diverse — e chi ha capitali, chi ha un salario giornaliero e chi ha un negozio non paga lo stesso prezzo.
+
+Il blocco finisce ad agosto, dopo Custoza. Le navi tornano. I bastasi tornano in banchina.
+
+Sulla lama della daga, intanto, quella data resta incisa.
+
+---
+
+## Un Regno Ancora di Carta
+
+<span class="byline">Cronaca di Maja</span>
+
+Nella stanza tutti scrivono e nessuno parla.
+
+Lo capisco dal suono: penne d'oca che grattano sulla carta a velocità diverse. Sono seminaristi e ginnasiali in vacanza di Pasqua, e stanno copiando a mano lo stesso testo su grandi fogli protocollo piegati in due. Prima di scrivere tirano righe leggere a matita di grafite, per tenere allineate le colonne dove andranno le firme.
+
+Siamo a Celovec, aprile 1848. La città che sulle carte imperiali si chiama Klagenfurt.
+
+La carta è spessa, vergata a mano da stracci, con la filigrana di una cartiera di Vevče — accanto a ogni foglio, una candela di sego dall'odore animale e una stecca di ceralacca rosso vermiglio, pronta per il sigillo. Ma è l'inchiostro a colpirmi di più: non è nero, è bruno-violaceo, ricavato macerando galle di quercia triturate insieme a vetriolo verde e gomma arabica — una sostanza che si scurisce solo dopo, mentre asciuga sul foglio.
+
+Il testo che stanno copiando ha un titolo che è una domanda: *Kaj Slovenci terjamo?* Che cosa esigiamo noi Sloveni?
+
+Nei libri dei miei compagni italiani questa domanda non c'è, e nemmeno il nome del programma. Nel mio libro sloveno il nome c'è: una riga in grassetto, una data da ricordare per la verifica. Il testo, invece, nessuno me l'ha mai messo davanti. Una riga in grassetto si impara; un foglio si legge.
+
+L'uomo che tiene il testo matrice è un sacerdote. Ha trentanove anni, viene dalla valle della Zilja, ed è cappellano della cattedrale di questa città.
+
+**Maja:** "Perché lo fate copiare a mano? Ci sono torchi, qui."
+
+**Majar:** "Ci sono torchi, e a marzo la censura l'hanno abolita. Sulla carta. Finché nessuno sa che cosa sia davvero permesso, un tipografo di Klagenfurt non si gioca la bottega per centinaia di copie. Per copiarle a mano mi bastano dei ragazzi che hanno le mani libere fino a dopo Pasqua."
+
+**Maja:** "E quando sono scritte, come arrivano dall'altra parte dei monti?"
+
+**Majar:** "Arrotolate. Dentro i tubi di latta stagnata delle carte topografiche, oppure avvolte in tela cerata, sotto le balle di lino dei carrettieri della posta che passano il Ljubelj e lo Jezersko. E con questo sopra."
+
+Mi mostra il sigillo parrocchiale in ceralacca sulla prima pagina, e l'intestazione che ha scelto per il testo: *Prošnja k Njegovemu cesarskemu Veličanstvu*. Supplica a Sua Maestà Imperiale.
+
+**Maja:** "Una supplica. Non una richiesta."
+
+**Majar:** "Un gendarme che apre un pacco e trova una supplica all'imperatore con il sigillo di una parrocchia non la brucia. Non è viltà: è la porta da cui si passa."
+
+È un dettaglio minuscolo e cambia tutto quello che pensavo di sapere sulla parola "propaganda". Il lasciapassare non è un'arma. È una formula di cortesia e un pezzo di cera rossa.
+
+La copia stampata, l'unica sul tavolo, quando me la lasciano leggere è deludente da guardare. Foglio volante in quarto, stampato su due colonne con caratteri latini moderni — la *gajica*, con i segni sopra le lettere, che proprio in questa primavera sta soppiantando la vecchia *bohoričica*. Nessun fregio, nessuna aquila, nessuna decorazione. Un'intestazione semplice, l'elenco delle province da unire, e in fondo le firme autografe dei primi promotori.
+
+Poi lo leggo per quello che dice e non è deludente per niente.
+
+::: memo-box
+### MEMO GLOSSARIO
+
+*   **Programma nazionale:** un insieme pubblico di richieste politiche presentate a nome di un gruppo che si definisce come popolo. È un testo, non uno Stato.
+*   **Dieta territoriale (*deželni zbor*):** l'assemblea che rappresenta un territorio della monarchia e ne discute le leggi proprie — scuola, tasse, questioni civili.
+*   **Parità linguistica:** l'uguale validità giuridica di due lingue nelle funzioni pubbliche indicate: scuola, tribunale, amministrazione. Non significa che una sostituisca l'altra.
+:::
+
+Seguo le righe con il dito. Le richieste sono tre.
+
+Prima di tutto, un nome: *Kraljestvo Slovenija*, Regno di Slovenia, con gli Asburgo sul trono. Per capire a che cosa serve un nome basta vedere com'è divisa adesso questa terra: la Carniola, la Carinzia del sud, la Stiria del sud, il Goriziano, Trst, l'Istria. Sei pezzi, ognuno con il suo capoluogo e la sua dieta, e nessuna parola sola per chiamarli insieme. Il foglio li vuole in un'unica unità politica. Su una carta di oggi è la richiesta più difficile da vedere.
+
+Poi una dieta comune, a Lubiana oppure qui a Celovec, che voti leggi proprie su tasse, scuola e cause civili.
+
+Poi la lingua. Nelle scuole di ogni grado, davanti ai giudici, negli uffici di queste terre: la *slovenščina* deve valere quanto il tedesco.
+
+In fondo, quasi staccata, c'è una riga che non mi aspettavo. Niente Francoforte: il foglio rifiuta di entrare nella Germania unita che laggiù stanno progettando, e invita a non votare per mandarci deputati. Non tutti lo ascolteranno. Ma la ragione è scritta senza giri di parole: non siamo tedeschi.
+
+**Maja:** "Ma allora perché restare sotto Vienna? Se chiedete un regno vostro, chiedete anche di uscire."
+
+**Majar:** "Uscire per andare dove? Siamo poco più di un milione, divisi fra amministrazioni diverse, e la nostra lingua non ha ancora un solo tribunale in cui valga. L'Impero è grande abbastanza da contenerci senza cancellarci, se lo si costringe a scriverlo. Fuori dall'Impero c'è la Germania da una parte e la guerra dall'altra."
+
+::: target-profile
+### SCHEDA PERSONAGGIO: Matija Majar – Ziljski
+
+*   **Ruolo:** sacerdote, etnografo e linguista carinziano (1809-1892); nel 1848 cappellano della cattedrale di Celovec
+*   **Forza:** 1
+*   **Intelligenza:** 5
+*   **Carisma:** 3
+*   **Abilità Speciale:** fa entrare in un unico foglio territori che l'amministrazione tiene separati — prima che esista uno Stato capace di disegnarli insieme.
+:::
+
+Non è un rivoluzionario con il fucile in mano: è un impiegato della Chiesa, e lo sa bene. Eppure quello che sta facendo — scrivere petizioni e farle circolare — ha un prezzo che non avevo messo in conto: la gerarchia vescovile carinziana è fedele al centralismo tedesco, e un cappellano di cattedrale che si mette contro quella linea gioca la propria carriera, non solo la propria reputazione.
+
+C'è un'altra cosa che imparo qui, più difficile da accettare: quello che sto leggendo non è *il* testo fondativo. È soltanto *uno* dei testi.
+
+Perché mentre Majar mette per primo le richieste territoriali per iscritto — un articolo sulle *Novice* di Lubiana, il 29 marzo — a Vienna un gruppo di studenti universitari, insieme a un linguista già famoso, sta lavorando alla società *Slovenija*: producono una versione giuridicamente molto più solida, pensata apposta per il diritto pubblico della monarchia, e la approvano il 29 aprile. Nello stesso mese, fra il 16 e il 22, gli studenti di Graz chiedono cattedre universitarie in sloveno. A Lubiana, invece, il comitato nazionale frena: preferisce puntare su scuola e tribunali, diffidando di qualunque piano che smonti le autonomie storiche delle singole province.
+
+Non un solo padre fondatore, ma quattro centri con quattro accenti diversi sulla stessa idea — e chi te ne racconta uno soltanto sta semplificando una storia che gli storici, ancora oggi, non riescono a chiudere con un nome solo.
+
+**Maja:** "Se domani questo foglio arriva a Vienna con centinaia di firme, l'imperatore cosa fa?"
+
+**Majar:** "Non lo so. Ma da domani non potrà più dire che non gli è stato chiesto."
+
+È la frase più forte della giornata e io la scrivo sul quaderno, e poi mi fermo con la matita a mezz'aria.
+
+Perché mi sto accorgendo di una cosa. Questo testo è chiarissimo. È preciso, è verificabile, è scritto in una lingua che capisco senza nessuno che me la traduca. E proprio per questo mi sta convincendo troppo in fretta di una cosa che non ha ancora dimostrato: chi c'è dietro.
+
+Un documento perfetto prova che qualcuno ha scritto bene. Non prova quanti erano.
+
+Non scrivo il verdetto. Voglio prima vedere cosa ha trovato Alex a Trst, dove secondo questo foglio ci sono sloveni che dovrebbero far parte del *Kraljestvo* — e dove lui ha appena visto una città con quattro progetti sul tavolo e nessuno scelto fino in fondo.
+
+---
+
+::: checkpoint
+### CHECKPOINT: Perché, nella stessa primavera, i programmi nazionali disegnano confini e rapporti con l'Impero così diversi?
+
+Finora hai raccolto: Milano e Venezia trasformano la rottura con l'Austria in insurrezione, repubblica e poi guerra fra Stati; Trieste chiede libertà costituzionali e si arma di una propria milizia senza seguire Venezia; *Zedinjena Slovenija* chiede di unire terre e lingua dentro una monarchia trasformata.
+
+*   **A.** Perché le comunità hanno già obiettivi nazionali diversi: in area italiana prevale la separazione dall'Austria e l'unione politica; gli attivisti sloveni cercano di unire terre e lingua senza chiedere subito uno Stato indipendente.
+*   **B.** Perché posizione e rischio cambiano ciò che è praticabile: una città in rivolta, un porto legato all'entroterra e una popolazione dispersa fra più province usano forme politiche diverse per proteggere interessi, diritti e spazio d'azione.
+
+Tieni a mente la tua risposta — il Verdetto nel Debriefing te la confermerà, la correggerà, o mostrerà che la realtà era più complicata di entrambe.
+:::
+
+---
+
+## Chi Firma, Chi Aspetta
+
+<span class="byline">Cronaca di Maja</span>
+
+Un tomo grande come una cassetta vola giù da una finestra del primo piano e cade sul falò con un tonfo pieno. La rilegatura di pergamena si torce subito. L'odore che sale è più dolce e più sporco del fumo di legna: carta vecchia, colla, cuoio di maiale.
+
+Mission Control mi ha fatto tornare indietro di qualche settimana. Il tavolo di copiatura di Celovec qui non esiste ancora: è la sera del 21 marzo 1848, nella piana di Ig, a sud di Lubiana. Fra trecento e cinquecento contadini hanno marciato sul castello del conte e adesso riempiono il cortile interno. Mantelli e gilè di feltro grezzo, cappelli di paglia intrecciata, forconi da fieno, asce da boscaiolo.
+
+I tomi che volano dalle finestre sono gli *urbarji* e le *gruntne bukve*: i registri feudali e i libri terrieri. Riga per riga, dicono quante giornate di lavoro gratuito ogni famiglia deve al signore.
+
+Bruciano la prova scritta del proprio debito.
+
+Qualcuno ha aperto una botte a colpi di scure, e il vino corre rosso fra i ciottoli. Io ho già visto il tavolo di Majar; queste persone non lo vedranno mai. Due scene della stessa terra, a poche settimane di distanza, e nessuna delle due sa che l'altra esiste.
+
+**Maja:** "Se fra qualche settimana arrivasse un prete con un foglio da firmare — per unire le terre slovene, per una dieta a Lubiana — voi firmereste?"
+
+**Un contadino:** "Chi te le ha raccontate, queste cose?"
+
+**Maja:** "L'ho letto."
+
+**Un contadino:** "Allora sei più avanti di me. Io so cos'è una giornata di *tlaka* in agosto. Sei qui a chiedere di una dieta?"
+
+**Maja:** "Sto chiedendo se vi hanno chiesto qualcosa."
+
+**Un contadino:** "A me non ha chiesto niente nessuno, mai. Oggi non ho aspettato che chiedessero."
+
+Sulle *Novice*, il giornale di Lubiana che sta diffondendo il programma nazionale, il redattore condanna questi rivoltosi con parole durissime: *razvuzdani tolovaji*, scellerati briganti. Lo stesso foglio che porta *Zedinjena Slovenija* nelle canoniche e nelle osterie chiama briganti i contadini di Ig.
+
+Non è un dettaglio da nascondere in fondo alla pagina. È la crepa vera.
+
+::: memo-box
+### MEMO GLOSSARIO
+
+*   **Movimento petizionario:** la raccolta organizzata di firme e richieste da presentare all'autorità. È una forma di partecipazione politica per chi non ha diritto di voto.
+*   **Controrivoluzione:** il ritorno al potere, spesso con l'esercito, delle autorità che una rivoluzione aveva sconfitto o ridimensionato.
+*   **Neoassolutismo:** il decennio successivo al 1851 nella monarchia asburgica: costituzione revocata, associazioni politiche sciolte, controllo di polizia sulla stampa e sulle riunioni.
+:::
+
+Due mesi dopo il falò di Ig, i fogli di Majar e degli altri centri cominciano davvero a girare. Da metà maggio a luglio mettono insieme, secondo le stime, circa undicimila firme, contando sia quelle individuali sia quelle collettive. Quanti fogli ne restano oggi? Cinquantuno, conservati negli archivi sloveni: gli altri sono finiti sequestrati o dispersi, e di Lubiana non c'è neanche un foglio completo. Quelli rimasti vengono da villaggi e parrocchie della Carniola, dalla Carinzia — Zilja, Rož, Podjuna —, dalla Stiria e dal Goriziano.
+
+Undicimila firme raccolte a mano, in quattro province, al di qua e al di là di due passi di montagna. Nelle terre slovene nessuno aveva mai messo insieme niente del genere.
+
+Poi tengo in mano uno dei fogli e imparo a leggerlo meglio.
+
+Le firme sono quasi tutte di parroci di campagna, cappellani, maestri elementari, mugnai, osti, artigiani e sindaci di villaggio. In Carniola fra il settanta e l'ottanta per cento dei contadini adulti non sa scrivere il proprio nome. Quindi succedono due cose. A volte il sindaco o il prete firma una volta sola, e accanto scrive *v imenu celotne fare*: a nome di tutta la parrocchia. A volte i capifamiglia tracciano tre croci, †††, e il maestro le vidima di fianco.
+
+Le donne non ci sono quasi mai, tranne rarissime vedove che possiedono una bottega.
+
+**Maja:** "Se il parroco firma per tutta la parrocchia, quante persone ha appena rappresentato?"
+
+**MEMO:** *"Non determinabile. Una popolazione slovena superiore al milione rende quelle undicimila firme circa l'uno per cento del totale. Gli storici accettano la stima e discutono su cosa dimostri."*
+
+**Maja:** "E quelli che non hanno firmato? Erano contrari?"
+
+**MEMO:** *"Non inferibile. L'assenza di firma può indicare opposizione, indifferenza, impossibilità di scrivere, mancato arrivo del foglio o timore della gendarmeria. Le fonti non permettono di distinguere questi casi."*
+
+Questa è la parte che mi fa più rabbia e insieme mi sembra la più onesta: non lo sappiamo. Una storiografia celebrativa dell'Ottocento ha scritto che l'intero popolo sloveno prese coscienza unanime della propria nazione. Gli storici che hanno contato i fogli dicono un'altra cosa: che quelle firme provano lo straordinario lavoro di una rete di persone colte, non un plebiscito.
+
+E la cosa che più cambia la vita delle famiglie di Ig, quell'anno, non è scritta su nessuna delle due liste.
+
+Arriva da Vienna, e porta la data del 7 settembre 1848. Un giovane deputato, figlio di contadini, ha proposto di chiudere per sempre la servitù feudale; l'Assemblea costituente austriaca ha votato la legge, e quel giorno l'imperatore la firma. Per la persona non si paga niente: da subito nessuno è più "sottoposto" a un signore. Per il lavoro e le decime, invece, sì. La terra diventa del contadino, ma il suo valore va riscattato, diviso in tre: un terzo lo perde il signore, un terzo lo anticipa la provincia, e l'ultimo terzo lo paga il contadino, una rata all'anno, per vent'anni.
+
+Vent'anni di rate. La libertà non è gratis, ma è irreversibile.
+
+::: scan-result
+### SCANNING: PATENTE IMPERIALE DEL 7 SETTEMBRE 1848
+
+*   **Tipo:** bando normativo, foglio grande imperiale
+*   **Materiale:** carta pesante; stemma dell'aquila bicipite impresso a xilografia in testata; sigillo in ceralacca rossa
+*   **Funzione:** dichiarare abolita la servitù feudale in tutta la monarchia
+*   **Dettaglio Tecnico:** testo tedesco, con traduzione slovena diffusa dalle *Novice*: «*Zemljiška odveza... podložništvo je odpravljeno*». Il foglio veniva inchiodato con quattro chiodi di ferro alla porta della chiesa parrocchiale e a quella dell'osteria del villaggio.
+:::
+
+E qui arriva la cosa che cercavo davvero: come fa una legge a raggiungere chi non sa leggerla?
+
+Non per affissione muta. La legge stessa prevedeva che il parroco la leggesse ad alta voce dal pulpito, subito dopo la Messa grande, per tre domeniche consecutive, tradotta in sloveno parlato. Tre volte, perché chi manca una domenica non perda l'anno.
+
+Ma la parte che mi piace di più è pratica, quasi da furbi. Luglio, mietitura: il fattore del signore si presenta alla stalla e pretende le sue giornate. Il contadino non discute, non cita articoli di legge. Mostra una ricevuta — quella della tassa fondiaria provinciale, rilasciata dal *župan*, il sindaco del villaggio. Su quel foglio c'è scritto che la terra è sua e che le tasse le paga allo Stato, non al castello. Contro quella ricevuta il vecchio *urbar* non vale più niente, e un fattore che insiste non esige un diritto: commette un'estorsione, e la gendarmeria imperiale può arrestarlo.
+
+Una ricevuta fiscale come scudo. Il documento più noioso del mondo, diventato l'arma di chi non sa leggere.
+
+Poi arriva il conto politico. Nel marzo 1849 il nuovo imperatore, diciotto anni, scioglie con le baionette il parlamento riunito a Kremsier e impone una costituzione decisa dall'alto. Il 31 dicembre 1851 revoca anche quella. *Zedinjena Slovenija* diventa un reato di sedizione, le associazioni politiche slovene vengono sciolte, la polizia sorveglia.
+
+Il programma è sconfitto. Il Regno di Slovenia resta un foglio.
+
+Ma nessuno, in tutto il decennio del neoassolutismo, prova a riportare indietro la *tlaka*. Quella riforma non viene più toccata.
+
+Chiudo il quaderno con due righe che non combaciano: il testo più ambizioso non ha ottenuto niente, e la riforma più prosaica non è stata revocata. Non so ancora se sia una consolazione o una lezione su cosa sopravvive davvero.
+
+---
+
+## Debriefing — Mission Control
+
+Alex, Maja: posate le prove sul tavolo.
+
+Una pietra di granito del selciato milanese, ancora sbrecciata da una leva da carrettiere. Un proclama veneziano stampato in fretta. La lama di una daga triestina con incisa una data che è quella di una rivoluzione, e accanto un contrassegno nominativo per il pane a tre carantani la libbra. Un foglio volante in quarto con la *gajica* su due colonne. Un foglio di firme, uno dei cinquantuno superstiti, con tre croci tracciate a mano e una riga di inchiostro bruno-violaceo che dice *a nome di tutta la parrocchia*. E una patente imperiale con l'aquila bicipite, che abolisce la *tlaka*.
+
+Maja sfila il foglio in quarto da sotto la daga e indica una parola dell'elenco.
+
+**Maja:** "Trst. Nel foglio di Majar c'è. Tu ci sei stato: che cosa hai visto?"
+
+**Alex:** "Una città che a maggio vota un deputato per Francoforte. E dei carrettieri che scendono dal Carso e parlano sloveno sul Molo San Carlo. A loro non chiedeva niente nessuno. Né la Guardia, né il tuo foglio."
+
+**Maja:** "Allora il foglio non basta nemmeno lì dove ha disegnato il confine." Si ferma. "Come a Ig."
+
+**Alex:** "E i soldi non bastano a spiegare la Guardia. Il cugino del milite non aveva un soldo, e il pane glielo dava la Guardia."
+
+**Maja:** "Scrivo: *testo chiaro ≠ quanti erano*."
+
+**Alex:** "Io scrivo: *porto ≠ tutta la spiegazione*." Pausa. "Più piccolo, però."
+
+Undicimila firme sono un fatto enorme per il 1848 e restano l'uno per cento di una popolazione. Un porto spiega il pane di quattromila famiglie e non spiega quattro progetti sulla stessa banchina. Nessuna di queste frasi cancella l'altra.
+
+Nessuno dei due ha risolto il pezzo dell'altro. Ma la prova di ciascuno ha impedito all'altro di chiudere troppo presto.
+
+**Verdetto.** L'Ipotesi è sbagliata nel punto in cui immagina una sola Primavera dei Popoli con un solo programma nazionale. La scintilla è comune — crisi, prezzi, censura, la notizia credibile che un regime può cedere — ma fini e strumenti dipendono da istituzioni, geografia, rapporti economici, lingue e gruppi sociali diversi. Milano e Venezia puntano alla rottura con l'Austria e poi, sotto la pressione della guerra, all'unione con una monarchia italiana. Trieste combina libertà costituzionali, autonomia cittadina e fedeltà dinastica, e resta divisa al proprio interno. *Zedinjena Slovenija* chiede di riunire terre e lingua in una propria unità politica dentro una monarchia trasformata, non l'indipendenza immediata. Al Checkpoint, **A descrive le mete dichiarate e B spiega perché quelle mete divergono nei fatti: servono tutte e due**. E nessuno di quei programmi coincide ancora con la voce dell'intera popolazione che dice di rappresentare. La repressione sconfigge governi e progetti immediati, ma non azzera l'anno: l'abolizione degli obblighi feudali resta in piedi, e i programmi scritti restano fatti politici con cui il decennio successivo dovrà fare i conti.
+
+::: reality-check
+### CIÒ CHE NON SAPPIAMO ANCORA
+
+*   **Quanti programmi in uno:** gli storici discutono ancora se *Zedinjena Slovenija* abbia un testo fondatore o sia nata quasi insieme in più centri — Celovec, Vienna, Graz, Lubiana — con richieste e date che non coincidono del tutto. Attribuire tutto a un autore solo è comodo, ma è una semplificazione.
+*   **Chi rappresentano le firme:** sopravvivono cinquantuno fogli e una stima di circa undicimila firme; mancano i fogli di Lubiana. Non sappiamo quante persone stiano davvero dietro una firma "a nome di tutta la parrocchia", né se un'assenza di firma significhi rifiuto, indifferenza, analfabetismo o semplicemente un foglio mai arrivato.
+*   **Perché Trieste resta leale:** traffici e occupazione, fedeltà dinastica, autonomie municipali, paura della guerra, divisioni sociali e appartenenze linguistiche pesano tutti — ma quanto ciascuno, non lo sappiamo. Le memorie scritte dopo e i giornali di parte raccontano la stessa scelta con categorie che non si parlano tra loro.
+:::
+
+::: memo-box
+### CRONOLOGIA ESSENZIALE
+
+*   **24 febbraio 1848:** proclamazione della Seconda Repubblica a Parigi.
+*   **13 marzo 1848:** rivoluzione a Vienna, dimissioni di Metternich.
+*   **18-22 marzo 1848:** Cinque Giornate di Milano.
+*   **22 marzo 1848:** proclamazione della Repubblica di San Marco a Venezia.
+*   **aprile 1848:** formulazione e diffusione delle richieste di *Zedinjena Slovenija*.
+*   **7 settembre 1848:** abolizione degli obblighi feudali nella monarchia asburgica.
+:::
+
+Nel 1848 i programmi corrono più veloci degli eserciti, e poi gli eserciti li raggiungono e li fermano.
+
+Nel prossimo salto, fra il 1859 e il 1866, si vedrà che cosa succede quando eserciti, plebisciti e flotte provano a trasformare quelle mappe di carta in confini veri — e chi si ritrova, senza averlo scelto, dalla parte sbagliata della linea.
+
+<!-- WORD COUNT: ~8100 -->
+<!-- PERSONA CHECK: Alex/Maja voice intact — Pass. Alex still reasons from the individual encounter outward (the compositore, la donna della barricata, l'arsenalotto, il milite), leads with a physical/sensory anchor most scenes, catches himself mid-conclusion twice ("questa è una vittoria totale, giusto?" / "Quindi avevo ragione. È il denaro.") and is corrected by the scene itself rather than by a lecture. Maja interviews toward the structural/uncomfortable question ("perché nessuno lo racconta mai", "chi ha appena rappresentato"), pauses her own verdict rather than declaring one, and never explains Slovene culture to the reader as exotic. MEMO stays clinical/asetico and capped near 3 facts per intervention; Alex's interior sarcasm toward MEMO is present but restrained, consistent with the profile. -->
+<!-- NUF CHECK: [1] ✅ chain crisis→Paris→Vienna→openings distinct from programme identity, shown via compositore + Vienna student; [2] ✅ Cinque Giornate→intervento piemontese→Prima guerra d'indipendenza kept distinct from insurrection, explicit MEMO correction; [3] ✅ three political geographies (Milano/Venezia, Trieste, terre slovene) held distinct through Checkpoint A/B and Verdetto; [4] ✅ material stakes carried by news-on-paper, granite/materasso, blocked port/bread tessera, copied petitions, signed crosses; [5] ✅ Maja's suspended verdict on Majar's document + Alex's "avevo ragione, è il denaro" punctured by the milite; [6] ✅ chronology distinct and sourced with ranges/stime flagged (Vienna dead, barricate count); [7] ✅ Trieste built from Guardia Nazionale statute, porto franco dependency, blocco navale, Frankfurt vote — no single motive attributed to "i mercanti"; [8] ✅ Zedinjena Slovenija's three/four requests given with variant centres (Celovec/Vienna/Graz/Lubiana) as [CONFLICT]-flagged plurality; [9] ✅ Beat 5 opens autonomously on the copying room, no "anche in Slovenia"; [10] ✅ Beat 6 tests firme vs tlaka vs élite programme without folding into Trieste/Italy utility. -->
+<!-- ANTI-AI CHECK: no banned patterns found ("Immaginate di essere", "Ebbene sì", explicit moral closings, "questo ci insegna che"); production-jargon absent from body text (no "Beat"/"Scena", "Capitolo" appears once in the opening title only); EU/GIULIA/SLOVENIA tags never appear literally — resolved to "Alto Adriatico"/"terre slovene" in narration; sensory-opening formula ("la prima cosa che... è...") used exactly once (Beat 1), scenes 2-6 open on gesture/dialogue/object instead; Alex's explicit scuola/documentario tic used twice, Maja's "nessuno me l'ha detto" tic used once — both within the 3-per-chapter ceiling; single target-profile (Majar) passes the Abilità Speciale operational test; single checkpoint placed after Beat 5 per spec; no Easter Egg, consistent with struttura's explicit "nessun Easter Egg" for this chapter. -->
+
+
+<div style="page-break-after: always;"></div>
+
+# Capitolo 11 — Il Risorgimento E La Questione Adriatica
+
+## Briefing
+
+Alex, Maja: il salto comincia nel 1859. Sono passati undici anni dal 1848, dalla Primavera dei Popoli e dai programmi nazionali che avete visto nascere. Attraverserete il 1860, il 17 marzo 1861 e il 1866. Vi fermerete tre anni prima del 1869, quando un canale in Egitto e una ferrovia verso Trieste apriranno la missione successiva.
+
+Il manuale propone questa catena: vittorie del 1859 → Garibaldi conquista il Sud → nel 1861 nasce il Regno d'Italia → la guerra del 1866 aggiunge il Veneto. Una vittoria dopo l'altra, e la carta si colora d'Italia.
+
+Qualcosa non torna. Nel 1866 il nuovo Regno viene battuto a Custoza e a Lissa. Eppure il confine si sposta comunque a suo favore.
+
+La vostra missione è raccogliere sei prove e ricostruire come battaglie, alleanze, voti, trattati e nomi abbiano prodotto la nuova mappa dell'Adriatico.
+
+## OBIETTIVI DEL SALTO (SCENE)
+
+### 1. La Vittoria Che Si Ferma A Metà (Lombardia, luglio 1859) — voce: Alex
+
+Una borsa di cuoio sigillata, una borraccia che sa d'aceto e una porta chiusa dietro cui due uomini litigano.
+**Prova da raccogliere:** verificare se una vittoria militare basta a realizzare l'obiettivo nazionale, o se l'alleato e l'armistizio ne fissano il limite.
+
+### 2. Mille Uomini, Un Regno (Mar Tirreno e Sicilia 1860, Torino 17 marzo 1861) — voce: Alex
+
+Piombo fuso in una stiva, camicie rosse che non bastano per tutti e una legge di un solo articolo.
+**Prova da raccogliere:** distinguere ciò che conquista la spedizione da ciò che plebisciti, annessioni e legge trasformano in Stato.
+
+### 3. Ferro, Fumo E Lingue A Lissa (acque di Lissa, 20 luglio 1866) — voce: Alex
+
+Scafi dipinti di nero, un fischio a vapore e un timone a doppia ruota.
+**Prova da raccogliere:** osservare che cosa dimostra una vittoria navale austriaca, e che cosa non dimostrano da sole lingua, provenienza e uniforme di chi sta a bordo.
+
+### 4. La Sconfitta Che Sposta Il Confine (Venezia 1866, con una tappa a Milano 1863) — voce: Alex
+
+Uniformi bianche che sfilano in silenzio, una pergamena col sigillo imperiale e un foglio protocollo a righe.
+**Prova da raccogliere:** capire quale forza sposta davvero il confine dopo due sconfitte italiane, e perché un nome nuovo acquista peso politico.
+
+### 5. Una Vittoria Imperiale Letta A Lubiana (Lubiana, 1° agosto 1866) — voce: Maja
+
+Un tavolo di noce, un settimanale sloveno e dei telegrammi in tedesco.
+**Prova da raccogliere:** confrontare ciò che una fonte slovena fa della notizia di Lissa con le richieste nazionali rimaste aperte dal 1848.
+
+### 6. Il Confine Senza Il Nostro Nome (Valli del Natisone, inverno 1866) — voce: Maja
+
+Un registro scolastico nuovo, un cippo di pietra bianca e una gerla di castagno.
+**Prova da raccogliere:** cercare un effetto documentabile del nuovo confine sulle comunità di lingua slovena, senza attribuire loro uno Stato, un nome o una reazione che ancora non esistono.
+
+Il rapporto è affidato a due co-reporter. Alex seguirà la costruzione del Regno in Europa e mondo e poi nell'Alto Adriatico; Maja verificherà che cosa la stessa guerra e lo stesso confine significano nelle terre slovene. Non dovete vedere le stesse cose. Dovete capire se ciò che vede uno cambia il significato di ciò che ha visto l'altro.
+
+Attenzione: un bollettino di vittoria, un trattato, un ruolo d'equipaggio e un articolo di giornale non pesano allo stesso modo. Prima di usarli, chiedetevi quale domanda può davvero risolvere ciascuno.
+
+---
+
+## La Vittoria Che Si Ferma A Metà
+<span class="byline">Cronaca di Alex</span>
+
+Il cavallo arriva al trotto, schiumando, e il cavaliere salta giù prima ancora che si fermi. Ha una borsa di cuoio a tracolla, chiusa con una fibbia e un sigillo di ceralacca.
+
+La consegna a una sentinella. La sentinella la passa a un ufficiale. L'ufficiale sparisce dentro una casa di campagna dalle persiane chiuse.
+
+Monzambano, notte dell'11 luglio 1859. Fa ancora un caldo appiccicoso, di quelli che non se ne vanno nemmeno col buio.
+
+*MEMO, chi era quello? Un corriere espresso?*
+
+*"Una staffetta a cavallo. Porta dispacci sigillati in cuoio impermeabile. Il telegrafo corre lungo le ferrovie, ma l'ultimo tratto fino ai comandi lo fanno ancora gli uomini."*
+
+Il telegrafo lungo i binari, e poi un tizio a cavallo con la borsa. Il Wi-Fi del 1859 finisce dove finisce la stazione.
+
+A scuola il Risorgimento era un quadro: bandiere al vento, baionette lucide, tutti che corrono nella stessa direzione cantando. Qui la sentinella è un ragazzo poco più grande di me, con una tunica di lana turchino scuro e il colletto rosso, completamente zuppo di sudore. Non canta. Si passa la manica sulla fronte e beve da una borraccia di metallo.
+
+**Alex:** "Posso? Muoio di sete."
+
+Me la allunga. Bevo un sorso e per poco non lo sputo. È acqua. Con dentro dell'aceto.
+
+**Sentinella:** "L'acqua dei fossi fa venire la dissenteria. Con l'aceto, il ventre regge. E la polvere in gola passa."
+
+**Alex:** "Sei un volontario? Sei venuto a fare l'Italia?"
+
+Mi guarda come se avessi chiesto se è venuto a piedi dalla luna.
+
+**Sentinella:** "Mi hanno chiamato alla leva. Mio padre ha la vigna vicino ad Asti. Chi doveva vendemmiare, quest'anno?"
+
+**Alex:** "Però avete vinto. Magenta, Solferino..."
+
+**Sentinella:** "Solferino." Fa una pausa. "Io sono passato da Castiglione, dopo. Le chiese piene. Feriti sulla paglia, uno attaccato all'altro. Francesi e austriaci insieme. Le donne del paese portavano brodo e limoni e gridavano che eravamo tutti fratelli."
+
+Non aggiunge altro. Nemmeno io.
+
+*"Le stime parlano di 250.000-270.000 combattenti a Solferino e San Martino, il 24 giugno. Le perdite fra morti, feriti e dispersi si stimano fra 38.000 e 43.000."*
+
+Quarantamila, più o meno. In un giorno solo. Provo a pensare a una battuta e non me ne viene nessuna.
+
+Dietro le persiane, una voce si alza. Poi un'altra, più forte. Non capisco tutte le parole, ma il tono sì: è una lite vera, di quelle con le sedie spostate.
+
+*MEMO, chi c'è là dentro?*
+
+*"Il conte Camillo Benso di Cavour, capo del governo del Regno di Sardegna, e il re Vittorio Emanuele II. Le parole esatte di questa notte non furono messe a verbale: le conosciamo attraverso lettere e testimonianze di corte."*
+
+Quindi quello che sento adesso nessuno l'ha scritto parola per parola. Mi avvicino lo stesso.
+
+Dopo un tempo lunghissimo la porta si apre. Esce un uomo tarchiato, con gli occhiali e la barba corta sotto il mento, il viso rosso fino alle orecchie. Si ferma sul gradino, come se non sapesse più dove andare.
+
+**Alex:** "Signor conte? Mi scusi. Perché siete arrabbiati, se avete vinto?"
+
+**Cavour:** "Vinto." Ride senza allegria. "Stamattina, a Villafranca, l'imperatore dei Francesi ha trattato con l'imperatore d'Austria. Da solo. Senza avvisarmi. Io chiedevo di continuare la guerra con le nostre forze. Sua Maestà non vuole."
+
+**Alex:** "Ma la Francia non era vostra alleata?"
+
+**Cavour:** "A Plombières, un anno fa, Napoleone III mi aveva promesso un regno dell'Alta Italia, Veneto compreso. In cambio, Nizza e la Savoia. Adesso si ferma a metà strada."
+
+**Alex:** "E perché si ferma?"
+
+**Cavour:** "Chiedetelo a Parigi. Io so soltanto che domani consegno le dimissioni."
+
+Mi lascia lì e se ne va nel buio, a passo veloce.
+
+Il racconto di questa lite è ricostruito, ma le dimissioni di Cavour no: quelle ci sono state davvero. E Napoleone III qualche motivo per fermarsi ce l'aveva.
+
+*"Tre motivi documentati. Uno: le perdite enormi di Solferino. Due: il rischio che la Prussia e la Confederazione Germanica mobilitassero truppe sul Reno, alle spalle della Francia. Tre: in Toscana, Modena, Parma e Romagna le insurrezioni chiedono l'annessione al Piemonte, non i regni pensati a Parigi."*
+
+Quindi l'alleato che ti fa vincere è lo stesso che decide dove smetti di vincere. Comodo, per lui.
+
+::: memo-box
+### MEMO GLOSSARIO
+
+*   **Seconda guerra d'indipendenza:** la guerra del 1859 del Regno di Sardegna e della Francia contro l'Impero austriaco, cominciata ad aprile dopo che Cavour, il 26 aprile, respinse l'ultimatum di Vienna.
+*   **Armistizio:** una sospensione concordata dei combattimenti. Non è ancora la pace: fissa le condizioni che un trattato dovrà poi confermare. Quello di Villafranca fu firmato l'11-12 luglio 1859 da Napoleone III e Francesco Giuseppe.
+*   **Plebiscito:** un voto usato per approvare un cambiamento di governo o di territorio già preparato dall'alto. Nell'Ottocento votavano solo gli uomini con determinati requisiti, spesso a voto palese: non è un referendum di oggi.
+:::
+
+Il trattato arriva a novembre, a Zurigo. Lo leggo su una copia che MEMO proietta davanti ai miei occhi, e mi tocca rileggerlo due volte.
+
+L'Austria cede la Lombardia. Ma non al Regno di Sardegna: all'imperatore dei Francesi, che poi la passa a Vittorio Emanuele II. Le fortezze di Mantova e Peschiera restano austriache. Il Veneto pure.
+
+**Alex:** "Aspetta. La Lombardia fa un giro da Parigi prima di arrivare a Torino?"
+
+*"Esatto. Sulla carta, la Lombardia è un regalo di Napoleone III a Vittorio Emanuele II."*
+
+La sentinella di Asti, intanto, avrà ancora la borraccia all'aceto e una vigna senza vendemmia. Una regione in più sulla carta, una in meno di quelle promesse.
+
+---
+
+## Mille Uomini, Un Regno
+<span class="byline">Cronaca di Alex</span>
+
+Sfrigola.
+
+Un ragazzo con la giacca di velluto scuro tiene una pinza di bronzo sopra un fornellino da campo e ci versa dentro un filo di piombo liquido. Quando apre la pinza, cade sul tavolaccio una pallottola ancora calda. Accanto a lui un altro arrotola un foglio di carta da imballaggio a cilindro, ci mette la polvere nera e la pallottola, e chiude tutto con una ditata di sego.
+
+Siamo nella stiva del *Lombardo*, uno dei due piroscafi partiti da Quarto, vicino a Genova, nella notte tra il 5 e il 6 maggio 1860. L'aria sa di carbone, zolfo e sale. Siamo stipati come sardine, e fa un caldo da forno.
+
+**Alex:** "Scusa, ma le munizioni non ve le hanno date?"
+
+**Volontario:** "Ce ne hanno date poche. E i fucili sono quelli che sono." Mi fa vedere il suo: un vecchio fucile ad avancarica con il cane arrugginito. "Il grasso tiene asciutta la polvere, col mare. E ungendo la canna, dopo quattro o cinque colpi non si incrosta."
+
+**Alex:** "Fatto in casa. Tipo un tutorial."
+
+**Volontario:** "Un che?"
+
+**Alex:** "Niente. E la camicia rossa? Pensavo ce l'aveste tutti."
+
+Si guarda la giacca di velluto, poi indica un uomo con un cilindro in testa, pure lui a bordo.
+
+**Volontario:** "Le camicie le hanno date a Talamone, e non a tutti. Panno grezzo. Dicono che l'idea venga dall'America del Sud, da quando il generale combatteva a Montevideo: una partita di camicie destinate ai macellai di Buenos Aires, comprata a poco prezzo. Sul rosso il sangue delle bestie non si vede."
+
+Ecco. Il poster dell'eroe in camicia rossa è appena crollato. Metà della spedizione sembra uscita da un matrimonio, l'altra metà da un mattatoio argentino.
+
+*MEMO, quanti sono davvero? Mille tondi?*
+
+*"No. Dal porto di Quarto ne partono, secondo le stime, fra 1.150 e 1.162. Circa 60-70 vengono staccati a Talamone. L'elenco ufficiale conta 1.089 volontari sbarcati a Marsala l'11 maggio."*
+
+Fra loro c'è una sola donna, Rosalia Montmasson, salita a bordo di nascosto a Quarto. Farà l'infermiera.
+
+Garibaldi, però, non è qui: viaggia sull'altro piroscafo, il *Piemonte*. Riesco ad avvicinarlo solo a terra, a Marsala, l'11 maggio. Un uomo con la barba chiara e un poncho sulle spalle. Tutti, quando passa, si raddrizzano un poco.
+
+**Alex:** "Generale Garibaldi? Una domanda veloce. Come fanno mille persone a conquistare un regno intero?"
+
+**Garibaldi:** "Da soli, non lo fanno. Qui in Sicilia ci aspettavano. Nelle campagne ci sono bande armate che odiano i Borbone. A Palermo i comitati preparano la rivolta da mesi."
+
+**Alex:** "E l'esercito borbonico?"
+
+**Garibaldi:** "È grande. Ma chi lo comanda non sa più cosa fare."
+
+Questo dialogo è ricostruito. I fatti dietro, no: la spedizione vinse grazie alle bande rurali siciliane, i *picciotti*, alle rivolte in città, all'ostilità di élite e contadini verso la monarchia borbonica e alla paralisi dei comandi di Francesco II.
+
+Poi MEMO accelera, e i mesi mi passano accanto come stazioni viste da un treno.
+
+A Calatafimi, il 15 maggio, i volontari salgono fra terrazze di grano secco e pietraie. Dopo una ventina di minuti di fuoco molti restano senza munizioni e tirano sassi, prima dell'assalto alla baionetta. Il ragazzo della pinza di bronzo aveva ragione a fondere tutto quel piombo.
+
+Poi la Sicilia. Poi Napoli.
+
+E poi succede una cosa che non mi aspettavo. A settembre un altro esercito scende verso sud attraverso le Marche e l'Umbria: quello regolare del Regno di Sardegna. Il 18 settembre, a Castelfidardo, batte le truppe del Papa; a ottobre il re in persona ne prende il comando.
+
+*"Il governo di Cavour teme che Garibaldi marci su Roma. Un attacco al Papa farebbe intervenire la Francia. L'esercito regio deve arrivare prima di lui."*
+
+Il 21 ottobre si vota. Un banchetto, un'urna, un foglio con una domanda sola: *«Il popolo vuole l'Italia una ed indivisibile con Vittorio Emanuele re costituzionale e i suoi legittimi discendenti?»*
+
+**Alex:** "Chi vota?"
+
+*"Solo i cittadini maschi, dai 21 anni, nel pieno dei diritti civili. I risultati ufficiali proclamati sono 1.302.064 sì e 10.312 no nelle province napoletane, 432.053 sì e 667 no in Sicilia. Quei numeri sono contestati dalla storiografia."*
+
+Mia madre e mia nonna, qui, sarebbero rimaste a casa. Per legge.
+
+Il 26 ottobre Garibaldi e Vittorio Emanuele II si incontrano. Tutti dicono «a Teano». Io mi ritrovo a un incrocio polveroso, davanti a un'osteria.
+
+*"Taverna Catena, comune di Vairano Patenora. Teano è la cittadina più vicina, e il nome celebrativo è rimasto a lei."*
+
+Non c'è l'abbraccio fra pari del quadro. L'esercito regio prende il controllo. I volontari vengono disarmati e congedati, e la maggior parte non entra nell'esercito regolare.
+
+::: memo-box
+### MEMO GLOSSARIO
+
+*   **Spedizione dei Mille:** la campagna di volontari guidata da Garibaldi, partita da Quarto nel maggio 1860, che con l'appoggio di insorti locali abbatté il potere borbonico in Sicilia e nel Sud.
+*   **Annessione:** l'incorporazione di un territorio in uno Stato già esistente. Nel 1860 si fa con un plebiscito seguito da un atto del governo.
+*   **Regno d'Italia:** il nuovo Stato proclamato per legge il 17 marzo 1861. Nasce allargando il Regno di Sardegna, senza un'assemblea costituente.
+:::
+
+Torino, 18 marzo 1861. Tengo in mano la *Gazzetta Ufficiale del Regno d'Italia*, numero 68. La carta è ancora rigida. Cerco il testo della legge e lo trovo subito, perché è cortissimo.
+
+**Alex:** "Tutto qui? Un articolo?"
+
+**Impiegato della Camera:** "Uno solo. *Il Re Vittorio Emanuele II assume per sé e suoi Successori il titolo di Re d'Italia.* Il Senato l'ha approvata il 26 febbraio, la Camera il 14 marzo."
+
+**Alex:** "Ma se è il primo re d'Italia, perché «secondo»?"
+
+**Impiegato della Camera:** "Perché resta il secondo re di Sardegna con quel nome. E la legislatura che si è aperta è l'ottava, non la prima. Il conte ha voluto così."
+
+*"Numerale e legislatura segnano la continuità: il nuovo Regno prosegue lo Stato piemontese e il suo Statuto del 1848, invece di rifondarsi da zero."*
+
+Il ragazzo della pinza di bronzo ha conquistato mezza Sicilia. Il Regno, però, l'ha votato un Parlamento a Torino, con un articolo solo.
+
+---
+
+## Ferro, Fumo E Lingue A Lissa
+<span class="byline">Cronaca di Alex</span>
+
+«Dipinte di nero?»
+
+Me lo ripeto per la terza volta, appoggiato al parapetto della *Erzherzog Ferdinand Max*. Tutto lo scafo è nero opaco. Attorno al fumaiolo c'è una fascia di colore vivo, e sulle navi vicine le fasce sono diverse: bianche, gialle, rosse.
+
+Il ponte vibra sotto le scarpe. Le caldaie a carbone spingono, e dal fumaiolo esce un fumo grasso che mi si attacca in gola.
+
+Mattina del 20 luglio 1866, mare aperto davanti all'isola di Lissa, che i croati chiamano Vis. La flotta dell'Impero austriaco sta andando incontro a quella del Regno d'Italia.
+
+*MEMO, perché le hanno pitturate come carri funebri?*
+
+*"Ordine del contrammiraglio Tegetthoff prima di salpare da Fasana. Le fasce colorate distinguono le divisioni. Le corazzate italiane sono grigie: l'ordine è speronare qualunque scafo grigio."*
+
+Una regola che ti ricordi anche mentre ti sparano addosso. Quasi geniale.
+
+::: target-profile
+### SCHEDA PERSONAGGIO: Wilhelm von Tegetthoff
+
+*   **Ruolo:** contrammiraglio della marina imperial-regia austriaca nel 1866, nato a Maribor (allora Marburg an der Drau, in Stiria).
+*   **Forza:** 4 — comanda 27 navi e 532 cannoni, contro una flotta più numerosa e meglio armata.
+*   **Intelligenza:** 5 — prevede che bandiere e segnali spariranno nel fumo e prepara in anticipo regole semplici che ogni comandante può ricordare.
+*   **Carisma:** 4 — sta sul ponte di comando scoperto e dà l'ordine decisivo a voce.
+*   **Abilità Speciale (Vedere Nel Fumo):** tiene insieme una flotta di ferro e di legno quando nessuno vede più niente — dipinge le navi, sostituisce le bandiere con fischi e trombe e trasforma il caos in un'unica istruzione: colpisci il grigio.
+:::
+
+L'uomo sul ponte di comando è in piedi e ha il cannocchiale in mano. Non ha l'aria da eroe da film che mi aspettavo, con il mantello svolazzante: è un ufficiale con i baffi, i gomiti stretti e un'aria di concentrazione feroce.
+
+**Alex:** "Ammiraglio, loro hanno più navi. Perché attaccate?"
+
+**Tegetthoff:** "Perché non aspettano che siamo pronti. Se ci fermiamo a contarli, ci affondano uno alla volta."
+
+**Alex:** "E come fate a dare ordini, qui in mezzo?"
+
+**Tegetthoff:** "Le bandiere si vedono fino al primo colpo. Poi c'è il fumo. Per quel momento abbiamo i fischi delle caldaie e le trombe. E un ordine che tutti conoscono già."
+
+::: memo-box
+### MEMO GLOSSARIO
+
+*   **Nave corazzata:** una nave da guerra a vapore con lo scafo protetto da piastre di ferro battuto, imbullonate su travature di quercia. Non acciaio moderno: ferro.
+*   **Speronamento:** usare la prua rinforzata, il rostro, come arma contro la fiancata di una nave nemica.
+*   **Formazione a cuneo:** lo schieramento a punta di freccia (*Pfeilformation*) scelto da Tegetthoff: tre gruppi successivi, con le 7 corazzate in testa, per spezzare la linea avversaria.
+:::
+
+*"Flotta italiana dell'ammiraglio Persano: 12 corazzate e 22 unità di legno e ausiliarie, circa 34 navi, 645 cannoni. Flotta austriaca: 7 corazzate e 20 navi di legno, 27 in tutto, 532 cannoni."*
+
+Sulla carta, dovrebbe vincere l'Italia.
+
+Poi comincia. Il primo colpo di cannone mi rimbomba nelle costole, il secondo non lo distinguo più dal terzo. In pochi minuti il fumo della polvere nera e quello delle caldaie si mischiano. Non vedo a dieci metri.
+
+Un fischio lungo, a vapore. Uno squillo di tromba. La nave cambia rotta.
+
+*"Nota importante. Poco prima dello scontro l'ammiraglio Persano ha lasciato la sua ammiraglia, la* Re d'Italia*, per salire sull'ariete* Affondatore*. Non ha avvisato i comandanti delle altre divisioni e il suo segnale di comando non è stato issato in tempo."*
+
+**Alex:** "Quindi dall'altra parte nessuno sa chi comanda."
+
+*"Nessuno lo sa con certezza."*
+
+Le corazzate austriache si infilano nel varco fra l'avanguardia italiana e il centro. Nella nebbia nera compare una sagoma grigia. Enorme. Ferma, o quasi.
+
+Al timone a doppia ruota c'è un marinaio veneziano, Vincenzo Vianello. Tegetthoff si china verso di lui e gli grida qualcosa. La tradizione riporta la frase in dialetto veneto: *«Daghe dosso, Nino, che la ciapemo!»* Le versioni non coincidono tutte, e io, nel frastuono, non riesco a capire le parole. Capisco il gesto.
+
+La *Ferdinand Max* accelera a undici, dodici nodi.
+
+L'urto è un boato sordo. Il ferro trema tutto insieme, e metà degli artiglieri finisce a terra. Anch'io. Sento un rumore lungo, straziante, di lamiere che si torcono e di travi di quercia che si spezzano.
+
+Quando mi rialzo, la *Re d'Italia* si sta inclinando. La falla nella fiancata sinistra supera i quattro metri quadrati. In meno di tre minuti la nave scompare. Con lei, 381 uomini.
+
+Sul ponte di batteria qualcuno grida «Viva San Marco!».
+
+Io non grido niente. Resto aggrappato a una cima bagnata con le mani che non smettono di tremare.
+
+Alle 14:30 un'esplosione enorme squarcia il fumo più lontano. È la *Palestro*: un incendio ha raggiunto il deposito delle munizioni. Muoiono il comandante Alfredo Cappellini e 231 marinai.
+
+*"Perdite stimate: per la marina italiana fra 612 e 643 morti e circa 40 feriti. Per quella austriaca 38 morti e 138 feriti. Nessuna nave austriaca affondata; il vascello di legno* Kaiser *è gravemente danneggiato dopo aver speronato la* Re di Portogallo*."*
+
+Accanto a me, un cannoniere si pulisce la faccia nera di fuliggine con la manica. Parla veneto, come il timoniere. A qualche passo, due marinai si scambiano frasi in una lingua che non riconosco.
+
+*"Dialetti sloveni. Poco più in là si sente anche il croato. Il tedesco lo trovi negli ordini scritti e tra gli alti gradi."*
+
+**Alex:** "Scusa. Tu parli come uno di Venezia. Cioè... sei italiano? Hai appena affondato una nave italiana."
+
+Il cannoniere mi guarda come si guarda uno che ha preso troppo sole.
+
+**Cannoniere:** "Mi son marinér. Servimo l'Imperador. A bordo se parla cussì, perché el mar parla cussì."
+
+**Alex:** "E loro due? Quelli che parlano l'altra lingua?"
+
+**Cannoniere:** "Sono marinai. Tirano le cime come me."
+
+Fine della discussione. Torna al cannone.
+
+::: scan-result
+### SCANNING: LA LINGUA DI BORDO
+
+*   **Tipo:** lingua franca operativa di una flotta imperiale
+*   **Base:** dialetto veneto-marinaresco, la lingua d'uso quotidiana del mare Adriatico
+*   **Accanto:** dialetti sloveni e croati; il tedesco obbligatorio per gli ordini militari scritti e i gradi alti
+*   **Dettaglio Tecnico:** gli equipaggi venivano arruolati soprattutto lungo il Litorale austriaco, in Istria, sulle isole del Quarnero, in Dalmazia e nelle valli della Carniola e del Goriziano. Parlare veneto a bordo non era una dichiarazione di nazionalità.
+:::
+
+Secondo lo storico sloveno Igor Grdina, sei dei 27 comandanti delle navi austriache parlavano correntemente lo sloveno o avevano origini slovene o carniolane.
+
+Il veneziano che ha tenuto il timone, l'ammiraglio nato a Maribor, due ragazzi che si parlano in sloveno sotto la stessa bandiera: la mia idea di «due squadre nazionali» fa acqua peggio della *Re d'Italia*.
+
+*"Un'ultima precisazione. Lissa viene spesso chiamata «la prima battaglia fra corazzate». Ma a Hampton Roads, nel 1862, si erano già scontrate due corazzate. La formula corretta: è la prima grande battaglia in mare aperto fra intere flotte in cui le corazzate hanno un ruolo centrale."*
+
+Il fumo comincia a diradarsi. Le navi grigie si allontanano verso ovest.
+
+L'Italia ha perso. Adesso bisogna capire che cosa ha perso.
+
+::: checkpoint
+### CHECKPOINT: Quanto può decidere una battaglia il confine che uscirà dalla guerra?
+
+Finora hai raccolto: nel 1859 una vittoria non completa l'obiettivo perché l'alleato si ferma; nel 1860-61 una campagna militare diventa Regno soltanto attraverso voti, annessioni e una legge; nel 1866 l'Italia perde sul mare.
+
+*   **A.** Lissa può bloccare l'espansione italiana del 1866: le mediazioni del 1859 e le annessioni del 1860-61 non cancellano il peso di una sconfitta militare così netta.
+*   **B.** Lissa può decidere chi controlla il mare senza decidere da sola la pace: alleanze e negoziati, già decisivi nel 1859-61, possono produrre un risultato territoriale diverso dal bollettino navale.
+
+Tieni a mente la tua risposta — il Verdetto nel Debriefing te la confermerà, la correggerà, o mostrerà che la realtà era più complicata di entrambe.
+:::
+
+---
+
+## La Sconfitta Che Sposta Il Confine
+<span class="byline">Cronaca di Alex</span>
+
+Passano in fila, in silenzio.
+
+Uniformi bianche, zaini in spalla, fucili puntati verso il cielo. I soldati austriaci attraversano piazza San Marco senza tamburi e senza una parola, verso i piroscafi che li porteranno a Trieste e a Pola. L'unico rumore sono gli scarponi sulla pietra, e i piccioni che si alzano in volo.
+
+Venezia, 19 ottobre 1866. Tre mesi dopo Lissa.
+
+Mi volto verso MEMO come se potessi guardarla in faccia.
+
+*MEMO, spiegami. L'Italia ha perso a Lissa. Se ne vanno gli austriaci?*
+
+*"L'Italia ha perso anche a Custoza, il 24 giugno, sulla terraferma: l'esercito del generale La Marmora è stato sconfitto dall'arciduca Alberto. Ma il 3 luglio l'Austria è stata travolta dalla Prussia a Königgrätz, in Boemia. Gli italiani la chiamano Sadowa."*
+
+Quindi l'Italia ha perso due volte, e però ha combattuto dalla parte giusta di una guerra più grande. Vince il Veneto perché ha vinto la Prussia.
+
+All'Hotel Europa, sul Canal Grande, c'è una sala con tende pesanti e un tavolo coperto di panno. Un generale francese, Lebœuf, porge un documento a un gruppo di notabili veneziani guidati da Luigi Michiel. È una pergamena bollata, con il sigillo imperiale di Napoleone III.
+
+**Alex:** "Un generale francese? Di nuovo la Francia? Cosa c'entra?"
+
+Uno dei notabili, un signore anziano con la cravatta nera annodata alta, abbassa la voce per rispondermi.
+
+**Notabile veneziano:** "L'imperatore d'Austria non voleva consegnare Venezia a un re che aveva battuto. Così l'ha ceduta all'imperatore dei Francesi. E lui la consegna a noi, a patto che la popolazione voti."
+
+**Alex:** "È la stessa cosa della Lombardia nel 1859! Il pacco passa da Parigi."
+
+**Notabile veneziano:** "Il trattato è firmato a Vienna il 3 ottobre. Il voto si terrà domenica e lunedì."
+
+*"Il 21 e 22 ottobre. Risultato ufficiale: 647.246 sì, 69 no, 273 schede nulle."*
+
+Sessantanove no. Su più di seicentomila. Sembra il risultato di un sondaggio truccato fatto a scuola.
+
+*"Gli storici critici ricordano che il voto era palese, senza cabine, con schede riconoscibili e controllate a vista, senza alternative reali e riservato agli uomini. Più che una scelta libera, è la ratifica di una cessione già decisa dal trattato."*
+
+**Alex:** "Quindi il voto non ha deciso niente?"
+
+**Notabile veneziano:** "Il voto dice che siamo contenti. Il trattato dice dove passa la linea."
+
+::: memo-box
+### MEMO GLOSSARIO
+
+*   **Cessione territoriale:** il passaggio di sovranità su un territorio da uno Stato a un altro, stabilito da un trattato. Nel 1866 il Veneto passa dall'Austria alla Francia e poi al Regno d'Italia.
+*   **Litorale austriaco:** l'unità amministrativa asburgica (*Österreichisches Küstenland*) che comprende Gorizia e Gradisca, Trieste e l'Istria. Nel 1866 resta dentro l'Impero austriaco.
+*   **Irredentismo:** il movimento che rivendicherà all'Italia le terre «non redente». La parola nel 1866 non esiste ancora: la conia Matteo Renato Imbriani nel 1877, e l'associazione che la diffonde nasce nel 1878.
+:::
+
+Sul tavolo c'è una carta con la nuova linea di confine. Seguo il tratto col dito. La provincia del Friuli, con Udine, passa all'Italia. Il confine corre lungo un torrente, lo Judrio.
+
+Al di là, tutto resta com'era: Gorizia, Trieste, l'Istria. E, più giù, Fiume e la Dalmazia, anch'esse asburgiche.
+
+**Alex:** "E la gente che ha i campi di qua e il pascolo di là? Paga la dogana ogni volta che porta una mucca a mangiare?"
+
+**Notabile veneziano:** "Per chi abita vicino al confine faranno un cartellino. Timbrato dal comune e dalla dogana. Con quello si passa col fieno, la legna e le bestie senza pagare dazio e senza passaporto."
+
+*"Vale per i residenti entro una fascia di cinque chilometri dalla linea. Chi non ce l'ha paga il dazio, come un mercante."*
+
+Un pezzo di cartone per non spezzare in due una stalla. Hanno pensato anche a questo.
+
+Fisso i nomi al di là della linea. *Küstenland*. Litorale.
+
+*"Prima di chiudere il fascicolo, Mission Control ha autorizzato una tappa indietro. Un solo salto, dichiarato: Milano, 1863. Qualcuno, tre anni prima di questo trattato, ha già dato a quelle terre un nome diverso."*
+
+Il salto dura un battito di ciglia. Mi ritrovo in uno studio pieno di libri, con l'odore di carta vecchia e una finestra socchiusa sul rumore dei carri. Su un tavolo ci sono carte geologiche, carte dei dialetti e qualche mappa romana dell'arco alpino. Un uomo scrive con un inchiostro nero ferroso su fogli protocollo a righe.
+
+*"Graziadio Isaia Ascoli, glottologo, nato a Gorizia. Studia la storia delle lingue. L'articolo che sta scrivendo si chiama* Le Venezie *e uscirà anonimo sul periodico milanese* L'Alleanza*."*
+
+**Alex:** "Professore, che cosa scrive?"
+
+**Ascoli:** "Un modo per nominare le terre del Nord-Est. Le divido in tre Venezie. La Venezia Euganea, cioè il Veneto. La Venezia Tridentina, il Trentino. E la Venezia Giulia."
+
+**Alex:** "Giulia come le Alpi Giulie?"
+
+**Ascoli:** "Come le Alpi Giulie, e come Forum Iulii, l'antica Cividale. Intendo la terra fra l'Isonzo, le Alpi Giulie e il mare: Gorizia, Trieste, l'Istria fino al Quarnero."
+
+**Alex:** "Ma è un nome inventato da lei? Esiste da qualche parte, questa Venezia Giulia?"
+
+**Ascoli:** "Esiste nella storia e nelle lingue. Non in un ufficio."
+
+Anche questo dialogo è ricostruito. Il testo del 1863, invece, esiste, e Ascoli non vi crea nessuna provincia: propone una classificazione storico-linguistica. Più tardi, altri lo leggeranno come la promessa di una conquista. Le fonti non permettono di attribuirgli quel piano.
+
+*"«Venezia Giulia» diventerà un nome amministrativo dello Stato italiano solo dopo il 1918."*
+
+Torno a Venezia. La carta è ancora sul tavolo, con lo Judrio tracciato in inchiostro fresco. Di qua, Regno d'Italia. Di là, *Küstenland*.
+
+Un nome scritto a Milano da un professore. Una linea firmata a Vienna da due imperi. Per ora, la parola e la linea non coincidono.
+
+---
+
+## Una Vittoria Imperiale Letta A Lubiana
+<span class="byline">Cronaca di Maja</span>
+
+La prima cosa che sento è il fruscio della carta.
+
+Qualcuno sta sfogliando un giornale troppo in fretta, e la carta di stracci è ruvida, fa quasi rumore di tessuto. Poi arriva la voce. Legge ad alta voce, in sloveno, con quell'accento un po' solenne che la gente usa quando legge una cosa importante.
+
+*«Pomorska bitka pri Visu...»*
+
+La battaglia navale di Lissa. Vis.
+
+Sono nella *Narodna čitalnica* di Lubiana, la sala di lettura nazionale. Mercoledì 1° agosto 1866. Tavoli di noce scuro, lampade a petrolio spente perché è ancora giorno, e alle pareti stendardi bianco-blu-rossi.
+
+Sul tavolo grande c'è il numero 31 delle *Kmetijske in rokodelske novice*. Tutti le chiamano solo *Novice*. È uscito oggi.
+
+*MEMO, chi le fa?*
+
+*"Le dirige Janez Bleiweis. È il principale settimanale in lingua slovena del 1866. Lo stampa la tipografia di Jožef Blaznik, qui a Lubiana."*
+
+L'uomo che legge ha i capelli grigi e la giacca abbottonata fino in cima. Arriva a un passaggio e alza la voce: *«naš vitez Tegetthoff»*. Il nostro cavaliere Tegetthoff. Poi ringrazia la Provvidenza, che ha risparmiato alla Stiria, alla Carniola e al Litorale l'orrore di un'invasione dal mare.
+
+Intorno al tavolo annuiscono.
+
+Il nostro cavaliere. Tegetthoff è nato a Maribor. E qui dentro nessuno lo tratta come uno straniero.
+
+Me lo scrivo sul quaderno, sottolineato due volte. Poi scrivo la mia ipotesi, di getto: *Per gli sloveni, Lissa = protezione dal nazionalismo italiano.*
+
+Mi piace. Mi piace proprio. Suona come una cosa che nessun libro italiano mi ha mai detto.
+
+Il vecchio arriva in fondo all'articolo e si toglie gli occhiali. Mi avvicino al tavolo.
+
+**Maja:** "Mi scusi. Ha letto «nostro». Nostro di chi?"
+
+**Lettore anziano:** "Nostro. Stiriano, suddito dello stesso imperatore, e ha difeso la nostra costa. *Vse za vero, dom, cesarja*: tutto per la fede, la patria, l'imperatore. Lo scriviamo da anni, signorina."
+
+**Maja:** "E la Slovenia Unita? Quella del 1848?"
+
+**Lettore anziano:** "Quella la chiediamo lo stesso. Dentro la monarchia, un passo alla volta. Le due cose non si contraddicono."
+
+*"Zedinjena Slovenija: il programma del 1848 per riunire le terre slovene in un'unica unità dentro la monarchia. Nel 1866 non è né realizzato né dimenticato. Bleiweis e i suoi, gli* Staroslovenci *o Vecchi Sloveni, lo chiedono con prudenza."*
+
+**Maja:** "E la festa per Lissa? Era contro gli italiani?"
+
+**Lettore anziano:** "In tutte le chiese si è cantato il Te Deum. Ma nessuno odia la gente d'Italia. Pensi piuttosto a cosa sarebbe successo se la loro flotta fosse arrivata a Trieste, o sulla costa d'Istria, dove vivono sloveni e croati."
+
+Fedeltà all'imperatore e programma nazionale sullo stesso tavolo, e nessuno dei due litiga con l'altro. Scrivo anche questo.
+
+A quel punto, nell'orecchio, un'altra voce.
+
+*"Mission Control ha sincronizzato il tuo salto e quello di Alex sullo stesso giorno, il 1° agosto 1866. Alex chiede di mandarti un messaggio."*
+
+*Va bene.*
+
+**Alex:** "Ho letto la tua ipotesi. Forte. Una domanda sola: che cosa potrebbe smentirti?"
+
+Mi fermo con la matita a mezz'aria.
+
+È la mia domanda. Gliel'ho fatta io, la prima volta, per una pallina di carta. E la cosa peggiore è che non ho una risposta pronta.
+
+*Te lo dico dopo*, gli mando. Secca.
+
+Non sono offesa. Sono arrabbiata con me stessa, che è diverso. Ho trovato una fonte che mi piaceva, e mi sono fermata lì.
+
+Allora guardo il resto del tavolo. Non il giornale che conferma la mia ipotesi: gli altri fogli.
+
+Di fianco alle *Novice* ci sono dei telegrammi in tedesco della *Laibacher Zeitung*. Un uomo più giovane, con la barba rada e gli occhiali, li tiene fermi con tutte e due le mani, come se potessero volare via.
+
+**Maja:** "Cosa dicono?"
+
+**Lettore giovane:** "Che dopo Königgrätz l'imperatore ha dovuto chiedere la pace ai prussiani. I preliminari sono già firmati."
+
+**Maja:** "Ma a Lissa avete vinto."
+
+**Lettore giovane:** "Abbiamo vinto in mare. E sulla terra abbiamo perso la guerra." Abbassa il foglio. "Se l'Impero si sfascia, sa chi ci prende? Bismarck. Una Grande Germania. Allora sì che la nostra lingua non la stampa più nessuno."
+
+Guardo il vecchio che legge le *Novice*. Poi il giovane con i telegrammi. Sono allo stesso tavolo, nella stessa sala, e hanno paura di due cose diverse.
+
+**Maja:** "Quindi Lissa non vi ha salvato."
+
+**Lettore giovane:** "Lissa ha salvato la costa. Non so se salverà noi. Ci sono di quelli, fra i più giovani, che dicono che obbedire sempre a Vienna non ci ha mai dato un ginnasio in sloveno, né un ufficio che ci risponda nella nostra lingua. E non ce li darà nemmeno adesso."
+
+*"Sono i* Mladoslovenci*, i Giovani Sloveni. Nel 1866 cominciano a contestare la fedeltà troppo cieca di Bleiweis. Il loro giornale,* Slovenski narod*, nascerà solo nel 1868."*
+
+**Maja:** "E i contadini? Leggono le *Novice* anche loro?"
+
+**Lettore anziano:** "Un contadino un giornale non se lo può permettere. Una copia la compra la parrocchia, o qualche socio della Società agraria. La domenica, dopo la messa, il sagrestano o il maestro o il parroco la legge davanti alla chiesa. O in osteria."
+
+**Lettore giovane:** "E la spiega nel dialetto del posto. Qualcuno segue le armate sulla carta dell'Impero appesa al muro."
+
+Una copia sola per un paese intero. Una voce che legge e traduce la lingua scritta in quella di casa. La notizia di Lissa arriva così: filtrata da chi la legge ad alta voce.
+
+Quindi le *Novice* non sono «gli sloveni». Sono il giornale di un gruppo preciso, letto a voce da persone precise.
+
+::: memo-box
+### MEMO GLOSSARIO
+
+*   **Ricezione:** il modo in cui una notizia o un evento vengono letti, raccontati e interpretati da un pubblico preciso. Una fonte racconta la propria ricezione, non quella di tutti.
+*   **Movimento nazionale sloveno:** l'insieme di associazioni, giornali e politici che chiedono diritti per la lingua e le terre slovene. Nel 1866 è diviso fra Vecchi Sloveni e Giovani Sloveni.
+*   **Lealtà dinastica:** l'attaccamento alla famiglia regnante, gli Asburgo. Può convivere con richieste nazionali, e non basta a descrivere tutta la popolazione.
+:::
+
+Riapro il quaderno. Cancello la mia equazione con una riga sola, senza scarabocchiare: voglio che si veda cosa avevo scritto.
+
+Sotto scrivo: *Lissa = sollievo per la costa. Königgrätz = paura per il futuro. Novice ≠ tutti.*
+
+*"C'è un'altra cosa che ancora non si vede da questa sala. L'indebolimento dell'Impero porterà nel 1867 al Compromesso con l'Ungheria. La monarchia si dividerà in due, e i popoli slavi resteranno esclusi da un assetto federale."*
+
+Nessuno a scuola, in Italia, mi ha mai parlato di Lissa letta a Lubiana. Neanche in Slovenia, se è per questo. Eppure la stessa battaglia qui significa due cose insieme.
+
+Mando ad Alex l'ultimo messaggio concesso.
+
+*Mi smentisce il tavolo. Metà del tavolo, almeno.*
+
+Il vecchio ripiega le *Novice* con cura, lungo le pieghe già segnate.
+
+---
+
+## Il Confine Senza Il Nostro Nome
+<span class="byline">Cronaca di Maja</span>
+
+Sulla copertina del registro c'è lo stemma dei Savoia. Il nome del paese, dentro, è scritto in italiano: San Pietro degli Slavi.
+
+I bambini, però, a casa lo chiamano Špeter.
+
+L'aula è di pietra e legno, e il freddo sale dal pavimento. Inverno del 1866, valli del Natisone. Sui banchi ci sono dei libri nuovi di zecca, stampati a Torino, tutti in italiano.
+
+Il maestro sta in piedi davanti alla lavagna. Viene da fuori, mandato dal Ministero della Pubblica Istruzione. Fa una domanda in un italiano pulito, scandito.
+
+Nessuno risponde.
+
+Un bambino della seconda fila apre la bocca, la richiude. Il suo vicino gli bisbiglia qualcosa *po nadiško*, nel dialetto sloveno del Natisone. Il maestro batte la bacchetta sul tavolo.
+
+**Maestro:** "In classe si parla italiano. Solo italiano."
+
+Il bambino abbassa la testa. Ammutolito.
+
+*MEMO, da quando?*
+
+*"Con l'annessione, qui arriva la legge scolastica del Regno, la Legge Casati del 1859. Italiano unica lingua dell'insegnamento, dell'amministrazione e dei tribunali. Non è ancora la snazionalizzazione violenta del Novecento: è uno Stato centralizzato che conosce una sola lingua ufficiale."*
+
+Esco dall'aula prima di arrabbiarmi davanti ai bambini.
+
+In canonica il parroco sta scaldando le mani sulla stufa. Ha la tonaca lucida sui gomiti e un breviario consumato.
+
+**Maja:** "Lei ha detto alla gente di votare sì?"
+
+**Parroco:** "L'abbiamo detto in molti, fra i sacerdoti delle valli. Il Regno d'Italia si dice costituzionale e liberale. Pensavamo che avrebbe rispettato le nostre consuetudini e la nostra lingua più della burocrazia austriaca, che ci teneva stretti e ci tassava fino all'osso."
+
+**Maja:** "E adesso?"
+
+Il parroco guarda la stufa più a lungo del necessario.
+
+**Parroco:** "Adesso a Udine scrivono che quassù, appena ci lasciano parlare, parliamo e pensiamo da italiani. La nostra lingua, per loro, è un'abitudine che perderemo da soli."
+
+*"È la linea del* Giornale di Udine *e della stampa liberale friulana, fra novembre e dicembre 1866."*
+
+**Maja:** "Allora vi hanno ingannato?"
+
+**Parroco:** "Ci siamo sbagliati, forse. Non so ancora se ingannati sia la parola giusta."
+
+Scrivo *ingannati* sul quaderno, poi ci metto un punto di domanda. Ad agosto, a Lubiana, ho imparato quanto costa una conclusione troppo veloce. Prima, meglio controllare un numero.
+
+*MEMO, quanti hanno votato, qui?*
+
+*"Nelle valli del Natisone vivevano circa 14.000 persone. Gli aventi diritto al voto erano 3.688. I sì furono 3.687, i no uno solo."*
+
+Quattordicimila abitanti, tremilaseicento elettori. Quel «quasi all'unanimità» parla a nome di una persona su quattro.
+
+::: memo-box
+### MEMO GLOSSARIO
+
+*   **Confine politico:** la linea di sovranità fra due Stati. Qui, dal 1866, fra Regno d'Italia e Impero austriaco. Separa leggi, tasse e scuole, non per forza lingue e parentele.
+*   **Nazionalità:** nel lessico dell'epoca, l'appartenenza di un gruppo per lingua e storia. Nello Statuto del Regno non esistono tutele per le minoranze: esistono solo «regnicoli», cittadini del Regno.
+*   **Toponimo politico:** un nome di luogo creato o usato per interpretare, organizzare o rivendicare uno spazio. Non è mai un'etichetta neutra.
+:::
+
+Il pomeriggio salgo verso lo Judrio con un pastore che deve riportare delle pecore. Sulle spalle ha una gerla di castagno. Vuota.
+
+Lungo l'argine ghiaioso c'è un cippo di pietra calcarea bianca, squadrato, alto più o meno un metro, con un numero scolpito. Le pecore gli passano accanto senza degnarlo di uno sguardo.
+
+L'acqua del torrente scorre sui sassi e fa un rumore continuo, indifferente.
+
+**Maja:** "Questo cippo l'hanno messo adesso, dopo il trattato?"
+
+**Pastore:** "Macché. C'è da quando mi ricordo. Di qua il Friuli, di là Gorizia, ma l'imperatore era lo stesso. Al mercato andavamo a Cividale e a Tolmino. Adesso di qua c'è un re, e per portare le pecore al pascolo dall'altra parte mi serve un cartellino."
+
+*"Corretto. Per più di cinquant'anni questa linea ha diviso due amministrazioni dello stesso Impero: il Regno Lombardo-Veneto e le terre di Gorizia. Il trattato di Vienna l'ha trasformata in un confine fra due Stati."*
+
+Quindi il sasso non si è spostato di un centimetro. Si è spostato tutto il resto.
+
+**Maja:** "E la gerla? Oggi porta le pecore, non la legna."
+
+Il pastore ride, e non risponde subito.
+
+**Pastore:** "Di giorno serve a poco. Di notte è un'altra storia. Di qua il sale costa come l'oro: lo Stato ci ha messo il monopolio, deve pagare le guerre. Di là costa poco."
+
+Aspetto. Lui guarda verso il Kolovrat.
+
+**Pastore:** "Così qualcuno sale per il Matajur o per il Kolovrat, con le babbucce di feltro fatte in casa, senza chiodi, che sui sassi non fanno rumore. Torna giù con la gerla piena di sale austriaco e lo scambia con farina di mais e formaggio."
+
+**Maja:** "E le guardie?"
+
+**Pastore:** "Le guardie stanno sui sentieri buoni. I *švercarji* no."
+
+*"Contrabbando di sale e tabacco: la differenza di prezzo fra i due Stati lo rende conveniente. Sul lato italiano sorvegliano guardie doganali e bersaglieri."*
+
+Il confine, quindi, è arrivato davvero. In un'aula, in un cartellino, in un prezzo del sale. E nelle notti su per il Kolovrat.
+
+**Maja:** "Voi come vi chiamate? Voi, qui nelle valli."
+
+**Pastore:** "*Slovenci.* O *Beneški Slovenci.* In qualche paese dicono *Slovinjé*."
+
+*"Nei documenti italiani la zona è* Slavia Veneta *o* Schiavonia Veneta*; in quelli austriaci gli abitanti sono* Venetianische Slawen*. Tre modi per nominare la stessa gente, a seconda di chi scrive."*
+
+A Lubiana dicono Beneška Slovenija. A Udine, Slavia Veneta. Loro dicono semplicemente «sloveni». Nessuno di questi nomi coincide con uno Stato.
+
+Perché nessuno me l'ha mai raccontato, questo? Che la nuova Italia del 1866 non ha preso soltanto «terre italiane», ma anche paesi dove i bambini a scuola non capivano la lingua del maestro?
+
+I Giovani Sloveni, a Lubiana, se ne accorgono subito. Lo usano come prova contro Bleiweis: tutta quella fedeltà a Vienna non ha impedito che la Slavia Veneta passasse all'Italia. E non ha nemmeno portato lo sloveno nei ginnasi e negli uffici delle terre rimaste asburgiche.
+
+Mi volto verso est, verso le terre che restano asburgiche. Gorizia, Trieste, il Carso.
+
+*"Un'avvertenza. Il nome sloveno* Julijska krajina *qui non lo dice e non lo scrive nessuno. Nasce fra il 1918 e il 1920, per tradurre la «Venezia Giulia» diventata nome amministrativo italiano. Nel 1866 esiste soltanto il nome proposto da Ascoli, e in sloveno ancora non ha una traduzione."*
+
+Uno sguardo in avanti, allora, non una parola di oggi. Un nome che arriverà con un'altra guerra.
+
+Il pastore raduna le pecore. Il cippo resta dov'era già prima della guerra, e l'acqua dello Judrio gli scorre accanto come se niente fosse.
+
+La Slovenia Unita del 1848 è ancora un programma. E ora le terre che dovrebbe unire stanno dentro due Stati, non in uno.
+
+---
+
+## Debriefing
+
+Mission Control ha messo sul tavolo sei oggetti: una borraccia che sa d'aceto, una pinza di bronzo per le pallottole, un fischio a vapore, una pergamena con il sigillo di Napoleone III, un numero delle *Novice* piegato lungo le pieghe e un cartellino di confine con il timbro della dogana.
+
+Europa e mondo, Alto Adriatico, terre slovene. Tre linee dello stesso rapporto.
+
+**Alex:** "Ok, lo ammetto. Io pensavo: vinci la battaglia, prendi la regione. Semplice."
+
+**Maja:** "E poi?"
+
+**Alex:** "E poi l'Italia perde a Custoza, perde a Lissa e si prende il Veneto. Perché la Prussia ha vinto in Boemia e c'è un trattato. La battaglia che ho visto io non ha deciso la mappa."
+
+**Maja:** "Io invece avevo trovato un giornale bellissimo e l'avevo trasformato in tutti gli sloveni."
+
+**Alex:** "Te l'ho fatta io, la domanda."
+
+**Maja:** "Me l'hai fatta con le mie parole."
+
+**Alex:** "Appunto."
+
+Nessuno dei due cede del tutto. Ma il cartellino di Maja cambia il significato della carta di Alex: la linea sullo Judrio che a Venezia sembrava un successo pulito, nelle valli del Natisone passa in mezzo a una scuola, a un mercato e a una famiglia. E la flotta di Alex cambia la domanda di Maja: se a bordo della stessa nave si parlano veneto, sloveno e croato, una sola lingua non basta a dire da che parte sta qualcuno.
+
+**Verdetto.** L'Ipotesi Iniziale non regge: la nuova Italia non nasce da una catena di vittorie consecutive. Nel 1859 l'alleato francese si fermò prima del Veneto; nel 1860-61 il Regno nacque da spedizione volontaria, rivolte locali, crollo borbonico, esercito regio, plebisciti e una legge; nel 1866 l'Italia perse a Custoza e a Lissa ma ottenne il Veneto, perché stava dalla parte vincente di una guerra decisa dalla Prussia e chiusa da un trattato. Al Checkpoint, **B è l'interpretazione più solida**: la battaglia conta, ma non decide da sola la mappa. E la nuova mappa divide comunità di lingua slovena che non hanno uno Stato proprio.
+
+::: reality-check
+### CIÒ CHE NON SAPPIAMO ANCORA
+
+*   **Chi si sentivano i marinai di Lissa:** i ruoli di bordo dicono dove furono arruolati e le fonti quale lingua si usava a bordo, ma non come ciascun marinaio definisse la propria appartenenza. Le retoriche nazionali successive, italiana e asburgica, hanno riempito quel silenzio in modi opposti.
+*   **Quanto fu libero il sì del 1866:** i risultati ufficiali parlano di adesione quasi unanime, nel Veneto come nella Slavia Veneta; la storiografia critica sottolinea voto palese, schede controllate e assenza di alternative. Quanto quei numeri misurino un consenso reale resta discusso.
+*   **Che cosa voleva Ascoli con «Venezia Giulia»:** il testo del 1863 è una classificazione storico-linguistica, ma la propaganda successiva lo lesse come un programma di conquista. Il confine fra descrivere e rivendicare, in quelle pagine, gli storici lo discutono ancora.
+:::
+
+::: memo-box
+### CRONOLOGIA ESSENZIALE
+
+*   **1859:** Seconda guerra d'indipendenza; armistizio di Villafranca (11-12 luglio) e Trattato di Zurigo (10 novembre): la Lombardia passa al Regno di Sardegna, il Veneto resta austriaco.
+*   **5-11 maggio 1860:** la Spedizione dei Mille parte da Quarto e sbarca a Marsala.
+*   **17 marzo 1861:** legge n. 4671, proclamazione del Regno d'Italia.
+*   **1863:** Ascoli propone il nome «Venezia Giulia».
+*   **20 luglio 1866:** battaglia navale di Lissa.
+*   **3 ottobre 1866:** Trattato di Vienna e cessione del Veneto.
+:::
+
+Nel 1869 non sarà una battaglia a cambiare di nuovo il valore dell'Adriatico, ma un canale scavato in Egitto. Resta da capire perché, per farlo contare davvero, servirà una ferrovia che attraversa la Carniola.
+
+<!-- WORD COUNT: ~7656 (post-Reviewer) -->
+<!-- PERSONA CHECK: Pass — Alex mantiene il tic scarto media/realtà (Risorgimento da quadro vs. sentinella sudata, poster in camicia rossa vs. panno da macellaio) e il battibecco sarcastico con MEMO ("Wi-Fi del 1859", "tipo un tutorial"); Maja mantiene "perché nessuno lo racconta mai" e la correzione di metodo su se stessa quando generalizza da un'unica fonte. Nessuna deriva verso voce AI generica o registro da manuale. -->
+<!-- NUF CHECK: [1] ✅ sequenza 1859→1860→17 marzo 1861→1866 distinta per fase — [2] ✅ Lissa persa ma Veneto ottenuto, spiegato via Custoza+Königgrätz+trattato — [3] ✅ Venezia Giulia/confine come nomi ed etichette non neutre, mai retrodatati — [4] ✅ spaesamento sulla lingua di bordo (veneto/sloveno/croato) senza eroi nazionali fuori tempo — [5] ✅ pluralità di reazioni slovene (Staroslovenci/Mladoslovenci, lealtà vs paura) — [6] ✅ formazione del Regno con fonti distinte per ogni passaggio — [7] ✅ Lissa con fonti su comando, composizione, perdite, lingue — [8] ✅ esito 1866 con Custoza/Lissa/Prussia/Trattato di Vienna/Venezia Giulia graduati per certezza — [9] ✅ scena Lubiana come indagine propria che corregge la lettura di Alex — [10] ✅ scena confine come storia slovena autonoma, non appendice dell'annessione. -->
+<!-- ANTI-AI CHECK: nessuna frase vietata rilevata (grep pulito su "come sappiamo", "e la morale è che" ecc.); nessuna etichetta di produzione (Beat/Scena/EU/GIULIA/SLOVENIA) nel testo; un solo target-profile (Tegetthoff, Abilità Speciale supera il test operativo — non "comanda una flotta" ma "trasforma il caos in un'unica istruzione"); un solo checkpoint, posizionato dopo Lissa come da spec; zero anacronismi rilevati; box HUD con riga vuota dopo l'header. -->
+
+
+
+<div style="page-break-after: always;"></div>
+
+# Capitolo 12 — La Porta d'Oriente
+
+## Briefing
+
+Alex, Maja: avete appena lasciato il 1866, con il nuovo confine adriatico ancora fresco d'inchiostro. Questo salto occupa il secondo Ottocento, ma non in ordine. Partirete dall'effetto, a Vienna nel 1883. Tornerete indietro al 1849-1857 per cercare una condizione che quasi nessuno ricorda. Attraverserete il 17 novembre 1869 e arriverete agli anni fra il 1875 e il 1890.
+
+È l'ultima missione del volume. Ci fermeremo sulla soglia del Novecento.
+
+Il manuale propone questa catena: 1869 → si apre il Canale di Suez → la rotta per l'Asia si accorcia → Trieste diventa la Porta d'Oriente dell'Europa centrale. Tre passaggi, una freccia dritta.
+
+Qualcosa non torna. La ferrovia che passa per Lubiana raggiunge Trieste già nel 1857, dodici anni prima del canale. E il porto capace di reggere i nuovi traffici, nel 1869, è appena un cantiere.
+
+La vostra missione è raccogliere sei prove e ricostruire quale catena di tecnologie, lavoro, investimenti e potere abbia trasformato una rotta più corta in un sistema commerciale.
+
+## OBIETTIVI DEL SALTO (SCENE)
+
+### 1. La Città Accesa (Vienna, 1883) — voce: Alex
+
+Un carboncino consumato, una cupola di ferro alta ottantaquattro metri e un fascio di luce puntato su un campanile lontano.
+**Prova da raccogliere:** verificare se la nuova fase industriale dipende da singole invenzioni o dal loro coordinamento in reti capaci di servire una società di massa.
+
+### 2. La Ferrovia Arrivata Prima (Lubiana, 1849-1857) — voce: Maja
+
+Un orario in tre lingue stampate in tre grandezze diverse, una campana che parla in codice e un biglietto di cartoncino forato.
+**Prova da raccogliere:** cercare che cosa la linea Vienna-Lubiana-Trieste rende possibile dodici anni prima di Suez, e che cosa non riesce ancora a produrre da sola.
+
+### 3. Dieci Anni Per Tagliare Un Istmo (Istmo di Suez, 1859 - 17 novembre 1869) — voce: Alex
+
+Un otre di pelle di capra, uno scivolo di latta lungo settanta metri e una conchiglia fossile nel fango grigio.
+**Prova da raccogliere:** misurare quale distanza il canale riduce davvero e quali lavoro, macchine e costi stanno dietro la cerimonia d'apertura.
+
+### 4. Il Porto Che Prima Era Nuovo (Trieste, 1869-1883) — voce: Alex
+
+Un saggio del 1862, una porta di ferro con due serrature e sacchi di caffè verde.
+**Prova da raccogliere:** verificare perché la nuova rotta richiede moli, magazzini e binari prima di diventare capacità commerciale.
+
+### 5. Chi Tiene La Chiave Del Canale (Londra 1875, Port Said 1882) — voce: Alex
+
+Un grappolo d'uva moscato, una cesta di giunco da quaranta chili e un telo di canapa bagnata.
+**Prova da raccogliere:** distinguere chi possiede quote, chi governa il territorio e chi esercita il controllo militare sulla rotta.
+
+### 6. Una Cassa, Due Reporter, Un Continente (Trieste-Lubiana, 1890) — voce: Maja, con Alex
+
+Una balla di cotone cerchiata di ferro, un sigillo di piombo e una custodia di tela cerata inchiodata a un vagone.
+**Prova da raccogliere:** seguire una merce documentata lungo la catena e verificare quale anello perde valore quando ne manca un altro.
+
+Il rapporto è affidato a due co-reporter. Alex seguirà, fra Europa e mondo e Alto Adriatico, la trasformazione industriale, il canale, il porto e la competizione imperiale; Maja verificherà che cosa la ferrovia cambia nelle terre slovene e guiderà il controllo finale sullo stesso carico. Nessuno parla al posto dell'altro. Ma ciascuno può mettere alla prova le conclusioni dell'altro.
+
+Attenzione: un discorso inaugurale, un bilancio societario, un registro doganale e una lettera di vettura non rispondono alla stessa domanda. Prima di collegarli, controllate che cosa ciascuno può davvero provare.
+
+---
+
+## La Città Accesa
+<span class="byline">Cronaca di Alex</span>
+
+Un uomo in cima a una scala svita qualcosa dentro una lampada e impreca a mezza voce.
+
+Tiene fra le dita un bastoncino nero, lungo come una matita, consumato a una punta. Lo infila in una tasca del grembiule di cuoio, ne tira fuori uno nuovo e lo avvita al suo posto. Sotto di lui passa un fiume di gente con cappelli, bastoni, ombrellini chiusi.
+
+*MEMO, dove sono?*
+
+*"Vienna, Prater, settembre 1883. Esposizione Elettrica Internazionale, aperta il 16 agosto. Sei dentro la Rotunde: la cupola è alta 84 metri."*
+
+Alzo la testa. La cupola è un'enorme gabbia di ferro, e appese là sotto ci sono lampade che non somigliano a niente che io abbia in camera. Mi aspettavo la scena da documentario: un tizio con i baffi preme un interruttore, si accende una lampadina, applauso, il mondo cambia. Invece la luce qui sibila. Crepita. È azzurrina e fredda, e fa male agli occhi se la guardi dritta.
+
+**Alex:** "Scusi! Ogni quanto li cambia, quei cosi?"
+
+**Tecnico:** "Ogni poche ore. I carboncini bruciano. Se non li riallinei, la lampada si spegne o sfarfalla."
+
+**Alex:** "Quindi la luce elettrica ha bisogno di uno che sale sulla scala tutto il giorno."
+
+**Tecnico:** "Ha bisogno di me, e di quelli là fuori."
+
+Indica con il mento verso l'uscita. Seguo il gesto e il rumore insieme: un ronzio basso che sale dal pavimento, come uno sciame gigante chiuso sotto le assi. L'aria pizzica il naso. Sa di ferro bagnato e di olio caldo.
+
+*"Odore di ozono, prodotto dalle scariche elettriche. Nella sala macchine esterna, venti motori a vapore a carbone azionano le dinamo."*
+
+Venti motori a carbone. Per accendere una festa della luce elettrica. Ok, il futuro funziona a carbone. Ottimo inizio.
+
+Vicino a me un signore anziano con un cappotto liso tiene in mano il cappello e guarda la cupola a bocca aperta. Parla un tedesco lento, e MEMO me lo passa in italiano nell'orecchio.
+
+**Visitatore:** "Trent'anni ho acceso lampioni a gas. Un'asta di ferro vuota, uno stoppino a spirito in cima, una chiave per la valvola. Uno per uno, ogni sera."
+
+**Alex:** "E adesso?"
+
+**Visitatore:** "Adesso nessuno a Vienna vuole più il gas nei teatri. Dopo il Ringtheater, no."
+
+Non so cosa sia il Ringtheater. MEMO sì.
+
+*"8 dicembre 1881. Un guasto all'illuminazione a gas del teatro provoca un incendio: 384 morti documentati. La paura accelera l'adozione delle lampade elettriche nei teatri pubblici."*
+
+Trecentottantaquattro. Il vecchio non aggiunge altro, e io non ho nessuna battuta pronta.
+
+**Alex:** "Prima dell'elettricità, come facevano a non bruciare tutti?"
+
+**Visitatore:** "Pompieri dietro le quinte a ogni spettacolo, con asce e secchi d'acqua. Reti di metallo fitte attorno a ogni fiamma, perché una scintilla non arrivasse ai tendaggi. E per parlare tra la scena e le macchine, tubi di metallo. Ci gridavi dentro. Avevano un fischietto in cima."
+
+Un citofono di latta, in pratica. E un pompiere di guardia per ogni sera di teatro.
+
+Il vecchio se ne va. Io resto a guardare la folla, e comincio a capire che la cosa strana non è la lampada. È tutto il resto che le sta intorno.
+
+Per arrivare qui, molti di questi visitatori sono saliti su un trenino elettrico della Siemens & Halske: circa un chilometro e mezzo di binari dalla stazione del Praterstern fino all'ingresso. Dentro c'è un padiglione pieno di dinamo e di apparecchi per il telegrafo. E fuori, sui giornali che la gente si passa di mano, la cronaca dell'Esposizione esce giorno dopo giorno.
+
+*MEMO, quanta gente viene qui?*
+
+*"Stima: quasi 600.000 ingressi fra agosto e novembre. Le fonti oscillano fra 580.000 e 600.000."*
+
+**Alex:** "Seicentomila persone per guardare delle lampadine? Neanche un concerto."
+
+*"Non solo lampadine. Il telegrafo collegato alle ferrovie trasmette ordini, prezzi e conferme di carico in pochi minuti su distanze continentali."*
+
+E qui si accende qualcosa anche nella mia testa. Il carbone che fa girare le dinamo è lo stesso carbone che scalda le caldaie dei treni. Dal suo catrame, spiega MEMO, i chimici ricavano coloranti artificiali: l'alizarina, brevettata dalla BASF nel 1869, che prende il posto della radice di robbia per tingere di rosso. Filo, binario, fornace, laboratorio. Non sono invenzioni separate in fila su un banco.
+
+Sono pezzi della stessa macchina.
+
+**Alex:** "Senta, un'ultima cosa. Questa luce… chi ci guadagna?"
+
+**Tecnico:** "Chi ha una fabbrica. Con la luce buona si lavora anche quando fa buio."
+
+Lo dice come una cosa bella. Poi riprende la scala e sale verso la lampada successiva.
+
+Sul tetto della Rotunde, mi dice MEMO, c'è un riflettore a specchio che spara un fascio di luce fino al campanile del Duomo di Santo Stefano, a più di due chilometri. Una città intera può vederlo.
+
+Nessuno, da là, vede l'uomo sulla scala.
+
+::: memo-box
+### MEMO GLOSSARIO
+
+*   **Seconda rivoluzione industriale:** fase di trasformazione che gli storici collocano di solito fra il 1870 circa e il 1914. Non ha una data d'inizio unica: elettricità, chimica, acciaio e motori accelerano in tempi diversi nei diversi Paesi. La novità non è una singola macchina, ma il collegamento fra reti.
+*   **Industria chimica:** produzione su grande scala di sostanze artificiali, come coloranti, concimi e soda. Molti coloranti nascono dal catrame del carbon fossile, cioè da un residuo che prima si buttava.
+*   **Società di massa:** società in cui milioni di persone vivono in città, leggono giornali economici, comprano prodotti uguali e lavorano con gli stessi orari. Non significa benessere per tutti: porta anche turni più lunghi, periferie operaie e forti disuguaglianze.
+:::
+
+---
+
+## La Ferrovia Arrivata Prima
+<span class="byline">Cronaca di Maja</span>
+
+Due serie di colpi. Poi silenzio.
+
+La campana è fissata al muro esterno della stazione, dentro una specie di cassetta di ferro, e nessuno la tocca. Suona da sola. Un uomo in uniforme blu alza gli occhi, conta con le labbra e grida qualcosa in tedesco verso i facchini.
+
+*MEMO, che cosa ha detto la campana?*
+
+*"Sistema Läutewerk, azionato dagli impulsi del telegrafo lungo la linea. Due serie di colpi: treno in arrivo da Trieste. Tre colpi rapidi: tutti a bordo."*
+
+Lubiana, estate 1857. Il tronco fino a Trieste è stato inaugurato il 27 luglio, alla presenza dell'imperatore Francesco Giuseppe e dell'imperatrice Elisabetta. Adesso, da Vienna al mare, il binario non si interrompe più: 577 chilometri.
+
+La prima cosa che faccio, come sempre, è leggere i cartelli. Gli ordini di servizio appesi dentro sono solo in tedesco. Sulla banchina, l'orario per i viaggiatori ripete le informazioni anche in sloveno e in italiano, in caratteri più piccoli, più in basso.
+
+Ecco. Lo sapevo.
+
+L'uomo in blu mi passa accanto. Il panno della sua giacca è pesante, di lana, e i bottoni d'ottone portano una ruota con le ali. Gli stivali hanno chiodi sotto la suola e lasciano segni neri sul pietrisco unto di grasso.
+
+**Maja:** "Quel foglio con i timbri, dentro. Lo capisce anche il deviatore di Borovnica?"
+
+**Ferroviere:** "Lo deve capire. Lo stesso foglio è appeso al Semmering e a Nabresina, parola per parola."
+
+**Maja:** "E se il tedesco non lo sa?"
+
+**Ferroviere:** "Impara le parole che servono. Una parola letta storta, e due treni si trovano sullo stesso binario."
+
+**Maja:** "E tutte le altre parole?"
+
+**Ferroviere:** "Le altre non fermano un treno, signorina."
+
+Sul taccuino avevo già scritto: *tedesco = chi comanda*. Tiro una riga sola sopra l'uguale, non su tutta la frase: voglio che resti visibile che cosa pensavo. Prima dei padroni, qui, vengono i freni. Però chi conosce solo le parole che servono resta appeso a qualcuno che gli traduca tutto il resto. Scrivo anche questo, sotto.
+
+Il treno arriva e si porta via ogni pensiero. Il calore della caldaia si sente ancora a tre metri di distanza, quasi toglie il fiato, mentre una fuliggine sottile mi si deposita sulle braccia insieme a schizzi caldi di vapore. Il fischio esplode come un urlo: fuori, nel piazzale, un cavallo si impenna fra le stanghe di un carro.
+
+Il carrettiere lo tiene per il muso. Ha le mani spaccate e un cappello deformato dalla pioggia di anni.
+
+**Maja:** "Si spaventa ancora, dopo otto anni?"
+
+**Carrettiere:** "Lui sì. Io mi sono solo arrabbiato."
+
+**Maja:** "Arrabbiato con il treno?"
+
+**Carrettiere:** "Con i conti. Da Vienna a Trieste, con i cavalli, le merci ci mettevano due settimane, quasi tre se c'era fango. Adesso la gente arriva a Trieste in una notte e un giorno. Chi vuole ancora pagare me e i miei cavalli?"
+
+MEMO mi mette in fila le cifre, e le tengo per quello che sono.
+
+*"Prima della ferrovia: 5-7 giorni in diligenza postale, 14-20 giorni per le merci su carro. Dal 1857: circa 22-24 ore in treno passeggeri fino a Trieste. I treni rapidi dell'agosto 1857: Vienna-Lubiana in 13 ore."*
+
+Il carrettiere ricorda il primo treno arrivato a Lubiana: un convoglio di prova, il 18 agosto 1849, il giorno del compleanno dell'imperatore. Il servizio regolare era partito il 16 settembre. Racconta che la gente si era ammassata lungo la strada per Vienna a guardare quella cosa sbuffante sul terrapieno, metà incantata, metà spaventata. Le cronache di Janez Bleiweis sulle *Novice* descrivono proprio quella miscela di incredulità e timore.
+
+1849. Otto anni prima di Trieste. Vent'anni prima di Suez.
+
+E allora perché, nei libri dei miei compagni italiani, Trieste diventa importante "grazie a Suez", e Lubiana non compare mai? Non come stazione, non come città in cui una ferrovia cambia i mestieri. Me lo chiedo sul serio, non per fare polemica. Qui il treno è arrivato prima di tutto il resto.
+
+Al cancello della banchina un controllore in berretto ferma tutti, uno per uno. Una donna con un cesto di uova al braccio gli porge un cartoncino rigido, numerato, lungo come due dita. Lui lo infila fra le ganasce di una pinza e stringe. *Tac.* Resta un foro dalla forma precisa.
+
+**Maja:** "Non fa prima a scriverci sopra la data?"
+
+**Controllore:** "Con la penna, sotto la pioggia, con cento persone in fila? E l'inchiostro si imita. Questo buco no: ogni stazione ha la sua pinza."
+
+**Maja:** "E se uno il buco se lo fa da solo, con un coltello?"
+
+**Controllore:** "Lo vedo da qui."
+
+Non gli servono registri né elenchi di nomi. Gli basta il bordo di un buco.
+
+::: scan-result
+### SCANNING: BIGLIETTO FORATO
+
+*   **Tipo:** Titolo di viaggio ferroviario, cartoncino rigido numerato.
+*   **Materiale:** Cartone pressato, spessore uniforme, bordi netti.
+*   **Funzione:** Certificare partenza e destinazione senza bisogno di scriverle sopra.
+*   **Dettaglio Tecnico:** Il controllore lo perfora con una pinza a forma fissa. Ogni stazione della linea ha il proprio disegno di foro: un biglietto rubato o alterato si smaschera a colpo d'occhio, senza registri da consultare.
+:::
+
+Quando il ferroviere si allontana, chiedo a MEMO che cosa non funziona ancora.
+
+*"Stima per il 1857-1860: tra 300.000 e 450.000 tonnellate annue di merci sulla tratta Lubiana-Trieste. Limiti: pochi vagoni coperti, salite ripide del Carso e del Semmering."*
+
+La linea c'è. Ma la linea, da sola, non porta navi a Trieste e non decide che cosa ci sarà dentro i vagoni. Il carrettiere risale sul carro vuoto. Accanto alla stazione, intanto, crescono il deposito delle locomotive e i mestieri che la ferrovia porta con sé: meccanici, calderai, fuochisti.
+
+Da Lubiana al molo di Trieste, adesso, basta qualche ora di treno. Da Trieste a Bombay, invece, bisogna ancora girare intorno all'Africa.
+
+::: memo-box
+### MEMO GLOSSARIO
+
+*   **Ferrovia di valico:** linea costruita per superare una catena montuosa con pendenze e curve che una locomotiva a vapore può affrontare. La ferrovia del Semmering, aperta il 17 luglio 1854, arriva a pendenze del 2,5% senza cremagliera, con 14 gallerie e 16 viadotti.
+*   **Telegrafo ferroviario:** filo elettrico lungo i binari che trasmette segnali da una stazione all'altra. A Lubiana fa suonare le campane che annunciano partenze e arrivi.
+*   **Orario ferroviario:** tabella che fissa partenze, arrivi e incroci dei treni su tutta la linea, stampata e affissa in stazione. Funziona solo se tutte le stazioni contano il tempo sulla stessa ora di riferimento, non ciascuna su quella del proprio campanile.
+:::
+
+---
+
+## Dieci Anni Per Tagliare Un Istmo
+<span class="byline">Cronaca di Alex</span>
+
+Il cammello sputa.
+
+Non addosso a me, per fortuna, ma abbastanza vicino da farmi fare un salto all'indietro nella sabbia. Il cammelliere ride senza nemmeno voltarsi. Sta scaricando dal fianco dell'animale un otre di pelle di capra gonfio d'acqua, e lo passa a un uomo scalzo con le piante dei piedi piene di piaghe.
+
+*MEMO. Dove, quando, e perché fa così caldo.*
+
+*"Istmo di Suez, 1862. Temperatura a mezzogiorno: 45-50 gradi all'ombra. Il Canale d'Acqua Dolce dal Nilo non è ancora completato."*
+
+All'ombra. Quale ombra, MEMO? Qui l'unica ombra è quella del cammello, e il cammello è occupato.
+
+Il vento soffia sabbia finissima dentro le orecchie, negli occhi, fra i denti. Davanti a me, a perdita d'occhio, c'è una trincea di terra e sale. Dentro la trincea, migliaia di uomini scavano a mano e portano via la terra in ceste.
+
+**Alex:** "Da dove viene tutta quest'acqua?"
+
+**Cammelliere:** "Dal fiume. Giorno e notte, andata e ritorno. Noi e i nostri animali."
+
+**Alex:** "Quanti animali?"
+
+**Cammelliere:** "Più di quanti ne abbia mai visti insieme mio padre."
+
+*"La Compagnia noleggia una carovana permanente di 1.600 cammelli dagli sceicchi beduini. Costo: decine di migliaia di franchi al mese."*
+
+Sedicimila… no, milleseicento cammelli. Che fanno da acquedotto. Nei film sulle grandi opere c'è sempre un ingegnere col cappello che srotola una mappa. Nessuno mostra il cammello che sputa, e nessuno mostra l'uomo scalzo.
+
+Mi avvicino a lui. Beve piano, come se l'acqua dovesse durare.
+
+**Alex:** "Lei è pagato per questo lavoro?"
+
+L'uomo mi guarda e non risponde subito. Parla arabo; MEMO traduce, e la sua traduzione non addolcisce niente.
+
+**Contadino:** "Il villaggio doveva mandare uomini. Hanno scelto me. Fra un mese torno, e ne arriva un altro."
+
+**Alex:** "E se non voleva venire?"
+
+**Contadino:** "Non l'ha chiesto nessuno."
+
+*"Sistema della corvée: lavoro obbligatorio imposto dal governo del viceré d'Egitto. Contingenti mensili di 20.000-25.000 contadini presi a rotazione dai villaggi."*
+
+La parola la conosco già. *Tlaka*. L'abbiamo incontrata nelle campagne della Carniola, ma qui non è la stessa cosa: non c'è un signore feudale con il suo castello, c'è un governo che presta braccia a una compagnia privata per scavare un canale. Il risultato, per i piedi di quest'uomo, però si somiglia parecchio.
+
+La sera, i contadini dormono in fosse scavate nella sabbia, coperte da stuoie di canne. Bevono acqua d'orzo bollita. Uno di loro me la offre: sa di pane bagnato. Serve a non prendersi la febbre che svuota lo stomaco.
+
+MEMO mi porta avanti.
+
+Il deserto resta uguale, il rumore no. Adesso è il 1867, e nella trincea allagata galleggia una specie di mostro di ferro. Una catena di tazze metalliche scende sott'acqua, risale piena di fango grigio-azzurro e lo rovescia in uno scivolo di latta lungo decine di metri che scarica la melma direttamente sopra l'argine. Clang. Clang. Clang. Il frastuono entra nelle ossa.
+
+Un operaio con la faccia nera di fumo mi fa segno di salire. Mi saluta in italiano, con un accento che mi ricorda qualcuno di casa.
+
+**Operaio:** "Attento a dove metti i piedi, che qui scivola tutto."
+
+**Alex:** "Dove sono finiti i contadini?"
+
+**Operaio:** "A casa. Nel '63 e '64 il nuovo chedivè e gli inglesi hanno fatto abolire il lavoro forzato. La Compagnia ha protestato. Napoleone III ha fatto l'arbitro e l'Egitto ha dovuto pagare un indennizzo."
+
+**Alex:** "L'Egitto ha pagato perché non poteva più obbligare la gente a lavorare gratis?"
+
+**Operaio:** "Ottantaquattro milioni di franchi, fra braccia perdute e terre e canale d'acqua dolce restituiti all'Egitto. E con quei soldi, tante di queste."
+
+Batte il palmo sulla lamiera della draga.
+
+*"Dal 1865 al 1869 l'impresa Couvreux & Lavalley impiega oltre 60 draghe a vapore. Fino a 2-3 milioni di metri cubi di sabbia e limo movimentati al mese. Profondità di scavo: 8 metri."*
+
+Si racconta che Ferdinand de Lesseps, l'uomo che ha ottenuto le concessioni dal viceré nel 1854 e nel 1856, chiamasse queste draghe "i nostri soldati d'acciaio". Guardo la catena di tazze che non si ferma mai, e penso che i soldati di prima avevano i piedi piagati.
+
+**Alex:** "Ma perché non ci sono chiuse? Nei canali ci sono sempre le chiuse."
+
+**Operaio:** "Perché i due mari stanno allo stesso livello. Una volta credevano di no, da quando c'era Napoleone il vecchio. Si erano sbagliati di quasi dieci metri."
+
+Dal fango che cola dalla tazza raccolgo una conchiglia fossile. È più vecchia di tutti noi messi insieme.
+
+*MEMO, quante persone sono morte qui?*
+
+*"Stima della storiografia accademica: fra 1.500 e 4.000 morti, soprattutto per il colera del 1865. Circa 1,5 milioni di lavoratori egiziani passati a turno per il cantiere, anche questo stimato. La cifra di 120.000 morti, diffusa molto più tardi, non trova riscontro nei documenti rimasti."*
+
+Anche 1.500 sono tantissimi. Il fatto che non siano 120.000 non li cancella. E il fatto che siano tanti non rende vero il numero più grande.
+
+Il 17 novembre 1869, dalla riva, guardo passare lo yacht imperiale francese *L'Aigle*, con l'imperatrice Eugenia a bordo. Dietro sfilano altre navi, bandiere, uniformi con i galloni. Fra gli ospiti c'è anche l'imperatore Francesco Giuseppe d'Austria. Nessuno di quelli sul ponte ha mai dormito in una fossa coperta di canne.
+
+*"Distanze prima e dopo: Trieste-Bombay da circa 11.600 a circa 4.350 miglia nautiche. Il vantaggio è soprattutto per i piroscafi: nel Mar Rosso i venti contrari e i banchi di corallo rendono la vela lenta e pericolosa."*
+
+Il mare si è accorciato di due terzi. Ma solo per chi ha una caldaia, e un porto dove arrivare.
+
+::: memo-box
+### MEMO GLOSSARIO
+
+*   **Istmo:** striscia di terra stretta che separa due mari e unisce due terre. Quello di Suez separa il Mediterraneo dal Mar Rosso.
+*   **Canale a livello:** canale che collega acque alla stessa altezza e quindi non ha bisogno di chiuse. Suez, lungo in origine circa 164 chilometri, è di questo tipo.
+*   **Dragaggio:** scavo sott'acqua fatto da una macchina galleggiante, la draga, che raccoglie fango e sabbia dal fondo con tazze o benne.
+*   **Tlaka / corvée (richiamo):** lavoro obbligatorio non pagato o quasi. In Egitto lo impone il governo del viceré a favore del cantiere: non è la tlaka feudale della Carniola, anche se le somiglia.
+:::
+
+---
+
+## Il Porto Che Prima Era Nuovo
+<span class="byline">Cronaca di Alex</span>
+
+Il vecchio nel letto tiene un libretto sulle coperte come se fosse un'arma.
+
+Ha settantaquattro anni e la pelle del colore della carta. La stanza è enorme, piena di quadri e di tende pesanti, eppure lui sembra occupare solo il cuscino. Fuori dalle finestre c'è Trieste, estate 1869. Fra poche settimane, l'8 settembre, questo uomo morirà. Lui non lo sa. Io sì, e mi sento un ladro.
+
+*MEMO, chi è?*
+
+*"Barone Pasquale Revoltella, nato a Venezia nel 1795. Banchiere, azionista importante delle Assicurazioni Generali, consigliere del Lloyd Austriaco. Vicepresidente della Compagnia del Canale di Suez."*
+
+**Revoltella:** "Tu non sei un servitore."
+
+**Alex:** "No. Sono… uno che vuole capire. Perché un banchiere di Trieste sta dentro una compagnia francese?"
+
+**Revoltella:** "Perché non restasse soltanto francese. Anni a Parigi e a Vienna, a convincere. Se il canale apre e i capitali sono tutti di un altro, il vantaggio va a un altro."
+
+Solleva il libretto. È un suo saggio del 1862, sui rapporti commerciali fra Francia e Austria per mezzo del Canale di Suez.
+
+**Alex:** "Quindi, quando il canale apre, Trieste vince. Giusto?"
+
+**Revoltella:** "Sbagliato."
+
+Ci resto male. Per me era ovvio.
+
+**Revoltella:** "La nave arriva. E poi? Se il porto è basso, la nave non entra. Se non c'è dove posare la merce, marcisce sul molo. Se il treno non arriva fin sotto la nave, la merce va a Marsiglia. O a Genova. O a Venezia."
+
+**Alex:** "Quindi il canale da solo non basta."
+
+**Revoltella:** "Il canale è una porta. Una porta non è una casa."
+
+Tossisce a lungo. Le lettere private di questi mesi, mi dice MEMO, parlano di un uomo costretto a letto, amareggiato, mentre arrivano le notizie dello scavo quasi finito. Morirà settanta giorni prima dell'inaugurazione. E lascerà il palazzo e le sue collezioni alla città, perché diventino un museo.
+
+::: target-profile
+### SCHEDA PERSONAGGIO: Pasquale Revoltella
+
+*   **Ruolo:** banchiere triestino nato a Venezia, vicepresidente della Compagnia del Canale di Suez, attivo fra Parigi e Vienna dal 1855 al 1858.
+*   **Forza:** 3 — non muove pietre ma denaro, e nessuno fa niente senza denaro; però la malattia lo inchioda a letto proprio alla vigilia.
+*   **Intelligenza:** 5 — nel 1862 scrive nero su bianco ciò che quasi nessuno vuole ancora vedere: il canale senza porto e ferrovia regala il vantaggio ai concorrenti.
+*   **Carisma:** 4 — riesce a entrare in una compagnia nata a Parigi e a pesarci dentro come uomo di Trieste e di Vienna.
+*   **Abilità Speciale (La Scommessa In Anticipo):** trasforma una rotta che ancora non esiste in un piano che lega capitali, moli e binari — e lo mette per iscritto sette anni prima che la prima nave passi dal canale.
+:::
+
+MEMO mi spinge avanti di quattordici anni.
+
+Stessa città, altra aria. Adesso sa di caffè. Non di caffè da bar: un odore tostato e pungente, polveroso, che viene dai sacchi di chicchi verdi accatastati sulla banchina. Sotto c'è la pece calda, il fumo dei rimorchiatori, il sale. Attorno alle bitte di ghisa l'acqua ha chiazze scure d'olio.
+
+Trieste, 1883. A nord della città vecchia si allungano moli nuovi e magazzini di pietra a più piani. Fra un magazzino e l'altro corrono i binari, fin quasi sotto le fiancate delle navi.
+
+**Alex:** "Wow, il Porto Vecchio!"
+
+Un facchino che passa con un sacco sulla spalla si ferma e mi guarda come se fossi scemo.
+
+**Facchino:** "Vecchio? L'hanno appena finito. Questo è il Porto Nuovo."
+
+*"Confermato. Negli atti del periodo: Porto Nuovo, Neuer Hafen. Il nome 'Porto Vecchio' nascerà solo nel primo Novecento, quando si costruirà un altro porto più a sud."*
+
+Il nome che uso io è il nome del futuro. Qui, adesso, questo posto è nuovo di zecca.
+
+*MEMO, chi l'ha costruito?*
+
+*"Convenzione del 1867 fra il governo imperiale e la Società della Ferrovia Meridionale. Lavori dal 1868. Prima grande fase completata nel 1883."*
+
+Il resto me lo faccio mostrare sulla mappa: progetto dell'ingegnere francese Paulin Talabot, lavori della ditta Couvreux & Hersent, primi moli in funzione già dal 1877.
+
+Quindi non l'ha fatto Revoltella. Lui l'aveva scritto. L'hanno deciso un governo e una compagnia ferroviaria, e costruito centinaia di persone per quindici anni. Costo stimato, secondo MEMO: fra 25 e 30 milioni di fiorini, forse di più.
+
+Davanti a un magazzino, due uomini si fronteggiano davanti a una porta di ferro. Uno ha l'uniforme della dogana imperiale. L'altro è un impiegato di un commerciante. Tutti e due tengono in mano una chiave.
+
+**Alex:** "Perché due chiavi?"
+
+**Doganiere:** "Perché la porta ha due serrature. Una la apre lui, una la apro io. Da solo, nessuno entra."
+
+**Alex:** "Non vi fidate?"
+
+**Impiegato:** "Qui dentro c'è caffè che vale più delle nostre case. Nessuno si fida."
+
+**Doganiere:** "E se la merce resta qui, il dazio aspetta. Se esce verso l'interno, il dazio si paga."
+
+La porta scorre su un contrappeso. È di lamiera spessa: MEMO dice che serve a chiudere ogni campata in caso d'incendio. Dentro, il pavimento sta un metro e mezzo più su del molo, con aperture di ventilazione sotto, e i muri sono doppi, pietra e mattoni forati, con uno spazio vuoto in mezzo. Il salmastro non deve arrivare ai sacchi.
+
+Ecco perché un canale non basta. Una nave veloce che scarica caffè su un molo bagnato e senza tetto è solo un modo rapido di rovinare il caffè.
+
+*"Statistiche della Camera di Commercio: nessuna impennata automatica nel 1870. Il traffico cresce gradualmente, insieme ai moli del Porto Nuovo e alla penetrazione della ferrovia. Naviglio a vapore: da circa 66.000 tonnellate nel 1870 a oltre 268.000 negli anni Novanta."*
+
+Il facchino che mi aveva corretto ripassa, piegato sotto un altro sacco.
+
+**Alex:** "Scusa per il 'vecchio'."
+
+**Facchino:** "Fra vent'anni chiamerai vecchio anche me."
+
+La porta di ferro si richiude. Servono di nuovo due chiavi.
+
+::: memo-box
+### MEMO GLOSSARIO
+
+*   **Magazzino doganale:** deposito controllato in cui una merce può restare senza pagare subito il dazio. Si paga solo quando la merce esce verso il mercato interno. Fino al 1891 tutta Trieste è porto franco, poi la franchigia resta solo alle aree portuali recintate.
+*   **Gru idraulica:** gru che solleva i carichi con acqua spinta ad alta pressione. A Trieste arriverà con la Centrale Idrodinamica, in servizio pieno nel 1891: nel 1883 le gru sono ancora a vapore o a mano.
+*   **Raccordo ferroviario portuale:** binario che arriva fin sulle banchine, così la merce passa dalla nave al vagone senza attraversare la città su un carro.
+:::
+
+::: checkpoint
+### CHECKPOINT: Che cosa rende strategica la nuova rotta?
+
+Finora hai raccolto: la ferrovia raggiunge Trieste nel 1857, dodici anni prima di Suez; il canale apre nel 1869, ma il Porto Nuovo richiede lavori dal 1868 al 1883 e il traffico cresce solo gradualmente.
+
+*   **A.** Il Canale di Suez è la causa decisiva: cambia la geografia dei traffici, mentre ferrovia e porto sono strumenti che si adeguano alla nuova rotta.
+*   **B.** Suez crea un'opportunità: la rotta diventa strategica dove una ferrovia già esistente e un porto adeguato riescono a trasformarla in un flusso continuo verso l'interno.
+
+Tieni a mente la tua risposta — il Verdetto nel Debriefing te la confermerà, la correggerà, o mostrerà che la realtà era più complicata di entrambe.
+:::
+
+---
+
+## Chi Tiene La Chiave Del Canale
+<span class="byline">Cronaca di Alex</span>
+
+L'uomo dietro la scrivania stacca un acino d'uva dal grappolo e se lo mette in bocca, con calma.
+
+Londra, novembre 1875. Uno studio di legno scuro nella sede della banca Rothschild, a New Court. Io sono in un angolo e cerco di sembrare un soprammobile.
+
+Il visitatore porta un messaggio segreto del primo ministro Benjamin Disraeli. Ha fretta. La sua richiesta è semplice e assurda: quattro milioni di sterline. Subito.
+
+**Rothschild:** "Qual è la garanzia?"
+
+**Messo:** "Il governo britannico."
+
+**Rothschild:** "Avrete il denaro."
+
+Un altro acino. Fine della trattativa. Io volevo vedere un'asta drammatica, gente che urla, e invece la storia si decide fra un chicco d'uva e l'altro.
+
+*MEMO, spiega. Massimo tre cose, lo so.*
+
+*"Uno: l'Egitto è quasi in bancarotta. Due: il chedivè Ismail vende le sue 176.602 azioni della Compagnia, circa il 44% del capitale. Tre: il Parlamento è in vacanza, quindi Disraeli si fa prestare i soldi da Rothschild."*
+
+Tre, contate. Il prezzo del favore glielo devo chiedere a parte: 2,5% di commissione e 5% d'interesse. Il 2,5% di quattro milioni fa circa 100.000 sterline. Per un "avrete il denaro" detto fra due acini.
+
+**Alex:** "Quindi adesso il canale è degli inglesi?"
+
+**Messo:** "La regina avrà la chiave dell'India."
+
+Lo dice con orgoglio. Disraeli scriverà una frase simile alla regina Vittoria, *la chiave dell'India è nelle vostre mani*. Ma MEMO mi avverte subito: è un'esagerazione per compiacere la sovrana. Gli statuti della Compagnia limitano a dieci i voti in assemblea di un singolo azionista, la sede resta a Parigi, e il territorio è ancora dell'Egitto, che a sua volta sta sotto la sovranità dell'Impero Ottomano.
+
+Il 44% di una società. Non un pezzo di deserto. Non un esercito.
+
+MEMO mi sposta di sette anni, e il salto mi fa sudare prima ancora di atterrare.
+
+Port Said, settembre 1882. Una nave a vapore è ferma accanto a una fila di chiatte cariche di carbone. Fra le chiatte e lo scafo ci sono assi di legno che si piegano, e su quelle assi corrono centinaia di uomini, arabi e somali, con ceste di giunco sulle spalle. Ogni cesta, dice MEMO, pesa circa quaranta chili. Salgono di corsa, rovesciano il carbone nei portelli, ridiscendono. Salgono di nuovo.
+
+Sul ponte i marinai stendono teli di canapa bagnata sopra i boccaporti e le porte delle cabine. Un ufficiale controlla.
+
+**Alex:** "Perché bagnate i teli?"
+
+**Ufficiale:** "La polvere di carbone passa dappertutto. Rovina le cabine, i passeggeri, la posta. La posta imperiale non arriva nera a Bombay."
+
+**Alex:** "E quanto carbone vi serve?"
+
+**Ufficiale:** "Una trentina di tonnellate al giorno, a dieci nodi. Ne carichiamo per otto giorni, più un quinto di margine. Il resto della stiva deve portare merce, o il viaggio non rende."
+
+**Alex:** "E se il carbone finisce?"
+
+**Ufficiale:** "Non finisce. Gibilterra, Malta, Port Said, Suez, Aden, Bombay. Ci sono depositi lungo tutta la strada. Senza quelli, la rotta non esiste."
+
+Da una grata sale un'ondata di calore che mi fa indietreggiare. MEMO mi mostra i rapporti medici della marina di quest'anno: nelle sale macchine delle navi a vapore nel Mar Rosso si superano i cinquanta gradi, e i fuochisti spalano a torso nudo, coperti di polvere nera e sudore, con stracci bagnati legati sulla fronte. Scherzerei sul fatto che il Mar Rosso è una sauna, ma non mi esce.
+
+**Alex:** "Perché qui ci sono soldati inglesi? Nel 1875 avevate solo comprato azioni."
+
+**Ufficiale:** "Nel 1875 sì. Poi c'è stata la rivolta di Urabi. E il canale va protetto."
+
+Lo dice come fosse una cosa ovvia. MEMO, invece, separa i pezzi.
+
+*"1881-1882: rivolta guidata dal colonnello Urabi contro il chedivè Tawfiq e contro il controllo franco-britannico sul debito, che assorbe oltre metà delle entrate fiscali. Luglio 1882: la flotta britannica bombarda Alessandria. 13 settembre: vittoria britannica a Tell el-Kebir, dopo lo sbarco a Ismailia."*
+
+Adesso il controllo è militare. Il chedivè resterà al suo posto, ma negli anni seguenti ogni decisione passerà da un console generale britannico. Non sarà una colonia ufficiale: gli storici lo chiameranno "protettorato velato".
+
+**Alex:** "Allora chi comanda il canale? Chi ha le azioni, chi ha il territorio o chi ha i soldati?"
+
+**Ufficiale:** "Chi può restare."
+
+Non so se mi convince. Nel 1888 una convenzione firmata a Costantinopoli dichiarerà il canale libero per le navi di ogni bandiera, in pace e in guerra. Sulla carta. Nei fatti, i soldati britannici restano lì.
+
+Giù dalle assi, un uomo inciampa, si rialza, riprende la cesta. Non ha mai posseduto un'azione.
+
+::: memo-box
+### MEMO GLOSSARIO
+
+*   **Imperialismo:** espansione del potere politico, economico e militare di uno Stato su territori e popoli fuori dai propri confini, anche senza trasformarli formalmente in colonie.
+*   **Quota azionaria:** parte del capitale di una società. Chi la possiede riceve una parte degli utili e ha un certo peso nelle decisioni, ma non diventa padrone del territorio in cui la società lavora.
+*   **Stazione carboniera:** porto con depositi di carbone dove le navi a vapore si riforniscono. Una rotta lunga funziona solo se le stazioni sono abbastanza vicine fra loro.
+*   **Colonia e occupazione militare (richiamo):** non sono sinonimi. Nel 1882 l'Egitto è occupato militarmente, ma non diventa colonia; sarà protettorato formale solo dal 1914.
+:::
+
+---
+
+## Una Cassa, Due Reporter, Un Continente
+<span class="byline">Cronaca di Maja</span>
+
+**Alex:** "Maja. Guarda che roba. Questa è arrivata dall'India."
+
+Ha la mano appoggiata su qualcosa di enorme, fasciato in una tela ruvida di iuta e stretto da cerchi di ferro arrugginito: una balla di cotone grande quanto un armadio, con lettere nere dipinte a stencil e un timbro rosso della dogana su un lato.
+
+Porto Nuovo di Trieste, primavera 1890. Mission Control ci ha fatti saltare insieme, stesso giorno, stesso molo. Nessuna comunicazione a distanza. Solo io, lui e un carico da seguire.
+
+**Maja:** "Da dove lo leggi, che viene dall'India?"
+
+**Alex:** "Dal fatto che… è cotone. E c'è Suez."
+
+**Maja:** "Trieste riceve cotone da Bombay, certo. Ma anche dall'Egitto, via Alessandria — e Alessandria si affaccia sul Mediterraneo, non sul Mar Rosso. Una nave che arriva da lì il canale non lo vede nemmeno."
+
+Alex apre la bocca, la richiude. Poi passa il dito sul timbro.
+
+**Alex:** "Ok. Quindi da questa balla non so se è passata da Suez."
+
+**Maja:** "No. Lo sai dal registro della nave, se lo trovi."
+
+Non lo dico per vincere. Lo dico perché è quello che la balla può provare e quello che non può.
+
+Accanto alla nave del Lloyd Austriaco, un facchino si piega, due compagni gli sistemano la balla sulla schiena, e lui si raddrizza. MEMO dice che queste balle pesano fra i 100 e i 200 chili. L'uomo cammina fino al vagone a passi corti. Da vicino la fibra sembra unta, e rilascia una polvere finissima che mi gratta in gola.
+
+È Alex che si ferma a guardarlo. Io stavo già cercando il documento.
+
+**Alex:** "Questo pezzo della catena non lo scrive nessuno, vero?"
+
+**Maja:** "Nella lettera di vettura c'è il peso. Non c'è chi l'ha portato."
+
+Due vagoni più in là, altri facchini caricano sacchi di caffè crudo diretti a Vienna. Il vagone del cotone è già chiuso. Un funzionario della dogana passa un filo di ferro negli anelli della porta, ci stringe attorno una pastiglia di piombo e la schiaccia con una pinza speciale. Su una faccia resta l'aquila a due teste. Sull'altra, le lettere dell'ufficio doganale di Trieste.
+
+Poi inchioda sulla parete esterna una custodia di tela cerata. Dentro c'è la lettera di vettura, in più copie timbrate: marca, numero di balle, peso netto, sigilli, responsabilità della ferrovia.
+
+**Funzionario:** "Se a Lubiana o a Vienna il piombo ha anche solo un graffio, il treno si ferma. E la compagnia paga tutto."
+
+**Maja:** "E la destinazione?"
+
+**Funzionario:** "Littai."
+
+Litija. So benissimo dov'è. MEMO conferma: nel 1886, lungo la ferrovia, è nata la filanda Predilnica Litija, fondata da Julius Schwarz di Trieste e da Eugen Zublin di Manchester. Compra balle sbarcate al Porto Nuovo e le trasforma in filato.
+
+Si parte.
+
+Sulla salita del Carso verso Postojna il treno arranca a meno di venticinque all'ora: una locomotiva davanti tira, un'altra dietro spinge. Siamo all'aperto, sul terrazzino di un vagone, vicino a un frenatore con la mano sulla manovella del freno a vite. Il fumo grigio sa di zolfo e resta sospeso sopra le doline, nell'aria fredda. A ogni curva le rotaie stridono.
+
+**Alex:** "Lei gira quella roba ogni volta che fischiano?"
+
+**Frenatore:** "Fischio, stringo. Se sbaglio in discesa, il treno non lo ferma più nessuno."
+
+**Alex:** "E chi c'è davanti, a far andare tutto questo?"
+
+**Frenatore:** "Il fuochista. Tre, quattro tonnellate di carbone a pala per ogni viaggio. Questa salita se lo mangia."
+
+Io intanto penso a Litija, e mi sembra tutto chiarissimo.
+
+**Maja:** "Hai visto? Cotone da Trieste a una fabbrica in Carniola, senza toccare terra. È la ferrovia che fa il lavoro. E c'è dal 1857."
+
+**Alex:** "La filanda, invece, c'è dal 1886."
+
+**Maja:** "E allora?"
+
+**Alex:** "Allora fanno ventinove anni di binari senza filanda. Se bastava il treno, cosa aspettavano? Prima il cotone a Trieste ci deve arrivare. Nave, molo, e quel tizio con duecento chili sulla schiena."
+
+Stavo per ribattere. Mi fermo. Ci facciamo questa domanda da quando ci conosciamo, e stavolta tocca a me: che cosa potrebbe smentirmi? Ce l'ho sotto i piedi. Ventinove anni di rotaie, e nessuna filanda.
+
+**Maja:** "Ok. Punto tuo."
+
+**Alex:** "Me lo scrivo."
+
+A Lubiana il treno si ferma, e qui tocca a me guardare bene, perché questa è casa mia.
+
+Il cotone non scende. Il caffè non scende. I vagoni sigillati restano chiusi. La locomotiva prende acqua e carbone, i macchinisti e i fuochisti vengono sostituiti, e in coda vengono agganciati altri vagoni: carbone delle miniere di Trbovlje, legname carniolino.
+
+Alex si sporge dal terrazzino a guardare la fila di porte sigillate.
+
+**Alex:** "Aspetta. Nessuno scarica niente? E io che mi immaginavo il gran mercato delle spezie."
+
+**Maja:** "Il caffè per Vienna resta chiuso lì dentro. Qui si ferma solo la locomotiva, a bere e a mangiare carbone."
+
+**Alex:** "Allora Lubiana è un tubo. Entra da una parte, esce dall'altra."
+
+**Maja:** "Prima di dirlo, conta le persone. Il fuochista che ha appena passato la pala al collega. Il deposito là davanti, con le locomotive da rimettere in sesto. Il carbone di Trbovlje che ci stanno attaccando in coda."
+
+Alex guarda il deposito, poi i vagoni nuovi in coda.
+
+**Alex:** "Il carico passa, il lavoro resta. Un tubo con dentro un sacco di gente."
+
+**Maja:** "Scrivilo meglio di così, ma sì."
+
+Sul muro della stazione c'è un orologio con due lancette dei minuti. Quella dorata segna l'ora di Vienna, che dal 1872 vale per tutti i treni austriaci. Quella nera segna l'ora di Lubiana, indietro di circa sette minuti e mezzo: il sole, qui, arriva più tardi che a Vienna. A Trieste la lancetta nera restava indietro di una decina.
+
+*MEMO, quanto ci mette tutto il viaggio?*
+
+*"Stima: fra 36 e 48 ore da Trieste allo scalo merci di Vienna, controlli e soste comprese. Dal 1° ottobre 1891 le ferrovie dell'Austria-Ungheria passeranno all'ora dell'Europa centrale."*
+
+Il treno riparte verso est. Fra poche ore il vagone di Litija verrà staccato davanti a una filanda, e il resto andrà verso Vienna. Alex si è seduto sul bordo del terrazzino e guarda le rotaie.
+
+Comincia a contare sulle dita, come fa quando vuole avere l'ultima parola.
+
+**Alex:** "Niente Suez: meno cotone da Bombay. Niente porto: la nave resta lì carica. Niente ferrovia: la balla marcisce sul molo."
+
+**Maja:** "Ti manca un dito. Niente Lubiana, niente acqua per la locomotiva a metà strada."
+
+**Alex:** "L'avevi preparata."
+
+**Maja:** "Da Postojna."
+
+Il fischio arriva, e il frenatore stringe. Per un pezzo di strada stiamo zitti tutti e due.
+
+::: memo-box
+### MEMO GLOSSARIO
+
+*   **Trasbordo:** passaggio fisico di una merce da un mezzo di trasporto a un altro, per esempio dalla nave al vagone. È il momento in cui si rischia di più di perderla, rovinarla o rubarla.
+*   **Lettera di vettura:** documento in più copie che accompagna la merce sul treno. Indica marca, numero di colli, peso, sigilli e responsabilità della ferrovia in caso di danno o ritardo.
+*   **Tempo ferroviario standard:** ora comune usata da tutta una rete per orari e coincidenze. Dal 1872 le ferrovie austriache usano l'ora di Vienna; dal 1° ottobre 1891 quelle dell'Austria-Ungheria adottano l'ora dell'Europa centrale.
+:::
+
+---
+
+## Debriefing
+
+Sul tavolo di Mission Control ci sono sei oggetti: un carboncino consumato, un biglietto di cartoncino con un foro a forma di stazione, una conchiglia fossile, una chiave di ferro, una cesta di giunco vuota e un sigillo di piombo con l'aquila a due teste.
+
+Europa e mondo, Alto Adriatico, terre slovene. Tre tracce, un solo carico.
+
+**Mission Control:** "Prima di chiudere il rapporto: ognuno prende l'oggetto che gli ha fatto cambiare idea. Il proprio non vale."
+
+Alex allunga la mano verso la chiave di ferro, ci ripensa e prende il biglietto forato.
+
+**Alex:** "Io avevo Suez, 1869, e basta. Questo dice che il treno per il mare c'era già da dodici anni."
+
+Maja rigira il sigillo di piombo fra le dita, lo rimette giù e prende la chiave.
+
+**Maja:** "E io avevo la ferrovia e basta. Ma un binario che arriva su un molo senza magazzini porta solo caffè bagnato."
+
+**Alex:** "Hai preso la mia chiave."
+
+**Maja:** "E tu il mio biglietto. Pari."
+
+**Alex:** "Me lo scrivo."
+
+Nessuno dei due rimette sul tavolo l'oggetto dell'altro.
+
+**Verdetto.** L'Ipotesi Iniziale è incompleta: Suez fu il grande acceleratore marittimo, soprattutto per i piroscafi, ma non trasformò Trieste da solo e non di colpo. Trieste poté funzionare da porta verso l'Europa centrale perché la ferrovia via Lubiana esisteva già dal 1857 e perché il Porto Nuovo, costruito fra il 1868 e il 1883, collegò nave, magazzino e vagone. Al Checkpoint, **B è la risposta più completa**; A individua il fattore che mise sotto pressione la rete, ma nessuno dei tre anelli, da solo, avrebbe prodotto lo stesso risultato. E sopra tutti e tre, dal 1882, sta un potere militare che non possiede il canale ma lo controlla.
+
+::: reality-check
+### CIÒ CHE NON SAPPIAMO ANCORA
+
+*   **Il costo umano esatto di Suez:** la storiografia accademica stima fra 1.500 e 4.000 morti e circa 1,5 milioni di lavoratori passati a turno per il cantiere, mentre una tradizione politica molto più tarda parla di 120.000 morti. La cifra più alta non trova riscontro; quella esatta, con i documenti rimasti, non si può fissare.
+*   **Quanto traffico "creò" davvero il canale:** dopo il 1869 i traffici triestini crescono, ma insieme crescono anche i moli, la ferrovia e l'economia industriale. Separare l'effetto di Suez da tutto il resto resta difficile.
+*   **Da quando Trieste è "la Porta d'Oriente":** non è un titolo ufficiale ma uno slogan di guide e opuscoli commerciali della seconda metà dell'Ottocento. Quando sia diventato un'idea che anche i triestini usavano per descrivere se stessi, le fonti non lo dicono con precisione.
+:::
+
+::: memo-box
+### CRONOLOGIA ESSENZIALE
+
+*   **1849:** la Ferrovia Meridionale raggiunge Lubiana (servizio regolare dal 16 settembre).
+*   **1857:** il 27 luglio si inaugura il tratto fino a Trieste; la linea Vienna-Lubiana-Trieste è completa.
+*   **1859-1869:** costruzione del Canale di Suez, aperto il 17 novembre 1869.
+*   **1868-1883:** costruzione del Porto Nuovo di Trieste, in funzione parziale dal 1877.
+*   **1875 e 1882:** la Gran Bretagna compra il 44% delle azioni; sette anni dopo occupa militarmente l'Egitto.
+*   **1891:** le ferrovie austro-ungariche adottano l'ora dell'Europa centrale; a Trieste il porto franco si restringe alle aree portuali.
+:::
+
+La rete adesso è abbastanza completa da sembrare invincibile. Una nave da Bombay, un canale nel deserto, due chiavi in un magazzino, un sigillo di piombo e un'ora comune da Trieste a Vienna.
+
+La domanda che resta sulla soglia del Novecento è un'altra. Che cosa succede quando porti, ferrovie, canali e imperi dipendono tutti dagli stessi pochi passaggi?
+
+<!-- WORD COUNT: ~7350 -->
+<!-- PERSONA CHECK: Alex/Maja voice intact? Pass — Alex keeps the ironic media-vs-reality tic (documentario, film sulle grandi opere) at controlled frequency (2 explicit uses), the MEMO banter register, and the competitive-but-generous dynamic with Maja (Beat 6: "Me lo scrivo" / "Ti manca un dito"). Maja keeps the structural lens (chi lavora, non solo chi transita), the "perché nessuno lo racconta mai" tic (Beat 2, one explicit use), and precise emotional self-naming ("Mi brucia un po'"). No drift into generic AI narration. -->
+<!-- NUF CHECK:
+1. Sequenza 1849/1857→1859-1869→1868-1883→1875/1882 ricostruibile con causa per ogni passaggio ✅
+2. Causa necessaria vs sufficiente — nessuno dei tre anelli basta da solo, reso esplicito nel Verdetto e nel conteggio sulle dita di Beat 6 ✅
+3. Seconda rivoluzione industriale come rete (elettricità+chimica+ferrovia+telegrafo+società di massa) in Beat 1 ✅
+4. Rotta commerciale come leva imperialista — proprietà/territorio/controllo militare distinti in Beat 5 ✅
+5. Meraviglia e disagio insieme — luce elettrica/turni più lunghi (Beat 1), cantiere di Suez con morti stimati (Beat 3), lavoro invisibile del facchino (Beat 6) ✅
+6. Ferrovia meridionale con date 1849/1854/1857, percorso Vienna-Semmering-Lubiana-Trieste, effetti su Lubiana, nessuna Austria-Ungheria anticipata ✅
+7. Suez con concessione, cantiere, lavoro coatto, dragaggio, niente chiuse, apertura 17 nov 1869, vantaggio vapore vs vela, cifre contese qualificate ✅
+8. Revoltella-Compagnia-porto ampliato con fonti distinte, nessuna fusione in leggenda causale unica ✅
+9. Beat 2 raccontato da Maja come storia propria della Carniola (lingua, lavoro, posizione di Lubiana), non strada di servizio verso Trieste ✅
+10. Beat 6: Maja segue la merce, Alex la mette alla prova e viene corretto ("Ti manca un dito"), nessuno parla al posto dell'altro ✅
+-->
+<!-- ANTI-AI CHECK: Nessuna frase vietata ("come sappiamo", "è importante notare", morale esplicita) rilevata. Nessun pattern bannato (niente "Immaginate di essere", niente "Ebbene sì/Sorprendentemente", niente personaggio storico che tiene una lezione, niente "anche in Slovenia" per introdurre Maja). Formula sensoriale "il primo X prima di Y" non utilizzata in modo meccanico ripetuto. Zero etichette di produzione (Beat/Scena/EU/GIULIA/SLOVENIA) nel testo — rese sempre come "Europa e mondo", "Alto Adriatico", "terre slovene". "Capitolo" compare una sola volta, nel titolo. Un solo checkpoint (dopo Beat 4), un solo target-profile (Revoltella, supera il test operativo dell'Abilità Speciale), un scan-result aggiunto sul biglietto forato per rinforzare la gamification (nessun Easter Egg, come da struttura). Ogni [ESTIMATE] del dossier reso con linguaggio di cautela ("si stima", "circa", range). -->
 
 
 <div style="page-break-after: always;"></div>
