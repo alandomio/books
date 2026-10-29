@@ -1,0 +1,96 @@
+/* Il Mondiale della Dissonanza - Pamphlet Style CSS (EPUB) */
+
+/* Typography */
+body {
+    font-family: "Georgia", "Times New Roman", serif;
+    font-size: 1.1em;
+    line-height: 1.6;
+    text-align: justify;
+    color: #111;
+    margin: 1em;
+    padding: 0;
+}
+
+h1 {
+    font-family: "Georgia", serif;
+    font-size: 1.8em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-top: 1.5em;
+    margin-bottom: 1.2em;
+    text-align: center;
+    color: #900; /* Deep red for pamphlet/manifesto look */
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    border-bottom: 2px solid #900;
+    padding-bottom: 0.5em;
+}
+
+h2 {
+    font-family: "Georgia", serif;
+    font-size: 1.3em;
+    font-weight: bold;
+    margin-top: 1.8em;
+    margin-bottom: 0.8em;
+    color: #333;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 0.2em;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 0.8em;
+    text-indent: 1.5em;
+}
+
+/* No indent for first paragraph after headings */
+h1 + p,
+h2 + p,
+h3 + p,
+.no-indent {
+    text-indent: 0;
+}
+
+/* Blockquotes for Gonzo rants */
+blockquote {
+    margin: 1.5em 1em;
+    font-style: italic;
+    color: #444;
+    border-left: 3px solid #900;
+    padding-left: 1em;
+    background-color: #fafafa;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+
+/* Table of Contents */
+nav#TOC {
+    margin: 2em 0;
+}
+
+nav#TOC h1 {
+    text-align: center;
+    border-bottom: none;
+    color: #000;
+}
+
+nav#TOC ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+nav#TOC li {
+    margin-bottom: 0.8em;
+}
+
+nav#TOC a {
+    text-decoration: none;
+    color: #111;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background: #ccc;
+    margin: 2em 0;
+}
