@@ -92,7 +92,7 @@ books/<book-slug>/
 ├── INSTRUCTION.md
 ├── STYLE_BIBLE.md
 ├── PUBLISH_CONFIG.md  ← copied from .claude/skills/new-book/PUBLISH_CONFIG.template.md, then filled in (Step 2.5)
-├── ralph.sh           ← copied from .claude/skills/new-book/ralph.sh
+├── ralph.sh           ← copy of scripts/ralph.sh
 ├── generate_cover.sh  ← copied from .claude/skills/new-book/scripts/generate_cover.sh
 ├── publish.sh         ← copied from .claude/skills/new-book/scripts/publish.sh
 ├── drafts/
@@ -105,7 +105,8 @@ books/<book-slug>/
 
 Copy the pipeline runner and publishing scripts into the project:
 ```bash
-cp .claude/skills/new-book/ralph.sh books/<book-slug>/ralph.sh
+# canonical runner: scripts/ralph.sh (the skill keeps an identical copy)
+cp scripts/ralph.sh books/<book-slug>/ralph.sh
 cp .claude/skills/new-book/scripts/generate_cover.sh books/<book-slug>/generate_cover.sh
 cp .claude/skills/new-book/scripts/publish.sh books/<book-slug>/publish.sh
 chmod +x books/<book-slug>/ralph.sh books/<book-slug>/generate_cover.sh books/<book-slug>/publish.sh

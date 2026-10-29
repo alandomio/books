@@ -4,14 +4,43 @@ Questo repository è un **monorepo** progettato per gestire la scrittura, la gen
 
 ## 📂 Struttura
 
-Il progetto è organizzato in workspace gestiti da NPM:
+```
+books/<libro>/        un libro per cartella
+  PRD.md              visione e struttura del libro        (libri vecchi: PLAN.md)
+  INSTRUCTION.md      regole per gli agenti                (libri vecchi: INSTRUCTIONS.md)
+  STYLE_BIBLE.md      voce e stile (opzionale)
+  chapter_N_struttura.md   Architect: struttura e beat del capitolo
+  dossier_chapter_N.md     Researcher: dossier di ricerca
+  chapter_N.md             Writer/Editor: testo finale     (libri vecchi: capitolo_N.md)
+  scripts/export_book.py   build PDF/EPUB (i PDF/EPUB sono ignorati da git)
+packages/book-tools/  utility condivise (release su GitHub)
+scripts/ralph.sh      runner canonico della pipeline Ralph
+ralph/prompts/        prompt dei ruoli
+.claude/skills/       skill (new-book crea un libro nuovo con la pipeline Ralph)
+```
 
-- **`books/`**: Contiene il codice sorgente e il testo di ogni libro.
-    - **`@books/impero-romano`**: "L'Ultimo Orizzonte".
-    - **`@books/tritacarne`**: "TRITACARNE".
-    - *Altri progetti*: `musk`, `separazione_carriere`, `storia`, ecc. (Non ancora configurati come pacchetti).
-- **`packages/`**: Strumenti e utility condivisi.
-    - **`@books/book-tools`**: Tool CLI per rilasciare i libri su GitHub.
+I libri più recenti (`la-geometria-del-pensiero`, `storia_c`) usano i nomi in inglese; i libri più vecchi
+(`brexit`, `trump`, `musk`, ...) usano `PLAN.md`/`INSTRUCTIONS.md`/`capitolo_N.md` e non sono lanciabili con il runner senza rinominare i file.
+
+I workspace NPM sono `books/*` e `packages/*`. `make list` elenca i libri, `make build BOOK=<libro>` li compila.
+Esempi di libri con pacchetto: `@books/impero-romano`, `@books/tritacarne`.
+
+## 🔁 Flusso Ralph
+
+Ogni capitolo passa da cinque agenti senza stato: **Architect → Researcher → Writer → Editor → Reviewer**.
+Ogni agente legge e scrive solo file nella cartella del libro (nomi sopra); se l'Editor boccia il capitolo
+tre volte di fila scatta il circuit breaker e serve un intervento umano.
+
+```bash
+make ralph BOOK=la-geometria-del-pensiero CH=3                 # pipeline completa, capitolo 3
+make ralph BOOK=la-geometria-del-pensiero CH=3 PHASE=status    # cosa è già fatto
+BOOK_DIR=books/la-geometria-del-pensiero scripts/ralph.sh 3 editor --dry-run
+```
+
+Per iniziare un libro nuovo usa la skill `new-book` (`.claude/skills/new-book/SKILL.md`), che genera
+`PRD.md`, `INSTRUCTION.md` e `STYLE_BIBLE.md` e usa lo stesso `scripts/ralph.sh`.
+Metodo e ruoli in dettaglio: [AI Writing Guru Guide](./ai_writing_guru_guide.md), [Ralph Wiggum methodology](./ralph-wiggum-methodology-complete-guide.md)
+e la wiki del repository su GitHub.
 
 ## 🤖 Framework di Scrittura AI
 Abbiamo standardizzato il nostro approccio alla scrittura con agenti nel file:
