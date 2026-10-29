@@ -6,3 +6,11 @@
 node_modules
 books/gdpr_pp
 
+
+# Ralph pipeline logs
+.ralph_logs/
+
+# Local backups and temp files
+.git_bak/
+toPdfViaTempFile*
+*_old.md
