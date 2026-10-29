@@ -1,6 +1,6 @@
 # Book Management Makefile
 
-.PHONY: help list build publish
+.PHONY: help list build publish ralph
 
 # List all book directories
 BOOKS := $(patsubst books/%/,%,$(dir $(wildcard books/*/)))
@@ -12,6 +12,7 @@ help:
 	@echo "  list      List all available books"
 	@echo "  build     Compile the specified book (or all if BOOK not specified)"
 	@echo "  publish   Publish the specified book (or all if BOOK not specified)"
+	@echo "  ralph     Run the Ralph pipeline: make ralph BOOK=<book_name> CH=<n|review_all> [PHASE=<phase>]"
 	@echo ""
 	@echo "Available books:"
 	@echo "  $(BOOKS)"
@@ -56,3 +57,8 @@ else
 		exit 1; \
 	fi
 endif
+
+ralph:
+	@if [ -z "$(BOOK)" ] || [ -z "$(CH)" ]; then echo "Usage: make ralph BOOK=<book_name> CH=<n|review_all> [PHASE=<phase>]"; exit 1; fi
+	@if [ ! -d "books/$(BOOK)" ]; then echo "Error: books/$(BOOK) not found"; exit 1; fi
+	@BOOK_DIR=books/$(BOOK) scripts/ralph.sh $(CH) $(PHASE)
