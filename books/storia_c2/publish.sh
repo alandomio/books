@@ -64,7 +64,12 @@ command -v pandoc >/dev/null || { err "pandoc not found."; exit 1; }
 [[ -f "$PUBLISH_CONFIG" ]] || { err "PUBLISH_CONFIG.md not found."; exit 1; }
 [[ -f "$INSTRUCTION" ]] || { err "INSTRUCTION.md not found."; exit 1; }
 
-field() { grep -m1 -- "\*\*$1:\*\*" "$2" 2>/dev/null | sed -E "s/^.*\*\*$1:\*\* *//" || true; }
+field() {
+  local v
+  v="$(grep -m1 -- "\*\*$1:\*\*" "$2" 2>/dev/null | sed -E "s/^.*\*\*$1:\*\* *//" || true)"
+  [[ "$v" == "<"* ]] && v=""
+  printf '%s' "$v"
+}
 
 TITLE_IT="$(field Title "$INSTRUCTION")"
 VERSION="$(field Version "$INSTRUCTION")"

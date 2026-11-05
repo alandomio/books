@@ -104,6 +104,7 @@ Save the result to exactly this path: ${COVER_ART}
 Then print ONLY: "COVER ART DONE"
 EOF
 )
+  rm -f "$COVER_ART"
   printf "%s" "$PROMPT" | codex exec \
     --dangerously-bypass-approvals-and-sandbox \
     --add-dir "$PROJECT_DIR" \
