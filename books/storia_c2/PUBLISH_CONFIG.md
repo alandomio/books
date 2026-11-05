@@ -20,6 +20,12 @@ the Italian chapter has been approved. The teacher appendix
 - **Title SL:** CHRONOS: Na Robovih Cesarstva — Od renesanse do belle époque, med veliko zgodovino in vmesnimi deželami
 - **Description:** Dodici missioni nel tempo, dall'Umanesimo alla Belle Époque, da leggere accanto al manuale di seconda media. Alex segue la grande storia europea, Maja la storia delle terre slovene: ogni capitolo porta una storia, un documento vero e una domanda su cui ragionare.
 - **Description SL:** <da scrivere in sloveno quando esiste il primo capitolo sloveno; finché manca, publish.sh usa la descrizione italiana>
+
+## Metadata (not yet read by publish.sh)
+
+`publish.sh` does not read these fields yet: filling them in does not change
+the EPUB/PDF metadata.
+
 - **Publisher:** <opzionale — lascia la riga fuori se autopubblicato senza marchio editoriale>
 - **ISBN:** <opzionale — lascia la riga fuori finché non assegnato>
 
