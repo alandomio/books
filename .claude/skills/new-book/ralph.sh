@@ -1,8 +1,13 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # ══════════════════════════════════════════════════════════════════════════════
 # ralph.sh — Ralph Loop V5.1 — 5-Agent Stateless Writing Pipeline
 # Generic template: works for any book project with INSTRUCTION.md + PRD.md + STYLE_BIBLE.md
-# Requires bash 4.0+. macOS: shebang uses /opt/homebrew/bin/bash (bash 5.x).
+# Requires bash 4.0+ (Linux ok; macOS: `brew install bash` and put it first in PATH).
+# Canonical runner: derived from books/la-geometria-del-pensiero/ralph.sh (newest agent
+# plumbing) plus the editing warning from books/storia_c/ralph.sh. The bilingual IT+SL
+# variant (linguista/repair phases) stays in books/storia_c/ralph.sh.
+# Run it from inside the book folder, or: BOOK_DIR=books/<slug> scripts/ralph.sh 1
+# Book files: PRD.md, INSTRUCTION.md, STYLE_BIBLE.md, chapter_N.md, chapter_N_struttura.md, dossier_chapter_N.md
 # ══════════════════════════════════════════════════════════════════════════════
 #
 # Usage:
@@ -35,31 +40,41 @@
 #   ./ralph.sh 1 --phase-model researcher=gemini-flash-3.5:medium
 # ══════════════════════════════════════════════════════════════════════════════
 
+# ⚠️  EDITING WARNING (from storia_c): every PROMPT below is an UNQUOTED heredoc so ${VAR}
+# expands, which means BACKTICKS ARE LIVE inside prompt blocks. Never put backtick code-spans
+# in a prompt; run `bash -n ralph.sh` after editing any prompt.
+
 set -euo pipefail
 
 if [[ "${BASH_VERSION%%.*}" -lt 4 ]]; then
   echo "Error: ralph.sh requires bash 4.0+. Your bash: ${BASH_VERSION}"
-  echo "Fix: /opt/homebrew/bin/bash ralph.sh $*"
-  echo "  or: brew install bash && add /opt/homebrew/bin to PATH"
+  echo "Fix (macOS): brew install bash, then make sure it comes first in PATH"
   exit 1
 fi
 
 # ─── CONFIG ────────────────────────────────────────────────────────────────
-PROJECT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+# Book folder: $BOOK_DIR if set, else the current directory when it holds a PRD.md,
+# else the folder the script lives in (copy placed inside the book).
+if [[ -n "${BOOK_DIR:-}" ]]; then
+  PROJECT_DIR="$(cd "${BOOK_DIR}" && pwd)"
+elif [[ -f "${PWD}/PRD.md" ]]; then
+  PROJECT_DIR="${PWD}"
+else
+  PROJECT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+fi
 MAX_RETRIES=3
 DEFAULT_MODEL_KEY="sonnet"
 DEFAULT_REASONING_LEVEL="high"
 LOG_DIR="${PROJECT_DIR}/.ralph_logs"
-# Base name only. Each agent invocation gets a unique status file (see
-# run_agent): concurrent ralph.sh runs (several chapters at once) must never
-# share one, or one phase consumes another phase's status line and the loser
-# waits until timeout.
+# Base name only. Each agent invocation gets its own unique status file
+# (see run_agent): concurrent ralph.sh runs must never share one, or one phase
+# consumes another phase's status line and the loser waits until timeout.
 OUTPUT_FILE_BASE="${PROJECT_DIR}/.ralph_output"
 OUTPUT_FILE="${OUTPUT_FILE_BASE}"
 
 # How long to wait for an agent to persist its status line, per phase.
 # The researcher runs many grounded web searches and is the slowest phase.
-AGENT_WAIT_TIMEOUT_DEFAULT=1800
+AGENT_WAIT_TIMEOUT_DEFAULT=900
 AGENT_WAIT_TIMEOUT_RESEARCHER=2400
 
 # Bash 4 associative arrays let us map logical model names to the correct CLI.
@@ -67,6 +82,8 @@ declare -A MODEL_TO_AGENT=(
   [haiku]="claude"
   [sonnet]="claude"
   [opus]="claude"
+  [gemini-flash-3.6]="agy"
+  [gemini-flash-3.7]="agy"
   [gemini-flash-3.8]="agy"
   [gpt-5.6]="codex"
   [gpt-5.6-sol]="codex"
@@ -76,7 +93,7 @@ declare -A MODEL_TO_AGENT=(
 declare -A MODEL_TO_PROVIDER_MODEL=(
   [haiku]="haiku"
   [sonnet]="claude-sonnet-5"
-  [opus]="opus"
+  [opus]="claude-opus-5-5"
   [gpt-5.6]="gpt-5.6"
   [gpt-5.6-sol]="gpt-5.6-sol"
   [gpt-5.5]="gpt-5.5"
@@ -85,7 +102,9 @@ declare -A MODEL_TO_PROVIDER_MODEL=(
 declare -A MODEL_TO_DISPLAY_NAME=(
   [haiku]="Haiku"
   [sonnet]="Sonnet 5"
-  [opus]="Opus"
+  [opus]="Opus 5.5"
+  [gemini-flash-3.6]="Gemini Flash 3.6"
+  [gemini-flash-3.7]="Gemini Flash 3.7"
   [gemini-flash-3.8]="Gemini Flash 3.8"
   [gpt-5.6]="GPT 5.6"
   [gpt-5.6-sol]="GPT 5.6 Sol"
@@ -124,8 +143,10 @@ normalize_model_key() {
   case "$raw" in
     haiku|claude-haiku|claude-haiku-4-5|claude-haiku-4.5) echo "haiku" ;;
     sonnet|claude-sonnet|claude-sonnet-4-6|claude-sonnet-4.6) echo "sonnet" ;;
-    opus|claude-opus|claude-opus-4-6|claude-opus-4.6) echo "opus" ;;
+    opus|claude-opus|claude-opus-5-5|claude-opus-5.5) echo "opus" ;;
     gemini-flash-3.5|gemini3.5flash|gemini-3.5-flash|gemini_flash_3_5) echo "gemini-flash-3.5" ;;
+    gemini-flash-3.6|gemini3.6flash|gemini-3.6-flash|gemini_flash_3_6) echo "gemini-flash-3.6" ;;
+    gemini-flash-3.7|gemini3.7flash|gemini-3.7-flash|gemini_flash_3_7) echo "gemini-flash-3.7" ;;
     gemini-flash-3.8|gemini3.8flash|gemini-3.8-flash|gemini_flash_3_8) echo "gemini-flash-3.8" ;;
     gpt-5.4|gpt5.4|gpt54) echo "gpt-5.4" ;;
     gpt-5.5|gpt5.5|gpt55|gpt-5.3-codex) echo "gpt-5.5" ;;
@@ -133,7 +154,7 @@ normalize_model_key() {
     gpt-5.6-sol|gpt5.6sol|gpt56sol) echo "gpt-5.6-sol" ;;
     *)
       err "Unsupported model: $1"
-      err "Supported models: haiku | sonnet | opus | gemini-flash-3.5 | gemini-flash-3.8 | gpt-5.4 | gpt-5.5 | gpt-5.6 | gpt-5.6-sol"
+      err "Supported models: haiku | sonnet | opus | gemini-flash-3.5 | gemini-flash-3.6 | gemini-flash-3.7 | gemini-flash-3.8 | gpt-5.4 | gpt-5.5 | gpt-5.6 | gpt-5.6-sol"
       exit 1
       ;;
   esac
@@ -159,31 +180,26 @@ init_phase_model_defaults() {
     PHASE_MODEL_KEYS["$phase"]="$DEFAULT_MODEL_KEY"
     PHASE_REASONING_LEVELS["$phase"]="$DEFAULT_REASONING_LEVEL"
   done
-  # Researcher defaults to medium effort (agreed baseline).
+  # Researcher and Writer Stage 1 default to medium effort (agreed baseline).
   PHASE_REASONING_LEVELS["researcher"]="medium"
-  # Writer Stage 1 (Sonnet): high effort on the raw prose pass.
-  PHASE_REASONING_LEVELS["writer1"]="high"
-  # Writer Stage 2 (Opus): medium effort is enough given the stronger model.
+  PHASE_REASONING_LEVELS["writer1"]="medium"
+  # Writer Stage 2 is surface-level polishing — medium is enough and keeps
+  # the retry loop (up to 3x) cheap.
   PHASE_REASONING_LEVELS["writer2"]="medium"
   # Architect and Reviewer run once per chapter (no retry multiplier) and
   # carry the pipeline's structural/critical apex tasks — max effort.
   PHASE_REASONING_LEVELS["architect"]="xhigh"
   PHASE_REASONING_LEVELS["reviewer"]="xhigh"
 
-  # Cost/quality-tuned per-phase model assignment.
+  # Cost/quality-tuned per-phase model assignment (aligned with storia_c).
   # Architect: structural/logical reasoning + strict constraint adherence.
   PHASE_MODEL_KEYS["architect"]="gpt-5.6-sol"
   # Researcher: native search grounding, low hallucination, low cost.
   PHASE_MODEL_KEYS["researcher"]="gemini-flash-3.8"
-  # Writer Stage 1 stays on the default (sonnet) — raw prose that Writer
-  # Stage 2 will refine anyway.
-  # Writer Stage 2: refinement is not just surface polish — it's also the
-  # pass responsible for cross-chapter format consistency (no stray "## Beat
-  # N" headers, matching capitalization, etc). Empirically this needs more
-  # reasoning capability than a lighter model reliably provides. Editor keeps
-  # the default (sonnet) — scoring against Claude-authored drafts, at
-  # retry-loop cost.
-  PHASE_MODEL_KEYS["writer2"]="opus"
+  # Writer Stage 1: strongest literary/prose fidelity.
+  PHASE_MODEL_KEYS["writer1"]="opus"
+  # Writer Stage 2 and Editor keep the default (sonnet) — fine-grained style
+  # editing and scoring against Claude-authored drafts, at retry-loop cost.
   # Reviewer: deep deductive critique plus creative rewriting.
   PHASE_MODEL_KEYS["reviewer"]="opus"
 }
@@ -366,30 +382,24 @@ resolve_phase_runtime() {
   RESOLVED_DISPLAY_NAME="${MODEL_TO_DISPLAY_NAME[$model_key]}"
 
   if [[ "$agent" == "agy" ]]; then
-    # NOTE: agy's --model wants the short kebab-case id from `agy models`
-    # (e.g. gemini-3.8-flash-medium), NOT the human-readable display name —
-    # passing the display name breaks agy's flag parser silently. Verify with
-    # `agy models` if these ever stop matching upstream.
-    case "$model_key:$reasoning" in
-      gemini-flash-3.5:medium) RESOLVED_PROVIDER_MODEL="gemini-3.5-flash-medium" ;;
-      gemini-flash-3.5:high)   RESOLVED_PROVIDER_MODEL="gemini-3.5-flash-high" ;;
-      gemini-flash-3.5:xhigh)
-        warn "agy does not expose Gemini Flash 3.5 xhigh. Falling back to High for phase '${phase}'."
-        RESOLVED_PROVIDER_MODEL="gemini-3.5-flash-high"
+    # agy's --model flag wants the machine slug from `agy models`, e.g.
+    # "gemini-3.8-flash-high" — NOT a human display string like "Gemini 3.8
+    # Flash (High)". Built dynamically here (version extracted from the model
+    # key) so a new Gemini point release only requires adding it to
+    # normalize_model_key — not another hardcoded case arm here.
+    if [[ "$model_key" =~ ^gemini-flash-([0-9]+\.[0-9]+)$ ]]; then
+      local gemini_version="${BASH_REMATCH[1]}"
+      local gemini_level="$reasoning"
+      if [[ "$reasoning" == "xhigh" ]]; then
+        warn "agy/Gemini Flash has no 'xhigh' tier (only low|medium|high). Falling back to 'high' for phase '${phase}'."
+        gemini_level="high"
         RESOLVED_REASONING="high"
-        ;;
-      gemini-flash-3.8:medium) RESOLVED_PROVIDER_MODEL="gemini-3.8-flash-medium" ;;
-      gemini-flash-3.8:high)   RESOLVED_PROVIDER_MODEL="gemini-3.8-flash-high" ;;
-      gemini-flash-3.8:xhigh)
-        warn "agy does not expose Gemini Flash 3.8 xhigh. Falling back to High for phase '${phase}'."
-        RESOLVED_PROVIDER_MODEL="gemini-3.8-flash-high"
-        RESOLVED_REASONING="high"
-        ;;
-      *)
-        err "Unsupported agy model/reasoning combination: ${model_key}:${reasoning}"
-        exit 1
-        ;;
-    esac
+      fi
+      RESOLVED_PROVIDER_MODEL="gemini-${gemini_version}-flash-${gemini_level}"
+    else
+      err "Unsupported agy model key: ${model_key} (expected gemini-flash-<major.minor>)"
+      exit 1
+    fi
   fi
 }
 
@@ -443,6 +453,7 @@ run_agent() {
   local log_file="${3:-/dev/null}"
   local full_prompt
   local wait_timeout="$AGENT_WAIT_TIMEOUT_DEFAULT"
+  local agy_status=0
   [[ "$phase" == "researcher" ]] && wait_timeout="$AGENT_WAIT_TIMEOUT_RESEARCHER"
 
   resolve_phase_runtime "$phase"
@@ -470,36 +481,32 @@ run_agent() {
     codex)
       full_prompt="$(build_automation_prompt "$prompt")"
       rm -f "$OUTPUT_FILE"
-      local codex_exit=0
       printf "%s" "$full_prompt" | codex exec \
         --model "$RESOLVED_PROVIDER_MODEL" \
         -c "model_reasoning_effort=\"${RESOLVED_REASONING}\"" \
         --dangerously-bypass-approvals-and-sandbox \
         --ephemeral \
-        - >/dev/null 2>&1 || codex_exit=$?
-      if [[ $codex_exit -ne 0 ]]; then
-        err "codex exited immediately with code ${codex_exit} — not waiting for ${OUTPUT_FILE##*/}."
-        exit 1
-      fi
+        - >/dev/null 2>&1
       wait_for_agent_output_file "$log_file" "$wait_timeout"
       ;;
     agy)
       full_prompt="$(build_automation_prompt "$prompt")"
       rm -f "$OUTPUT_FILE"
-      local agy_exit=0
-      # NOTE: the prompt MUST be attached to --print (--print="...") as the
-      # last argument — a bare `--print` followed by other flags makes agy's
-      # parser swallow the next flag as the prompt and silently no-op.
-      agy \
-        --dangerously-skip-permissions \
+      # --print takes an OPTIONAL inline value: passing the prompt as a trailing
+      # argument makes agy swallow the next flag as the prompt and ignore the
+      # real one ("--print took \"--dangerously-skip-permissions\" as its
+      # prompt"). It exits 2 before running anything, so the status file never
+      # appears and the wait loop below burns the full timeout. Attach the
+      # prompt to the flag and keep it last.
+      agy --dangerously-skip-permissions \
         --model "$RESOLVED_PROVIDER_MODEL" \
         --add-dir "$PROJECT_DIR" \
         --print-timeout "$((wait_timeout / 60))m" \
-        --print="$full_prompt" >/dev/null 2>"${log_file}.err" || agy_exit=$?
-      if [[ $agy_exit -ne 0 ]]; then
-        err "agy exited immediately with code ${agy_exit} — not waiting for ${OUTPUT_FILE##*/}."
+        --print="$full_prompt" >/dev/null 2>"${log_file}.err" || agy_status=$?
+      if [[ ${agy_status:-0} -ne 0 ]]; then
+        err "agy exited with code ${agy_status} — see ${log_file##*/}.err"
         head -5 "${log_file}.err" >&2
-        exit 1
+        return 1
       fi
       wait_for_agent_output_file "$log_file" "$wait_timeout"
       ;;
