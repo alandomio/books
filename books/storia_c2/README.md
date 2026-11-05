@@ -13,10 +13,11 @@ Cartella della nuova versione di CHRONOS per la seconda media. `storia_c` resta 
 
 ## Controlli automatici
 
-`./checks.sh chapter_1_it.md` misura parole (2.800-3.300), indice Gulpease (≥ 65, formula 89 + (300 × frasi − 10 × lettere) / parole), frase media (< 14 parole), termini di glossario (≤ 5), firme di scena (3, almeno una di Maja) e presenza del riquadro "Cosa devi ricordare"; esce con codice 1 se un controllo fallisce. Serve solo `python3`.
+`./checks.sh chapter_1_it.md` misura parole (2.800-3.300), indice Gulpease (≥ 65, formula 89 + (300 × frasi − 10 × lettere) / parole), frase media (< 14 parole), termini di glossario (≤ 5, nei riquadri `::: memo-box` con titolo "GLOSSARIO" o "SLOVAR"), firme di scena (3, almeno una di Maja) e presenza del riquadro `::: reality-check` "Cosa devi ricordare"; esce con codice 1 se un controllo fallisce. Serve solo `python3`.
 
-- Il capitolo 0 è di orientamento (circa 2.000 parole, senza scene d'indagine): per lui valgono solo Gulpease e frase media.
-- **Taratura.** Sui capitoli di storia_c lo script dà un Gulpease più alto di 2-5 punti rispetto alle misure del grill del 5 novembre (per esempio cap. 1: 62,3 contro 59; cap. 5: 58,3 contro 56), perché il metodo di conteggio di quelle misure non è registrato. Lo script usa già il conteggio più prudente (una frase finisce solo con . ! ? …; l'elisione "l'acqua" conta una parola). La soglia resta 65 e il confronto tra capitoli si fa sempre con questo script.
+- Il capitolo 0 è di orientamento (circa 2.000 parole, senza scene d'indagine): per un file il cui nome inizia con `chapter_0` lo script controlla solo Gulpease e frase media, e lo scrive nell'output.
+- Gulpease e il controllo del riquadro "Cosa devi ricordare" valgono per i capitoli in italiano. L'adattamento sloveno è fuori da questa fase; lo script non ha una formula di leggibilità slovena.
+- **Taratura.** Sui capitoli di storia_c lo script dà un Gulpease più alto di 2-5 punti rispetto alle misure del grill del 5 novembre (per esempio cap. 1: 62,3 contro 59; cap. 5: 58,3 contro 56), perché il metodo di conteggio di quelle misure non è registrato. Lo script usa già il conteggio più prudente (una frase finisce solo con . ! ? …, e non con il punto dopo una lettera maiuscola sola come "A." o dopo abbreviazioni come "a.C.", "sec.", "ecc."; l'elisione "l'acqua" conta una parola). La soglia resta 65 e il confronto tra capitoli si fa sempre con questo script.
 
 ## Come sono stati corretti i dossier
 

@@ -8,15 +8,21 @@
 #   parole            2.800-3.300 (testo del capitolo, riquadri compresi, senza sintassi Markdown)
 #   Gulpease          >= 65, formula 89 + (300*frasi - 10*lettere) / parole
 #   frase media       < 14 parole per frase
-#   glossario         <= 5 termini nei riquadri il cui titolo contiene "GLOSSARIO"
+#   glossario         <= 5 termini nei riquadri ::: memo-box il cui titolo contiene "GLOSSARIO"
+#                     o "SLOVAR"
 #   scene             3 firme di scena (<span class="byline">...</span>), almeno una di Maja
-#   "Cosa devi ricordare"  il riquadro è presente
+#   "Cosa devi ricordare"  è presente un riquadro ::: reality-check con questo titolo
+# Capitolo 0 (file il cui nome inizia con chapter_0): solo Gulpease e frase media.
+# Gulpease e il riquadro "Cosa devi ricordare" valgono per i capitoli in italiano; l'adattamento
+# sloveno è fuori da questa fase e lo script non ha una formula di leggibilità slovena.
 # Restano manuali (vedi PRD § Verifica): verdetti non ripetitivi tra capitoli, nessuna cifra
 # senza fonte nel dossier, nessuna scena smentita dal testo.
 #
 # Conteggio: una parola è una sequenza di lettere o cifre (l'elisione "l'acqua" conta una
 # parola sola, scelta prudente che non alza l'indice); una frase finisce solo con . ! ? o …
-# seguiti da spazio, virgolette o fine riga (titoli e voci d'elenco senza punto non contano).
+# seguiti da spazio, virgolette o fine riga (titoli e voci d'elenco senza punto non contano);
+# il punto dopo una lettera maiuscola sola (A., B., S.) o dopo un'abbreviazione (a.C., d.C.,
+# sec., ecc., es., cfr., p., pp., n.) non chiude la frase.
 set -euo pipefail
 
 if [[ $# -lt 1 ]]; then
@@ -32,6 +38,7 @@ for f in "$@"; do
 done
 
 exec python3 -I - "$@" <<'PYEOF'
+import os
 import re
 import sys
 
@@ -44,6 +51,7 @@ SCENES = 3
 WORD_RE = re.compile(r"[^\W_]+(?:['’][^\W_]+)*")
 BYLINE_RE = re.compile(r'<span class="byline">([^<]*)</span>')
 END_RE = re.compile(r"(?:[.!?]+|…)(?=[\s\"”»’')\]*_]|$)")
+ABBREVIATIONS = {"a.c", "d.c", "sec", "ecc", "es", "cfr", "p", "pp", "n"}
 
 
 def strip_markdown(text):
@@ -76,26 +84,52 @@ def count_sentences(lines):
     # Solo la punteggiatura finale conta: un titolo o una voce d'elenco senza punto si unisce
     # alla frase successiva. È il conteggio più prudente (meno frasi, indice più basso).
     text = " ".join(line for line in lines if WORD_RE.search(line))
-    total = len(END_RE.findall(text))
+    total = 0
+    for m in END_RE.finditer(text):
+        if m.group() == "." and is_abbreviation(text[:m.start()]):
+            continue
+        total += 1
     if text and not text.rstrip(" \"”»’')*_").endswith((".", "!", "?", "…")):
         total += 1
     return total
 
 
-def glossary_terms(text):
-    terms = []
-    in_box = False
-    is_glossary = False
+def is_abbreviation(before):
+    m = re.search(r"[^\W_](?:[^\W_.]|\.(?=[^\W_]))*$", before)
+    if not m:
+        return False
+    token = m.group()
+    return (len(token) == 1 and token.isupper()) or token.lower() in ABBREVIATIONS
+
+
+def box_headings(text):
+    """Yield (box class, heading, line) for every line inside a ::: box."""
+    box = None
+    heading = ""
     for line in text.splitlines():
         s = line.strip()
         if s.startswith(":::"):
-            in_box = not in_box if s == ":::" else True
-            is_glossary = False
+            box = None if s == ":::" else s[3:].strip()
+            heading = ""
             continue
-        if in_box and s.startswith("#"):
-            is_glossary = "GLOSSARIO" in s.upper()
+        if box is None:
             continue
-        if in_box and is_glossary:
+        if s.startswith("#") and not heading:
+            heading = s.lstrip("#").strip().upper()
+            continue
+        yield box, heading, s
+
+
+def has_reminder_box(text):
+    return any(box == "reality-check" and "COSA DEVI RICORDARE" in heading
+               for box, heading, _ in box_headings(text))
+
+
+def glossary_terms(text):
+    terms = []
+    for box, heading, s in box_headings(text):
+        is_glossary = box == "memo-box" and ("GLOSSARIO" in heading or "SLOVAR" in heading)
+        if is_glossary:
             m = re.match(r"^[*+-]\s+\*\*([^*]+?)\*\*", s)
             if m:
                 terms.append(m.group(1).strip().rstrip(":"))
@@ -118,24 +152,30 @@ def check(path):
     terms = glossary_terms(text)
     bylines = BYLINE_RE.findall(text)
     maja = [b for b in bylines if "maja" in b.lower()]
-    has_box = "cosa devi ricordare" in text.lower()
+    has_box = has_reminder_box(text)
+    orientation = os.path.basename(path).startswith("chapter_0")
 
-    results = [
-        ("parole", f"{n_words}", WORDS_MIN <= n_words <= WORDS_MAX, f"{WORDS_MIN}-{WORDS_MAX}"),
+    readability = [
         ("Gulpease", f"{gulpease:.1f}", gulpease >= GULPEASE_MIN, f">= {GULPEASE_MIN:.0f}"),
         ("frase media", f"{mean_len:.1f} parole", mean_len < SENTENCE_MAX, f"< {SENTENCE_MAX:.0f}"),
+    ]
+    structure = [
+        ("parole", f"{n_words}", WORDS_MIN <= n_words <= WORDS_MAX, f"{WORDS_MIN}-{WORDS_MAX}"),
         ("glossario", f"{len(terms)} termini", len(terms) <= GLOSSARY_MAX, f"<= {GLOSSARY_MAX}"),
         ("scene", f"{len(bylines)} firme, {len(maja)} di Maja",
          len(bylines) == SCENES and len(maja) >= 1, f"{SCENES}, almeno 1 di Maja"),
         ("Cosa devi ricordare", "presente" if has_box else "assente", has_box, "presente"),
     ]
+    results = readability if orientation else structure[:1] + readability + structure[1:]
     print(f"== {path}")
+    if orientation:
+        print("   capitolo 0 di orientamento: controllati solo Gulpease e frase media")
     print(f"   frasi {n_sentences}, lettere {n_letters}")
     ok = True
     for name, value, passed, target in results:
         ok &= passed
         print(f"   {'OK  ' if passed else 'FAIL'} {name:<20} {value:<26} (atteso {target})")
-    if terms:
+    if terms and not orientation:
         print(f"   termini di glossario: {', '.join(terms)}")
     return ok
 
