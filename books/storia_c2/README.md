@@ -11,6 +11,16 @@ Cartella della nuova versione di CHRONOS per la seconda media. `storia_c` resta 
 | `MYSTERY.md` | Tre opzioni per il mistero di famiglia di Alex e Maja, con quella raccomandata |
 | `checks.sh` | Controlli automatici di un capitolo (regola D8) |
 | `ralph.sh` | La pipeline di scrittura capitolo per capitolo (vedi sotto) |
+| `INSTRUCTION.md` | Chi fa che cosa nella pipeline e quali file produce; titolo e versione per `publish.sh` |
+| `NARRATIVE_GLOSSARY.md` | Glossario bilingue di storia_c, base di partenza **da sfoltire**: ogni capitolo usa al massimo 5 termini nuovi (D3) |
+| `publish.sh` | Costruisce ePub e PDF: edizione italiana con l'appendice per l'insegnante; edizione slovena solo con i capitoli già adattati |
+| `generate_cover.sh` | Copertina da un'immagine vera di pubblico dominio più titolo e autore; nessun modello, salvo `--ai` (D5) |
+| `PUBLISH_CONFIG.md` | Autore, titolo sloveno, descrizione, immagine di base della copertina e suo credito |
+| `style.css`, `epub_style.css` | Stile di stampa ed ePub dei riquadri, con il nuovo riquadro `documento` |
+| `00_disclaimer_it.md`, `00_disclaimer_sl.md` | Nota metodologica in apertura del libro, versione 2.0 |
+| `dist/metadata_it.yaml`, `dist/metadata_sl.yaml` | Metadati delle due edizioni (titolo, versione, identificativo); `publish.sh` li rigenera |
+
+Copiati da storia_c e adattati; **non** sono stati copiati capitoli, manoscritti, `feedback_loop_*`, `linguista_note_*`, `HANDOFF.md`, `RETROFIT_PLAN.md` e `writing_plan.md` (che `ralph.sh` legge da `../storia_c/` solo come riferimento di contenuto). La traduzione slovena della nota metodologica va fatta rivedere da un madrelingua.
 
 ## Controlli automatici
 
