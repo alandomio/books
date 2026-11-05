@@ -646,6 +646,12 @@ run_researcher() {
   require_file "$STRUTTURA" "Run: ./ralph.sh ${CHAPTER} architect"
   require_file "$DOSSIER" "The corrected dossier must exist; the researcher only extends it."
 
+  local aggiunte_heading="## [AGGIUNTE storia_c2 — capitolo ${CHAPTER}]"
+  if ! $FORCE && grep -qxF "$aggiunte_heading" "$DOSSIER"; then
+    ok "Dossier already has the chapter ${CHAPTER} AGGIUNTE section. Skipping (--force to append another)."
+    return 0
+  fi
+
   if ! $DRY_RUN && file_exists "$STRUTTURA" && \
      awk '/^#+ *RESEARCHER GAPS/{f=1;next} /^#+ /{f=0} f' "$STRUTTURA" | grep -qiE '^[[:space:]]*NONE[[:space:].]*$'; then
     ok "Struttura lists no researcher gaps. Dossier unchanged."
@@ -668,7 +674,7 @@ You are THE RESEARCHER (Archivista) for storia_c2. Prime directive: no invention
 For each gap listed in RESEARCHER GAPS: search, triangulate across at least 2 independent sources (at least one Slovenian-language source for Slovenian topics), and write a sourced entry.
 
 ## Hard Rules
-- APPEND ONLY. Add one section at the end of ${DOSSIER} titled "## [AGGIUNTE storia_c2 — capitolo ${CHAPTER}]". Never edit, reorder or delete existing entries, sources or markers.
+- APPEND ONLY. Add one new section at the end of ${DOSSIER} titled "${aggiunte_heading}", even if a section with that title already exists. Never edit, reorder or delete existing entries, sources or markers.
 - Format each entry as: **Source:** [publication or stable URL] | **Fact:** [...]. Use [ESTIMATE: range] for estimates and [RECONSTRUCTED] for inferred intentions or dialogue, as in the rest of the dossier.
 - A precise figure needs a source that can actually contain it (right period, right topic). If you cannot find one, write the fact with a range or with words, and mark it [NO SOURCE: why. Usare: "wording"].
 - Add [ANACHRONISM-WATCH] notes for any new object, food or expression the gap introduces.
@@ -1085,13 +1091,12 @@ ENDPROMPT
       exit 2
     fi
 
-    if [[ "$mode" == "TARGETED" ]] && run_repair; then
+    if [[ "$mode" == "TARGETED" ]] && file_exists "$FEEDBACK" && run_repair; then
       info "Targeted repair applied — re-auditing."
     else
       warn "Editor FAIL (${mode}). Rewriting with Writer Stage 1 + 2 (attempt $retry of $((MAX_RETRIES - 1)))..."
       FORCE=true run_writer1
       FORCE=true run_writer2
-      FORCE=false
     fi
   done
 }
