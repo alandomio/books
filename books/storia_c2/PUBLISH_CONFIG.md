@@ -4,7 +4,7 @@ This file feeds `generate_cover.sh` and `publish.sh`. It is the one place to
 edit when customizing the cover or the ebook/PDF metadata for THIS book —
 never edit the scripts themselves for a per-book change.
 
-`Title`, `Version` and `Language` are read from `INSTRUCTION.md` § METADATA so
+`Title` and `Version` are read from `INSTRUCTION.md` § METADATA so
 there is a single source of truth. Only fields that don't live elsewhere go here.
 
 **Editions:** Italian first (D7). `publish.sh` builds the Slovenian edition only

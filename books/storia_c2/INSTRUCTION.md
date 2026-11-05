@@ -1,6 +1,6 @@
 # PROJECT CONFIGURATION: CHRONOS — Ai Confini dell'Impero (storia_c2)
 
-> Riscritta da `storia_c/INSTRUCTION.md` per storia_c2 (5 novembre 2026). Le regole del libro stanno in `PRD.md` e `STYLE_BIBLE.md` (decisioni D1-D9); questo file descrive chi fa che cosa nella pipeline `ralph.sh` e quali file produce. Dove questo file e `PRD.md`/`STYLE_BIBLE.md` divergono, valgono questi ultimi. I campi `Title` e `Language` qui sotto sono letti da `publish.sh` e `generate_cover.sh`.
+> Riscritta da `storia_c/INSTRUCTION.md` per storia_c2 (5 novembre 2026). Le regole del libro stanno in `PRD.md` e `STYLE_BIBLE.md` (decisioni D1-D9); questo file descrive chi fa che cosa nella pipeline `ralph.sh` e quali file produce. Dove questo file e `PRD.md`/`STYLE_BIBLE.md` divergono, valgono questi ultimi. Il campo `Title` qui sotto è letto da `publish.sh` e `generate_cover.sh`, il campo `Version` da `publish.sh`.
 
 ## 1. METADATA & VISION
 - **Title:** CHRONOS: Ai Confini dell'Impero — Dal Rinascimento alla Belle Époque, tra la Grande Storia e le Terre di Mezzo
