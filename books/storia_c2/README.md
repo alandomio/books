@@ -10,6 +10,17 @@ Cartella della nuova versione di CHRONOS per la seconda media. `storia_c` resta 
 | `IMAGES.md` | Mappe, linee del tempo e documenti veri di pubblico dominio, capitolo per capitolo |
 | `MYSTERY.md` | Tre opzioni per il mistero di famiglia di Alex e Maja, con quella raccomandata |
 | `checks.sh` | Controlli automatici di un capitolo (regola D8) |
+| `ralph.sh` | La pipeline di scrittura capitolo per capitolo (vedi sotto) |
+| `INSTRUCTION.md` | Chi fa che cosa nella pipeline e quali file produce; titolo e versione per `publish.sh` |
+| `NARRATIVE_GLOSSARY.md` | Glossario bilingue di storia_c, base di partenza **da sfoltire**: ogni capitolo usa al massimo 5 termini nuovi (D3) |
+| `publish.sh` | Costruisce ePub e PDF: edizione italiana con l'appendice per l'insegnante; edizione slovena solo con i capitoli già adattati |
+| `generate_cover.sh` | Copertina da un'immagine vera di pubblico dominio più titolo e autore; nessun modello, salvo `--ai` (D5) |
+| `PUBLISH_CONFIG.md` | Autore, titolo sloveno, descrizione, immagine di base della copertina e suo credito |
+| `style.css`, `epub_style.css` | Stile di stampa ed ePub dei riquadri, con il nuovo riquadro `documento` |
+| `00_disclaimer_it.md`, `00_disclaimer_sl.md` | Nota metodologica in apertura del libro, versione 2.0 |
+| `dist/metadata_it.yaml`, `dist/metadata_sl.yaml` | Metadati delle due edizioni (titolo, versione, identificativo); `publish.sh` li rigenera |
+
+Copiati da storia_c e adattati; **non** sono stati copiati capitoli, manoscritti, `feedback_loop_*`, `linguista_note_*`, `HANDOFF.md`, `RETROFIT_PLAN.md` e `writing_plan.md` (che `ralph.sh` legge da `../storia_c/` solo come riferimento di contenuto). La traduzione slovena della nota metodologica va fatta rivedere da un madrelingua.
 
 ## Controlli automatici
 
@@ -38,3 +49,7 @@ I dossier sono copie di quelli di storia_c con fonti e marcatori originali intat
 Restano senza marcatore le cifre con una base documentaria indicata nella voce (censimenti, trattati, ruoli d'equipaggio, registri, richieste di risarcimento) e le stime già marcate `[ESTIMATE]` con un intervallo.
 
 **Limiti.** Il controllo confronta cifra e fonte citata; non verifica in biblioteca le fonti stesse. Alcune citazioni dei dossier potrebbero non corrispondere a un'opera reale o al suo contenuto (un esempio segnalato nel dossier 1, voce 36). Prima della stampa l'appendice per l'insegnante va costruita controllando ogni fonte usata nel capitolo.
+
+## La pipeline (`ralph.sh`)
+
+`./ralph.sh 1 plan` (oppure `./ralph.sh 1 --dry-run`) stampa le fasi del capitolo 1 senza chiamare alcun modello. `./ralph.sh 1` esegue la parte italiana: Architect (`chapter_1_struttura.md`), Researcher (aggiunge al dossier solo le lacune che la struttura elenca, senza toccare le voci esistenti), ricerca immagini (`images_chapter_1.md`, solo documenti veri), Writer in due passaggi (`chapter_1_it.md` e l'appendice per l'insegnante `appendice_chapter_1.md`), Editor, Reviewer. Nell'Editor `checks.sh` è un vincolo rigido: se fallisce, il capitolo non passa qualunque cosa dica il modello. Lo sloveno (`./ralph.sh 1 linguista`) parte solo quando esiste `chapter_1_it.approved`, che il capitano crea dopo la lettura di prova. `./ralph.sh 1 status` mostra a che punto è il capitolo. Se si rilancia `./ralph.sh 1` (per esempio dopo che l'Editor si è fermato per troppi tentativi falliti), le fasi che hanno già prodotto il loro file vengono saltate, e il Researcher salta se il dossier ha già la sezione `## [AGGIUNTE storia_c2 — capitolo 1]`; `--force` le rifà, e per il Researcher aggiunge una nuova sezione in fondo al dossier invece di modificare quella esistente.
