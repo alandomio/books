@@ -35,3 +35,34 @@ Il capitano ha chiesto il libro la notte del 25 novembre 2026 e ha detto di sceg
 
 - Se la Parte IV (capitoli 13-16, per sviluppatori) va pubblicata anche nella pagina Guida dentro GOPlanner o resta solo nel PDF interno (influenza la parte 2).
 - Se i nomi dei committenti usati come esempi vanno tolti dalla versione pubblicata in GOPlanner, dove ogni commessa vede la guida.
+
+## Scelte prese durante l'esecuzione
+
+| # | Scelta | Perché |
+|---|---|---|
+| O11 | Il Portolano si interroga con `user_roles` vuoto, non `goplanner` (corretto in `INSTRUCTION.md` e nel prompt del researcher dopo i primi capitoli) | Verificato il 25/11/2026: con `goplanner` ogni domanda restituisce le stesse due card non pertinenti; con il valore vuoto tornano le card di wiki, docs, codice e ticket. I dossier dei capitoli 1-6 erano già in corso e si reggono su codice, wiki, docs e Jira |
+| O12 | Tolte dai capitoli le righe di commento `<!-- … -->` (conteggio parole, controlli NUF e anti-AI) che lo Stage 2 aveva lasciato in coda, e trasformati in corsivo i segnaposto `<nome>` nella prosa | In HTML e in PDF un `<operatore>` fuori dal codice è un tag e sparisce; i commenti sono note di lavoro, non testo della guida (restano nelle review) |
+| O13 | `chapter_index.md` e `NARRATIVE_GLOSSARY.md` non sono stati creati | Il `ralph.sh` del framework non chiede a nessun agente di scriverli; il glossario di riferimento della guida è `CONTEXT.md` di GOPlanner |
+
+## Esito del loop (25 novembre 2026, notte)
+
+Tutti i 16 capitoli hanno passato editor (9,0-10/10) e reviewer (45-49/60, correzioni applicate); nessun Circuit Breaker. Il PDF compilato con `./publish.sh --pdf-only` è di 279 pagine.
+
+| Cap. | Editor | Reviewer |
+|---|---|---|
+| 1 | 9,5 | 45 |
+| 2 | 9,5 | 47 |
+| 3 | 9,5 | 47 |
+| 4 | 10 | 45 |
+| 5 | 10 | 47 |
+| 6 | 9,5 | 47 |
+| 7 | 9,5 | 45 |
+| 8 | 9,5 | 46 |
+| 9 | 9,5 | 45 |
+| 10 | 9,5 | 45 |
+| 11 | 10 | 45 |
+| 12 | 10 | 49 |
+| 13 | 9,0 | 47 |
+| 14 | 9,5 | 48 |
+| 15 | 9,5 | 47 |
+| 16 | 10 | 49 |

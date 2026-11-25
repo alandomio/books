@@ -343,8 +343,3 @@ La regola del capitolo sta invece in una sola colonna della Dashboard, «Ultimo 
 - Jira: GOP-784 — comandi remoti
 - Jira: GOP-787 — approvazione dei comandi remoti
 - Jira: GOP-873 — Confronto operatori
-
-<!-- WORD COUNT: ~6880 (prosa ~5450; il resto sono tabelle, elenchi, riquadri DEV e titoli) -->
-<!-- PERSONA CHECK: Pass — voce da Engineer + Scholar: etichette esatte, numeri con fonte, limiti dichiarati per commessa, nessun aggettivo di marketing; tolto l'unico «noi» autoriale («Torniamo…») e l'intensificatore «limite onesto». -->
-<!-- NUF CHECK: 1 abilitare/disabilitare ✅ | 2 «non vede l'intervento» in ordine ✅ (i lotti come visibilità sono in § 6, non nella procedura) | 3 che cosa arriva con l'esito e dove si vede ✅ | 4 le quattro strade del dato (tabella) ✅ | 5 comandi remoti e aggiornamenti ⚠️ la pagina di accesso dal 22 novembre 2026 non mostra più versione né «versione precedente», come da dossier: il testo lo dice invece di nominare «beta» | 6 Dashboard e Confronto ✅ | 7 sicurezza delle leve + abitudine «Ultimo invio» ✅ | 8 quando chiedere allo staff tecnico ✅ | 9 numeri abbinamento/orologio/foto/comandi ✅ | 10 numeri Dashboard/Confronto ✅ -->
-<!-- ANTI-AI CHECK: nessuna frase vietata; «cliente» compare solo dentro etichette dell'interfaccia citate; cinque contro-obiezioni con risposta; riquadri «Per gli sviluppatori» / «Quando chiedere allo staff tecnico» / «Per lo staff tecnico» resi come blockquote; aggiunti sottotitoli e tabelle (strade del dato, comandi, colonne Dashboard) per rispettare il limite di 5 paragrafi di prosa consecutivi; un solo H1, «In questo capitolo», ## Fonti, niente HTML; nessun dato personale o segreto. -->

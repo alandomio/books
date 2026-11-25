@@ -131,7 +131,7 @@ Un contatore in centrale non serve a nessuno finché non è nel furgone giusto. 
 3. Scegliete l'operatore dal menu «Scegli l'operatore…». L'elenco contiene gli operatori attivi e visibili, più chiunque abbia ancora pezzi nel furgone.
 4. Leggete o incollate i codici, oppure il QR di una scatola o di una pedana.
 5. Leggete l'anteprima. Si assegnano solo i pezzi «In centrale». Un codice «Nuovo, non ancora in magazzino» va prima caricato con «Carica in centrale…»; uno «Nel furgone di …» è già di un operatore.
-6. Invio a campo vuoto per il riepilogo («Assegni N codici a <operatore>.»), poi un secondo Invio per confermare, come nel carico.
+6. Invio a campo vuoto per il riepilogo («Assegni N codici a *operatore*.»), poi un secondo Invio per confermare, come nel carico.
 
 Dopo la conferma il pezzo è già nel furgone dell'operatore, ma con lo stato «Assegnata, da ritirare». Diventa «In furgone» quando l'operatore lo legge con Carica nell'app, e in Movimenti compare il movimento «Ritiro (app)». Il pezzo si conta una volta sola. Che cosa vede l'operatore sul telefono è nel capitolo 8.
 
@@ -182,8 +182,8 @@ Il lettore deve funzionare «come una tastiera»: modalità USB HID, con un Invi
 
 1. Aprite il dialogo; in assegnazione e rientro scegliete prima l'operatore.
 2. Il campo del codice è pronto e resta selezionato: ci torna da solo, tranne quando si usa il menu a tendina o un pulsante.
-3. Leggete una scatola dopo l'altra. Il lettore scrive il codice e preme Invio da sé, e ogni lettura si aggiunge all'elenco. La riga di conteggio mostra quanti codici sono stati letti e l'ultimo («N codici letti · ultimo <codice>»). Una lettura doppia non si ripete: compare «<codice> era già letto».
-4. Premete Invio a campo vuoto, o il pulsante blu, per il riepilogo, per esempio «Assegni 50 codici a <operatore>.».
+3. Leggete una scatola dopo l'altra. Il lettore scrive il codice e preme Invio da sé, e ogni lettura si aggiunge all'elenco. La riga di conteggio mostra quanti codici sono stati letti e l'ultimo («N codici letti · ultimo *codice*»). Una lettura doppia non si ripete: compare «*codice* era già letto».
+4. Premete Invio a campo vuoto, o il pulsante blu, per il riepilogo, per esempio «Assegni 50 codici a *operatore*.».
 5. Un secondo Invio conferma.
 
 Le letture fatte mentre la conferma è in corso non si perdono: il dialogo resta aperto con «N codici letti durante l'invio: ancora da confermare.», e serve un altro doppio Invio.
@@ -228,7 +228,7 @@ Un affido o un rientro oltre il saldo viene rifiutato con «Quantità non dispon
 | Reso | «Rientro in centrale» | furgone → centrale | il magazzino centrale (contatori smontati e materiale non usato) |
 | Uscita | «Uscita al committente» | centrale → fuori | il committente; il pezzo risulta «Restituito al committente» o «Smaltito» |
 
-Il DDT non ha movimenti suoi: guida quelli consueti, e in Movimenti l'origine porta « · DDT <numero>».
+Il DDT non ha movimenti suoi: guida quelli consueti, e in Movimenti l'origine porta « · DDT *numero*».
 
 ### Creare e firmare un DDT
 
@@ -239,7 +239,7 @@ Il DDT non ha movimenti suoi: guida quelli consueti, e in Movimenti l'origine po
 5. Aggiungete, se serve, le «Note (facoltative, stampate sul DDT)».
 6. Premete «Crea DDT». Il DDT nasce confermato e numerato e si apre per la stampa; i codici rifiutati restano con il motivo.
 
-Anche «Assegna a operatore…» e «Rientro in centrale…» di Giacenze creano il DDT da sé, su queste commesse, e il dialogo resta aperto con il collegamento «Stampa il DDT n. <numero>», uno per blocco inviato. Per la firma dal back office si stampa, poi si allega la scansione firmata con «Allega scansione firmata…» (PDF, JPEG o PNG, al massimo 8 MB) oppure si usa «Segna come firmato». Si firma solo un DDT confermato. Dall'app, quando le schermate saranno rilasciate, ciascuno firma la propria parte con il dito, oppure conferma con un clic e nel PDF compare «Confermato da <nome> il <data>». Una firma data non cambia più. La ristampa è identica, perché mittente, destinatario e causale vengono copiati sul DDT al momento della creazione.
+Anche «Assegna a operatore…» e «Rientro in centrale…» di Giacenze creano il DDT da sé, su queste commesse, e il dialogo resta aperto con il collegamento «Stampa il DDT n. *numero*», uno per blocco inviato. Per la firma dal back office si stampa, poi si allega la scansione firmata con «Allega scansione firmata…» (PDF, JPEG o PNG, al massimo 8 MB) oppure si usa «Segna come firmato». Si firma solo un DDT confermato. Dall'app, quando le schermate saranno rilasciate, ciascuno firma la propria parte con il dito, oppure conferma con un clic e nel PDF compare «Confermato da *nome* il *data*». Una firma data non cambia più. La ristampa è identica, perché mittente, destinatario e causale vengono copiati sul DDT al momento della creazione.
 
 La vita di un DDT ha tre stati:
 
@@ -351,8 +351,3 @@ Nel magazzino un codice cambia posto per una ragione sola: qualcuno registra un 
 - Jira: GOP-860 — storia per codice e ricerca
 - Jira: GOP-861 — inventario del furgone dall'app
 - Jira: GOP-862 — questioni aperte
-
-<!-- WORD COUNT: ~6650 -->
-<!-- PERSONA CHECK: Pass — exact labels, numbers with dates and sources, one invented case declared as such, conditional sentences for app screens not yet released; no authorial «noi», no marketing adjectives. -->
-<!-- NUF CHECK: ✅ stati e viste (§1) · ✅ Carica in centrale e Importa da Excel con resoconto e motivi (§2; il resoconto usa «Non valide», non «Non caricate», come nel dossier) · ✅ Assegna/ritiro/Rientro e righe rifiutate (§3) · ✅ cosa scrive la chiusura, mai bloccata (§3, §5) · ✅ profilo Magazziniere e banco con lettore (§4) · ✅ DDT affido/reso/uscita, ciclo di vita, firma, uscita non annullabile (§5) · ✅ trovare un pezzo e leggere un'anomalia (§6) · ✅ sicurezza emotiva: codice una volta sola, anomalie non bloccano, «Segna come vista» e inventario non cambiano giacenze · ✅ quando chiedere allo staff tecnico (riquadro §6 + limiti §1, §2) · ✅ numeri con fonte (20 caratteri, 0–100000, 5 per scatola, 5000/500, 100 righe, 10–200, 8 MB, n/anno, permessi) -->
-<!-- ANTI-AI CHECK: no banned patterns; «cliente» and «tenant» appear only inside quoted UI strings, now glossed as «commessa»; «clienti» in the objection replaced with «utenze»; added a ### subheading in §1 to break the six-paragraph prose run; five counter-objections present; the closing is a desk rule and does not announce chapter 10. -->

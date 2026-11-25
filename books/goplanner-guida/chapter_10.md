@@ -348,8 +348,3 @@ Prima di premere «Autorizza» o «Apri il ticket» si legge che cosa portano co
 - Jira: GOP-819 — nome nel saluto e «Spiegamelo meglio»
 - Jira: GOP-820 — consigli all'apertura
 - Jira: GOP-823 — nessun suggerimento generico
-
-<!-- WORD COUNT: ~6.500 (prosa ~6.270 + Fonti ~220; sopra il tetto di 6.000 della struttura: la bozza era già a ~6.260 e la sostanza non è stata tagliata) -->
-<!-- PERSONA CHECK: Pass — etichette esatte («Autorizza», «Apri il ticket», «Ti impedisce di lavorare?»), ogni limite con numero e fonte, funzioni non provate in produzione dichiarate «dove è attiva», codice solo nei riquadri per gli sviluppatori con l'avviso di salto. -->
-<!-- NUF CHECK: 1 apertura e visibilità del pulsante ✅ | 2 domanda giusta e lettura della risposta (verifica, registro, periodo, ipotesi) ✅ | 3 indagini da runbook con capitolo di riferimento (12 righe) ✅ | 4 contesto leggero, schermata, foto, livelli delle azioni ✅ | 5 scheda della proposta, 10 minuti, motivi di rifiuto ✅ | 6 ticket dalla chat, allegati, messaggi di errore ✅ | 7 richiesta di funzione nuova e stati ✅ | 8 sicurezza delle modifiche, esclusioni per costruzione ✅ | 9 dove finisce Gea e inizia lo staff tecnico ✅ | 10 fatti con fonte ⚠️ «eventi della pagina 20 / 10 minuti» volutamente omesso: il dossier [CONFLICT] 10 dice che vince il codice (solo errori della pagina, al massimo 10) -->
-<!-- ANTI-AI CHECK: nessuna frase vietata; nessun nome di fornitore o modello; «tenant» solo dentro messaggi ed etichette citati e nei riquadri DEV; quattro contro-obiezioni; aggiunto il sottotitolo «Chi vede il pulsante» nella sezione 1 per rispettare il limite di 5 paragrafi consecutivi; sostituite due frasi generiche («aggiunta di intelligenza», «Doppia barriera») con l'affermazione esatta. -->

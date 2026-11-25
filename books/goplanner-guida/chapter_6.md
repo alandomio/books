@@ -64,7 +64,7 @@ Gli esiti che l'operatore può scegliere in GOPlanner 3, e lo stato che ciascuno
 | Utente assente | 99 Utente assente | sì |
 | Da finire (solo dove la commessa lo prevede) | resta 3 Assegnato | no |
 
-Solo «Eseguito» è un esito positivo. Come l'operatore registra esito, foto e firma dal telefono è il tema del capitolo 8, *L'app*; qui interessa ciò che arriva in ufficio.
+Solo «Eseguito» è un esito positivo. Come l'operatore registra esito, foto e firma dal telefono è il tema del capitolo 8, *Gli operatori e l'app GOPlanner 3*; qui interessa ciò che arriva in ufficio.
 
 Da questa separazione discendono tre conseguenze pratiche. La prima: l'esportazione parte dalle esecuzioni, quindi un intervento senza esecuzione non entra nel file (vedi il capitolo 7, *Esportazione*). La seconda: le foto appartengono all'intervento eseguito, e se l'ufficio apre un altro intervento della stessa utenza vede «Nessuna foto per questo intervento» senza che nulla sia andato perso. La terza: su una commessa con interventi multipli l'utenza può leggere ancora «assegnato» dopo una chiusura, perché il suo stato copia quello dell'ultimo intervento toccato. Il lavoro non è andato perso (vedi il capitolo 3).
 
@@ -325,8 +325,3 @@ Prima di qualunque azione su un intervento servono due risposte: in che stato si
 - Jira: GOP-782 — esito «Da finire»
 - Jira: GOP-319 — stati Annullato e Prenotato
 - Jira: GOP-807 — volumi di verifica di una commessa
-
-<!-- WORD COUNT: ~5900 -->
-<!-- PERSONA CHECK: Pass — voce da Engineer + Scholar: etichette esatte, codici di stato, messaggi verbatim, un caso per punto, Limite in ogni sezione; rimossi i pochi tratti generici («va misurato con onestà», «quasi sempre» senza fonte, la supposizione sulla cella vuota dello stato 99). -->
-<!-- NUF CHECK: ✅ stati 1–10 e 99 con chi li scrive | ✅ intervento vs esecuzione + diagnosi «non vedo l'esito» | ✅ Modifica e salto silenzioso | ✅ scelta fra Modifica/Annulla/Elimina/Ripianifica, «Intervento non cancellato perché già chiuso» | ✅ Ripianifica + regola «Cancella precedente» | ✅ Verifica, filtri, «Verificato» = Controllato (6), file di ritorno | ✅ Analisi AI, Esito AI, Approva/Rimanda | ✅ che cosa si conserva e che cosa si perde per ogni pulsante | ✅ quando chiedere allo staff tecnico | ✅ fatti con fonte (costanti, STATI_CHIUSI, contratto AI, limiti impostazioni) -->
-<!-- ANTI-AI CHECK: nessuna frase vietata; aggiunte le righe di pubblico in corsivo alle sezioni per il back office; paragrafo «In questo capitolo» interamente in corsivo; «tenant» solo nei riquadri DEV con la corrispondenza dichiarata; chiusura riscritta senza domande in serie; quattro contro-obiezioni; nessun dato personale né nome di modello AI. Nota: il Limite di § 2 non dice che non esiste un modo di ricreare un'esecuzione persa sul telefono (la bozza dice invece che «Verificato» crea la riga per gli «Interventi mancanti»): lasciato com'è, perché la sostanza non va cambiata. -->

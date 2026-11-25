@@ -291,9 +291,3 @@ Davanti a un «non vedo» la mossa più rapida è un profilo più alto, e spesso
 - Jira: GOP-668 — scheda utente con accessi e permessi effettivi
 - Jira: GOP-847 — voce «Accessi alle commesse» rimossa dal menu
 - Jira: GOP-855 — profilo Magazziniere e postazione del back office
-
-<!-- WORD COUNT: ~6123 (body, Fonti excluded); ~6333 with Fonti (after Reviewer corrections) -->
-<!-- PERSONA CHECK: Pass — exact labels, numbers with dates and sources, a Limite in every section, no authorial "noi"/"io"; the draft already held the Engineer + Scholar voice, refinement limited to wording -->
-<!-- NUF CHECK: 1 persona/accesso/organizzazione + Elenco columns ✅; 2 eight profiles table + cliente vs commessa ✅; 3 invite, 72 ore, Reinvia, no duplicate ✅; 4 Accessi, Applica a più commesse, Aggiungi commessa, Disattiva/Riattiva, Reimposta password, Storico ✅; 5 lotti rule, first/last, deletion without confirmation ✅ (⚠️ labels «Tutti i lotti»/«Limitato» from the NUF not used: not in the draft, not invented); 6 ambito table, operatori rule, two commesse ✅; 7 ordered check with person state as step 0 ✅ (order: persona first, then the four levels); 8 non oltre il proprio, last Amministratore cliente, impersonation recorded, Storico ✅; 9 Quando chiedere allo staff tecnico box ✅ (json_admin.php named only in DEV box); 10 factual sources in DEV boxes and Fonti ✅ -->
-<!-- ANTI-AI CHECK: «gestire» jolly replaced (remaining occurrences are verbatim task labels); «L'azione più potente» changed to «con più conseguenze»; angle-bracket placeholders replaced with italics so they do not render as HTML; «In questo capitolo» paragraph fully italic; «tenant» and «super-admin» only inside quoted UI messages with the correspondence stated; UI messages without accents («e gia assegnata», «vedra'») kept verbatim from the code; 5 counter-objections; no banned closing -->
-

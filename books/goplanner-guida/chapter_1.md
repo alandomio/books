@@ -274,8 +274,3 @@ Quando qualcosa non torna, l'ordine è questo: prima la parola del glossario, po
 - Jira: GOP-536 — Gea propone solo da un runbook
 - Jira: GOP-782 — rapportino rinominato «Da finire»
 - Jira: GOP-820 — attività dell'utente lette da Gea
-
-<!-- WORD COUNT: ~5690 (dopo la revisione del 25/11/2026) -->
-<!-- PERSONA CHECK: Pass — voce da The Engineer + The Scholar: nomi esatti di menu, tabelle e costanti, ogni regola con la fonte, «in alcune commesse» dove serve, nessun aggettivo di marketing né «noi» autoriale. -->
-<!-- NUF CHECK: reader-1 ✅ (tabella delle parole estesa a intervento, esito, stato; utente e operatore nella tabella delle persone) | reader-2 ✅ | reader-3 ✅ | reader-4 ✅ | emotional-1 ✅ | emotional-2 ✅ | factual-1 ✅ | factual-2 ✅ | factual-3 ✅ | factual-4 ✅ -->
-<!-- ANTI-AI CHECK: nessuna frase vietata; tolto «con un cliente» dalla tabella dei sintomi (parola vietata, condizione del runbook non traducibile senza inventare); paragrafo introduttivo reso tutto in corsivo; tutte le sezioni hanno un dettaglio esatto e un paragrafo Limite; quattro contro-obiezioni; nessun dato personale, credenziale o nome di committente. -->
