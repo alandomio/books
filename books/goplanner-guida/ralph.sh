@@ -698,7 +698,7 @@ If you cannot find a fact, mark it [UNVERIFIED: description] — never guess.
 
 SOURCE OVERRIDE (this book): the sources are the ones listed in INSTRUCTION.md under THE RESEARCHER,
 in that priority order: GOPlanner code at ${GOPLANNER_DIR} (read only, branch php8), its wiki/ and docs/,
-the Portolano via the rag_qdrant_server MCP (user_roles goplanner), Jira GOP via the Atlassian MCP (read only).
+the Portolano via the rag_qdrant_server MCP (user_roles EMPTY string, see INSTRUCTION.md), Jira GOP via the Atlassian MCP (read only).
 Wherever the protocol below says web search, Wikipedia or sensory details, use those sources and the
 concrete-detail meaning given in INSTRUCTION.md. Apply the security filter of INSTRUCTION.md before writing.
 
